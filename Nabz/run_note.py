@@ -23,7 +23,7 @@ FIELDS = ["source", "model_tag", "speaker", "clip", "type", "input_chars", "wall
           "gen_tokens", "prompt_ms", "gen_ms", "json_parsed", "server_rss_mb"]
 
 
-def post(url, payload, timeout=600):
+def post(url, payload, timeout=900):
     req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"),
                                  headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -51,6 +51,7 @@ def main():
     ap.add_argument("--include-visits", action="store_true")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--timeout", type=int, default=900, help="seconds to wait for one note (raise on slow CPUs)")
     args = ap.parse_args()
 
     url = cfg["server_url"].rstrip("/")
@@ -94,9 +95,12 @@ def main():
         }
         t0 = time.perf_counter()
         try:
-            resp = post(url + "/v1/chat/completions", payload)
+            resp = post(url + "/v1/chat/completions", payload, timeout=args.timeout)
         except urllib.error.HTTPError as e:
             print(f"{c['speaker']}/{c['clip']}: server error {e.code}: {e.read()[:300]!r}")
+            continue
+        except (TimeoutError, OSError) as e:
+            print(f"{c['speaker']}/{c['clip']}: no answer within {args.timeout}s ({e}); skipped")
             continue
         wall = time.perf_counter() - t0
         content = resp["choices"][0]["message"].get("content") or ""

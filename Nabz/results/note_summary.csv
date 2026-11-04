@@ -1,0 +1,3 @@
+run,notes,schema_valid,wall_median_s,wall_p90_s,server_ram_mb,med_recall,strength_recall,extra_meds,avoid_violations,neg_recall,neg_flips,within_budget
+avx2_small-q8_ur_t2__gemma4-e2b,39,100%,50.5,67.4,4664,12%,0%,5,1,36%,29,no
+ref__gemma4-e2b,39,100%,57.8,75.7,4225,68%,57%,0,0,64%,24,no
