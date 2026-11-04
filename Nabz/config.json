@@ -1,0 +1,30 @@
+{
+  "whisper": {
+    "builds": {
+      "avx2": "whisper.cpp/build/bin/whisper-cli",
+      "noavx2": "whisper.cpp/build-noavx2/bin/whisper-cli",
+      "gpu": "whisper.cpp/build-gpu/bin/whisper-cli"
+    },
+    "models": {
+      "base-q8": "whisper.cpp/models/ggml-base-q8_0.bin",
+      "small-q8": "whisper.cpp/models/ggml-small-q8_0.bin",
+      "turbo-q8": "whisper.cpp/models/ggml-large-v3-turbo-q8_0.bin"
+    },
+    "grid": {
+      "builds": ["avx2"],
+      "models": ["base-q8", "small-q8"],
+      "langs": ["ur", "auto", "en"],
+      "threads": [4]
+    },
+    "extra_args": []
+  },
+  "llm": {
+    "server_url": "http://127.0.0.1:8080",
+    "max_tokens": 800,
+    "temperature": 0
+  },
+  "budgets": {
+    "asr_seconds_per_dictation_p90": 30,
+    "note_seconds_p90": 30
+  }
+}
