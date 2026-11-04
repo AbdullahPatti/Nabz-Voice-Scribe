@@ -1,0 +1,35 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["patient", "complaints", "negatives", "findings", "allergies", "medications", "drugs_to_avoid", "investigations_ordered", "advice", "follow_up"],
+  "properties": {
+    "patient": {
+      "type": "object", "additionalProperties": false, "required": ["sex", "age_years"],
+      "properties": {
+        "sex": {"type": "string", "enum": ["male", "female", "unknown"]},
+        "age_years": {"type": ["integer", "null"]}
+      }
+    },
+    "complaints": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false, "required": ["symptom", "duration"],
+      "properties": {"symptom": {"type": "string"}, "duration": {"type": ["string", "null"]}}}},
+    "negatives": {"type": "array", "items": {"type": "string"}},
+    "findings": {"type": "array", "items": {"type": "string"}},
+    "allergies": {"type": "array", "items": {"type": "string"}},
+    "medications": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["name", "strength", "dose", "frequency", "duration", "instructions"],
+      "properties": {
+        "name": {"type": "string"},
+        "strength": {"type": ["string", "null"]},
+        "dose": {"type": ["string", "null"]},
+        "frequency": {"type": ["string", "null"]},
+        "duration": {"type": ["string", "null"]},
+        "instructions": {"type": ["string", "null"]}
+      }}},
+    "drugs_to_avoid": {"type": "array", "items": {"type": "string"}},
+    "investigations_ordered": {"type": "array", "items": {"type": "string"}},
+    "advice": {"type": "array", "items": {"type": "string"}},
+    "follow_up": {"type": ["string", "null"]}
+  }
+}
