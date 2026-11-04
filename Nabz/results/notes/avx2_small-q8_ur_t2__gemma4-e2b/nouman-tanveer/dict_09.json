@@ -1,0 +1,51 @@
+{
+  "transcript": "مرد بائیسہ رات کو سانچ کی تقریف اور سینے سے سیٹی کی آتی ہے گبراد ہوندی یہ بخار نہیں ویلنٹولی انہلر ضرورت پر دو پف دین میں چار دفاسے زیادہ نہیں رات کو رٹک ایک گولی دول اور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"night sweats\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"chest tightness\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"not present\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"no specific findings mentioned\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"two puffs of Ventolin on demand\",\n    \"one tablet of Ritalin at night and two doses\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "night sweats",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      },
+      {
+        "symptom": "fever",
+        "duration": "not present"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "no specific findings mentioned"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "two puffs of Ventolin on demand",
+      "one tablet of Ritalin at night and two doses"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 76,
+    "prompt_ms": 1287.223,
+    "prompt_per_token_ms": 16.937144736842104,
+    "prompt_per_second": 59.041828805109915,
+    "predicted_n": 246,
+    "predicted_ms": 42338.943,
+    "predicted_per_token_ms": 172.81201224489794,
+    "predicted_per_second": 5.786634777349071
+  }
+}

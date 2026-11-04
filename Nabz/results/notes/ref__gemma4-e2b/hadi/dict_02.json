@@ -1,0 +1,72 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"body ache\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain behind eyes\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"bleeding\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever (implied by context, but explicitly stated symptoms are present)\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"platelets 95 thousand\"\n  ],\n  \"allergies\": [\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2 tablets, 3 times a day\",\n      \"dose\": \"as directed\",\n      \"frequency\": \"3 times a day\",\n      \"duration\": \"2 days\",\n      \"instructions\": \"take as directed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test (repeat)\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": \"repeat blood test tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body ache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "bleeding",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no fever (implied by context, but explicitly stated symptoms are present)",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "platelets 95 thousand"
+    ],
+    "allergies": [
+      "Brufen",
+      "Disprin"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2 tablets, 3 times a day",
+        "dose": "as directed",
+        "frequency": "3 times a day",
+        "duration": "2 days",
+        "instructions": "take as directed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "blood test (repeat)"
+    ],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "repeat blood test tomorrow"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 104,
+    "prompt_ms": 1439.446,
+    "prompt_per_token_ms": 13.840826923076921,
+    "prompt_per_second": 72.25001840986047,
+    "predicted_n": 395,
+    "predicted_ms": 65527.835,
+    "predicted_per_token_ms": 166.31430203045684,
+    "predicted_per_second": 6.012712002464297
+  }
+}

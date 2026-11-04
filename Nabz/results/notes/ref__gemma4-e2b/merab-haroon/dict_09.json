@@ -1,0 +1,71 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"shortness of breath at night\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"chest tightness\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"anxiety\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"Ventolin inhaler, 2 puffs as needed\",\n    \"Zyrtec 1 tablet at night\"\n  ],\n  \"allergies\": [\n    \"dust and smoke\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": \"2 puffs as needed\",\n      \"dose\": \"as needed\",\n      \"frequency\": \"night\",\n      \"duration\": \"as needed\",\n      \"instructions\": \"2 puffs as needed\"\n    },\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"1 tablet\",\n      \"dose\": \"at night\",\n      \"frequency\": \"night\",\n      \"duration\": \"as needed\",\n      \"instructions\": \"one tablet at night\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"dust and smoke\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid dust and smoke\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath at night",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      },
+      {
+        "symptom": "anxiety",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "Ventolin inhaler, 2 puffs as needed",
+      "Zyrtec 1 tablet at night"
+    ],
+    "allergies": [
+      "dust and smoke"
+    ],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "2 puffs as needed",
+        "dose": "as needed",
+        "frequency": "night",
+        "duration": "as needed",
+        "instructions": "2 puffs as needed"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": "1 tablet",
+        "dose": "at night",
+        "frequency": "night",
+        "duration": "as needed",
+        "instructions": "one tablet at night"
+      }
+    ],
+    "drugs_to_avoid": [
+      "dust and smoke"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid dust and smoke"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 319,
+    "prompt_n": 5,
+    "prompt_ms": 264.107,
+    "prompt_per_token_ms": 52.821400000000004,
+    "prompt_per_second": 18.931720855562325,
+    "predicted_n": 390,
+    "predicted_ms": 66053.533,
+    "predicted_per_token_ms": 169.8034267352185,
+    "predicted_per_second": 5.889162658415258
+  }
+}

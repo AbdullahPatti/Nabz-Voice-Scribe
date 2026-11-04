@@ -1,0 +1,46 @@
+{
+  "transcript": "Man 35 years, sore throat aur fever for two days. Khansi nahi hai aur koi saans ka masla nahi hai. Panadol jab bhi fever ho. Warm salt water ke din mein teen baar gharare karein. Agar theek nahi hota to teen dinon mein wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"two days\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"two days\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"breathing problem\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Panadol whenever fever occurs.\",\n    \"Do warm salt water gargles three times a day at home.\",\n    \"Return if not better within three days.\"\n  ],\n  \"follow_up\": \"Return in three days if not better\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "sore throat",
+        "duration": "two days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "two days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "breathing problem"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Panadol whenever fever occurs.",
+      "Do warm salt water gargles three times a day at home.",
+      "Return if not better within three days."
+    ],
+    "follow_up": "Return in three days if not better"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 75,
+    "prompt_ms": 1151.516,
+    "prompt_per_token_ms": 15.353546666666668,
+    "prompt_per_second": 65.13153095571403,
+    "predicted_n": 224,
+    "predicted_ms": 36976.442,
+    "predicted_per_token_ms": 165.8136412556054,
+    "predicted_per_second": 6.0308668962795275
+  }
+}

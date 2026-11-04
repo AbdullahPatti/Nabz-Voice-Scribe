@@ -1,0 +1,5 @@
+# Reference transcript for own_01.wav (Knee pain)
+# Lines starting with # are ignored. Write what was actually said, in Roman Urdu.
+# Facts shown to the speaker: Woman, 60 years; Knee pain for 2 months, worse on stairs; No swelling, no fever; Panadol 2 tablets twice a day; Light exercise daily; Come back in 1 month
+# DRAFT: written by Claude from the fact card plus the small/turbo transcripts. Listen once and correct.
+Aurat sixty years, do mahine se knee pain, seerhiyon pe zyada buri. No swelling, no fever. Din mein Panadol ke do tablet. Halki exercise daily, aur ek mahine baad wapas aayein.

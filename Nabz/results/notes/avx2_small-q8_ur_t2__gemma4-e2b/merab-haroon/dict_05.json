@@ -1,0 +1,53 @@
+{
+  "transcript": "مرد 50 سال شوگر کا پرانا مریز نیحارمون شوگر 188 اور کھانے کے بعد 260 پہلے گلائیکو فیش 500 دن میں 500 دن میں دو بار لے رہا ہے اب گلائیکو فیش 1000 دن میں دو بار کھانے کے ساتھ\nشوگر کیس کروانا ہے پیروم میں سن ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"long-standing diabetes\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"fasting sugar 188\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"post-meal sugar 260\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"fasting sugar 188\",\n    \"post-meal sugar 260\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"sugar check\"\n  ],\n  \"advice\": [\n    \"no need to go to pneumonia\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "long-standing diabetes",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "fasting sugar 188",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "post-meal sugar 260",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "fasting sugar 188",
+      "post-meal sugar 260"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "sugar check"
+    ],
+    "advice": [
+      "no need to go to pneumonia"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 101,
+    "prompt_ms": 1482.648,
+    "prompt_per_token_ms": 14.679683168316831,
+    "prompt_per_second": 68.1213612401595,
+    "predicted_n": 263,
+    "predicted_ms": 45440.169,
+    "predicted_per_token_ms": 173.43575954198474,
+    "predicted_per_second": 5.76582362622815
+  }
+}

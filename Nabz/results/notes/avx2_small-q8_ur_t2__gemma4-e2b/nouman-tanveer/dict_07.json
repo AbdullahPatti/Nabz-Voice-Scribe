@@ -1,0 +1,61 @@
+{
+  "transcript": "مرد 45 سال ایک افتے سے کانسی پیلا بلگم اور حلکہ بخار سانس نہیں پھولتا سیننگ کی دانی طرف اواز آر ہی ہے اوثر میٹن چیسو پنجی دن میں دو بار پانچ دن کانسی کا سیرب دو چمچ دن میں تین بار سیگرٹ بھنٹ کرنی ہے چشٹ ایک سرے کروالے\nبھائی",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"yellowish urine\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"shortness of breath\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"hoarseness\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"throat examination: hoarseness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"cigarette\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take syrup twice a day for yellow urine for five days\",\n    \"smoke a cigarette three times a day\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "yellowish urine",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "hoarseness",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "throat examination: hoarseness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "cigarette"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "take syrup twice a day for yellow urine for five days",
+      "smoke a cigarette three times a day"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 97,
+    "prompt_ms": 1499.003,
+    "prompt_per_token_ms": 15.453639175257731,
+    "prompt_per_second": 64.70967703200061,
+    "predicted_n": 304,
+    "predicted_ms": 53413.804,
+    "predicted_per_token_ms": 176.2831815181518,
+    "predicted_per_second": 5.672690902149565
+  }
+}

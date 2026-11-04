@@ -1,0 +1,48 @@
+{
+  "transcript": "اورت 45 سال شام کا طائم ہیٹیک اک ہفتے سے بیپی 140 over 90 آئیسرٹ میں کوئی مسئلہ نہیں اور نو اولٹی پیناڈال جب ضرورت پڑے اور نمک کام کھائیں بیپی ایک ہفتے بعد پھر چیک کروائے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"night sweats\",\n      \"duration\": \"one week\"\n    },\n    {\n      \"symptom\": \"BP 140 over 90\",\n      \"duration\": \"one week\"\n    }\n  ],\n  \"negatives\": [\n    \"no issues with ice cream\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140 over 90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check after one week\"\n  ],\n  \"advice\": [\n    \"eat salt\"\n  ],\n  \"follow_up\": \"check BP after one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "night sweats",
+        "duration": "one week"
+      },
+      {
+        "symptom": "BP 140 over 90",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "no issues with ice cream",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140 over 90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check after one week"
+    ],
+    "advice": [
+      "eat salt"
+    ],
+    "follow_up": "check BP after one week"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 73,
+    "prompt_ms": 1070.167,
+    "prompt_per_token_ms": 14.659821917808218,
+    "prompt_per_second": 68.21365263552325,
+    "predicted_n": 232,
+    "predicted_ms": 39610.695,
+    "predicted_per_token_ms": 171.47487012987014,
+    "predicted_per_second": 5.831758316787928
+  }
+}

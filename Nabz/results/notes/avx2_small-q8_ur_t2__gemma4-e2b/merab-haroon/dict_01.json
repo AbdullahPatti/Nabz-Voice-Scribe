@@ -1,0 +1,74 @@
+{
+  "transcript": "ٹائفورد مرد ٹائی سار ٹائی دن سے ٹیز بحار ہے سر در در کمزوری بھی ہے کہندائی راتوں کو بہت ٹھنڈلگ دیئے اولٹی نہیں ہے دست بھی نہیں ہے ٹائفورد کا ٹس پوزگی بایا ہے ازو میکس ٹائی بھنڈ روزانہ ایک گولی ساتھ دن پنڈرڈول دو گولی دن میں ٹین بار جب بحاروں ٹین دن بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"testicular pain\",\n      \"duration\": \"one day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"since yesterday\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"some\"\n    },\n    {\n      \"symptom\": \"cold nights\",\n      \"duration\": \"many nights\"\n    }\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\",\n    \"hand pain\"\n  ],\n  \"findings\": [\n    \"testicular swelling\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"IsoMax\",\n      \"strength\": \"one tablet daily\",\n      \"dose\": \"one tablet daily\",\n      \"frequency\": \"daily\",\n      \"duration\": null,\n      \"instructions\": null\n    },\n    {\n      \"name\": \"Pantopridol\",\n      \"strength\": \"two tablets daily\",\n      \"dose\": \"two tablets daily\",\n      \"frequency\": \"daily\",\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take one tablet of IsoMax daily.\",\n    \"Take two tablets of Pantopridol daily.\",\n    \"If symptoms return after ten days, come back.\"\n  ],\n  \"follow_up\": \"after ten days if symptoms return\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "testicular pain",
+        "duration": "one day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "since yesterday"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "some"
+      },
+      {
+        "symptom": "cold nights",
+        "duration": "many nights"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea",
+      "hand pain"
+    ],
+    "findings": [
+      "testicular swelling"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "IsoMax",
+        "strength": "one tablet daily",
+        "dose": "one tablet daily",
+        "frequency": "daily",
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "Pantopridol",
+        "strength": "two tablets daily",
+        "dose": "two tablets daily",
+        "frequency": "daily",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take one tablet of IsoMax daily.",
+      "Take two tablets of Pantopridol daily.",
+      "If symptoms return after ten days, come back."
+    ],
+    "follow_up": "after ten days if symptoms return"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 107,
+    "prompt_ms": 1483.582,
+    "prompt_per_token_ms": 13.865252336448599,
+    "prompt_per_second": 72.12274077199642,
+    "predicted_n": 414,
+    "predicted_ms": 71417.896,
+    "predicted_per_token_ms": 172.9246876513317,
+    "predicted_per_second": 5.782864283764395
+  }
+}

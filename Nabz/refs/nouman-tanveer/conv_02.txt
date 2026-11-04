@@ -1,0 +1,3 @@
+# Reference transcript for conv_02.wav (Diabetic who stopped his medicine)
+# Lines starting with # are ignored. Write what was actually said, in Roman Urdu.
+# TODO listen and type what was said (rough is fine for visits), then delete this line.

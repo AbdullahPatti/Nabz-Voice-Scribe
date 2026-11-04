@@ -1,0 +1,39 @@
+{
+  "transcript": "امام 35 سال میں ایسا دیکھتا ہوں اور ایسا سال میں دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"No specific complaint mentioned\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"No specific negatives mentioned\"\n  ],\n  \"findings\": [\n    \"No specific findings mentioned\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "No specific complaint mentioned",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "No specific negatives mentioned"
+    ],
+    "findings": [
+      "No specific findings mentioned"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 70,
+    "prompt_ms": 1060.636,
+    "prompt_per_token_ms": 15.151942857142856,
+    "prompt_per_second": 65.99813696687647,
+    "predicted_n": 159,
+    "predicted_ms": 27733.205,
+    "predicted_per_token_ms": 175.52661392405065,
+    "predicted_per_second": 5.6971417475910195
+  }
+}

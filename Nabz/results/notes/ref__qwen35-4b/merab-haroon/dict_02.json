@@ -1,0 +1,65 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"body pain\",\"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no bleeding\",\n    \"no aspirin\",\n    \"no ibuprofen\"\n  ],\n  \"findings\": [\n    \"platelets 95,000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"3 times daily\",\"dose\": \"3 times daily\",\"frequency\": \"3 times daily\",\"duration\": \"2 days\",\"instructions\": \"take 2 pills 3 times daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\"follow_up\": \"tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no bleeding",
+      "no aspirin",
+      "no ibuprofen"
+    ],
+    "findings": [
+      "platelets 95,000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "3 times daily",
+        "dose": "3 times daily",
+        "frequency": "3 times daily",
+        "duration": "2 days",
+        "instructions": "take 2 pills 3 times daily"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "blood test"
+    ],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "tomorrow"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 114,
+    "prompt_ms": 6115.7,
+    "prompt_per_token_ms": 53.646491228070175,
+    "prompt_per_second": 18.6405480975195,
+    "predicted_n": 317,
+    "predicted_ms": 90293.839,
+    "predicted_per_token_ms": 285.73999683544304,
+    "predicted_per_second": 3.4996850671062947
+  }
+}

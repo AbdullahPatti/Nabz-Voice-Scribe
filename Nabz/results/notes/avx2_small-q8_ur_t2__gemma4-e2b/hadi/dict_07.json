@@ -1,0 +1,58 @@
+{
+  "transcript": "مرد 45 سال 1 ہفتے سے خواہنسی پیلا بلگو مرحل کا بہار سان سے ہی پھولتا سینے کے دائی طرح پواد آرہی ہے اگر میں انڈن چیسو پچھس دن میں دو بار پانچ دن خواہنسی کا صرف دو چمجھ دن میں تین بار سیگرٹ بند کرنی ہے چیسٹ ٹیکسٹرے کروالیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"desire\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"yellowish discharge\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"bloating\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"as if a flower is blooming in the chest\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"chest pain described as 'flower blooming in the chest'\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"cigarette\"\n  ],\n  \"investigations_ordered\": [\n    \"Indane Chisso 5 days twice a day\"\n  ],\n  \"advice\": [\n    \"Quit smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "desire",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellowish discharge",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "bloating",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "as if a flower is blooming in the chest"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "chest pain described as 'flower blooming in the chest'"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "cigarette"
+    ],
+    "investigations_ordered": [
+      "Indane Chisso 5 days twice a day"
+    ],
+    "advice": [
+      "Quit smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 97,
+    "prompt_ms": 1339.089,
+    "prompt_per_token_ms": 13.805041237113402,
+    "prompt_per_second": 72.43730625820987,
+    "predicted_n": 289,
+    "predicted_ms": 48844.649,
+    "predicted_per_token_ms": 169.59947569444444,
+    "predicted_per_second": 5.896244642888108
+  }
+}

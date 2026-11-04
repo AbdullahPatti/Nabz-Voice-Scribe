@@ -1,0 +1,5 @@
+# Reference transcript for own_02.wav (Sore throat)
+# Lines starting with # are ignored. Write what was actually said, in Roman Urdu.
+# Facts shown to the speaker: Man, 35 years; Sore throat and fever for 2 days; No cough, no breathing problem; Panadol when there is fever; Warm salt-water gargles 3 times a day; Come back if not better in 3 days
+# DRAFT: written by Claude from the fact card plus the small/turbo transcripts. Listen once and correct.
+Man 35 years, sore throat and fever for two days. No cough, no breathing problem. Panadol when there is fever. Warm salt water gargles three times a day. Come back if not better in three days.

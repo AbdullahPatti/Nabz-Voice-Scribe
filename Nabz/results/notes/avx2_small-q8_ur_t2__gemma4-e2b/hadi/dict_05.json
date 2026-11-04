@@ -1,0 +1,56 @@
+{
+  "transcript": "مرت 50 سار شگر کا پرانہ مریز نحار موش شگر 180 اور کھانےگا بعد 260 پہلے گلوکو فیج 500 دن میں دو بار لے رہا تھا بلوکو فیج ہزار دن میں دو بار کھانےگا تھا تین مہینے والا شگر ٹیست کروان ہے پیرو میں سون ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diabetes\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"blood sugar 180\",\n    \"post-meal blood sugar 260\"\n  ],\n  \"allergies\": [\n    \"None mentioned\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"500\",\n      \"dose\": \"twice a day\",\n      \"frequency\": \"every 3 months\",\n      \"duration\": \"3 months\",\n      \"instructions\": \"take twice a day\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"diabetes test\"\n  ],\n  \"advice\": [\n    \"no need to urine test\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "blood sugar 180",
+      "post-meal blood sugar 260"
+    ],
+    "allergies": [
+      "None mentioned"
+    ],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice a day",
+        "frequency": "every 3 months",
+        "duration": "3 months",
+        "instructions": "take twice a day"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "diabetes test"
+    ],
+    "advice": [
+      "no need to urine test"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 90,
+    "prompt_ms": 1201.305,
+    "prompt_per_token_ms": 13.347833333333334,
+    "prompt_per_second": 74.91852610286313,
+    "predicted_n": 279,
+    "predicted_ms": 49317.403,
+    "predicted_per_token_ms": 177.40073021582734,
+    "predicted_per_second": 5.636955376583799
+  }
+}

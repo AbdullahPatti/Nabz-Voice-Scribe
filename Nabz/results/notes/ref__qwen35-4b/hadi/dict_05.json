@@ -1,0 +1,47 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no joint pain in feet\"\n  ],\n  \"findings\": [\n    \"history of diabetes mellitus\",\n    \"fasting blood sugar 180 mg/dL\",\n    \"postprandial blood sugar 260 mg/dL\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"1000\",\n      \"dose\": \"twice daily with meals\",\"frequency\": \"twice daily\",\"duration\": \"3 months\",\"instructions\": \"test blood sugar\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood sugar test for 3 months\"\n  ],\n  \"advice\": [],\"follow_up\": \"3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [],
+    "negatives": [
+      "no joint pain in feet"
+    ],
+    "findings": [
+      "history of diabetes mellitus",
+      "fasting blood sugar 180 mg/dL",
+      "postprandial blood sugar 260 mg/dL"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "twice daily with meals",
+        "frequency": "twice daily",
+        "duration": "3 months",
+        "instructions": "test blood sugar"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood sugar test for 3 months"
+    ],
+    "advice": [],
+    "follow_up": "3 months"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 7264.93,
+    "prompt_per_token_ms": 64.86544642857143,
+    "prompt_per_second": 15.416528445559695,
+    "predicted_n": 241,
+    "predicted_ms": 77713.839,
+    "predicted_per_token_ms": 323.80766250000005,
+    "predicted_per_second": 3.088253045895725
+  }
+}

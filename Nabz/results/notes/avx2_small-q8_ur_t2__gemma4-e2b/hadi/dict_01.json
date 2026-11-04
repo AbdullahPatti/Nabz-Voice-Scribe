@@ -1,0 +1,62 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پانچن سے تیز بخار ہے سردتر کمزوری بھی ہے کہ اندائی راتنو بہت ڈھان لگ دی ہے اولٹی نہیں ہے دست بھی نہیں ٹائی فیٹ کو ٹائی فیٹ پولٹی بایا ہے ازم ایک سبان سرزان ایک گولی ساتھ دن پر اندال دو گولی دن میں تین بار جب بخار ہو تین دن بعد بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high fever\",\n      \"duration\": \"since 5 days\"\n    },\n    {\n      \"symptom\": \"cold\",\n      \"duration\": \"present\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"present\"\n    },\n    {\n      \"symptom\": \"constipation\",\n      \"duration\": \"severe\"\n    }\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\",\n    \"pain\"\n  ],\n  \"findings\": [\n    \"fever recurrence after 3 days\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Saban\",\n      \"strength\": \"1 tablet\",\n      \"dose\": \"2 tablets, 3 times a day when fever occurs, and 2 tablets the next day\",\n      \"frequency\": \"as per doctor's instruction\",\n      \"duration\": \"as per doctor's instruction\",\n      \"instructions\": \"Take 2 tablets daily. When fever occurs, take 3 times a day. After 3 days, if fever returns, take 2 tablets.\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "high fever",
+        "duration": "since 5 days"
+      },
+      {
+        "symptom": "cold",
+        "duration": "present"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "present"
+      },
+      {
+        "symptom": "constipation",
+        "duration": "severe"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea",
+      "pain"
+    ],
+    "findings": [
+      "fever recurrence after 3 days"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Saban",
+        "strength": "1 tablet",
+        "dose": "2 tablets, 3 times a day when fever occurs, and 2 tablets the next day",
+        "frequency": "as per doctor's instruction",
+        "duration": "as per doctor's instruction",
+        "instructions": "Take 2 tablets daily. When fever occurs, take 3 times a day. After 3 days, if fever returns, take 2 tablets."
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 96,
+    "prompt_ms": 1476.488,
+    "prompt_per_token_ms": 15.380083333333333,
+    "prompt_per_second": 65.01915355898592,
+    "predicted_n": 368,
+    "predicted_ms": 63920.225,
+    "predicted_per_token_ms": 174.16955040871935,
+    "predicted_per_second": 5.7415317295895
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "transcript": "ہا تو ان تیس ساتھ پیٹ کے اوپر جلال ہوتی ہے کھانے کے بعد جادا کہ ان دیے کھٹڑی کار ہوں دے لے اولٹی نہیں وزن کم نہیں ہوا رائزک پیٹ سبھا حالی پیٹ دو ہفتے رات کو گیبس کو ان کے دو چمچ شایر میرچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Jaundice above the stomach after eating\",\n      \"duration\": \"two weeks\"\n    },\n    {\n      \"symptom\": \"Sour taste in food\",\n      \"duration\": \"two weeks\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"two weeks\"\n    },\n    {\n      \"symptom\": \"Weight loss\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"No vomiting\",\n    \"No fever\"\n  ],\n  \"findings\": [\n    \"Abdomen is tender\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Chai Mirch 2 teaspoons\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Reduce Chai Mirch to 2 teaspoons\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "Jaundice above the stomach after eating",
+        "duration": "two weeks"
+      },
+      {
+        "symptom": "Sour taste in food",
+        "duration": "two weeks"
+      },
+      {
+        "symptom": "Nausea",
+        "duration": "two weeks"
+      },
+      {
+        "symptom": "Weight loss",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "No vomiting",
+      "No fever"
+    ],
+    "findings": [
+      "Abdomen is tender"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Chai Mirch 2 teaspoons"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Reduce Chai Mirch to 2 teaspoons"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 77,
+    "prompt_ms": 1127.137,
+    "prompt_per_token_ms": 14.638142857142856,
+    "prompt_per_second": 68.31467692037437,
+    "predicted_n": 274,
+    "predicted_ms": 47738.254,
+    "predicted_per_token_ms": 174.86539926739928,
+    "predicted_per_second": 5.718684223348428
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "transcript": "اورت سکسٹی عیرز تو مہینے سے نہیں پین، سیڈیوں پہ ذاتہ بری، نو سویلنگ، نو فیور، دن میں پیناڈال کے دو تیبلیٹ، حلکی ایک سکسائس دیلی اور ایک مہینے بعد واپس آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"No pain in the uterus for a month\",\n      \"duration\": \"one month\"\n    },\n    {\n      \"symptom\": \"Stomach pain\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"No swelling\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"No fever\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"No fever\"\n  ],\n  \"findings\": [\n    \"No swelling\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Pindadal\",\n      \"strength\": \"two tablets daily\",\n      \"dose\": null,\n      \"frequency\": \"daily\",\n      \"duration\": null,\n      \"instructions\": null\n    },\n    {\n      \"name\": \"Hulki\",\n      \"strength\": \"one capsule daily\",\n      \"dose\": null,\n      \"frequency\": \"daily\",\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Return after one month\"\n  ],\n  \"follow_up\": \"Return after one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "No pain in the uterus for a month",
+        "duration": "one month"
+      },
+      {
+        "symptom": "Stomach pain",
+        "duration": null
+      },
+      {
+        "symptom": "No swelling",
+        "duration": null
+      },
+      {
+        "symptom": "No fever",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "No fever"
+    ],
+    "findings": [
+      "No swelling"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Pindadal",
+        "strength": "two tablets daily",
+        "dose": null,
+        "frequency": "daily",
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "Hulki",
+        "strength": "one capsule daily",
+        "dose": null,
+        "frequency": "daily",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Return after one month"
+    ],
+    "follow_up": "Return after one month"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 74,
+    "prompt_ms": 1029.889,
+    "prompt_per_token_ms": 13.917418918918917,
+    "prompt_per_second": 71.85240351144638,
+    "predicted_n": 360,
+    "predicted_ms": 60545.442,
+    "predicted_per_token_ms": 168.65025626740947,
+    "predicted_per_second": 5.929430658050196
+  }
+}

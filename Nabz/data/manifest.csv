@@ -1,0 +1,50 @@
+speaker,clip,type,optional,wav,duration_s,speaker_note,gender,age_range,home_language,background_noise,device,zip
+hadi,dict_01,dictation,False,data/hadi/dict_01.wav,20.57,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_02,dictation,False,data/hadi/dict_02.wav,18.09,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_03,dictation,False,data/hadi/dict_03.wav,17.32,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_04,dictation,False,data/hadi/dict_04.wav,13.74,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_05,dictation,False,data/hadi/dict_05.wav,17.66,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_06,dictation,False,data/hadi/dict_06.wav,14.42,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_07,dictation,False,data/hadi/dict_07.wav,17.66,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_08,dictation,False,data/hadi/dict_08.wav,13.82,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_09,dictation,False,data/hadi/dict_09.wav,14.25,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,dict_10,dictation,False,data/hadi/dict_10.wav,15.7,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,own_01,free_dictation,False,data/hadi/own_01.wav,12.54,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,own_02,free_dictation,False,data/hadi/own_02.wav,16.04,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+hadi,own_03,free_dictation,False,data/hadi/own_03.wav,14.93,,Male,18-24,,Fan running,,nabz_hadi_20261104.zip
+merab-haroon,dict_01,dictation,False,data/merab-haroon/dict_01.wav,29.7,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_02,dictation,False,data/merab-haroon/dict_02.wav,25.34,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_03,dictation,False,data/merab-haroon/dict_03.wav,30.29,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_04,dictation,False,data/merab-haroon/dict_04.wav,24.15,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_05,dictation,False,data/merab-haroon/dict_05.wav,37.63,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_06,dictation,False,data/merab-haroon/dict_06.wav,19.29,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_07,dictation,False,data/merab-haroon/dict_07.wav,28.59,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_08,dictation,False,data/merab-haroon/dict_08.wav,25.34,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_09,dictation,False,data/merab-haroon/dict_09.wav,24.75,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,dict_10,dictation,False,data/merab-haroon/dict_10.wav,19.2,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,own_01,free_dictation,False,data/merab-haroon/own_01.wav,14.17,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,own_02,free_dictation,False,data/merab-haroon/own_02.wav,16.47,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,own_03,free_dictation,False,data/merab-haroon/own_03.wav,16.73,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,conv_02,conversation,True,data/merab-haroon/conv_02.wav,19.11,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,conv_02_summary,summary,True,data/merab-haroon/conv_02_summary.wav,12.54,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,conv_03,conversation,True,data/merab-haroon/conv_03.wav,17.58,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+merab-haroon,conv_03_summary,summary,True,data/merab-haroon/conv_03_summary.wav,11.86,,Female,18-24,Urdu,Quiet room,Pixel 7,nabz_merab-haroon_20261104.zip
+nouman-tanveer,dict_01,dictation,False,data/nouman-tanveer/dict_01.wav,28.84,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_02,dictation,False,data/nouman-tanveer/dict_02.wav,24.58,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_03,dictation,False,data/nouman-tanveer/dict_03.wav,31.15,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_04,dictation,False,data/nouman-tanveer/dict_04.wav,23.13,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_05,dictation,False,data/nouman-tanveer/dict_05.wav,30.38,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_06,dictation,False,data/nouman-tanveer/dict_06.wav,20.39,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_07,dictation,False,data/nouman-tanveer/dict_07.wav,30.55,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_08,dictation,False,data/nouman-tanveer/dict_08.wav,20.91,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_09,dictation,False,data/nouman-tanveer/dict_09.wav,23.47,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,dict_10,dictation,False,data/nouman-tanveer/dict_10.wav,23.13,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,own_01,free_dictation,False,data/nouman-tanveer/own_01.wav,12.12,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,own_02,free_dictation,False,data/nouman-tanveer/own_02.wav,17.15,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,own_03,free_dictation,False,data/nouman-tanveer/own_03.wav,14.68,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,conv_01,conversation,True,data/nouman-tanveer/conv_01.wav,15.96,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,conv_01_summary,summary,True,data/nouman-tanveer/conv_01_summary.wav,11.61,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,conv_02,conversation,True,data/nouman-tanveer/conv_02.wav,19.97,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,conv_02_summary,summary,True,data/nouman-tanveer/conv_02_summary.wav,18.52,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,conv_03,conversation,True,data/nouman-tanveer/conv_03.wav,17.32,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip
+nouman-tanveer,conv_03_summary,summary,True,data/nouman-tanveer/conv_03_summary.wav,12.71,,Male,18-24,Urdu and Punjabi,Fan running,(removed),nabz_nouman-tanveer_20261104.zip

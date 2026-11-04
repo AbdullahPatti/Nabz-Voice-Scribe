@@ -1,0 +1,58 @@
+{
+  "transcript": "ہاتون پچھپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نورویسک پانچ رات کو ایک گولی شروع کرتی ہے نمک کم کرنا ہے دو ہفتے بعد بیپی دبارہ چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"BP 100/100\",\n      \"duration\": \"today\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"constant\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"not mentioned\"\n    },\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"not mentioned\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no nausea\"\n  ],\n  \"findings\": [\n    \"BP 100/100\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"salt reduction\"\n  ],\n  \"investigations_ordered\": [\n    \"BP check after two weeks\"\n  ],\n  \"advice\": [\n    \"Take one tablet at night\"\n  ],\n  \"follow_up\": \"Check BP after two weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "BP 100/100",
+        "duration": "today"
+      },
+      {
+        "symptom": "headache",
+        "duration": "constant"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "not mentioned"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "not mentioned"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no nausea"
+    ],
+    "findings": [
+      "BP 100/100"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "salt reduction"
+    ],
+    "investigations_ordered": [
+      "BP check after two weeks"
+    ],
+    "advice": [
+      "Take one tablet at night"
+    ],
+    "follow_up": "Check BP after two weeks"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 74,
+    "prompt_ms": 1103.015,
+    "prompt_per_token_ms": 14.90560810810811,
+    "prompt_per_second": 67.08884285345167,
+    "predicted_n": 293,
+    "predicted_ms": 52735.644,
+    "predicted_per_token_ms": 180.6015205479452,
+    "predicted_per_second": 5.537051941567263
+  }
+}

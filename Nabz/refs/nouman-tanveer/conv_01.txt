@@ -1,0 +1,3 @@
+# Reference transcript for conv_01.wav (Fever, scared of dengue)
+# Lines starting with # are ignored. Write what was actually said, in Roman Urdu.
+# TODO listen and type what was said (rough is fine for visits), then delete this line.

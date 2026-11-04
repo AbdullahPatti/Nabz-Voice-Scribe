@@ -1,0 +1,79 @@
+run,speaker,clip,wall_s,schema_valid,med_recall,meds_missed,strength_recall,extra_meds,avoid_violations,neg_recall,neg_flips,flipped,age_ok,sex_ok
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_01,65.41,True,0.0,Azomax Panadol,0.0,1,0,1.0,0,,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_02,53.07,True,0.0,Panadol,,0,0,0.0,1,bleeding,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_03,59.8,True,0.0,ORS Flagyl,0.0,0,0,0.0,0,,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_04,38.53,True,0.0,Norvasc,0.0,0,0,0.5,1,chest pain,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_05,50.53,True,1.0,,0.0,0,0,0.0,0,,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_06,42.22,True,0.0,Risek Gaviscon,0.0,0,0,1.0,1,weight loss,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_07,50.2,True,0.0,Augmentin Cough syrup,0.0,0,0,0.0,0,,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_08,42.5,True,0.0,Cipro,0.0,0,0,0.667,0,,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_09,52.31,True,0.0,Ventolin Zyrtec,,0,0,1.0,0,,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_10,52.98,True,0.0,Zyrtec,,0,0,1.0,4,rash; side effects; fever; cough,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,own_01,61.59,True,1.0,,,1,0,0.5,2,swelling; fever,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,own_02,31.31,True,0.0,Panadol,,0,0,0.5,1,cough,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,hadi,own_03,40.69,True,0.0,Panadol,,0,0,0.5,0,,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_01,72.91,True,0.5,Panadol,0.0,1,0,1.0,0,,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_02,42.79,True,0.0,Panadol,,0,0,0.0,0,,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_03,54.27,True,0.0,ORS Flagyl,0.0,0,0,0.0,0,,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_04,53.85,True,0.0,Norvasc,0.0,0,0,0.0,2,dizziness; chest pain,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_05,46.93,True,0.0,Glucophage,0.0,0,0,0.0,0,,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_06,48.88,True,0.0,Risek Gaviscon,0.0,0,0,0.5,1,weight loss,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_07,69.34,True,0.0,Augmentin Cough syrup,0.0,0,0,0.0,1,breathlessness,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_08,45.48,True,0.0,Cipro,0.0,0,0,0.667,0,,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_09,37.13,True,0.0,Ventolin Zyrtec,,0,0,1.0,0,,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,dict_10,60.14,True,0.0,Zyrtec,,1,1,0.5,2,rash; side effects,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,own_01,33.11,True,0.0,Panadol,,0,0,0.5,1,fever,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,own_02,28.8,True,0.0,Panadol,,0,0,0.0,0,,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,merab-haroon,own_03,45.26,True,0.0,Panadol,,0,0,0.0,0,,True,False
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_01,53.4,True,0.0,Azomax Panadol,0.0,1,0,0.5,0,,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_02,67.62,True,0.0,Panadol,,0,0,0.0,1,bleeding,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_03,67.34,True,0.0,ORS Flagyl,0.0,0,0,0.0,1,blood in stool,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_04,59.6,True,1.0,,0.0,0,0,0.5,1,dizziness,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_05,75.62,True,1.0,,0.0,0,0,0.0,1,numbness,False,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_06,46.82,True,0.0,Risek Gaviscon,0.0,0,0,0.5,1,weight loss,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_07,54.92,True,0.0,Augmentin Cough syrup,0.0,0,0,0.0,1,breathlessness,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_08,51.29,True,0.0,Cipro,0.0,0,0,0.333,2,fever; back pain,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_09,43.64,True,0.0,Ventolin Zyrtec,,0,0,1.0,1,fever,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_10,50.75,True,0.0,Zyrtec,,0,0,0.0,2,fever; cough,True,True
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,own_01,27.04,True,0.0,Panadol,,0,0,0.5,0,,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,own_02,30.04,True,0.0,Panadol,,0,0,0.0,1,cough,False,False
+avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,own_03,27.98,True,0.0,Panadol,,0,0,0.0,0,,True,False
+ref__gemma4-e2b,hadi,dict_01,76.15,True,1.0,,1.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,hadi,dict_02,66.98,True,1.0,,,0,0,0.0,1,bleeding,True,True
+ref__gemma4-e2b,hadi,dict_03,63.47,True,0.5,ORS,1.0,0,0,0.0,1,blood in stool,True,True
+ref__gemma4-e2b,hadi,dict_04,54.1,True,1.0,,0.0,0,0,0.5,1,dizziness,True,True
+ref__gemma4-e2b,hadi,dict_05,52.89,True,1.0,,1.0,0,0,0.0,0,,True,True
+ref__gemma4-e2b,hadi,dict_06,40.09,True,0.0,Risek Gaviscon,0.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,hadi,dict_07,75.62,True,1.0,,1.0,0,0,0.0,1,breathlessness,True,True
+ref__gemma4-e2b,hadi,dict_08,38.82,True,0.0,Cipro,0.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,hadi,dict_09,64.09,True,1.0,,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,hadi,dict_10,61.75,True,1.0,,,0,0,1.0,4,rash; side effects; fever; cough,True,True
+ref__gemma4-e2b,hadi,own_01,48.53,True,1.0,,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,hadi,own_02,38.14,True,0.0,Panadol,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,hadi,own_03,36.89,True,0.0,Panadol,,0,0,0.5,0,,False,True
+ref__gemma4-e2b,merab-haroon,dict_01,73.82,True,1.0,,1.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,merab-haroon,dict_02,67.86,True,1.0,,,0,0,0.0,1,bleeding,True,True
+ref__gemma4-e2b,merab-haroon,dict_03,61.94,True,0.5,ORS,1.0,0,0,0.0,1,blood in stool,True,True
+ref__gemma4-e2b,merab-haroon,dict_04,53.12,True,1.0,,0.0,0,0,0.5,1,dizziness,True,True
+ref__gemma4-e2b,merab-haroon,dict_05,52.36,True,1.0,,1.0,0,0,0.0,0,,True,True
+ref__gemma4-e2b,merab-haroon,dict_06,40.51,True,0.0,Risek Gaviscon,0.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,merab-haroon,dict_07,78.22,True,1.0,,1.0,0,0,0.0,1,breathlessness,True,True
+ref__gemma4-e2b,merab-haroon,dict_08,43.42,True,0.0,Cipro,0.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,merab-haroon,dict_09,66.33,True,1.0,,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,merab-haroon,dict_10,64.01,True,1.0,,,0,0,1.0,4,rash; side effects; fever; cough,True,True
+ref__gemma4-e2b,merab-haroon,own_01,46.4,True,1.0,,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,merab-haroon,own_02,37.15,True,0.0,Panadol,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,merab-haroon,own_03,35.71,True,0.0,Panadol,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_01,76.08,True,1.0,,1.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_02,69.85,True,1.0,,,0,0,0.0,1,bleeding,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_03,63.84,True,0.5,ORS,1.0,0,0,0.0,1,blood in stool,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_04,57.82,True,1.0,,0.0,0,0,0.5,1,dizziness,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_05,57.82,True,1.0,,1.0,0,0,0.0,0,,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_06,42.2,True,0.0,Risek Gaviscon,0.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_07,76.32,True,1.0,,1.0,0,0,0.0,1,breathlessness,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_08,42.4,True,0.0,Cipro,0.0,0,0,1.0,0,,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_09,67.57,True,1.0,,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,nouman-tanveer,dict_10,65.82,True,1.0,,,0,0,1.0,4,rash; side effects; fever; cough,True,True
+ref__gemma4-e2b,nouman-tanveer,own_01,47.66,True,1.0,,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,nouman-tanveer,own_02,45.99,True,1.0,,,0,0,1.0,0,,True,True
+ref__gemma4-e2b,nouman-tanveer,own_03,37.25,True,0.0,Panadol,,0,0,1.0,0,,True,True

@@ -1,0 +1,50 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Urinary burning for 2 days\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"Frequent urination\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"No fever\",\n    \"No back pain\",\n    \"Not pregnant\"\n  ],\n  \"findings\": [\n    \"Urine test advised\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Urine test\"\n  ],\n  \"advice\": [\n    \"Drink more water\",\n    \"If no improvement in 3 days, return\"\n  ],\n  \"follow_up\": \"Return in 3 days if no change\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "Urinary burning for 2 days",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "Frequent urination",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "No fever",
+      "No back pain",
+      "Not pregnant"
+    ],
+    "findings": [
+      "Urine test advised"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Urine test"
+    ],
+    "advice": [
+      "Drink more water",
+      "If no improvement in 3 days, return"
+    ],
+    "follow_up": "Return in 3 days if no change"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 93,
+    "prompt_ms": 1427.347,
+    "prompt_per_token_ms": 15.347817204301075,
+    "prompt_per_second": 65.15584507481363,
+    "predicted_n": 241,
+    "predicted_ms": 40960.254,
+    "predicted_per_token_ms": 170.667725,
+    "predicted_per_second": 5.859338665233864
+  }
+}

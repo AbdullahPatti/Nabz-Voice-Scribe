@@ -1,0 +1,78 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"one week\"\n    },\n    {\n      \"symptom\": \"yellow phlegm\",\n      \"duration\": \"one week\"\n    },\n    {\n      \"symptom\": \"mild fever\",\n      \"duration\": \"one week\"\n    },\n    {\n      \"symptom\": \"shortness of breath\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"voice change on the right side of the chest\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"chest X-ray\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"twice a day for five days\",\n      \"frequency\": \"twice a day\",\n      \"duration\": \"five days\",\n      \"instructions\": \"twice a day, for five days\"\n    },\n    {\n      \"name\": \"cough syrup\",\n      \"strength\": \"two spoons\",\n      \"dose\": \"three times a day\",\n      \"frequency\": \"three times a day\",\n      \"duration\": \"two days\",\n      \"instructions\": \"two spoons, three times a day for two days\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"cigarette\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "one week"
+      },
+      {
+        "symptom": "yellow phlegm",
+        "duration": "one week"
+      },
+      {
+        "symptom": "mild fever",
+        "duration": "one week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": null
+      },
+      {
+        "symptom": "voice change on the right side of the chest",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "no fever"
+    ],
+    "findings": [
+      "chest X-ray"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice a day for five days",
+        "frequency": "twice a day",
+        "duration": "five days",
+        "instructions": "twice a day, for five days"
+      },
+      {
+        "name": "cough syrup",
+        "strength": "two spoons",
+        "dose": "three times a day",
+        "frequency": "three times a day",
+        "duration": "two days",
+        "instructions": "two spoons, three times a day for two days"
+      }
+    ],
+    "drugs_to_avoid": [
+      "cigarette"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 101,
+    "prompt_ms": 1365.128,
+    "prompt_per_token_ms": 13.516118811881187,
+    "prompt_per_second": 73.9857361360986,
+    "predicted_n": 447,
+    "predicted_ms": 74240.376,
+    "predicted_per_token_ms": 166.45824215246637,
+    "predicted_per_second": 6.00751267746812
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "transcript": "مرد پنیا سال شوقر کا پرانا مریز نیہار مو شوقر ایک سو اسی اور کانے کے بعد دوسر سٹھ پہلے گلوکو فیز پانسو دین میں دو بار لے رہا تھا اب گلوکو فیز ہزار دین میں دو بار کانے کے ساتھ تین مہینے والے شوقر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nایسا بہترین",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Diabetes Mellitus (DM) history\",\n      \"duration\": \"long term\"\n    },\n    {\n      \"symptom\": \"Foot numbness\",\n      \"duration\": \"present\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"History of Diabetes Mellitus\",\n    \"History of taking Glucophage 100 mg twice a day\",\n    \"History of taking Glucophage 1000 mg twice a day\",\n    \"History of a three-month diabetes test\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"100 mg\",\n      \"dose\": \"twice a day\",\n      \"frequency\": \"twice a day\",\n      \"duration\": \"three months\",\n      \"instructions\": \"as per doctor's advice\"\n    },\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"1000 mg\",\n      \"dose\": \"twice a day\",\n      \"frequency\": \"twice a day\",\n      \"duration\": \"three months\",\n      \"instructions\": \"as per doctor's advice\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Diabetes test (3 months)\"\n  ],\n  \"advice\": [\n    \"Best\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "Diabetes Mellitus (DM) history",
+        "duration": "long term"
+      },
+      {
+        "symptom": "Foot numbness",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "History of Diabetes Mellitus",
+      "History of taking Glucophage 100 mg twice a day",
+      "History of taking Glucophage 1000 mg twice a day",
+      "History of a three-month diabetes test"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "100 mg",
+        "dose": "twice a day",
+        "frequency": "twice a day",
+        "duration": "three months",
+        "instructions": "as per doctor's advice"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "1000 mg",
+        "dose": "twice a day",
+        "frequency": "twice a day",
+        "duration": "three months",
+        "instructions": "as per doctor's advice"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Diabetes test (3 months)"
+    ],
+    "advice": [
+      "Best"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 93,
+    "prompt_ms": 1625.661,
+    "prompt_per_token_ms": 17.480225806451614,
+    "prompt_per_second": 57.207498980414734,
+    "predicted_n": 406,
+    "predicted_ms": 73974.955,
+    "predicted_per_token_ms": 182.6542098765432,
+    "predicted_per_second": 5.474825905605485
+  }
+}

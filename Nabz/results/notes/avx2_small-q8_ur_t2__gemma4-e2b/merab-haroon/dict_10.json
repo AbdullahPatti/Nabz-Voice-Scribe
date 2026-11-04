@@ -1,0 +1,67 @@
+{
+  "transcript": "ہاتھوں 38 سال، صرف follow-up کے لئے آئی ہے پچری دوائی سے کوئی ریش نہیں ہوا کوئی ساید افیت نہیں بھاہر نہیں کھانتی نہیں پینی سیلین سے الیرڈی ہے اس لئے اگوینکن نہیں دینی زرکک آدی گولی رات کو 10 دن ایک مہینے بعد دیکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"No rash with Pchari medicine\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"No side effects\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"No vomiting\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"No diarrhea\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"No rash\",\n    \"No side effects\",\n    \"No vomiting\",\n    \"No diarrhea\"\n  ],\n  \"findings\": [\n    \"Already allergic to saline\"\n  ],\n  \"allergies\": [\n    \"Saline\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"10 days\",\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": \"1 month\",\n      \"instructions\": \"See after one month\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"See after one month\"\n  ],\n  \"follow_up\": \"In one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "No rash with Pchari medicine",
+        "duration": null
+      },
+      {
+        "symptom": "No side effects",
+        "duration": null
+      },
+      {
+        "symptom": "No vomiting",
+        "duration": null
+      },
+      {
+        "symptom": "No diarrhea",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "No rash",
+      "No side effects",
+      "No vomiting",
+      "No diarrhea"
+    ],
+    "findings": [
+      "Already allergic to saline"
+    ],
+    "allergies": [
+      "Saline"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "10 days",
+        "dose": null,
+        "frequency": null,
+        "duration": "1 month",
+        "instructions": "See after one month"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "See after one month"
+    ],
+    "follow_up": "In one month"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 87,
+    "prompt_ms": 1317.916,
+    "prompt_per_token_ms": 15.148459770114941,
+    "prompt_per_second": 66.013311925798,
+    "predicted_n": 337,
+    "predicted_ms": 58812.087,
+    "predicted_per_token_ms": 175.03597321428572,
+    "predicted_per_second": 5.713111320127103
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "transcript": "مدر چاری سال کال رات سے دست لگے ہیں اٹھنو دفعہ ہو چکے ہیں دست میں خون نہیں ہیں جس میں تھوڑی پانی کی کمی ہیں ہر دست کے بعد اور اس کا ایک گلاست فلیجل چار سو دن میں تین بار پانچ دین دود ہور تلی ہوئی چیزیں بند اگر پیشاب کم ہو جائے تو فرن واپس آن\nآگے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Hand sores/bleeding\",\n      \"duration\": \"since last night\"\n    },\n    {\n      \"symptom\": \"Hand sores/bleeding\",\n      \"duration\": \"eight times\"\n    },\n    {\n      \"symptom\": \"Lack of blood in hands\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"Dehydration\",\n      \"duration\": \"after each hand wash\"\n    },\n    {\n      \"symptom\": \"Stool/Bowel issues\",\n      \"duration\": \"three times in 400 days\"\n    },\n    {\n      \"symptom\": \"Stool/Bowel issues\",\n      \"duration\": \"five times a day\"\n    },\n    {\n      \"symptom\": \"Stool/Bowel issues\",\n      \"duration\": \"fatty/fried food\"\n    },\n    {\n      \"symptom\": \"Decreased urine output\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"If urine output decreases, return immediately\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "Hand sores/bleeding",
+        "duration": "since last night"
+      },
+      {
+        "symptom": "Hand sores/bleeding",
+        "duration": "eight times"
+      },
+      {
+        "symptom": "Lack of blood in hands",
+        "duration": null
+      },
+      {
+        "symptom": "Dehydration",
+        "duration": "after each hand wash"
+      },
+      {
+        "symptom": "Stool/Bowel issues",
+        "duration": "three times in 400 days"
+      },
+      {
+        "symptom": "Stool/Bowel issues",
+        "duration": "five times a day"
+      },
+      {
+        "symptom": "Stool/Bowel issues",
+        "duration": "fatty/fried food"
+      },
+      {
+        "symptom": "Decreased urine output",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "If urine output decreases, return immediately"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 87,
+    "prompt_ms": 1341.97,
+    "prompt_per_token_ms": 15.424942528735633,
+    "prompt_per_second": 64.83006326519967,
+    "predicted_n": 376,
+    "predicted_ms": 65978.995,
+    "predicted_per_token_ms": 175.94398666666666,
+    "predicted_per_second": 5.683627039181182
+  }
+}

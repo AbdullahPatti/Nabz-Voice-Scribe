@@ -1,0 +1,62 @@
+{
+  "transcript": "امبرد 22 سال رادکو سانسی تقریف اور سینیس سیٹی کی اواز آتی ہے کبرات ہندی ہے وہ خار نہیں وینٹولین انہلہ رضورت پر دو پف دن میں چار دوہ سی جاتا نہیں رادکو زیٹک ایک گولی دول اور دویں سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"rapid breathing\",\n      \"duration\": \"22 years\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"22 years\"\n    },\n    {\n      \"symptom\": \"sinus noise\",\n      \"duration\": \"22 years\"\n    },\n    {\n      \"symptom\": \"foreign body sensation\",\n      \"duration\": \"22 years\"\n    },\n    {\n      \"symptom\": \"wheezing\",\n      \"duration\": \"22 years\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"nasal congestion\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Ventolin\"\n  ],\n  \"investigations_ordered\": [\n    \"X-ray\"\n  ],\n  \"advice\": [\n    \"Take one tablet of Zytac daily and two more after two days.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "rapid breathing",
+        "duration": "22 years"
+      },
+      {
+        "symptom": "cough",
+        "duration": "22 years"
+      },
+      {
+        "symptom": "sinus noise",
+        "duration": "22 years"
+      },
+      {
+        "symptom": "foreign body sensation",
+        "duration": "22 years"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "22 years"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "nasal congestion"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Ventolin"
+    ],
+    "investigations_ordered": [
+      "X-ray"
+    ],
+    "advice": [
+      "Take one tablet of Zytac daily and two more after two days."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 81,
+    "prompt_ms": 1075.381,
+    "prompt_per_token_ms": 13.27630864197531,
+    "prompt_per_second": 75.32214164096258,
+    "predicted_n": 311,
+    "predicted_ms": 51222.832,
+    "predicted_per_token_ms": 165.23494193548387,
+    "predicted_per_second": 6.051988691292976
+  }
+}

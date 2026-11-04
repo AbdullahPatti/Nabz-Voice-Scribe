@@ -1,0 +1,54 @@
+{
+  "transcript": "Man 35 years, sore throat aur fever for two days. Khansi nahi hai aur koi saans ka masla nahi hai. Panadol jab bhi fever ho. Warm salt water ke din mein teen baar gharare karein. Agar theek nahi hota to teen dinon mein wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no respiratory distress\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": null,\n      \"dose\": \"as needed for fever\",\"frequency\": \"prn\",\"duration\": null,\"instructions\": \"take when fever occurs\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"gargle with warm salt water 3 times daily\",\n    \"return in 3 days if condition does not improve\"\n  ],\"follow_up\": \"3 days if no improvement\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "sore throat",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no respiratory distress"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "as needed for fever",
+        "frequency": "prn",
+        "duration": null,
+        "instructions": "take when fever occurs"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "gargle with warm salt water 3 times daily",
+      "return in 3 days if condition does not improve"
+    ],
+    "follow_up": "3 days if no improvement"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 89,
+    "prompt_ms": 5164.478,
+    "prompt_per_token_ms": 58.027842696629214,
+    "prompt_per_second": 17.23310661793893,
+    "predicted_n": 265,
+    "predicted_ms": 78863.054,
+    "predicted_per_token_ms": 298.7236893939394,
+    "predicted_per_second": 3.347575152237954
+  }
+}

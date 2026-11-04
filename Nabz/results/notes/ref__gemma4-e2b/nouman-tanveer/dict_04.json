@@ -1,0 +1,61 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"BP 160 and 100\",\n      \"duration\": \"today\"\n    },\n    {\n      \"symptom\": \"Heavy head\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"Dizziness\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"Chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Norvasc\",\n      \"strength\": \"1 tablet\",\n      \"dose\": \"at night\",\n      \"frequency\": \"once a night\",\n      \"duration\": \"5 nights\",\n      \"instructions\": \"Start taking one tablet at night\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Salt\"\n  ],\n  \"investigations_ordered\": [\n    \"BP check after two weeks\"\n  ],\n  \"advice\": [\n    \"Reduce salt intake\",\n    \"Get BP checked again after two weeks\"\n  ],\n  \"follow_up\": \"BP check in two weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "BP 160 and 100",
+        "duration": "today"
+      },
+      {
+        "symptom": "Heavy head",
+        "duration": null
+      },
+      {
+        "symptom": "Dizziness",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "Chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "1 tablet",
+        "dose": "at night",
+        "frequency": "once a night",
+        "duration": "5 nights",
+        "instructions": "Start taking one tablet at night"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Salt"
+    ],
+    "investigations_ordered": [
+      "BP check after two weeks"
+    ],
+    "advice": [
+      "Reduce salt intake",
+      "Get BP checked again after two weeks"
+    ],
+    "follow_up": "BP check in two weeks"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 90,
+    "prompt_ms": 1225.518,
+    "prompt_per_token_ms": 13.616866666666667,
+    "prompt_per_second": 73.43833383108203,
+    "predicted_n": 318,
+    "predicted_ms": 56575.109,
+    "predicted_per_token_ms": 178.47037539432176,
+    "predicted_per_second": 5.603170821995235
+  }
+}
