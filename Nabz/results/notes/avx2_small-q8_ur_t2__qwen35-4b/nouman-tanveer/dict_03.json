@@ -1,0 +1,76 @@
+{
+  "transcript": "مدر چاری سال کال رات سے دست لگے ہیں اٹھنو دفعہ ہو چکے ہیں دست میں خون نہیں ہیں جس میں تھوڑی پانی کی کمی ہیں ہر دست کے بعد اور اس کا ایک گلاست فلیجل چار سو دن میں تین بار پانچ دین دود ہور تلی ہوئی چیزیں بند اگر پیشاب کم ہو جائے تو فرن واپس آن\nآگے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"hematochezia\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"},\n    {\"symptom\": \"dysuria\", \"duration\": \"4 years\"},\n    {\"symptom\": \"frequency\", \"duration\": \"4 years\"},\n    {\"symptom\": \"urgency\", \"duration\": \"4 years\"},\n    {\"symptom\": \"hematuria\", \"duration\": \"4 years\"},\n    {\"symptom\": \"decreased urine output\", \"duration\": \"4 years\"}\n  ],\n  \"negatives\": [\n    \"no blood in stool\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy food\",\n    \"avoid alcohol\",\n    \"avoid caffeine\",\n    \"avoid citrus fruits\",\n    \"avoid tomatoes\",\n    \"avoid onions\",\n    \"avoid garlic\",\n    \"avoid chili\",\n    \"avoid papaya\",\n    \"avoid mango\",\n    \"avoid jackfruit\",\n    \"avoid papaya\",\n    \"avoid mango\",\n    \"avoid jackfruit\"\n  ],\"follow_up\": \"return if urine output decreases\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hematochezia",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "dysuria",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "frequency",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "urgency",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "hematuria",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "decreased urine output",
+        "duration": "4 years"
+      }
+    ],
+    "negatives": [
+      "no blood in stool"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy food",
+      "avoid alcohol",
+      "avoid caffeine",
+      "avoid citrus fruits",
+      "avoid tomatoes",
+      "avoid onions",
+      "avoid garlic",
+      "avoid chili",
+      "avoid papaya",
+      "avoid mango",
+      "avoid jackfruit",
+      "avoid papaya",
+      "avoid mango",
+      "avoid jackfruit"
+    ],
+    "follow_up": "return if urine output decreases"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 6844.902,
+    "prompt_per_token_ms": 59.52088695652174,
+    "prompt_per_second": 16.800824905893467,
+    "predicted_n": 340,
+    "predicted_ms": 79745.175,
+    "predicted_per_token_ms": 235.23650442477876,
+    "predicted_per_second": 4.251040893696703
+  }
+}

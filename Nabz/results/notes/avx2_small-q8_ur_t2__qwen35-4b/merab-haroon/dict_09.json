@@ -1,0 +1,61 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تقریب اور سینے سے سیٹی کی اہواز آتی ہے گبرار ٹوندی ہے وہ حار نہیں مینٹونین انہیلر ضرورت پر دو پاف دن میں چار دفعہ سے زاد آنے رات کو زرٹک ایک گولی دوڑ اور دومے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"night\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Montevan\",\n      \"strength\": null,\n      \"dose\": \"2 puffs\",\n      \"frequency\": \"4 times daily\",\n      \"duration\": \"as needed\",\"instructions\": \"use for shortness of breath and chest tightness\"\n    },\n    {\n      \"name\": \"Zartrak\",\n      \"strength\": null,\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"at night\",\n      \"duration\": null,\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid cold air\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Montevan",
+        "strength": null,
+        "dose": "2 puffs",
+        "frequency": "4 times daily",
+        "duration": "as needed",
+        "instructions": "use for shortness of breath and chest tightness"
+      },
+      {
+        "name": "Zartrak",
+        "strength": null,
+        "dose": "1 tablet",
+        "frequency": "at night",
+        "duration": null,
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid cold air"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 5595.302,
+    "prompt_per_token_ms": 58.28439583333333,
+    "prompt_per_second": 17.157250850803052,
+    "predicted_n": 293,
+    "predicted_ms": 68860.98,
+    "predicted_per_token_ms": 235.82527397260273,
+    "predicted_per_second": 4.240427597748391
+  }
+}

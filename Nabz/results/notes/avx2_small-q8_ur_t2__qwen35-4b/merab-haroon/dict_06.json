@@ -1,0 +1,52 @@
+{
+  "transcript": "ہا تو ان تیس ساتھ پیٹ کے اوپر جلال ہوتی ہے کھانے کے بعد جادا کہ ان دیے کھٹڑی کار ہوں دے لے اولٹی نہیں وزن کم نہیں ہوا رائزک پیٹ سبھا حالی پیٹ دو ہفتے رات کو گیبس کو ان کے دو چمچ شایر میرچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 23\n  },\n  \"complaints\": [\n    {\"symptom\": \"abdominal pain\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"pain above abdomen\",\n    \"pain worsens after eating\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Shayyar\",\n      \"strength\": \"2 teaspoons\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2 times/day\",\"duration\": \"2 weeks\",\"instructions\": \"reduce dose\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce dose of Shayyar\"\n  ],\"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 23
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [
+      "pain above abdomen",
+      "pain worsens after eating"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Shayyar",
+        "strength": "2 teaspoons",
+        "dose": "twice daily",
+        "frequency": "2 times/day",
+        "duration": "2 weeks",
+        "instructions": "reduce dose"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce dose of Shayyar"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 5658.66,
+    "prompt_per_token_ms": 55.47705882352941,
+    "prompt_per_second": 18.025468927272534,
+    "predicted_n": 238,
+    "predicted_ms": 55793.214,
+    "predicted_per_token_ms": 235.41440506329113,
+    "predicted_per_second": 4.247828418703393
+  }
+}

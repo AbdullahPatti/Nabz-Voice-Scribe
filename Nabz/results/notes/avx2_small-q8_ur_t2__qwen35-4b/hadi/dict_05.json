@@ -1,0 +1,50 @@
+{
+  "transcript": "مرت 50 سار شگر کا پرانہ مریز نحار موش شگر 180 اور کھانےگا بعد 260 پہلے گلوکو فیج 500 دن میں دو بار لے رہا تھا بلوکو فیج ہزار دن میں دو بار کھانےگا تھا تین مہینے والا شگر ٹیست کروان ہے پیرو میں سون ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diabetes\",\n      \"duration\": \"180 days\"\n    }\n  ],\n  \"negatives\": [\n    \"pregnancy\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\"frequency\": \"180 days\",\"duration\": \"3 months\",\"instructions\": \"continue\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"HbA1c\"\n  ],\n  \"advice\": [\n    \"continue current medication\"\n  ],\"follow_up\": \"3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "180 days"
+      }
+    ],
+    "negatives": [
+      "pregnancy"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "180 days",
+        "duration": "3 months",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "HbA1c"
+    ],
+    "advice": [
+      "continue current medication"
+    ],
+    "follow_up": "3 months"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 114,
+    "prompt_ms": 5536.749,
+    "prompt_per_token_ms": 48.56797368421052,
+    "prompt_per_second": 20.58969984010473,
+    "predicted_n": 226,
+    "predicted_ms": 61634.387,
+    "predicted_per_token_ms": 273.9306088888889,
+    "predicted_per_second": 3.6505595488440563
+  }
+}

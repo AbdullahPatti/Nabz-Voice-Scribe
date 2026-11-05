@@ -1,0 +1,57 @@
+{
+  "transcript": "اورت 45 سال شام کا طائم ہیٹیک اک ہفتے سے بیپی 140 over 90 آئیسرٹ میں کوئی مسئلہ نہیں اور نو اولٹی پیناڈال جب ضرورت پڑے اور نمک کام کھائیں بیپی ایک ہفتے بعد پھر چیک کروائے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no palpitations\",\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Amlodipine\",\n      \"strength\": \"5 mg\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"daily\",\"duration\": \"1 week\",\"instructions\": \"take after dinner\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"salt\"\n  ],\n  \"investigations_ordered\": [\n    \"BP check in 1 week\"\n  ],\n  \"advice\": [\n    \"Take Amlodipine 5 mg once daily after dinner for 1 week, then recheck BP.\"\n  ],\"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no palpitations",
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "strength": "5 mg",
+        "dose": "once daily",
+        "frequency": "daily",
+        "duration": "1 week",
+        "instructions": "take after dinner"
+      }
+    ],
+    "drugs_to_avoid": [
+      "salt"
+    ],
+    "investigations_ordered": [
+      "BP check in 1 week"
+    ],
+    "advice": [
+      "Take Amlodipine 5 mg once daily after dinner for 1 week, then recheck BP."
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 5217.269,
+    "prompt_per_token_ms": 55.50286170212766,
+    "prompt_per_second": 18.01708901726171,
+    "predicted_n": 291,
+    "predicted_ms": 78964.053,
+    "predicted_per_token_ms": 272.28983793103447,
+    "predicted_per_second": 3.6725571824435104
+  }
+}

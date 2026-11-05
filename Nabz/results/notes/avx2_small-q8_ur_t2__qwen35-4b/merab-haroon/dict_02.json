@@ -1,0 +1,71 @@
+{
+  "transcript": "ہاتون چونٹی سالت تین دن سے بہار جسم میں درد اور آنکھوں کے پیچھے درد پلیٹ لیڈز 95000 ہے کہیں سے ہم نہیں آرہا صرف پیناڈول دو گولی دن میں تین بار بروفن نے لینے دیسپرن بھی نہیں پانی زادہ پی ہیں کل ہم کا تیس دوبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"joint pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"platelet count 95000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"625\",\n      \"dose\": \"3 times daily\",\"frequency\": \"3 times daily\",\"duration\": \"3 days\",\"instructions\": \"take 2 tablets 3 times daily\"\n    },\n    {\n      \"name\": \"Ibuprofen\",\n      \"strength\": \"625\",\n      \"dose\": \"3 times daily\",\"frequency\": \"3 times daily\",\"duration\": \"3 days\",\"instructions\": \"take 2 tablets 3 times daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"dispensable medicines\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"return in 3 days\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "joint pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "platelet count 95000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "625",
+        "dose": "3 times daily",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take 2 tablets 3 times daily"
+      },
+      {
+        "name": "Ibuprofen",
+        "strength": "625",
+        "dose": "3 times daily",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take 2 tablets 3 times daily"
+      }
+    ],
+    "drugs_to_avoid": [
+      "dispensable medicines"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "return in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 6304.75,
+    "prompt_per_token_ms": 60.0452380952381,
+    "prompt_per_second": 16.654109996431263,
+    "predicted_n": 351,
+    "predicted_ms": 381175.073,
+    "predicted_per_token_ms": 1089.071637142857,
+    "predicted_per_second": 0.918213243183402
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "transcript": "سیارہ سیارہ سیارہ، نیپنے لیے دو منس ورسن سیارہ، نو سوالنگ، نو فیور، پانڈول، دو طیبیٹس، دو دویس دی، لائیت ایک سیارہ سیارہ دیلی کم بہت میں بہت میں بہت میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nevirapine\",\n      \"strength\": \"200\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Lamivudine\",\n      \"strength\": \"300\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Tenofovir\",\n      \"strength\": \"300\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Dolutegravir\",\n      \"strength\": \"50\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nevirapine",
+        "strength": "200",
+        "dose": "twice daily",
+        "frequency": "2",
+        "duration": "2 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Lamivudine",
+        "strength": "300",
+        "dose": "twice daily",
+        "frequency": "2",
+        "duration": "2 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Tenofovir",
+        "strength": "300",
+        "dose": "twice daily",
+        "frequency": "2",
+        "duration": "2 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Dolutegravir",
+        "strength": "50",
+        "dose": "twice daily",
+        "frequency": "2",
+        "duration": "2 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 88,
+    "prompt_ms": 4928.278,
+    "prompt_per_token_ms": 56.003159090909094,
+    "prompt_per_second": 17.85613555079482,
+    "predicted_n": 372,
+    "predicted_ms": 87193.378,
+    "predicted_per_token_ms": 235.02258221024258,
+    "predicted_per_second": 4.254910275411053
+  }
+}

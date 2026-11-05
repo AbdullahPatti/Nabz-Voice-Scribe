@@ -1,0 +1,52 @@
+{
+  "transcript": "مرد پنیا سال شوقر کا پرانا مریز نیہار مو شوقر ایک سو اسی اور کانے کے بعد دوسر سٹھ پہلے گلوکو فیز پانسو دین میں دو بار لے رہا تھا اب گلوکو فیز ہزار دین میں دو بار کانے کے ساتھ تین مہینے والے شوقر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nایسا بہترین",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diabetes\",\n      \"duration\": \"50 years\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"leg pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucofast\",\n      \"strength\": \"1000\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"3 months\",\"instructions\": \"with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"diabetes test\"\n  ],\n  \"advice\": [\n    \"best\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "50 years"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "leg pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucofast",
+        "strength": "1000",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "3 months",
+        "instructions": "with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "diabetes test"
+    ],
+    "advice": [
+      "best"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 121,
+    "prompt_ms": 6602.368,
+    "prompt_per_token_ms": 54.56502479338843,
+    "prompt_per_second": 18.326757914736046,
+    "predicted_n": 234,
+    "predicted_ms": 53764.661,
+    "predicted_per_token_ms": 230.74961802575106,
+    "predicted_per_second": 4.3337016483745705
+  }
+}

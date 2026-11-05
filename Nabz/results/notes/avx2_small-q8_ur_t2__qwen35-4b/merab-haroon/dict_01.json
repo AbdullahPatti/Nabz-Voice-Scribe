@@ -1,0 +1,68 @@
+{
+  "transcript": "ٹائفورد مرد ٹائی سار ٹائی دن سے ٹیز بحار ہے سر در در کمزوری بھی ہے کہندائی راتوں کو بہت ٹھنڈلگ دیئے اولٹی نہیں ہے دست بھی نہیں ہے ٹائفورد کا ٹس پوزگی بایا ہے ازو میکس ٹائی بھنڈ روزانہ ایک گولی ساتھ دن پنڈرڈول دو گولی دن میں ٹین بار جب بحاروں ٹین دن بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 day\"},\n    {\"symptom\": \"headache\", \"duration\": \"1 day\"},\n    {\"symptom\": \"weakness\", \"duration\": \"1 day\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [\n    \"patient took 1 tablet of Augmentin 625 daily for 2 days\",\n    \"patient took 2 tablets of Panadol daily\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet daily\",\n      \"frequency\": \"daily\",\"duration\": \"2 days\",\"instructions\": \"continue for 2 more days if fever returns\"\n    },\n    {\n      \"name\": \"Panadol\",\n      \"strength\": null,\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"daily\",\"duration\": null,\"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue medication for 2 more days if fever returns\"\n  ],\"follow_up\": \"return in 2 days if fever returns\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [
+      "patient took 1 tablet of Augmentin 625 daily for 2 days",
+      "patient took 2 tablets of Panadol daily"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet daily",
+        "frequency": "daily",
+        "duration": "2 days",
+        "instructions": "continue for 2 more days if fever returns"
+      },
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "daily",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue medication for 2 more days if fever returns"
+    ],
+    "follow_up": "return in 2 days if fever returns"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 6467.578,
+    "prompt_per_token_ms": 52.581934959349596,
+    "prompt_per_second": 19.0179383998152,
+    "predicted_n": 351,
+    "predicted_ms": 523025.701,
+    "predicted_per_token_ms": 1494.3591457142857,
+    "predicted_per_second": 0.669183176526157
+  }
+}

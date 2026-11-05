@@ -1,0 +1,43 @@
+{
+  "transcript": "خطور 38 سال صرف فولو اپ کے لیے آئی ہیں پشلی دفعہ سے کوئی جیاش نہیں ہوا کوئی سائرڈیفک نہیں بخار نہیں خانسی نہیں پینس لیلی سے علیرجی ہے اس لیے اکھتھا میٹین نہیں دینی زرٹیک آدیگولی رات کو دس دن ایک مہینے بعد دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no dysuria\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid antibiotics\",\n    \"return in 10 days\",\n    \"return in 1 month\"\n  ],\"follow_up\": \"10 days and 1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no dysuria"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid antibiotics",
+      "return in 10 days",
+      "return in 1 month"
+    ],
+    "follow_up": "10 days and 1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 5798.843,
+    "prompt_per_token_ms": 55.22707619047619,
+    "prompt_per_second": 18.107060322205655,
+    "predicted_n": 176,
+    "predicted_ms": 41512.494,
+    "predicted_per_token_ms": 237.21425142857143,
+    "predicted_per_second": 4.215598320833242
+  }
+}
