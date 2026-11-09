@@ -37,3 +37,24 @@ Accuracy numbers do not depend on the machine, so they stand.
 ## Privacy
 
 `data/manifest.csv` in this folder has the device field scrubbed (one speaker typed a phone number there). The original zips in `recordings/` still contain it and the audio. The consent text says recordings will not be published, so this repository should be private.
+
+## Drug lexicon experiments, 9 November 2026 (no models run, existing outputs only)
+
+`lexicon.txt` is a **placeholder**: about 300 common Pakistani OPD brands and generics written from memory, one spelling each, no answer-key pronunciation variants. Replace it with the DRAP export and rerun.
+
+**1. Rewriting the transcript does not work.** Snapping Urdu-script spans to the nearest brand by consonant skeleton, before the LLM sees the text, found 57% of the key drugs in `small-q8_ur` but inserted 116 false drugs ("خاتون", woman, became Capoten). Tightening the tolerance and requiring a dose word nearby brought that to 21 false drugs at 32% recall, no better than Qwen's own 23 inventions. Ordinary Urdu words sit too close to brand names in skeleton space. Dropped; not committed.
+
+**2. Checking the LLM output does work.** `drug_check.py` flags any medicine in a note that is not an exact lexicon entry, or that has nothing close to it in the transcript:
+
+| run | right passed | right flagged | wrong flagged | wrong passed | avoid passed | avoid flagged |
+|---|---|---|---|---|---|---|
+| small-q8_ur → gemma | 4 | 2 | 4 | 0 | 0 | 1 |
+| small-q8_ur → qwen | 6 | 6 | 19 | **0** | **3** | 1 |
+| ref → gemma | 34 | 3 | 0 | 0 | 0 | 0 |
+| ref → qwen | 39 | 3 | 0 | 0 | 0 | 0 |
+
+No invented or swapped drug (e.g. "Ibuprofen" for an unspoken Brufen) reaches the doctor unflagged. The cost is that half of Qwen's correct medicines on ASR text get flagged for review (misspelled real names such as "Zartrak"). The 3 flags on reference text are all "cough syrup", which is not a brand.
+
+The lexicon side must be an **exact** match: with ~72k DRAP brands, almost any invented name is one edit from a real one ("Exomix" vs Xanax).
+
+**3. What remains is a negation problem.** The 3 avoided drugs that pass were said with "nahi", which Whisper dropped (Merab dict_02: "Brufen bilkul nahi leni" became "بروفن نے لینے"). No lexicon can catch that. It needs negation-preserving ASR, or a rule that any drug near a negation in the transcript goes to the avoid list for the doctor to confirm.

@@ -150,6 +150,14 @@ Then stop the server (Ctrl+C), start the Qwen model, and repeat with `--model-ta
 
 The `ref` run shows the LLM's own mistakes on clean text. The ASR run shows the whole pipeline. **The gap between them is what speech recognition costs you, and it is a result for the paper.**
 
+## 6b. Check medicines against the drug list
+
+```bash
+python drug_check.py
+```
+
+Flags every note medicine that is not in `lexicon.txt` (placeholder; swap in the DRAP export) or was not said in the transcript. `wrong_passed` and `avoid_passed` are safety errors.
+
 ## 7. The decision table
 
 ```bash
