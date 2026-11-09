@@ -92,3 +92,31 @@ Ollama `qwen2.5:7b` on `avx2_base-q8_ur_t4`, with `note_system.txt` (tag `qwen25
 3. **Qwen 2.5 7B is weaker than Qwen3.5 4B even on clean text** (60% vs 85% of medicines), so it's not the model to build on.
 4. **Ollama doesn't fully enforce the JSON schema** (79% and 92% valid). `server_ram_mb` is wrong for Ollama runs, because the script measures the wrong process.
 5. Prompting the note writer can't recover drug names from garbled Urdu-script text. The transcript has to improve first.
+
+## Urdu note writers on the A4000, 9 November 2026
+
+**Machine:** NVIDIA RTX A4000 16 GB, driver 596.86 (nvidia-smi reports CUDA 13.2), Windows 11 Pro 10.0.22621. llama.cpp b11912 prebuilt `win-cuda-12.4-x64` (commit 961c376a2), `-ngl 99 -c 4096 --jinja`, every layer on the GPU. Python 3.12.10. Repo commit before the run: `e94a3bc`. Every model got the same prompt (`note_system.txt`), the same schema, temperature 0 and max_tokens 800. All GGUF files are Q4_K_M.
+
+| run | schema_valid | med_recall | strength_recall | extra_meds | avoid_violations | neg_recall | neg_flips | wrong_passed | avoid_passed | GGUF GB |
+|---|---|---|---|---|---|---|---|---|---|---|
+| ref → qwen35-4b (cloud, earlier) | 100% | 85% | 86% | 0 | 0 | 83% | 3 | 0 | 0 | 3.01 |
+| ref → alif-8b | 100% | 81% | 48% | 3 | 0 | 26% | 9 | 0 | 0 | 4.92 |
+| ref → alif-3b | 62% | 88% | 75% | 14 | 6 | 69% | 6 | 0 | 6 | 2.24 |
+| ref → qalb-8b | 100% | 15% | 14% | 0 | 0 | 4% | 3 | 0 | 0 | 4.92 |
+| ref → shaheen-7b | 85% | 67% | 80% | 0 | 0 | 77% | 15 | 0 | 0 | 4.68 |
+| ref → qwen2.5 7b (Ollama, earlier) | 100% | 60% | 76% | 3 | 0 | 68% | 12 | 0 | 0 | not on this machine |
+| base ur → qwen35-4b | 97% | 8% | 10% | 19 | 1 | 31% | 8 | 0 | 1 | 3.01 |
+| base ur → alif-8b | 92% | 10% | 5% | 35 | 1 | 16% | 12 | 0 | 1 | 4.92 |
+| base ur → alif-3b | 44% | 9% | 20% | 15 | 2 | 4% | 6 | 0 | 2 | 2.24 |
+| base ur → qalb-8b | 100% | 0% | 0% | 0 | 0 | 1% | 0 | 0 | 0 | 4.92 |
+| base ur → shaheen-7b | 49% | 13% | 11% | 12 | 2 | 44% | 5 | 0 | 2 | 4.68 |
+| base ur → qwen2.5 7b (Ollama, earlier) | 79% | 6% | 12% | 6 | 0 | 38% | 7 | 0 | 0 | not on this machine |
+
+"base ur" is `avx2_base-q8_ur_t4`. **Read the low schema_valid rows with care:** `score_note.py` leaves unparseable notes out of the recall averages, so alif-3b's recalls come from 24 of 39 notes (ref) and 17 of 39 (base), and shaheen-7b's from 33 and 19. A note that doesn't parse gives the doctor nothing, so these recalls flatter both models.
+
+1. **No Urdu model beat qwen35-4b on base output.** On safety, alif-3b and shaheen-7b each list 2 avoided drugs as prescribed (qwen35-4b: 1). alif-8b ties qwen35-4b on avoid errors but invents 35 medicines (qwen35-4b: 19). qalb-8b's zeros are not a win: it leaves medications, complaints and negatives empty on almost every note, clean text included (medications filled in 6 of 39 ref notes and 0 of 39 base notes). `drug_check.py` flagged every wrong drug in every run (wrong_passed is 0 throughout). All 6 avoid errors on base output are Augmentin in dict_10. For Merab, Whisper garbled the "nahi" ("اگوینٹن نیویںی"). For Hadi, the transcript still says "نہیں دینی", and alif-3b and shaheen-7b listed it as prescribed anyway. That is a model error, not a speech error. Medicine recall stays between 0% and 13% for every model, so the pipeline still fails on base output, whichever note writer is used.
+2. **alif-3b is not usable as it stands.** On ref it finds 88% of medicines in the notes that parse, but 15 of 39 notes are cut off at 800 tokens in repetition loops ("ulty nahi hai", "dast nahi", … repeated). It also lists Brufen and Disprin as prescribed on dict_02 for all three speakers (6 avoid violations), and the drug checker cannot catch these because the names were said. alif-8b on the same text: every note valid, 0 avoid violations, but only 48% of strengths and 26% of negatives. On base output, alif-3b parses 44% of notes and keeps 4% of negatives.
+3. **The speech step costs nearly everything.** Medicine recall from ref to base: qwen35-4b 85% → 8%, alif-8b 81% → 10%, alif-3b 88% → 9%, shaheen-7b 67% → 13%, qalb-8b 15% → 0%. Invented medicines rise for every model except qalb-8b (alif-8b 3 → 35, qwen35-4b 0 → 19).
+4. **Nothing failed in step 5.** Every server started with `--jinja` and returned no errors, and all 9 runs wrote 39 notes. Every invalid note (qwen35-4b 1, alif-8b 3, alif-3b 15 + 22, shaheen-7b 6 + 20) stopped at exactly 800 generated tokens, inside a repetition loop. These are kept as results. The first model download stalled on Hugging Face's Xet transfer; it worked with `HF_HUB_DISABLE_XET=1`.
+
+The timing and RAM columns in `note_summary.csv` and `decision_table.md` come from a desktop GPU. They say nothing about phones, and `within_budget` does not apply. `server_ram_mb` is the server's CPU RAM, not GPU memory.
