@@ -8,3 +8,4 @@ __pycache__/
 *.log
 downloads/
 recordings/*.zip
+dl/

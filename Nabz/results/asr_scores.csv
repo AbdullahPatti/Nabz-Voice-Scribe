@@ -38,6 +38,123 @@ avx2_base-q8_auto_t2,nouman-tanveer,dict_10,dictation,23.13,7.56,0.327,225,0.667
 avx2_base-q8_auto_t2,nouman-tanveer,own_01,free_dictation,12.12,4.87,0.402,224,0.0,Panadol,1.0,,2,3,1.0,0.22
 avx2_base-q8_auto_t2,nouman-tanveer,own_02,free_dictation,17.15,5.77,0.336,225,0.0,Panadol,1.0,,3,3,1.0,0.211
 avx2_base-q8_auto_t2,nouman-tanveer,own_03,free_dictation,14.68,4.26,0.29,225,0.0,Panadol,1.0,,2,2,1.0,0.036
+avx2_base-q8_auto_t4,hadi,dict_01,dictation,20.57,3.65,0.178,243,0.5,Panadol,0.5,500,2,2,1.0,0.283
+avx2_base-q8_auto_t4,hadi,dict_02,dictation,18.09,3.72,0.206,242,0.667,Panadol,0.5,34,3,3,1.0,0.194
+avx2_base-q8_auto_t4,hadi,dict_03,dictation,17.32,3.3,0.191,241,0.5,Flagyl,0.0,40 400,1,1,1.0,0.202
+avx2_base-q8_auto_t4,hadi,dict_04,dictation,13.74,5.47,0.398,241,1.0,,0.75,160,2,2,1.0,0.303
+avx2_base-q8_auto_t4,hadi,dict_05,dictation,17.66,4.49,0.254,243,1.0,,0.2,180 260 500 1000,1,1,1.0,0.279
+avx2_base-q8_auto_t4,hadi,dict_06,dictation,14.42,3.41,0.236,240,1.0,,0.5,20,2,2,1.0,0.176
+avx2_base-q8_auto_t4,hadi,dict_07,dictation,17.66,3.64,0.206,240,0.0,Augmentin Cough syrup,0.0,45 625,1,2,1.0,0.237
+avx2_base-q8_auto_t4,hadi,dict_08,dictation,13.82,3.97,0.287,241,0.0,Cipro,0.0,26 500,4,3,0.75,0.154
+avx2_base-q8_auto_t4,hadi,dict_09,dictation,14.25,3.47,0.244,240,1.0,,0.0,22,2,2,1.0,0.148
+avx2_base-q8_auto_t4,hadi,dict_10,dictation,15.7,3.67,0.234,241,0.667,Zyrtec,0.0,38,5,5,1.0,0.228
+avx2_base-q8_auto_t4,hadi,own_01,free_dictation,12.54,3.26,0.26,237,1.0,,1.0,,2,0,0.0,0.234
+avx2_base-q8_auto_t4,hadi,own_02,free_dictation,16.04,17.05,1.063,255,0.0,Panadol,0.0,35,3,0,0.0,0.805
+avx2_base-q8_auto_t4,hadi,own_03,free_dictation,14.93,3.32,0.222,237,1.0,,0.667,45,2,1,0.5,0.211
+avx2_base-q8_auto_t4,merab-haroon,dict_01,dictation,29.7,7.79,0.262,248,1.0,,0.5,28,2,2,1.0,0.33
+avx2_base-q8_auto_t4,merab-haroon,dict_02,dictation,25.34,3.2,0.126,239,1.0,,0.5,34,3,1,0.333,0.34
+avx2_base-q8_auto_t4,merab-haroon,dict_03,dictation,30.29,4.31,0.142,241,1.0,,0.5,400,1,0,0.0,0.232
+avx2_base-q8_auto_t4,merab-haroon,dict_04,dictation,24.15,3.08,0.128,238,1.0,,0.25,55 160 100,2,3,1.0,0.258
+avx2_base-q8_auto_t4,merab-haroon,dict_05,dictation,37.63,6.55,0.174,246,0.0,Glucophage,0.0,50 180 260 500 1000,1,0,0.0,0.616
+avx2_base-q8_auto_t4,merab-haroon,dict_06,dictation,19.29,4.25,0.22,241,0.5,Risek,0.0,30 20,2,2,1.0,0.216
+avx2_base-q8_auto_t4,merab-haroon,dict_07,dictation,28.59,8.01,0.28,252,0.5,Cough syrup,1.0,,1,0,0.0,0.33
+avx2_base-q8_auto_t4,merab-haroon,dict_08,dictation,25.34,8.35,0.329,252,1.0,,0.5,26,4,0,0.0,0.341
+avx2_base-q8_auto_t4,merab-haroon,dict_09,dictation,24.75,3.17,0.128,242,0.5,Ventolin,0.0,22,2,0,0.0,0.272
+avx2_base-q8_auto_t4,merab-haroon,dict_10,dictation,19.2,3.69,0.192,241,1.0,,0.0,38,5,0,0.0,0.228
+avx2_base-q8_auto_t4,merab-haroon,own_01,free_dictation,14.17,2.45,0.173,235,1.0,,1.0,,2,2,1.0,0.048
+avx2_base-q8_auto_t4,merab-haroon,own_02,free_dictation,16.47,2.31,0.14,236,0.0,Panadol,1.0,,3,3,1.0,0.253
+avx2_base-q8_auto_t4,merab-haroon,own_03,free_dictation,16.73,2.38,0.142,236,0.0,Panadol,1.0,,2,2,1.0,0.161
+avx2_base-q8_auto_t4,nouman-tanveer,dict_01,dictation,28.84,7.59,0.263,255,0.5,Azomax,0.5,28,2,0,0.0,0.236
+avx2_base-q8_auto_t4,nouman-tanveer,dict_02,dictation,24.58,3.74,0.152,242,1.0,,0.5,34,3,3,1.0,0.155
+avx2_base-q8_auto_t4,nouman-tanveer,dict_03,dictation,31.15,10.13,0.325,248,0.0,ORS Flagyl,0.0,40 400,1,0,0.0,1.0
+avx2_base-q8_auto_t4,nouman-tanveer,dict_04,dictation,23.13,3.08,0.133,241,1.0,,0.25,55 160 100,2,2,1.0,0.212
+avx2_base-q8_auto_t4,nouman-tanveer,dict_05,dictation,30.38,22.47,0.739,263,1.0,,0.2,50 180 260 500,1,1,1.0,0.279
+avx2_base-q8_auto_t4,nouman-tanveer,dict_06,dictation,20.39,2.94,0.144,240,0.0,Risek Gaviscon,0.0,30 20,2,1,0.5,0.27
+avx2_base-q8_auto_t4,nouman-tanveer,dict_07,dictation,30.55,5.35,0.175,244,0.0,Augmentin Cough syrup,0.0,45 625,1,0,0.0,0.969
+avx2_base-q8_auto_t4,nouman-tanveer,dict_08,dictation,20.91,3.41,0.163,239,1.0,,0.0,26 500,4,2,0.5,0.209
+avx2_base-q8_auto_t4,nouman-tanveer,dict_09,dictation,23.47,3.12,0.133,240,0.5,Ventolin,1.0,,2,2,1.0,0.16
+avx2_base-q8_auto_t4,nouman-tanveer,dict_10,dictation,23.13,3.7,0.16,239,0.667,Augmentin,0.0,38,5,5,1.0,0.215
+avx2_base-q8_auto_t4,nouman-tanveer,own_01,free_dictation,12.12,2.34,0.193,234,0.0,Panadol,1.0,,2,3,1.0,0.22
+avx2_base-q8_auto_t4,nouman-tanveer,own_02,free_dictation,17.15,2.54,0.148,238,0.0,Panadol,1.0,,3,3,1.0,0.127
+avx2_base-q8_auto_t4,nouman-tanveer,own_03,free_dictation,14.68,2.27,0.155,237,0.0,Panadol,1.0,,2,2,1.0,0.036
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_01,dictation,20.57,16.48,0.801,337,0.5,Panadol,0.5,500,2,2,1.0,0.283
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_02,dictation,18.09,7.24,0.4,322,0.667,Panadol,0.0,34 95,3,0,0.0,0.282
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_03,dictation,17.32,3.85,0.222,312,0.0,ORS Flagyl,0.0,40 400,1,0,0.0,1.0
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_04,dictation,13.74,4.13,0.3,314,1.0,,0.5,160 100,2,0,0.0,0.591
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_05,dictation,17.66,3.89,0.22,317,1.0,,0.2,180 260 500 1000,1,0,0.0,0.407
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_06,dictation,14.42,9.63,0.668,325,1.0,,0.0,30 20,2,0,0.0,0.351
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_07,dictation,17.66,11.46,0.649,325,0.5,Cough syrup,0.0,45 625,1,0,0.0,0.32
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_08,dictation,13.82,3.52,0.255,315,0.0,Cipro,0.5,500,4,0,0.0,0.429
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_09,dictation,14.25,3.72,0.261,311,0.0,Ventolin Zyrtec,0.0,22,2,0,0.0,1.0
+avx2_base-q8_auto_t4_whisper_drugs,hadi,dict_10,dictation,15.7,8.25,0.525,328,0.667,Augmentin,0.0,38,5,0,0.0,0.228
+avx2_base-q8_auto_t4_whisper_drugs,hadi,own_01,free_dictation,12.54,3.11,0.248,313,1.0,,1.0,,2,1,0.5,0.266
+avx2_base-q8_auto_t4_whisper_drugs,hadi,own_02,free_dictation,16.04,5.14,0.32,321,1.0,,1.0,,3,0,0.0,1.026
+avx2_base-q8_auto_t4_whisper_drugs,hadi,own_03,free_dictation,14.93,7.99,0.535,319,1.0,,0.667,45,2,1,0.5,0.421
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_01,dictation,29.7,13.41,0.452,335,1.0,,0.5,28,2,0,0.0,0.34
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_02,dictation,25.34,3.82,0.151,318,1.0,,0.5,34,3,0,0.0,0.282
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_03,dictation,30.29,10.74,0.354,325,1.0,,0.5,400,1,0,0.0,0.303
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_04,dictation,24.15,13.41,0.555,335,1.0,,0.5,55 160,2,1,0.5,0.258
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_05,dictation,37.63,5.3,0.141,332,1.0,,0.6,180 260,1,0,0.0,0.326
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_06,dictation,19.29,3.52,0.182,317,1.0,,0.0,30 20,2,0,0.0,0.23
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_07,dictation,28.59,23.18,0.811,341,0.0,Augmentin Cough syrup,0.5,625,1,0,0.0,0.948
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_08,dictation,25.34,22.59,0.891,343,0.0,Cipro,0.0,26 500,4,0,0.0,0.934
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_09,dictation,24.75,3.8,0.153,316,0.5,Ventolin,0.0,22,2,0,0.0,0.296
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,dict_10,dictation,19.2,3.83,0.2,315,1.0,,0.0,38,5,0,0.0,0.228
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,own_01,free_dictation,14.17,2.58,0.182,312,1.0,,1.0,,2,2,1.0,0.016
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,own_02,free_dictation,16.47,2.6,0.158,312,1.0,,1.0,,3,3,1.0,0.293
+avx2_base-q8_auto_t4_whisper_drugs,merab-haroon,own_03,free_dictation,16.73,1.97,0.118,311,1.0,,1.0,,2,2,1.0,0.107
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_01,dictation,28.84,3.87,0.134,321,0.5,Azomax,0.5,28,2,0,0.0,0.264
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_02,dictation,24.58,6.14,0.25,325,1.0,,0.0,34 95,3,5,1.0,0.282
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_03,dictation,31.15,12.59,0.404,330,0.0,ORS Flagyl,0.0,40 400,1,0,0.0,1.0
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_04,dictation,23.13,2.65,0.115,317,1.0,,0.25,55 160 100,2,2,1.0,0.318
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_05,dictation,30.38,17.26,0.568,331,1.0,,0.2,50 180 260 500,1,0,0.0,0.244
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_06,dictation,20.39,2.75,0.135,316,1.0,,0.0,30 20,2,1,0.5,0.216
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_07,dictation,30.55,5.02,0.164,320,0.0,Augmentin Cough syrup,0.0,45 625,1,0,0.0,0.33
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_08,dictation,20.91,5.64,0.27,325,1.0,,0.0,26 500,4,0,0.0,0.319
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_09,dictation,23.47,2.7,0.115,316,0.5,Ventolin,0.0,22,2,1,0.5,0.247
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,dict_10,dictation,23.13,3.01,0.13,318,0.667,Augmentin,0.0,38,5,0,0.0,0.19
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,own_01,free_dictation,12.12,1.84,0.152,313,0.0,Panadol,1.0,,2,2,1.0,0.203
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,own_02,free_dictation,17.15,2.06,0.12,312,1.0,,1.0,,3,3,1.0,0.127
+avx2_base-q8_auto_t4_whisper_drugs,nouman-tanveer,own_03,free_dictation,14.68,1.89,0.129,311,0.0,Panadol,1.0,,2,2,1.0,0.036
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_01,dictation,20.57,9.32,0.453,312,1.0,,0.0,28 500,2,0,0.0,0.311
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_02,dictation,18.09,7.66,0.424,314,1.0,,0.0,34 95,3,0,0.0,0.301
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_03,dictation,17.32,17.99,1.039,319,0.5,Flagyl,0.0,40 400,1,1,1.0,0.172
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_04,dictation,13.74,4.31,0.314,301,1.0,,0.5,160 100,2,0,0.0,0.621
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_05,dictation,17.66,3.13,0.177,301,1.0,,0.2,180 260 500 1000,1,0,0.0,0.547
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_06,dictation,14.42,7.78,0.54,311,0.5,Risek,0.0,30 20,2,0,0.0,0.189
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_07,dictation,17.66,9.64,0.546,320,0.0,Augmentin Cough syrup,0.0,45 625,1,0,0.0,0.412
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_08,dictation,13.82,14.3,1.034,324,0.0,Cipro,0.0,26 500,4,3,0.75,0.22
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_09,dictation,14.25,12.76,0.895,317,0.0,Ventolin Zyrtec,0.0,22,2,0,0.0,1.0
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,dict_10,dictation,15.7,8.21,0.523,311,0.667,Zyrtec,0.0,38,5,0,0.0,0.329
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,own_01,free_dictation,12.54,2.76,0.22,299,1.0,,1.0,,2,2,1.0,0.25
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,own_02,free_dictation,16.04,5.07,0.316,309,1.0,,1.0,,3,0,0.0,0.649
+avx2_base-q8_auto_t4_whisper_drugs_nokey,hadi,own_03,free_dictation,14.93,7.84,0.525,312,1.0,,0.667,45,2,1,0.5,0.342
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_01,dictation,29.7,8.84,0.298,316,1.0,,0.5,28,2,0,0.0,0.274
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_02,dictation,25.34,3.94,0.155,304,1.0,,0.5,34,3,0,0.0,0.33
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_03,dictation,30.29,7.13,0.235,311,0.5,Flagyl,0.0,40 400,1,0,0.0,0.222
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_04,dictation,24.15,8.35,0.346,312,1.0,,0.25,55 160 100,2,1,0.5,0.424
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_05,dictation,37.63,4.25,0.113,329,1.0,,0.4,180 260 500,1,0,0.0,0.442
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_06,dictation,19.29,3.47,0.18,302,0.5,Risek,0.0,30 20,2,0,0.0,0.23
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_07,dictation,28.59,22.38,0.783,335,0.0,Augmentin Cough syrup,0.5,625,1,0,0.0,0.948
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_08,dictation,25.34,17.96,0.709,322,0.0,Cipro,0.0,26 500,4,0,0.0,0.934
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_09,dictation,24.75,2.91,0.118,304,0.5,Ventolin,0.0,22,2,0,0.0,0.259
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,dict_10,dictation,19.2,2.5,0.13,304,1.0,,0.0,38,5,0,0.0,0.228
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,own_01,free_dictation,14.17,1.79,0.127,298,1.0,,1.0,,2,2,1.0,0.065
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,own_02,free_dictation,16.47,1.91,0.116,299,0.0,Panadol,1.0,,3,3,1.0,0.28
+avx2_base-q8_auto_t4_whisper_drugs_nokey,merab-haroon,own_03,free_dictation,16.73,1.85,0.11,300,1.0,,1.0,,2,2,1.0,0.143
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_01,dictation,28.84,5.69,0.197,312,0.5,Azomax,0.5,28,2,0,0.0,0.274
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_02,dictation,24.58,5.45,0.222,308,0.667,Panadol,0.0,34 95,3,0,0.0,0.301
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_03,dictation,31.15,11.7,0.375,314,0.0,ORS Flagyl,0.0,40 400,1,0,0.0,1.0
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_04,dictation,23.13,2.53,0.109,302,1.0,,0.25,55 160 100,2,2,1.0,0.212
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_05,dictation,30.38,4.55,0.15,305,1.0,,0.2,50 180 260 500,1,0,0.0,0.279
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_06,dictation,20.39,2.46,0.121,303,0.5,Risek,0.0,30 20,2,1,0.5,0.216
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_07,dictation,30.55,12.6,0.413,320,0.0,Augmentin Cough syrup,0.0,45 625,1,0,0.0,0.629
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_08,dictation,20.91,2.22,0.106,304,0.0,Cipro,0.0,26 500,4,1,0.25,0.242
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_09,dictation,23.47,1.94,0.083,302,0.5,Ventolin,0.0,22,2,2,1.0,0.247
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,dict_10,dictation,23.13,7.06,0.305,313,0.667,Augmentin,0.0,38,5,5,1.0,0.215
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,own_01,free_dictation,12.12,1.41,0.117,298,0.0,Panadol,1.0,,2,2,1.0,0.203
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,own_02,free_dictation,17.15,1.55,0.091,299,0.0,Panadol,1.0,,3,3,1.0,0.113
+avx2_base-q8_auto_t4_whisper_drugs_nokey,nouman-tanveer,own_03,free_dictation,14.68,1.44,0.098,298,0.0,Panadol,1.0,,2,2,1.0,0.036
 avx2_base-q8_en_t2,hadi,dict_01,dictation,20.57,15.66,0.761,225,0.5,Panadol,0.0,28 500,2,1,0.5,0.708
 avx2_base-q8_en_t2,hadi,dict_02,dictation,18.09,15.78,0.872,225,0.0,Panadol Brufen Disprin,0.0,34 95,3,0,0.0,0.68
 avx2_base-q8_en_t2,hadi,dict_03,dictation,17.32,6.33,0.365,225,0.0,ORS Flagyl,0.0,40 400,1,1,1.0,0.747
@@ -116,6 +233,123 @@ avx2_base-q8_ur_t2,nouman-tanveer,dict_10,dictation,23.13,6.13,0.265,225,0.667,A
 avx2_base-q8_ur_t2,nouman-tanveer,own_01,free_dictation,12.12,4.3,0.354,224,1.0,,0.0,60,2,0,0.0,0.271
 avx2_base-q8_ur_t2,nouman-tanveer,own_02,free_dictation,17.15,29.7,1.732,225,0.0,Panadol,0.0,35,3,0,0.0,0.901
 avx2_base-q8_ur_t2,nouman-tanveer,own_03,free_dictation,14.68,32.32,2.202,225,0.0,Panadol,0.0,45 140 90,2,0,0.0,0.839
+avx2_base-q8_ur_t4,hadi,dict_01,dictation,20.57,2.28,0.111,243,0.5,Panadol,0.5,500,2,2,1.0,0.283
+avx2_base-q8_ur_t4,hadi,dict_02,dictation,18.09,2.42,0.134,239,0.667,Panadol,0.5,34,3,3,1.0,0.194
+avx2_base-q8_ur_t4,hadi,dict_03,dictation,17.32,1.97,0.114,241,0.5,Flagyl,0.0,40 400,1,1,1.0,0.202
+avx2_base-q8_ur_t4,hadi,dict_04,dictation,13.74,3.05,0.222,241,1.0,,0.75,160,2,2,1.0,0.303
+avx2_base-q8_ur_t4,hadi,dict_05,dictation,17.66,2.65,0.15,243,1.0,,0.2,180 260 500 1000,1,1,1.0,0.279
+avx2_base-q8_ur_t4,hadi,dict_06,dictation,14.42,2.48,0.172,241,1.0,,0.5,20,2,2,1.0,0.176
+avx2_base-q8_ur_t4,hadi,dict_07,dictation,17.66,2.52,0.142,242,0.0,Augmentin Cough syrup,0.0,45 625,1,2,1.0,0.237
+avx2_base-q8_ur_t4,hadi,dict_08,dictation,13.82,2.98,0.216,242,0.0,Cipro,0.0,26 500,4,3,0.75,0.154
+avx2_base-q8_ur_t4,hadi,dict_09,dictation,14.25,2.3,0.162,238,1.0,,0.0,22,2,2,1.0,0.148
+avx2_base-q8_ur_t4,hadi,dict_10,dictation,15.7,2.39,0.153,241,0.667,Zyrtec,0.0,38,5,5,1.0,0.228
+avx2_base-q8_ur_t4,hadi,own_01,free_dictation,12.54,2.05,0.163,236,1.0,,1.0,,2,0,0.0,0.234
+avx2_base-q8_ur_t4,hadi,own_02,free_dictation,16.04,12.08,0.753,260,0.0,Panadol,0.0,35,3,0,0.0,0.805
+avx2_base-q8_ur_t4,hadi,own_03,free_dictation,14.93,2.05,0.137,241,1.0,,0.667,45,2,1,0.5,0.211
+avx2_base-q8_ur_t4,merab-haroon,dict_01,dictation,29.7,16.67,0.561,264,1.0,,0.5,28,2,2,1.0,0.217
+avx2_base-q8_ur_t4,merab-haroon,dict_02,dictation,25.34,2.91,0.115,241,1.0,,0.0,34 95,3,1,0.333,0.243
+avx2_base-q8_ur_t4,merab-haroon,dict_03,dictation,30.29,8.54,0.282,248,1.0,,0.5,400,1,1,1.0,0.162
+avx2_base-q8_ur_t4,merab-haroon,dict_04,dictation,24.15,2.39,0.099,241,1.0,,0.5,55 160,2,1,0.5,0.303
+avx2_base-q8_ur_t4,merab-haroon,dict_05,dictation,37.63,5.44,0.145,272,1.0,,0.0,50 180 260 500 1000,1,0,0.0,0.547
+avx2_base-q8_ur_t4,merab-haroon,dict_06,dictation,19.29,2.67,0.138,243,0.0,Risek Gaviscon,0.5,20,2,2,1.0,0.257
+avx2_base-q8_ur_t4,merab-haroon,dict_07,dictation,28.59,3.75,0.131,241,0.5,Cough syrup,0.5,625,1,0,0.0,0.299
+avx2_base-q8_ur_t4,merab-haroon,dict_08,dictation,25.34,2.74,0.108,239,1.0,,0.5,26,4,1,0.25,0.231
+avx2_base-q8_ur_t4,merab-haroon,dict_09,dictation,24.75,2.5,0.101,240,0.5,Ventolin,0.0,22,2,0,0.0,0.173
+avx2_base-q8_ur_t4,merab-haroon,dict_10,dictation,19.2,2.62,0.136,241,1.0,,0.0,38,5,0,0.0,0.228
+avx2_base-q8_ur_t4,merab-haroon,own_01,free_dictation,14.17,12.29,0.867,252,1.0,,1.0,,2,0,0.0,0.323
+avx2_base-q8_ur_t4,merab-haroon,own_02,free_dictation,16.47,24.63,1.495,265,0.0,Panadol,0.0,35,3,0,0.0,1.133
+avx2_base-q8_ur_t4,merab-haroon,own_03,free_dictation,16.73,2.07,0.124,236,0.0,Panadol,0.667,45,2,2,1.0,0.482
+avx2_base-q8_ur_t4,nouman-tanveer,dict_01,dictation,28.84,4.28,0.149,248,1.0,,0.5,28,2,2,1.0,0.189
+avx2_base-q8_ur_t4,nouman-tanveer,dict_02,dictation,24.58,3.69,0.15,246,1.0,,0.5,34,3,3,1.0,0.155
+avx2_base-q8_ur_t4,nouman-tanveer,dict_03,dictation,31.15,4.29,0.138,241,0.5,ORS,0.5,40,1,1,1.0,0.374
+avx2_base-q8_ur_t4,nouman-tanveer,dict_04,dictation,23.13,3.06,0.132,242,1.0,,0.25,55 160 5,2,2,1.0,0.242
+avx2_base-q8_ur_t4,nouman-tanveer,dict_05,dictation,30.38,6.53,0.215,244,1.0,,0.2,50 180 260 500,1,1,1.0,0.314
+avx2_base-q8_ur_t4,nouman-tanveer,dict_06,dictation,20.39,2.55,0.125,241,1.0,,0.0,30 20,2,2,1.0,0.216
+avx2_base-q8_ur_t4,nouman-tanveer,dict_07,dictation,30.55,6.08,0.199,244,0.0,Augmentin Cough syrup,0.0,45 625,1,0,0.0,0.402
+avx2_base-q8_ur_t4,nouman-tanveer,dict_08,dictation,20.91,2.55,0.122,243,1.0,,0.0,26 500,4,2,0.5,0.209
+avx2_base-q8_ur_t4,nouman-tanveer,dict_09,dictation,23.47,2.58,0.11,241,0.5,Ventolin,1.0,,2,2,1.0,0.173
+avx2_base-q8_ur_t4,nouman-tanveer,dict_10,dictation,23.13,2.97,0.129,242,0.667,Augmentin,0.0,38,5,5,1.0,0.215
+avx2_base-q8_ur_t4,nouman-tanveer,own_01,free_dictation,12.12,5.56,0.459,244,1.0,,0.0,60,2,0,0.0,0.339
+avx2_base-q8_ur_t4,nouman-tanveer,own_02,free_dictation,17.15,4.62,0.269,245,0.0,Panadol,0.0,35,3,0,0.0,0.958
+avx2_base-q8_ur_t4,nouman-tanveer,own_03,free_dictation,14.68,15.91,1.084,264,0.0,Panadol,0.0,45 140 90,2,0,0.0,0.839
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_01,dictation,20.57,11.57,0.562,334,0.5,Panadol,0.5,500,2,2,1.0,0.283
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_02,dictation,18.09,5.93,0.328,326,0.667,Panadol,0.0,34 95,3,0,0.0,0.282
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_03,dictation,17.32,2.65,0.153,312,0.0,ORS Flagyl,0.0,40 400,1,0,0.0,1.0
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_04,dictation,13.74,3.11,0.227,314,1.0,,0.5,160 100,2,0,0.0,0.591
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_05,dictation,17.66,2.51,0.142,316,1.0,,0.2,180 260 500 1000,1,0,0.0,0.407
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_06,dictation,14.42,7.41,0.514,326,1.0,,0.0,30 20,2,0,0.0,0.351
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_07,dictation,17.66,7.36,0.417,331,0.5,Cough syrup,0.0,45 625,1,0,0.0,0.32
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_08,dictation,13.82,2.24,0.162,313,0.0,Cipro,0.5,500,4,0,0.0,0.429
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_09,dictation,14.25,2.52,0.177,312,0.0,Ventolin Zyrtec,0.0,22,2,0,0.0,1.0
+avx2_base-q8_ur_t4_whisper_drugs,hadi,dict_10,dictation,15.7,6.87,0.438,328,0.667,Augmentin,0.0,38,5,0,0.0,0.228
+avx2_base-q8_ur_t4_whisper_drugs,hadi,own_01,free_dictation,12.54,2.38,0.19,314,1.0,,1.0,,2,1,0.5,0.266
+avx2_base-q8_ur_t4_whisper_drugs,hadi,own_02,free_dictation,16.04,4.53,0.283,322,1.0,,1.0,,3,0,0.0,1.026
+avx2_base-q8_ur_t4_whisper_drugs,hadi,own_03,free_dictation,14.93,6.53,0.437,317,1.0,,0.667,45,2,1,0.5,0.421
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_01,dictation,29.7,6.66,0.224,327,1.0,,0.5,28,2,0,0.0,0.321
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_02,dictation,25.34,2.91,0.115,317,1.0,,0.5,34,3,0,0.0,0.301
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_03,dictation,30.29,11.3,0.373,328,1.0,,0.0,40 400,1,0,0.0,0.232
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_04,dictation,24.15,5.64,0.234,319,1.0,,0.5,55 160,2,0,0.0,0.379
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_05,dictation,37.63,5.26,0.14,332,1.0,,0.4,180 260 500,1,0,0.0,0.407
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_06,dictation,19.29,2.74,0.142,314,1.0,,0.5,20,2,0,0.0,0.324
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_07,dictation,28.59,7.8,0.273,327,0.5,Cough syrup,1.0,,1,0,0.0,0.402
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_08,dictation,25.34,8.7,0.343,324,1.0,,0.5,26,4,0,0.0,0.308
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_09,dictation,24.75,3.86,0.156,317,0.5,Ventolin,0.0,22,2,0,0.0,0.21
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,dict_10,dictation,19.2,3.67,0.191,318,1.0,,0.0,38,5,0,0.0,0.228
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,own_01,free_dictation,14.17,2.23,0.157,311,1.0,,1.0,,2,2,1.0,0.097
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,own_02,free_dictation,16.47,2.68,0.162,312,1.0,,1.0,,3,2,0.667,0.347
+avx2_base-q8_ur_t4_whisper_drugs,merab-haroon,own_03,free_dictation,16.73,2.18,0.13,313,1.0,,0.667,45,2,2,1.0,0.196
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_01,dictation,28.84,4.95,0.172,322,0.5,Azomax,0.5,28,2,0,0.0,0.245
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_02,dictation,24.58,9.51,0.387,328,1.0,,0.0,34 95,3,5,1.0,0.282
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_03,dictation,31.15,5.26,0.169,316,0.0,ORS Flagyl,0.0,40 400,1,0,0.0,0.99
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_04,dictation,23.13,2.72,0.118,317,1.0,,0.0,55 160 100 5,2,2,1.0,0.273
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_05,dictation,30.38,10.16,0.334,325,1.0,,0.4,50 180 260,1,1,1.0,0.198
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_06,dictation,20.39,2.46,0.121,315,1.0,,0.0,30 20,2,1,0.5,0.203
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_07,dictation,30.55,8.57,0.28,321,0.0,Augmentin Cough syrup,0.0,45 625,1,0,0.0,0.268
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_08,dictation,20.91,7.62,0.364,326,1.0,,0.0,26 500,4,0,0.0,0.319
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_09,dictation,23.47,6.54,0.279,327,1.0,,0.0,22,2,1,0.5,0.222
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,dict_10,dictation,23.13,3.27,0.142,320,0.667,Augmentin,0.0,38,5,0,0.0,0.19
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,own_01,free_dictation,12.12,1.89,0.156,313,1.0,,1.0,,2,3,1.0,0.136
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,own_02,free_dictation,17.15,1.92,0.112,313,1.0,,1.0,,3,3,1.0,0.155
+avx2_base-q8_ur_t4_whisper_drugs,nouman-tanveer,own_03,free_dictation,14.68,1.78,0.122,311,0.0,Panadol,1.0,,2,2,1.0,0.071
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_01,dictation,20.57,6.87,0.334,317,1.0,,0.0,28 500,2,0,0.0,0.311
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_02,dictation,18.09,5.74,0.317,313,1.0,,0.0,34 95,3,0,0.0,0.301
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_03,dictation,17.32,12.73,0.735,324,0.5,Flagyl,0.0,40 400,1,1,1.0,0.172
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_04,dictation,13.74,3.08,0.224,301,1.0,,0.5,160 100,2,0,0.0,0.621
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_05,dictation,17.66,2.13,0.121,300,1.0,,0.2,180 260 500 1000,1,0,0.0,0.547
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_06,dictation,14.42,6.27,0.435,311,0.5,Risek,0.0,30 20,2,0,0.0,0.189
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_07,dictation,17.66,7.62,0.431,314,0.0,Augmentin Cough syrup,0.0,45 625,1,0,0.0,0.412
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_08,dictation,13.82,12.46,0.901,322,0.0,Cipro,0.0,26 500,4,3,0.75,0.22
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_09,dictation,14.25,11.7,0.821,317,0.0,Ventolin Zyrtec,0.0,22,2,0,0.0,1.0
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,dict_10,dictation,15.7,7.19,0.458,313,0.667,Zyrtec,0.0,38,5,0,0.0,0.329
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,own_01,free_dictation,12.54,2.06,0.164,300,1.0,,1.0,,2,2,1.0,0.25
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,own_02,free_dictation,16.04,5.09,0.317,311,1.0,,1.0,,3,0,0.0,0.649
+avx2_base-q8_ur_t4_whisper_drugs_nokey,hadi,own_03,free_dictation,14.93,7.59,0.508,314,1.0,,0.667,45,2,1,0.5,0.342
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_01,dictation,29.7,3.04,0.102,308,1.0,,0.5,28,2,0,0.0,0.255
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_02,dictation,25.34,4.16,0.164,307,1.0,,0.5,34,3,0,0.0,0.291
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_03,dictation,30.29,10.97,0.362,311,0.5,Flagyl,0.0,40 400,1,0,0.0,0.242
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_04,dictation,24.15,8.37,0.346,313,1.0,,0.25,55 160 100,2,0,0.0,0.394
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_05,dictation,37.63,7.5,0.199,330,1.0,,0.8,260,1,0,0.0,0.36
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_06,dictation,19.29,3.43,0.178,303,0.5,Risek,0.5,20,2,0,0.0,0.257
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_07,dictation,28.59,8.93,0.312,315,0.5,Cough syrup,1.0,,1,0,0.0,0.32
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_08,dictation,25.34,3.37,0.133,304,1.0,,0.5,26,4,1,0.25,0.209
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_09,dictation,24.75,3.63,0.147,303,0.5,Ventolin,0.0,22,2,0,0.0,0.247
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,dict_10,dictation,19.2,3.09,0.161,303,1.0,,0.0,38,5,0,0.0,0.228
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,own_01,free_dictation,14.17,2.16,0.153,299,1.0,,1.0,,2,2,1.0,0.065
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,own_02,free_dictation,16.47,2.23,0.136,300,0.0,Panadol,1.0,,3,3,1.0,0.333
+avx2_base-q8_ur_t4_whisper_drugs_nokey,merab-haroon,own_03,free_dictation,16.73,1.82,0.109,301,1.0,,1.0,,2,2,1.0,0.25
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_01,dictation,28.84,3.81,0.132,310,0.5,Azomax,0.5,28,2,0,0.0,0.226
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_02,dictation,24.58,6.97,0.283,311,0.667,Panadol,0.0,34 95,3,0,0.0,0.301
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_03,dictation,31.15,13.38,0.43,317,0.5,ORS,0.5,40,1,1,1.0,0.232
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_04,dictation,23.13,3.29,0.142,304,1.0,,0.25,55 160 100,2,3,1.0,0.288
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_05,dictation,30.38,12.17,0.4,320,1.0,,0.2,50 180 260 500,1,1,1.0,0.337
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_06,dictation,20.39,2.6,0.128,304,1.0,,0.0,30 20,2,1,0.5,0.216
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_07,dictation,30.55,5.32,0.174,300,0.0,Augmentin Cough syrup,0.0,45 625,1,0,0.0,0.938
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_08,dictation,20.91,3.01,0.144,306,0.0,Cipro,0.0,26 500,4,1,0.25,0.242
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_09,dictation,23.47,3.93,0.168,306,0.5,Ventolin,0.0,22,2,2,1.0,0.222
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_10,dictation,23.13,13.79,0.596,316,0.667,Augmentin,0.0,38,5,5,1.0,0.215
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,own_01,free_dictation,12.12,1.72,0.142,300,1.0,,1.0,,2,3,1.0,0.102
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,own_02,free_dictation,17.15,2.1,0.123,302,1.0,,1.0,,3,3,1.0,0.169
+avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,own_03,free_dictation,14.68,1.71,0.117,297,0.0,Panadol,1.0,,2,2,1.0,0.054
 avx2_small-q8_auto_t2,hadi,dict_01,dictation,20.57,22.43,1.09,553,0.5,Azomax,0.5,500,2,2,1.0,0.17
 avx2_small-q8_auto_t2,hadi,dict_02,dictation,18.09,20.7,1.145,552,0.667,Panadol,0.5,34,3,3,1.0,0.184
 avx2_small-q8_auto_t2,hadi,dict_03,dictation,17.32,21.02,1.213,552,1.0,,0.0,40 400,1,1,1.0,0.141

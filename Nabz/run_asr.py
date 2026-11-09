@@ -12,6 +12,7 @@ import argparse
 import re
 import subprocess
 import time
+from pathlib import Path
 
 import psutil
 
@@ -56,6 +57,7 @@ def main():
     ap.add_argument("--clips", nargs="+", help="clip ids or prefixes, e.g. dict own_01")
     ap.add_argument("--include-visits", action="store_true", help="also run the long conv_ clips")
     ap.add_argument("--limit", type=int)
+    ap.add_argument("--prompt", help="text file passed to whisper --prompt (e.g. prompts/whisper_drugs.txt); tag gets _<file stem>")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()
 
@@ -79,7 +81,8 @@ def main():
                 raise SystemExit(f"Model '{model}' not found at {mpath}. See README step 3.")
             for lang in args.langs:
                 for th in args.threads:
-                    tag = f"{build}_{model}_{lang}_t{th}"
+                    tag = f"{build}_{model}_{lang}_t{th}" + ("_" + Path(args.prompt).stem if args.prompt else "")
+                    prompt = ["--prompt", (ROOT / args.prompt).read_text(encoding="utf-8").strip()] if args.prompt else []
                     done = 0
                     for c in clips:
                         out_dir = RESULTS / "asr" / tag / c["speaker"]
@@ -88,7 +91,7 @@ def main():
                         if base.with_suffix(".txt").exists() and not args.force:
                             continue
                         cmd = [str(binary), "-m", str(mpath), "-f", str(ROOT / c["wav"]), "-t", str(th),
-                               "-l", lang, "-nt", "-otxt", "-of", str(base), *cfg.get("extra_args", [])]
+                               "-l", lang, "-nt", "-otxt", "-of", str(base), *prompt, *cfg.get("extra_args", [])]
                         rc, wall, load_s, proc_s, peak = run_one(cmd, base.with_suffix(".log"))
                         audio_s = float(c["duration_s"] or 0)
                         rtf = (proc_s or wall) / audio_s if audio_s else None

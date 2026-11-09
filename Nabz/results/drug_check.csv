@@ -1,4 +1,24 @@
 run,speaker,clip,name,in_lexicon,said,flagged,truth
+avx2_base-q8_ur_t4__qwen25-7b-ollama,hadi,dict_05,Glucophage,True,True,False,prescribed
+avx2_base-q8_ur_t4__qwen25-7b-ollama,hadi,own_01,Levofloxacin,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama,merab-haroon,dict_01,Azomax,True,True,False,prescribed
+avx2_base-q8_ur_t4__qwen25-7b-ollama,merab-haroon,dict_03,Augmentin 625,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama,merab-haroon,dict_08,Ciprofloxacin,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama,nouman-tanveer,dict_07,Augmentin 625,True,False,True,prescribed
+avx2_base-q8_ur_t4__qwen25-7b-ollama,nouman-tanveer,dict_07,Cefixime,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama,nouman-tanveer,dict_09,Augmentin 625,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama,nouman-tanveer,own_01,Augmentin 625,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,hadi,own_03,Augmentin 625,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,merab-haroon,dict_01,Azomix,True,True,False,prescribed
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,merab-haroon,dict_02,Disperin,True,True,False,AVOID
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,merab-haroon,dict_08,Ciprofloxacin,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,merab-haroon,dict_09,Augmentin 625,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,merab-haroon,dict_10,Augmentin 625,True,True,False,AVOID
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,merab-haroon,own_01,Augmentin 625,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,nouman-tanveer,dict_01,Maxcef 500,False,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,nouman-tanveer,dict_07,Cefixime,True,False,True,wrong
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,nouman-tanveer,dict_07,Cough syrup,False,False,True,prescribed
+avx2_base-q8_ur_t4__qwen25-7b-ollama-v2,nouman-tanveer,dict_09,Augmentin 625,True,False,True,wrong
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_01,Saban,False,True,True,wrong
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_05,Glucophage,True,True,False,prescribed
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,own_01,Pindadal,True,True,False,prescribed
@@ -10,6 +30,9 @@ avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_01,Exomix,False,True,True,wr
 avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_04,Nurk Five,False,True,True,prescribed
 avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_05,Glucophage,True,True,False,prescribed
 avx2_small-q8_ur_t2__gemma4-e2b,nouman-tanveer,dict_05,Glucophage,True,True,False,prescribed
+avx2_small-q8_ur_t2__qwen25-7b-ollama,hadi,dict_05,Gliclazide,True,False,True,wrong
+avx2_small-q8_ur_t2__qwen25-7b-ollama,hadi,own_01,Dinapride,False,False,True,wrong
+avx2_small-q8_ur_t2__qwen25-7b-ollama,merab-haroon,dict_01,Azomix,True,True,False,prescribed
 avx2_small-q8_ur_t2__qwen35-4b,hadi,dict_01,Paracetamol,True,False,True,wrong
 avx2_small-q8_ur_t2__qwen35-4b,hadi,dict_04,Nurofen,False,False,True,wrong
 avx2_small-q8_ur_t2__qwen35-4b,hadi,dict_05,Glucophage,True,True,False,prescribed
@@ -82,6 +105,40 @@ ref__gemma4-e2b,nouman-tanveer,dict_09,Zyrtec,True,True,False,prescribed
 ref__gemma4-e2b,nouman-tanveer,dict_10,Zyrtec,True,True,False,prescribed
 ref__gemma4-e2b,nouman-tanveer,own_01,Panadol,True,True,False,prescribed
 ref__gemma4-e2b,nouman-tanveer,own_02,Panadol,True,True,False,prescribed
+ref__qwen25-7b-ollama,hadi,dict_01,Azomax 500,True,True,False,prescribed
+ref__qwen25-7b-ollama,hadi,dict_02,paracetamol,True,False,True,wrong
+ref__qwen25-7b-ollama,hadi,dict_04,Norvasc,True,True,False,prescribed
+ref__qwen25-7b-ollama,hadi,dict_05,Glucophage,True,True,False,prescribed
+ref__qwen25-7b-ollama,hadi,dict_07,Augmentin 625,True,True,False,prescribed
+ref__qwen25-7b-ollama,hadi,dict_07,cough syrup,False,False,True,prescribed
+ref__qwen25-7b-ollama,hadi,dict_08,Cipro 500,True,True,False,prescribed
+ref__qwen25-7b-ollama,hadi,dict_10,Zyrtec,True,True,False,prescribed
+ref__qwen25-7b-ollama,hadi,own_01,Panadol,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_01,Azomax 500,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_02,paracetamol,True,False,True,wrong
+ref__qwen25-7b-ollama,merab-haroon,dict_03,Flagyl 400,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_04,Norvasc,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_05,Glucophage,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_07,Augmentin 625,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_07,cough syrup,False,False,True,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_08,Cipro 500,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_09,Ventolin,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_09,Zyrtec,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,dict_10,Zyrtec,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,own_01,Panadol,True,True,False,prescribed
+ref__qwen25-7b-ollama,merab-haroon,own_03,Panadol,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_01,Azomax 500,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_02,paracetamol,True,False,True,wrong
+ref__qwen25-7b-ollama,nouman-tanveer,dict_03,Flagyl 400,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_04,Norvasc,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_05,Glucophage,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_07,Augmentin 625,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_07,cough syrup,False,False,True,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_09,Ventolin,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_09,Zyrtec,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,dict_10,Zyrtec,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,own_01,Panadol,True,True,False,prescribed
+ref__qwen25-7b-ollama,nouman-tanveer,own_03,Panadol,True,True,False,prescribed
 ref__qwen35-4b,hadi,dict_01,Azomax,True,True,False,prescribed
 ref__qwen35-4b,hadi,dict_02,Panadol,True,True,False,prescribed
 ref__qwen35-4b,hadi,dict_03,Flagyl,True,True,False,prescribed

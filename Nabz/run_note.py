@@ -51,16 +51,19 @@ def main():
     ap.add_argument("--include-visits", action="store_true")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--url", help="server to use instead of config, e.g. http://127.0.0.1:11434 for Ollama")
+    ap.add_argument("--model", help="model name the server needs (Ollama), e.g. qwen2.5:7b")
+    ap.add_argument("--prompt", default="note_system.txt", help="system prompt file under prompts/")
     ap.add_argument("--timeout", type=int, default=900, help="seconds to wait for one note (raise on slow CPUs)")
     args = ap.parse_args()
 
-    url = cfg["server_url"].rstrip("/")
+    url = (args.url or cfg["server_url"]).rstrip("/")
     try:
-        urllib.request.urlopen(url + "/health", timeout=5)
+        urllib.request.urlopen(url + "/v1/models", timeout=5)
     except (urllib.error.URLError, OSError):
         raise SystemExit(f"No llama-server answering at {url}. Start it first (see the top of this file).")
 
-    system = (ROOT / "prompts" / "note_system.txt").read_text(encoding="utf-8")
+    system = (ROOT / "prompts" / args.prompt).read_text(encoding="utf-8")
     schema = load_json(ROOT / "note_schema.json")
     clips = read_manifest()
     if args.speakers:
@@ -86,6 +89,7 @@ def main():
         if out.exists() and not args.force:
             continue
         payload = {
+            **({"model": args.model} if args.model else {}),
             "messages": [{"role": "system", "content": system},
                          {"role": "user", "content": "Transcript:\n" + text}],
             "temperature": cfg.get("temperature", 0),
