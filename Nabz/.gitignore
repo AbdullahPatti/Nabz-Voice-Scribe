@@ -6,3 +6,5 @@ llama.cpp/
 .venv/
 __pycache__/
 *.log
+downloads/
+recordings/*.zip
