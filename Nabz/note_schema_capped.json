@@ -1,0 +1,165 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "patient",
+    "complaints",
+    "negatives",
+    "findings",
+    "allergies",
+    "medications",
+    "drugs_to_avoid",
+    "investigations_ordered",
+    "advice",
+    "follow_up"
+  ],
+  "properties": {
+    "patient": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sex",
+        "age_years"
+      ],
+      "properties": {
+        "sex": {
+          "type": "string",
+          "enum": [
+            "male",
+            "female",
+            "unknown"
+          ]
+        },
+        "age_years": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      }
+    },
+    "complaints": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "symptom",
+          "duration"
+        ],
+        "properties": {
+          "symptom": {
+            "type": "string"
+          },
+          "duration": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      },
+      "maxItems": 10
+    },
+    "negatives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 10
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 10
+    },
+    "allergies": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 10
+    },
+    "medications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "strength",
+          "dose",
+          "frequency",
+          "duration",
+          "instructions"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "strength": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "dose": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "frequency": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "duration": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "instructions": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      },
+      "maxItems": 10
+    },
+    "drugs_to_avoid": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 10
+    },
+    "investigations_ordered": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 10
+    },
+    "advice": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 10
+    },
+    "follow_up": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "description": "note_schema.json with every list capped at 10 items, so a looping model must close the list (grammar-enforced). Real notes in the spike never exceeded 7 items."
+}

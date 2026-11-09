@@ -54,6 +54,8 @@ def main():
     ap.add_argument("--url", help="server to use instead of config, e.g. http://127.0.0.1:11434 for Ollama")
     ap.add_argument("--model", help="model name the server needs (Ollama), e.g. qwen2.5:7b")
     ap.add_argument("--prompt", default="note_system.txt", help="system prompt file under prompts/")
+    ap.add_argument("--schema", default="note_schema.json",
+                    help="JSON schema the server enforces, e.g. note_schema_capped.json (lists capped at 10 items)")
     ap.add_argument("--timeout", type=int, default=900, help="seconds to wait for one note (raise on slow CPUs)")
     args = ap.parse_args()
 
@@ -64,7 +66,7 @@ def main():
         raise SystemExit(f"No llama-server answering at {url}. Start it first (see the top of this file).")
 
     system = (ROOT / "prompts" / args.prompt).read_text(encoding="utf-8")
-    schema = load_json(ROOT / "note_schema.json")
+    schema = load_json(ROOT / args.schema)
     clips = read_manifest()
     if args.speakers:
         clips = [c for c in clips if c["speaker"] in args.speakers]

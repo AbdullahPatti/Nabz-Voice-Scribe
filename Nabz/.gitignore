@@ -9,3 +9,9 @@ __pycache__/
 downloads/
 recordings/*.zip
 dl/
+# Recording-derived text stays local (consent: recordings are not published).
+refs/
+results/asr/
+results/notes/
+results/negation_guard.csv
+run-*.txt
