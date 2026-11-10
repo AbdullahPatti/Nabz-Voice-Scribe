@@ -64,7 +64,11 @@ class TrieBias(LogitsProcessor):
                 else:
                     nxt = list(self.children[prefix])
                     scores[row, nxt] += lam
-            scores[row, self.roots] += lam
+            # no bonus for starting a new name right after a finished one: strong bias otherwise chains names
+            # into babble ("gavisconlactuloseursofalk...")
+            just_finished = any(tuple(hist[-d:]) in self.complete for d in range(1, min(len(hist), self.depth) + 1))
+            if not just_finished:
+                scores[row, self.roots] += lam
         return scores
 
 

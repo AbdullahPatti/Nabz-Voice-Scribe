@@ -164,3 +164,17 @@ Same A4000 machine and llama.cpp b11912 as above. The app is phone-only, so the 
 - The lexicon is a 318-entry placeholder. With the ~72k-entry DRAP list, hints will be noisier; test that before trusting these gains.
 
 **4. PyTorch Whisper matches whisper.cpp** once decoding matches (beam 5 plus temperature fallback; plain greedy loops on half the clips). hf base ur: drug 69%, numbers 33%, neg 61%, sker 29%; whisper.cpp base-q8 ur: 67%, 30%, 61%, 33%. hf small ur: 72%, 50%, 76%, 25%; whisper.cpp small-q8: 72%, 55%, 78%, 24%. Decoding experiments in PyTorch (`run_asr_hf.py`) are therefore a fair proxy for the phone build.
+
+**5. Lexicon biasing in Whisper decoding does not help** (`asr_bias.py`, negative result). It uses trie shallow fusion over the lexicon's Latin token sequences, with the bonus taken back when a partial name is abandoned (Zhao et al. 2019), on HF whisper-base `ur`. Strength was tuned on Hadi only, and the other two speakers were kept for testing; since nothing beat the baseline on Hadi, they were never used.
+
+| Hadi, 13 clips | drug_recall | number_recall | neg_kept | sker | Latin words | inserted drugs |
+|---|---|---|---|---|---|---|
+| no bias | 67% | 37% | 87% | 22% | 0 | 0 |
+| λ=1 | 59% | 29% | 79% | 26% | 1 | 0 |
+| λ=2 | 67% | 28% | 83% | 26% | 4 | 0 |
+| λ=3 | 72% | 25% | 90% | 22% | 16 | 1 |
+| λ=2, no chain guard | 74% | 37% | 83% | 23% | 28 | 0 |
+| λ=4, no chain guard | 53% | 17% | 52% | 204% | 209 | 2 |
+| λ≥6, no chain guard | 0-3% | 0-8% | 0% | >500% | 102-378 | 12-22 |
+
+In Urdu mode, whisper-base gives Latin tokens so little probability that a bonus small enough to stay stable rarely switches script. A larger one collapses into chained drug names ("gavisconlactuloseursofalk..."). Blocking a new name straight after a finished one stops the chaining, but at λ ≤ 3 the gains are within run-to-run noise: temperature fallback samples, now seeded in `run_asr_hf.py`. Dropped in favour of teaching the model the output script (next section).

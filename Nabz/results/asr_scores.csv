@@ -558,6 +558,19 @@ hf_base_ur_bias10,hadi,dict_10,dictation,15.7,14.45,0.92,,0.0,Zyrtec Augmentin P
 hf_base_ur_bias10,hadi,own_01,free_dictation,12.54,13.66,1.089,,0.0,Panadol,0.0,60,2,0,0.0,9.766
 hf_base_ur_bias10,hadi,own_02,free_dictation,16.04,14.2,0.885,,0.0,Panadol,0.0,35,3,0,0.0,7.26
 hf_base_ur_bias10,hadi,own_03,free_dictation,14.93,14.95,1.001,,0.0,Panadol,0.0,45 140 90,2,0,0.0,8.329
+hf_base_ur_bias1_cg,hadi,dict_01,dictation,20.57,1.46,0.071,,0.5,Panadol,0.5,500,2,2,1.0,0.283
+hf_base_ur_bias1_cg,hadi,dict_02,dictation,18.09,6.18,0.342,,0.333,Panadol Brufen,0.5,34,3,4,1.0,0.262
+hf_base_ur_bias1_cg,hadi,dict_03,dictation,17.32,1.02,0.059,,0.5,Flagyl,0.0,40 400,1,1,1.0,0.152
+hf_base_ur_bias1_cg,hadi,dict_04,dictation,13.74,6.27,0.456,,1.0,,0.75,160,2,2,1.0,0.242
+hf_base_ur_bias1_cg,hadi,dict_05,dictation,17.66,1.18,0.067,,1.0,,0.2,180 260 500 1000,1,1,1.0,0.291
+hf_base_ur_bias1_cg,hadi,dict_06,dictation,14.42,0.91,0.063,,1.0,,0.5,20,2,2,1.0,0.149
+hf_base_ur_bias1_cg,hadi,dict_07,dictation,17.66,1.08,0.061,,0.0,Augmentin Cough syrup,0.0,45 625,1,2,1.0,0.237
+hf_base_ur_bias1_cg,hadi,dict_08,dictation,13.82,0.93,0.067,,0.0,Cipro,0.0,26 500,4,3,0.75,0.154
+hf_base_ur_bias1_cg,hadi,dict_09,dictation,14.25,0.9,0.063,,1.0,,0.0,22,2,2,1.0,0.136
+hf_base_ur_bias1_cg,hadi,dict_10,dictation,15.7,0.9,0.057,,0.333,Zyrtec Augmentin,0.0,38,5,5,1.0,0.215
+hf_base_ur_bias1_cg,hadi,own_01,free_dictation,12.54,0.76,0.06,,1.0,,1.0,,2,0,0.0,0.219
+hf_base_ur_bias1_cg,hadi,own_02,free_dictation,16.04,7.53,0.469,,0.0,Panadol,0.0,35,3,0,0.0,0.792
+hf_base_ur_bias1_cg,hadi,own_03,free_dictation,14.93,5.98,0.401,,1.0,,0.333,45 90,2,1,0.5,0.237
 hf_base_ur_bias2,hadi,dict_01,dictation,20.57,3.43,0.167,,0.5,Panadol,0.5,500,2,2,1.0,0.283
 hf_base_ur_bias2,hadi,dict_02,dictation,18.09,11.98,0.662,,0.333,Panadol Brufen,0.5,34,3,3,1.0,0.282
 hf_base_ur_bias2,hadi,dict_03,dictation,17.32,3.37,0.195,,0.5,Flagyl,0.0,40 400,1,1,1.0,0.152
@@ -571,6 +584,32 @@ hf_base_ur_bias2,hadi,dict_10,dictation,15.7,3.16,0.201,,0.333,Zyrtec Augmentin,
 hf_base_ur_bias2,hadi,own_01,free_dictation,12.54,2.22,0.177,,1.0,,1.0,,2,0,0.0,0.219
 hf_base_ur_bias2,hadi,own_02,free_dictation,16.04,27.22,1.697,,1.0,,1.0,,3,0,0.0,0.481
 hf_base_ur_bias2,hadi,own_03,free_dictation,14.93,11.56,0.774,,1.0,,0.333,45 140,2,2,1.0,0.211
+hf_base_ur_bias2_cg,hadi,dict_01,dictation,20.57,1.55,0.075,,0.5,Panadol,0.5,500,2,2,1.0,0.283
+hf_base_ur_bias2_cg,hadi,dict_02,dictation,18.09,4.43,0.245,,0.333,Panadol Brufen,0.5,34,3,3,1.0,0.204
+hf_base_ur_bias2_cg,hadi,dict_03,dictation,17.32,0.92,0.053,,0.5,Flagyl,0.0,40 400,1,1,1.0,0.152
+hf_base_ur_bias2_cg,hadi,dict_04,dictation,13.74,3.97,0.289,,1.0,,0.5,55 160,2,2,1.0,0.318
+hf_base_ur_bias2_cg,hadi,dict_05,dictation,17.66,1.53,0.086,,1.0,,0.2,180 260 500 1000,1,1,1.0,0.291
+hf_base_ur_bias2_cg,hadi,dict_06,dictation,14.42,1.88,0.13,,1.0,,0.5,20,2,2,1.0,0.149
+hf_base_ur_bias2_cg,hadi,dict_07,dictation,17.66,1.12,0.064,,0.0,Augmentin Cough syrup,0.0,45 625,1,2,1.0,0.237
+hf_base_ur_bias2_cg,hadi,dict_08,dictation,13.82,1.77,0.128,,1.0,,0.5,26,4,3,0.75,0.165
+hf_base_ur_bias2_cg,hadi,dict_09,dictation,14.25,1.2,0.084,,1.0,,0.0,22,2,2,1.0,0.136
+hf_base_ur_bias2_cg,hadi,dict_10,dictation,15.7,0.95,0.06,,0.333,Zyrtec Augmentin,0.0,38,5,5,1.0,0.215
+hf_base_ur_bias2_cg,hadi,own_01,free_dictation,12.54,0.83,0.066,,1.0,,1.0,,2,0,0.0,0.219
+hf_base_ur_bias2_cg,hadi,own_02,free_dictation,16.04,6.95,0.433,,0.0,Panadol,0.0,35,3,0,0.0,0.766
+hf_base_ur_bias2_cg,hadi,own_03,free_dictation,14.93,8.35,0.559,,1.0,,0.0,45 140 90,2,2,1.0,0.237
+hf_base_ur_bias3_cg,hadi,dict_01,dictation,20.57,1.51,0.073,,0.5,Panadol,0.5,500,2,2,1.0,0.264
+hf_base_ur_bias3_cg,hadi,dict_02,dictation,18.09,4.21,0.233,,0.0,Panadol Brufen Disprin,0.0,34 95,3,3,1.0,0.233
+hf_base_ur_bias3_cg,hadi,dict_03,dictation,17.32,0.99,0.057,,0.5,Flagyl,0.0,40 400,1,1,1.0,0.152
+hf_base_ur_bias3_cg,hadi,dict_04,dictation,13.74,0.85,0.062,,1.0,,0.5,55 160,2,2,1.0,0.318
+hf_base_ur_bias3_cg,hadi,dict_05,dictation,17.66,1.2,0.068,,1.0,,0.2,180 260 500 1000,1,1,1.0,0.291
+hf_base_ur_bias3_cg,hadi,dict_06,dictation,14.42,0.93,0.064,,1.0,,0.5,20,2,2,1.0,0.149
+hf_base_ur_bias3_cg,hadi,dict_07,dictation,17.66,1.2,0.068,,0.0,Augmentin Cough syrup,0.0,45 625,1,2,1.0,0.237
+hf_base_ur_bias3_cg,hadi,dict_08,dictation,13.82,0.95,0.069,,1.0,,0.5,26,4,3,0.75,0.165
+hf_base_ur_bias3_cg,hadi,dict_09,dictation,14.25,0.95,0.067,,1.0,,0.0,22,2,2,1.0,0.136
+hf_base_ur_bias3_cg,hadi,dict_10,dictation,15.7,0.96,0.061,,0.333,Zyrtec Augmentin,0.0,38,5,5,1.0,0.215
+hf_base_ur_bias3_cg,hadi,own_01,free_dictation,12.54,0.86,0.069,,1.0,,1.0,,2,0,0.0,0.219
+hf_base_ur_bias3_cg,hadi,own_02,free_dictation,16.04,3.93,0.245,,1.0,,0.0,35,3,5,1.0,0.351
+hf_base_ur_bias3_cg,hadi,own_03,free_dictation,14.93,3.95,0.264,,1.0,,0.0,45 140 90,2,2,1.0,0.184
 hf_base_ur_bias4,hadi,dict_01,dictation,20.57,41.56,2.021,,0.0,Azomax Panadol,0.0,28 500,2,0,0.0,0.887
 hf_base_ur_bias4,hadi,dict_02,dictation,18.09,39.74,2.197,,0.0,Panadol Brufen Disprin,0.0,34 95,3,0,0.0,5.126
 hf_base_ur_bias4,hadi,dict_03,dictation,17.32,2.9,0.167,,1.0,,0.0,40 400,1,1,1.0,0.192

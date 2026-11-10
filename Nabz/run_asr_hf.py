@@ -66,6 +66,7 @@ def run(transcriber, tag, model_name, lang, clips, force=False):
         if out.exists() and not force:
             continue
         audio = load_audio(ROOT / c["wav"])
+        torch.manual_seed(0)  # temperature fallback samples; seed it so reruns give the same text
         t0 = time.perf_counter()
         text = transcriber(audio)
         wall = time.perf_counter() - t0
