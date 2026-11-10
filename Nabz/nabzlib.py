@@ -109,6 +109,26 @@ to jab par wala wali karna kar lein piyein chamach mg saal sau hazaar din mein k
 STOP |= set("میں تین دو دن سے کا کی کے کو ہے ہیں اور نہیں ایک بار دفعہ گولی ساتھ رات صبح اب بھی تو جب پر والا سال سو ہزار کھانے پہلے بعد لیے دوبارہ".split())
 
 
+def find_terms(text, names, max_ngram=3, exact=False):
+    """The subset of names that find_term would find in text, building the token windows only once.
+    exact=True requires an identical consonant skeleton (no edits), as drug_check.in_lexicon does."""
+    toks = [t for t in tokens(text) if not t.isdigit()]
+    sk = [skeleton(t) for t in toks]
+    stop = [t in STOP for t in toks]
+    windows = {"".join(sk[i:i + n]) for n in range(1, max_ngram + 1) for i in range(len(sk) - n + 1)
+               if not (stop[i] or stop[i + n - 1])}
+    windows.discard("")
+    found = set()
+    for name in names:
+        vs = "".join(skeleton(w) for w in tokens(name))
+        if not vs:
+            continue
+        tol = 0 if exact else _allowed(len(vs))
+        if any(abs(len(w) - len(vs)) <= tol and levenshtein(w, vs) <= tol for w in windows):
+            found.add(name)
+    return found
+
+
 def find_term(text, variants, max_ngram=3):
     """True if any variant of a term (e.g. a drug name) is present, in either script."""
     toks = [t for t in tokens(text) if not t.isdigit()]

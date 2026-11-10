@@ -81,6 +81,7 @@ def main():
     ap.add_argument("--batch", type=int, default=16)
     ap.add_argument("--lr", type=float, default=2e-5)
     ap.add_argument("--seed", type=int, default=13)
+    ap.add_argument("--save-at", type=int, nargs="*", default=[], help="also save checkpoints/<name>-s<step> at these steps")
     args = ap.parse_args()
     rng = random.Random(args.seed)
     torch.manual_seed(args.seed)
@@ -136,6 +137,12 @@ def main():
         model.train()
         return sum(ls) / len(ls)
 
+    def save(out):
+        model.save_pretrained(out)
+        proc.save_pretrained(out)
+        (out / "train_args.json").write_text(json.dumps({**vars(args), "log": log}, indent=2), encoding="utf-8")
+        print(f"saved {out.relative_to(ROOT)}", flush=True)
+
     model.train()
     t0, log = time.time(), []
     print(f"step 0 val_loss {validate():.3f}", flush=True)
@@ -152,11 +159,9 @@ def main():
             v = validate()
             log.append({"step": step, "train_loss": round(loss.item(), 4), "val_loss": round(v, 4)})
             print(f"step {step} train_loss {loss.item():.3f} val_loss {v:.3f} ({time.time() - t0:.0f}s)", flush=True)
-    out = ROOT / "checkpoints" / args.name
-    model.save_pretrained(out)
-    proc.save_pretrained(out)
-    (out / "train_args.json").write_text(json.dumps({**vars(args), "log": log}, indent=2), encoding="utf-8")
-    print(f"saved {out.relative_to(ROOT)}")
+        if step in args.save_at and step != args.steps:
+            save(ROOT / "checkpoints" / f"{args.name}-s{step}")
+    save(ROOT / "checkpoints" / args.name)
 
 
 if __name__ == "__main__":
