@@ -120,3 +120,47 @@ Ollama `qwen2.5:7b` on `avx2_base-q8_ur_t4`, with `note_system.txt` (tag `qwen25
 4. **Nothing failed in step 5.** Every server started with `--jinja` and returned no errors, and all 9 runs wrote 39 notes. Every invalid note (qwen35-4b 1, alif-8b 3, alif-3b 15 + 22, shaheen-7b 6 + 20) stopped at exactly 800 generated tokens, inside a repetition loop. These are kept as results. The first model download stalled on Hugging Face's Xet transfer; it worked with `HF_HUB_DISABLE_XET=1`.
 
 The timing and RAM columns in `note_summary.csv` and `decision_table.md` come from a desktop GPU. They say nothing about phones, and `within_budget` does not apply. `server_ram_mb` is the server's CPU RAM, not GPU memory.
+
+## Phone-tier note writers, schema cap, negation guard and drug-name hints, 9 November 2026
+
+Same A4000 machine and llama.cpp b11912 as above. The app is phone-only, so the question is now which note writer fits a phone (under the 2.5 GB file budget in the project doc) and what can be done without a better speech model. Timings below are desktop-GPU timings and say nothing about phones.
+
+**1. Repetition loops, not knowledge, break the small models.** Every invalid note in every run stopped at exactly 800 tokens, repeating a list item ("nasal polyps", "no vaginal discharge", ...). llama.cpp's DRY sampler (`--dry-multiplier 0.8`) changed nothing for Qwen and little for Alif: its default sequence breakers include `"` and newline, so it never sees one JSON list item repeating the last. **Capping every list at 10 items in the schema** (`note_schema_capped.json`; real notes never exceeded 7) makes the grammar close the list. Invalid notes fell to 0 or 1 per run for Qwen3.5 0.8B, 2B and 4B. Alif 3B still had 3 on ref and 12 on base output (it loops inside strings). The cap also exposes what truncation hid. `score_note.py` leaves unparseable notes out of the recall averages, so previously truncated notes now count, with their errors.
+
+| run (capped schema) | schema_valid | med_recall | strength_recall | extra_meds | avoid_violations | neg_recall | neg_flips | GGUF GB |
+|---|---|---|---|---|---|---|---|---|
+| ref → qwen3.5 4b Q4_K_M | 100% | 88% | 86% | 0 | 0 | 83% | 3 | 3.01 |
+| ref → qwen3.5 4b IQ3_M | 100% | 85% | 71% | 0 | 0 | 88% | 0 | **2.48** |
+| ref → qwen3.5 2b Q4_K_M | 100% | 78% | 57% | 3 | 0 | 64% | 9 | 1.40 |
+| ref → qwen3.5 0.8b Q4_K_M | 100% | 28% | 29% | 21 | 9 | 47% | 34 | 0.58 |
+| ref → alif 3b Q4_K_M | 92% | 86% | 71% | 11 | 3 | 65% | 6 | 2.24 |
+| base ur → qwen3.5 4b Q4_K_M | 100% | 8% | 10% | 19 | 1 | 33% | 8 | 3.01 |
+| base ur → qwen3.5 4b IQ3_M | 100% | 9% | 10% | 14 | 1 | 16% | 13 | 2.48 |
+| base ur → qwen3.5 2b Q4_K_M | 100% | 8% | 5% | 23 | 3 | 36% | 14 | 1.40 |
+| base ur → alif 3b Q4_K_M | 69% | 7% | 21% | 34 | 3 | 5% | 8 | 2.24 |
+
+**Phone note writer: Qwen3.5 4B at IQ3_M.** It is the only model under 2.5 GB with no invented or avoided drugs on clean text, and it gives up 3 points of medicines and 15 of strengths against Q4_K_M. Qwen3.5 2B costs 10 points of medicines and adds 9 negation flips. 0.8B is unsafe: 9 avoided drugs listed as prescribed. Alif 3B invents 11 medicines on clean text. Measure IQ3_M's RAM and speed on a real phone before committing.
+
+**2. Negation guard** (`negation_guard.py`, no model). Any medicine in a note that the transcript follows with a negation word in the same clause ("Augmentin nahi deni", "منتن نہیں دینی") is moved to "avoid, doctor confirms". On all runs so far it moved **no correctly prescribed medicine**. It caught every avoid error on reference text (6 of 6 for alif-3b, 9 of 9 for qwen3.5 0.8b). On Whisper output it caught about half: every miss is a clip where Whisper garbled the "nahi" itself (Merab dict_10 "اگوینٹن نیویںی", dict_02 "بروفن نے لینے"). No text rule can fix that; it needs the speech step.
+
+**3. Drug-name hints** (`drug_hints.py`, `run_note.py --hints --prompt note_system_hints.txt`). The transcript stays unchanged. Up to 10 cross-script sound-alike matches from the lexicon are appended ("پروفین" may be Brufen), and the LLM keeps the ones used as a medicine. Matcher tolerances are nabzlib's existing ones, untuned; only `lexicon.txt` is used. The hints contain 44% of the key drugs on base output, alongside 134 false candidates.
+
+| run (capped schema) | med_recall | strength_recall | extra_meds | avoid_violations | right suggested | wrong suggested | wrong_passed |
+|---|---|---|---|---|---|---|---|
+| base ur → 4b Q4_K_M | 8% | 10% | 19 | 1 | 4 | 18 | 0 |
+| base ur → 4b Q4_K_M + hints | **23%** | **29%** | 17 | 2 | 12 | 15 | **8** |
+| base ur → 4b IQ3_M | 9% | 10% | 14 | 1 | 4 | 13 | 0 |
+| base ur → 4b IQ3_M + hints | 17% | 14% | **5** | 1 | 7 | **4** | **3** |
+| small ur → 4b IQ3_M | 23% | 14% | 11 | 2 | 11 | 9 | 0 |
+| small ur → 4b IQ3_M + hints | 21% | 10% | 7 | 0 | 9 | 7 | 4 |
+| ref → 4b IQ3_M + hints | 77% | 71% | 0 | 0 | 42 | 0 | 0 |
+
+"Right/wrong suggested" counts medicines in the notes from `drug_check.csv`, flagged or not.
+
+- On base output, hints roughly double to triple the medicines that reach the note. With the phone model, wrong medicines fall from 13 to 4.
+- **They also blind `drug_check.py`.** It passes a drug that is in the lexicon and sounds like something said, which is exactly how a hint is made. Wrong drugs that reach the doctor unflagged go from 0 to 8 (Q4_K_M) and 0 to 3 (IQ3_M). They are sound-alike swaps: Vastarel for Norvasc, Ponstan for Zyrtec. A generator and a verifier that share the same evidence give no independent check.
+- **Rule for the app:** on Urdu-script ASR text, never auto-accept a medicine. Every one is a suggestion the doctor confirms with one tap. Under that rule `wrong_passed` is 0 by construction, and what matters is suggestion precision: 64% with hints (7 of 11) against 24% without (4 of 17) for the phone model.
+- Hints cost a little on clean text (85% → 77% medicines), so use them only on Urdu-script ASR output.
+- The lexicon is a 318-entry placeholder. With the ~72k-entry DRAP list, hints will be noisier; test that before trusting these gains.
+
+**4. PyTorch Whisper matches whisper.cpp** once decoding matches (beam 5 plus temperature fallback; plain greedy loops on half the clips). hf base ur: drug 69%, numbers 33%, neg 61%, sker 29%; whisper.cpp base-q8 ur: 67%, 30%, 61%, 33%. hf small ur: 72%, 50%, 76%, 25%; whisper.cpp small-q8: 72%, 55%, 78%, 24%. Decoding experiments in PyTorch (`run_asr_hf.py`) are therefore a fair proxy for the phone build.

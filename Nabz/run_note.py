@@ -54,6 +54,8 @@ def main():
     ap.add_argument("--url", help="server to use instead of config, e.g. http://127.0.0.1:11434 for Ollama")
     ap.add_argument("--model", help="model name the server needs (Ollama), e.g. qwen2.5:7b")
     ap.add_argument("--prompt", default="note_system.txt", help="system prompt file under prompts/")
+    ap.add_argument("--hints", action="store_true",
+                    help="append sound-alike drug-list matches to the transcript (drug_hints.py); use with a hints prompt")
     ap.add_argument("--schema", default="note_schema.json",
                     help="JSON schema the server enforces, e.g. note_schema_capped.json (lists capped at 10 items)")
     ap.add_argument("--timeout", type=int, default=900, help="seconds to wait for one note (raise on slow CPUs)")
@@ -68,6 +70,9 @@ def main():
     system = (ROOT / "prompts" / args.prompt).read_text(encoding="utf-8")
     schema = load_json(ROOT / args.schema)
     clips = read_manifest()
+    if args.hints:
+        from drug_hints import hint_block, load_names
+        names = load_names()
     if args.speakers:
         clips = [c for c in clips if c["speaker"] in args.speakers]
     if args.clips:
@@ -93,7 +98,7 @@ def main():
         payload = {
             **({"model": args.model} if args.model else {}),
             "messages": [{"role": "system", "content": system},
-                         {"role": "user", "content": "Transcript:\n" + text}],
+                         {"role": "user", "content": "Transcript:\n" + text + (hint_block(text, names) if args.hints else "")}],
             "temperature": cfg.get("temperature", 0),
             "max_tokens": cfg.get("max_tokens", 800),
             "response_format": {"type": "json_schema", "json_schema": {"name": "clinical_note", "schema": schema}},
