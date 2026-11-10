@@ -178,3 +178,38 @@ Same A4000 machine and llama.cpp b11912 as above. The app is phone-only, so the 
 | λ≥6, no chain guard | 0-3% | 0-8% | 0% | >500% | 102-378 | 12-22 |
 
 In Urdu mode, whisper-base gives Latin tokens so little probability that a bonus small enough to stay stable rarely switches script. A larger one collapses into chained drug names ("gavisconlactuloseursofalk..."). Blocking a new name straight after a finished one stops the chaining, but at λ ≤ 3 the gains are within run-to-run noise: temperature fallback samples, now seeded in `run_asr_hf.py`. Dropped in favour of teaching the model the output script (next section).
+
+## Whisper base fine-tuned on synthetic Roman-Urdu dictations, 10 November 2026
+
+A4000, PyTorch (`train_whisper.py`, `run_asr_hf.py`). Training data: 5,434 synthetic dictations (`synth_dictation.py` grammar, MMS-TTS Latin-script Urdu voice, `synth_audio.py`), 200 held out for validation, speed/band-limit/reverb/noise augmentation. lr 2e-5 cosine over 2000 steps, batch 16. No real clip was used for training. Hadi is the dev speaker (as for biasing); Merab and Nouman stay held out.
+
+`score_asr.py` gained two columns, because drug_recall and neg_kept only reward recall: `neg_extra` (negation words beyond the reference) and `drugs_inserted` (a lexicon drug written exactly, by consonant skeleton, that the reference does not contain). On Urdu-script output `drugs_inserted` is mostly noise (short names like Avil, Diovan, Ativan collide with ordinary Urdu words); on Latin output it counts real invented drugs.
+
+All 39 clips, the first full run (decoder-only, 2000 steps):
+
+| run | drug_recall | number_recall | neg_kept | neg_extra | drugs_inserted | sker |
+|---|---|---|---|---|---|---|
+| hf whisper-base ur | 69% | 33% | 61% | 1 | 49 (noise) | 29% |
+| synth-dec, 2000 steps | 52% | 83% | 94% | 41 | 88 | 45% |
+
+Hadi only (13 clips), by training length:
+
+| run | drug_recall | number_recall | neg_kept | neg_extra | drugs_inserted | sker |
+|---|---|---|---|---|---|---|
+| hf whisper-base ur | 67% | 37% | 87% | 1 | 13 (noise) | **22%** |
+| hf whisper-small ur (reference) | 83% | 60% | 87% | 0 | 7 | 16% |
+| decoder-only, 250 steps | 55% | 76% | 92% | 3 | 13 | 30% |
+| decoder-only, 500 steps | 59% | 74% | 90% | 8 | 24 | 38% |
+| decoder-only, 2000 steps | 56% | 90% | 96% | 13 | 31 | 42% |
+| full (encoder too), 250 steps | 58% | 73% | 100% | 9 | 12 | 30% |
+| full (encoder too), 500 steps | 69% | 68% | 97% | 7 | 16 | 32% |
+
+1. **The output script changes as intended.** Transcripts come out in Roman Urdu with Latin drug names and digits ("Azomax 500", "Platelets 95 hazaar", "Brufen bilkul nahi lena"). Numbers roughly double (37% → 68-90%).
+2. **But the model hallucinates in the shape of its training dictations.** Where the audio is unclear it writes template text: invented drugs (Haldol, Telfast, Warfarin, Viagra), lab values that were never said ("HB 5", "BP 111 by 10"), and extra negations. "Kamzori bhi hai" became "Kamzori bhi nahi hai", which flips a symptom. The 94% neg_kept of the 2000-step run is inflated by 41 extra negation words. Substitutions are confident Latin names: "Augmentin 625" → "Paracetamol 625".
+3. **More training means more hallucination.** sker rises with steps in both variants (30% → 38% → 42%). No checkpoint reaches base's 22% on Hadi, so the selection rule (lowest Hadi sker) picks none of them over base, and nothing was run on the two held-out speakers.
+4. **ASR drug_recall is lenient to Urdu script:** the fuzzy cross-script matcher counts garbled spellings as found, while the note writer gets only 8-9% of medicines from that same text. The deciding metric for this direction is the note writer's med_recall on fine-tuned output; that run was interrupted (below) and is still to do.
+5. The training data is one TTS voice reading grammar text with drugs drawn uniformly from the lexicon, so the decoder learns a strong "dictation template" prior with a flat prior over drugs. Fixes to try: real speech in training (fair only if split by dictation script, since every speaker read the same dict_01-10), more voices, or fewer steps / lower lr with the encoder trained.
+
+Speed fix: speed perturbation resampled from an arbitrary rate, which made torchaudio build a huge filter (1.8 s per clip, ~12 h per run); the source rate is now rounded to 200 Hz (1 ms). A run takes ~20 min alone on the A4000.
+
+**Interrupted:** the 1000- and 2000-step checkpoints of the second decoder-only and full runs, and the note-writer runs on Hadi's fine-tuned transcripts, were stopped when the PC ran low on RAM. Two trainers each cache all 5,434 waveforms in RAM (~5 GB each), alongside the transcription job and llama-server; run them one at a time.
