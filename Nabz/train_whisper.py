@@ -33,8 +33,10 @@ SR = 16000
 def augment(w, rng):
     w = torch.from_numpy(w)
     if rng.random() < 0.8:  # speed perturbation (changes tempo and pitch, like a different speaker)
-        f = rng.uniform(0.85, 1.15)
-        w = AF.resample(w, int(SR * f), SR)
+        # source rate rounded to 200 Hz: an arbitrary rate shares a tiny gcd with 16 kHz, which makes torchaudio
+        # build a huge polyphase filter (1.8 s per clip vs 1 ms); 200 Hz steps are 1.25% speed steps
+        src = round(SR * rng.uniform(0.85, 1.15) / 200) * 200
+        w = AF.resample(w, src, SR)
     if rng.random() < 0.5:  # phone microphone band limits
         w = AF.highpass_biquad(w, SR, rng.uniform(80, 400))
         w = AF.lowpass_biquad(w, SR, rng.uniform(3000, 7500))
@@ -94,7 +96,7 @@ def main():
     rng.shuffle(synth)
     val, train = synth[:200], synth[200:] + real
     print(f"train {len(train)} items ({len(real)} real, repeated), val {len(val)} synthetic; "
-          f"{'full' if args.train_encoder else 'decoder-only'}; {args.steps} steps x {args.batch}")
+          f"{'full' if args.train_encoder else 'decoder-only'}; {args.steps} steps x {args.batch}", flush=True)
     prefix = proc.tokenizer.prefix_tokens  # <|startoftranscript|><|ur|><|transcribe|><|notimestamps|>
     cache = {}
 
@@ -136,7 +138,7 @@ def main():
 
     model.train()
     t0, log = time.time(), []
-    print(f"step 0 val_loss {validate():.3f}")
+    print(f"step 0 val_loss {validate():.3f}", flush=True)
     for step in range(1, args.steps + 1):
         loss = loss_on(*batch(rng.sample(train, args.batch), aug=True))
         opt.zero_grad(set_to_none=True)
