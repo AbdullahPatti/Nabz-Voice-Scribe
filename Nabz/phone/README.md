@@ -15,7 +15,7 @@ Use the kind of phone doctors actually carry (a mid-range Android with 6-8 GB RA
 ## Steps
 
 1. **On the PC**, the bundle is ready in `phone_bundle/nabz/` (2.4 GB: two models, three test clips, the script).
-   Re-create it with the commands in the commit that added this file if it's gone.
+   If it is gone, ask Claude to re-stage it (it is kept out of git).
 2. **Copy it to the phone** over USB: put the whole `nabz` folder in the phone's **Download** folder, so it ends
    up at `Download/nabz/`.
 3. **Install Termux** from F-Droid (https://f-droid.org/packages/com.termux/). The Play Store version is outdated.
