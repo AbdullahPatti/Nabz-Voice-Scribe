@@ -341,6 +341,66 @@ avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,dict_08,Ciprofloxacin,True,False,T
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,dict_09,Ventolin,True,False,True,prescribed
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,own_02,Augmentin 625,True,False,True,wrong
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,own_03,Augmentin 625,True,False,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_01,Paracetamol,True,False,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_02,Serc,True,True,False,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_03,Quadroxara,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_03,Dulcolax,True,True,False,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_04,Novorapid,True,True,False,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_05,Fevipin,False,False,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_06,Gaviscon,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_07,Amitriptyan,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_08,Sipro,False,True,True,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,Sitalifexcine,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,Cefixime,True,True,False,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,Cefraxat,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,Zyrtec,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,Dolorin,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_10,Zyrtec,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_01,Dexamethasone,True,False,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_02,Panadol,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_01,Cefsepositi,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_01,Esomex,False,True,True,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_01,Ecg goli,False,False,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_02,Serafali,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_03,Flagyl,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_04,Acycline,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_04,Atencine,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Penicillin glycofos,False,True,True,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Levetirax,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_06,Percopad,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_06,Candacex,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_06,Gaviscon,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_06,Mebz,False,False,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_07,Hydraxin,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_07,Augmentin,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_07,Cefspan,True,True,False,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_08,Sipro,False,True,True,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Falsine,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Ventolin,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Zyrtec,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_10,Zyrtec,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_01,Panadol,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_02,Carvedilol,True,True,False,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,Exomex,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,Paradol,False,True,True,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_02,Serc,True,True,False,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_02,Panadol,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,Flagyl,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_04,Novorapid,True,True,False,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_04,Egoli,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Asixol,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Doverfax,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Glucophage,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Lyraxat,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_07,Otomac,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_07,Chest X-ray,False,False,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_08,Ciprofloxacin,True,False,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_09,Thefasir,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_10,Ultramarcin,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_10,Zyrtec,True,True,False,prescribed
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_01,paan dard do,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_02,Panadolvanide,False,True,True,wrong
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_03,Panadolvan,False,True,True,prescribed
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_01,Saban,False,True,True,wrong
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_05,Glucophage,True,True,False,prescribed
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,own_01,Pindadal,True,True,False,prescribed

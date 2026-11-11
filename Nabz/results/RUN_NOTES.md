@@ -276,3 +276,33 @@ On Hadi the same gate takes wrong-unflagged from 3 to 0 and flags 2 of 8 right m
 - **Proposed pipeline:** fine-tuned base writes the transcript the note writer reads, and plain base runs on the same audio as an independent witness. Every medicine is still a one-tap confirm; the flag marks "the ASR may have invented this". On these 26 test clips, 10 of 14 correct medicines arrive unflagged and every wrong one is flagged.
 - **Cost on the phone:** a second base-size ASR pass (both models are base size), so ASR time roughly doubles. The two can share audio preprocessing.
 - **Not checked yet:** both models in whisper.cpp q8 (conversion is blocked on running freshly downloaded code here), and sound-alike collisions once the lexicon becomes the ~72k-entry DRAP list.
+
+## The phone pair in whisper.cpp, 11 November 2026
+
+`synth-full-s250` converted with whisper.cpp's `models/convert-h5-to-ggml.py` (repo HEAD d2c6f05, tokenizer files copied from openai/whisper-base, which fine-tuning doesn't change) and quantized with `whisper-quantize` q8_0: **77 MB**, the same size as stock base-q8. Runs use the prebuilt whisper.cpp b5454 `whisper-bin-x64` (the build of the laptop baseline), `-t 4 -l ur`, as config model `ft-s250-q8`. The baseline `avx2_base-q8_ur_t4` rows are from the Legion laptop with the same build. Desktop CPU timings (0.8 s per clip, ~235 MB RAM) say nothing about phones.
+
+ASR, whisper.cpp vs PyTorch:
+
+| | Hadi sker | Hadi numbers | test drug_recall | test number_recall | test neg_kept | test neg_extra | test drugs_inserted | test sker |
+|---|---|---|---|---|---|---|---|---|
+| hf whisper-base ur | 22% | 37% | 68% | 31% | 48% | 0 | 5 | 32% |
+| whisper.cpp base-q8 | 27% | 32% | 68% | 29% | 52% | 0 | 3 | 35% |
+| hf synth-full-s250 | 30% | 73% | 67% | 80% | 90% | 7 | 11 | 24% |
+| **whisper.cpp ft-s250-q8** | 30% | 78% | 63% | 84% | 91% | 5 | 10 | **24%** |
+
+Aggregates carry over. Word for word they don't (1 of 39 transcripts identical; 17 below 0.8 word overlap): q8 weights plus a different decoder and temperature fallback, as for stock base.
+
+End to end, the phone pair: whisper.cpp ft-s250-q8 writes the transcript, and whisper.cpp base-q8 is the cross-check witness (a note medicine is flagged if `drug_check.py` flags it or the base transcript has no sound-alike):
+
+| Merab + Nouman (test) | med_recall | strength | neg_recall | neg_flips | avoid_violations | right / wrong | wrong unflagged | + cross-check: wrong unflagged | right flagged |
+|---|---|---|---|---|---|---|---|---|---|
+| whisper.cpp base-q8 | 10% | 14% | 13% | 10 | 1 | 3 / 11 | 0 | | |
+| whisper.cpp base-q8 + hints | 19% | 21% | 19% | 9 | 1 | 5 / 3 | 2 | | |
+| hf synth-full-s250 (+ hf base witness) | 40% | 14% | 63% | 5 | 0 | 14 / 28 | 10 | 0 | 4 / 14 |
+| **whisper.cpp ft-s250-q8 (+ base-q8 witness)** | **46%** | **36%** | **61%** | **4** | **0** | 16 / 27 | 4 | **0** | 7 / 16 |
+
+Hadi (dev), same pair: med_recall 31% (PyTorch 46%, base-q8 8%), neg_recall 47%, neg_flips 5, wrong unflagged after cross-check 0, right flagged 3 of 5.
+
+1. **The fine-tune survives conversion to the phone runtime.** On held-out speakers, whisper.cpp q8 gives 46% of medicines in the note (base-q8: 10%), and no wrong medicine passes unflagged once base-q8 cross-checks.
+2. **The whisper.cpp witness flags more correct medicines** (7 of 16, vs 4 of 14 with the PyTorch witness), so the doctor confirms more by hand. Precision is still twice base's.
+3. **Clip-level variance between runtimes is large** (Hadi: 31% vs 46% of medicines), with only 13 clips per speaker. Treat differences under ~10 points as noise until more speakers are recorded.

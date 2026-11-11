@@ -350,6 +350,45 @@ avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,dict_10,dictation,23.13,13
 avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,own_01,free_dictation,12.12,1.72,0.142,300,1.0,,1.0,,2,3,1.0,1,,0.102
 avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,own_02,free_dictation,17.15,2.1,0.123,302,1.0,,1.0,,3,3,1.0,0,,0.169
 avx2_base-q8_ur_t4_whisper_drugs_nokey,nouman-tanveer,own_03,free_dictation,14.68,1.71,0.117,297,0.0,Panadol,1.0,,2,2,1.0,0,,0.054
+avx2_ft-s250-q8_ur_t4,hadi,dict_01,dictation,20.57,1.42,0.069,240,1.0,,0.5,500,2,5,1.0,3,,0.302
+avx2_ft-s250-q8_ur_t4,hadi,dict_02,dictation,18.09,1.29,0.071,241,1.0,,1.0,,3,4,1.0,1,Serc,0.194
+avx2_ft-s250-q8_ur_t4,hadi,dict_03,dictation,17.32,1.43,0.082,238,0.0,ORS Flagyl,0.5,40,1,3,1.0,2,Angised Dulcolax,0.354
+avx2_ft-s250-q8_ur_t4,hadi,dict_04,dictation,13.74,1.17,0.085,237,0.0,Norvasc,0.75,160,2,2,1.0,0,Novorapid,0.333
+avx2_ft-s250-q8_ur_t4,hadi,dict_05,dictation,17.66,1.31,0.074,236,0.0,Glucophage,0.4,260 500 1000,1,2,1.0,1,,0.314
+avx2_ft-s250-q8_ur_t4,hadi,dict_06,dictation,14.42,1.29,0.089,238,1.0,,1.0,,2,3,1.0,1,,0.176
+avx2_ft-s250-q8_ur_t4,hadi,dict_07,dictation,17.66,1.35,0.076,239,0.0,Augmentin Cough syrup,1.0,,1,0,0.0,0,,0.268
+avx2_ft-s250-q8_ur_t4,hadi,dict_08,dictation,13.82,1.17,0.085,236,1.0,,1.0,,4,4,1.0,0,Plaquenil,0.286
+avx2_ft-s250-q8_ur_t4,hadi,dict_09,dictation,14.25,1.61,0.113,237,1.0,,1.0,,2,3,1.0,1,Cefixime,0.358
+avx2_ft-s250-q8_ur_t4,hadi,dict_10,dictation,15.7,1.32,0.084,238,1.0,,0.0,38,5,5,1.0,0,Serc,0.241
+avx2_ft-s250-q8_ur_t4,hadi,own_01,free_dictation,12.54,1.03,0.082,236,0.0,Panadol,1.0,,2,2,1.0,0,Serc,0.359
+avx2_ft-s250-q8_ur_t4,hadi,own_02,free_dictation,16.04,1.17,0.073,238,1.0,,1.0,,3,4,1.0,1,,0.273
+avx2_ft-s250-q8_ur_t4,hadi,own_03,free_dictation,14.93,1.03,0.069,235,1.0,,1.0,,2,1,0.5,0,,0.474
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_01,dictation,29.7,1.4,0.047,239,1.0,,0.5,28,2,2,1.0,0,,0.274
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_02,dictation,25.34,1.29,0.051,240,0.667,Panadol,1.0,,3,3,1.0,0,,0.175
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_03,dictation,30.29,1.87,0.062,240,1.0,,0.5,40,1,1,1.0,0,,0.192
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_04,dictation,24.15,1.19,0.049,238,0.0,Norvasc,0.5,160 100,2,3,1.0,1,,0.288
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_05,dictation,37.63,1.95,0.052,278,1.0,,0.6,260 1000,1,1,1.0,0,Nexum Penicillin,0.43
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_06,dictation,19.29,1.21,0.063,237,0.5,Risek,1.0,,2,2,1.0,0,,0.23
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_07,dictation,28.59,1.36,0.048,238,0.5,Cough syrup,1.0,,1,0,0.0,0,Cefspan,0.258
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_08,dictation,25.34,1.24,0.049,238,1.0,,0.5,26,4,4,1.0,0,,0.088
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_09,dictation,24.75,1.49,0.06,239,1.0,,1.0,,2,3,1.0,1,,0.346
+avx2_ft-s250-q8_ur_t4,merab-haroon,dict_10,dictation,19.2,1.26,0.066,237,1.0,,0.0,38,5,5,1.0,0,,0.152
+avx2_ft-s250-q8_ur_t4,merab-haroon,own_01,free_dictation,14.17,0.79,0.056,234,1.0,,1.0,,2,2,1.0,0,,0.145
+avx2_ft-s250-q8_ur_t4,merab-haroon,own_02,free_dictation,16.47,1.0,0.061,235,0.0,Panadol,1.0,,3,3,1.0,0,Nexum,0.44
+avx2_ft-s250-q8_ur_t4,merab-haroon,own_03,free_dictation,16.73,1.05,0.063,236,0.0,Panadol,1.0,,2,2,1.0,0,,0.607
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_01,dictation,28.84,1.49,0.052,239,0.5,Azomax,1.0,,2,3,1.0,1,,0.274
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_02,dictation,24.58,1.34,0.054,240,1.0,,1.0,,3,3,1.0,0,Serc,0.117
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_03,dictation,31.15,1.84,0.059,241,1.0,,1.0,,1,1,1.0,0,Acyclovir,0.192
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_04,dictation,23.13,1.24,0.054,239,0.0,Norvasc,0.75,160,2,2,1.0,0,Novorapid,0.318
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_05,dictation,30.38,1.78,0.058,240,1.0,,0.4,50 180 260,1,2,1.0,1,,0.267
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_06,dictation,20.39,1.17,0.058,237,1.0,,1.0,,2,2,1.0,0,,0.122
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_07,dictation,30.55,1.88,0.062,242,0.0,Augmentin Cough syrup,1.0,,1,0,0.0,0,Plavix,0.33
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_08,dictation,20.91,1.25,0.06,239,1.0,,1.0,,4,3,0.75,0,,0.154
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_09,dictation,23.47,1.29,0.055,240,0.5,Ventolin,1.0,,2,3,1.0,1,ORS,0.198
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,dict_10,dictation,23.13,1.26,0.055,238,0.667,Augmentin,1.0,,5,5,1.0,0,Serc,0.278
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,own_01,free_dictation,12.12,0.82,0.068,235,0.0,Panadol,1.0,,2,2,1.0,0,,0.169
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,own_02,free_dictation,17.15,0.85,0.049,235,0.0,Panadol,1.0,,3,3,1.0,0,,0.169
+avx2_ft-s250-q8_ur_t4,nouman-tanveer,own_03,free_dictation,14.68,0.85,0.058,234,1.0,,1.0,,2,2,1.0,0,,0.071
 avx2_small-q8_auto_t2,hadi,dict_01,dictation,20.57,22.43,1.09,553,0.5,Azomax,0.5,500,2,2,1.0,0,,0.17
 avx2_small-q8_auto_t2,hadi,dict_02,dictation,18.09,20.7,1.145,552,0.667,Panadol,0.5,34,3,3,1.0,0,,0.184
 avx2_small-q8_auto_t2,hadi,dict_03,dictation,17.32,21.02,1.213,552,1.0,,0.0,40 400,1,1,1.0,0,,0.141

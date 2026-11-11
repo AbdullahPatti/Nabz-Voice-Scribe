@@ -8,7 +8,8 @@
     "models": {
       "base-q8": "whisper.cpp/models/ggml-base-q8_0.bin",
       "small-q8": "whisper.cpp/models/ggml-small-q8_0.bin",
-      "turbo-q8": "whisper.cpp/models/ggml-large-v3-turbo-q8_0.bin"
+      "turbo-q8": "whisper.cpp/models/ggml-large-v3-turbo-q8_0.bin",
+      "ft-s250-q8": "models/ft-synth-full-s250/ggml-model-q8_0.bin"
     },
     "grid": {
       "builds": ["avx2"],
