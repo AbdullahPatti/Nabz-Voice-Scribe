@@ -207,9 +207,42 @@ Hadi only (13 clips), by training length:
 1. **The output script changes as intended.** Transcripts come out in Roman Urdu with Latin drug names and digits ("Azomax 500", "Platelets 95 hazaar", "Brufen bilkul nahi lena"). Numbers roughly double (37% → 68-90%).
 2. **But the model hallucinates in the shape of its training dictations.** Where the audio is unclear it writes template text: invented drugs (Haldol, Telfast, Warfarin, Viagra), lab values that were never said ("HB 5", "BP 111 by 10"), and extra negations. "Kamzori bhi hai" became "Kamzori bhi nahi hai", which flips a symptom. The 94% neg_kept of the 2000-step run is inflated by 41 extra negation words. Substitutions are confident Latin names: "Augmentin 625" → "Paracetamol 625".
 3. **More training means more hallucination.** sker rises with steps in both variants (30% → 38% → 42%). No checkpoint reaches base's 22% on Hadi, so the selection rule (lowest Hadi sker) picks none of them over base, and nothing was run on the two held-out speakers.
-4. **ASR drug_recall is lenient to Urdu script:** the fuzzy cross-script matcher counts garbled spellings as found, while the note writer gets only 8-9% of medicines from that same text. The deciding metric for this direction is the note writer's med_recall on fine-tuned output; that run was interrupted (below) and is still to do.
+4. **ASR drug_recall is lenient to Urdu script:** the fuzzy cross-script matcher counts garbled spellings as found, while the note writer gets only 8-9% of medicines from that same text. So the deciding metric is end to end: the phone note writer's notes on each checkpoint's output (next section), fixed before those notes were run.
 5. The training data is one TTS voice reading grammar text with drugs drawn uniformly from the lexicon, so the decoder learns a strong "dictation template" prior with a flat prior over drugs. Fixes to try: real speech in training (fair only if split by dictation script, since every speaker read the same dict_01-10), more voices, or fewer steps / lower lr with the encoder trained.
 
 Speed fix: speed perturbation resampled from an arbitrary rate, which made torchaudio build a huge filter (1.8 s per clip, ~12 h per run); the source rate is now rounded to 200 Hz (1 ms). A run takes ~20 min alone on the A4000.
 
-**Interrupted:** the 1000- and 2000-step checkpoints of the second decoder-only and full runs, and the note-writer runs on Hadi's fine-tuned transcripts, were stopped when the PC ran low on RAM. Two trainers each cache all 5,434 waveforms in RAM (~5 GB each), alongside the transcription job and llama-server; run them one at a time.
+**Interrupted:** the 1000- and 2000-step checkpoints of the second decoder-only and full runs were stopped when the PC ran low on RAM. Two trainers each cache all 5,434 waveforms in RAM (~5 GB each), alongside the transcription job and llama-server; run them one at a time.
+
+## End to end: fine-tuned Whisper base → phone note writer, 10 November 2026
+
+Note writer: Qwen3.5 4B IQ3_M, capped schema, `note_system.txt` (hints runs: `note_system_hints.txt --hints`), temperature 0, A4000. "right / wrong" are medicines in the notes judged by `drug_check.csv` (precision in brackets); "unflagged" are wrong medicines `drug_check.py` passed.
+
+**Dev, Hadi (13 clips).** Chosen on these numbers:
+
+| ASR source | med_recall | strength | neg_recall | neg_flips | avoid_violations | right / wrong | unflagged |
+|---|---|---|---|---|---|---|---|
+| hf whisper-base ur | 12% | 0% | 27% | 4 | 0 | 2 / 3 | 0 |
+| hf whisper-base ur + hints | 12% | 0% | 31% | 3 | 0 | 2 / 2 | 1 |
+| decoder-only, 250 steps | 35% | 29% | 37% | 3 | 0 | 7 / 9 | 4 |
+| decoder-only, 500 steps | 35% | 29% | 49% | 3 | 0 | 5 / 14 | 9 |
+| decoder-only, 2000 steps | 31% | 29% | 45% | 3 | 0 | 5 / 16 | 13 |
+| **full, 250 steps** | **46%** | 14% | **60%** | **1** | 0 | 8 / 12 | 3 |
+| full, 500 steps | 35% | 0% | 49% | 2 | 0 | 6 / 11 | 5 |
+| reference text | 85% | 71% | 86% | 0 | 0 | 15 / 0 | 0 |
+
+**Test, Merab + Nouman (26 clips), run once with the chosen checkpoint `synth-full-s250`:**
+
+| ASR source | sker | number_recall | neg_kept | med_recall | strength | neg_recall | neg_flips | avoid_violations | right / wrong | unflagged |
+|---|---|---|---|---|---|---|---|---|---|---|
+| hf whisper-base ur | 32% | 31% | 48% | 12% | 14% | 12% | 10 | 1 | 4 / 17 (19%) | 0 |
+| hf whisper-base ur + hints | | | | 13% | 21% | 20% | 11 | 1 | 4 / 14 (22%) | 4 |
+| hf whisper-small ur (reference) | 29% | 45% | 70% | | | | | | | |
+| **synth-full-s250** | **24%** | **79%** | **86%** | **42%** | 14% | **67%** | **5** | **0** | **15 / 26 (37%)** | 8 |
+| reference text | | | | 85% | 71% | 90% | 0 | 0 | 30 / 0 | 0 |
+
+1. **The synthetic fine-tune is the first change that moves the whole pipeline.** On unseen speakers, medicines reaching the note go 12% → 42% and negatives 12% → 67%. Negation flips halve and no avoided drug is listed as prescribed. Suggestion precision doubles (19% → 37%), so under the confirm-every-medicine rule the doctor sees almost 4x the correct suggestions with a higher share of right ones. ASR sker beats whisper-small too (24% vs 29%) at base's size.
+2. **The ASR now invents drugs, and that blinds `drug_check.py`.** A drug the ASR wrote is "said" by construction, so 8 wrong medicines pass unflagged (base: 0). Auto-accept stays off. An independent check is needed, e.g. Whisper's own token confidence on drug names.
+3. **Strengths don't improve (14%).** Doses come out as numbers, but the note writer often drops them or pairs them with the wrong drug when the drug name is wrong.
+4. **Less training is better** (sker and invented drugs rise with steps in both variants), and training the encoder helps end to end at 250 steps. 250 steps is the earliest checkpoint tried; shorter runs and lower lr are untested.
+5. Caveats: 3 speakers, 39 clips, one dev speaker; every speaker read the same dict_01-10 scripts. The synthetic grammar excluded the test scripts' 5-grams, but its vocabulary was written with this OPD domain in mind. The phone runtime is whisper.cpp; this checkpoint still has to be converted and checked for parity there.

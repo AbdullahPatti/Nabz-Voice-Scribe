@@ -766,6 +766,32 @@ hf_synth-full-s250_ur,hadi,dict_10,dictation,15.7,3.41,0.217,,1.0,,0.0,38,5,5,1.
 hf_synth-full-s250_ur,hadi,own_01,free_dictation,12.54,2.29,0.182,,0.0,Panadol,1.0,,2,2,1.0,0,Serc,0.328
 hf_synth-full-s250_ur,hadi,own_02,free_dictation,16.04,2.75,0.172,,1.0,,1.0,,3,4,1.0,1,Avil,0.273
 hf_synth-full-s250_ur,hadi,own_03,free_dictation,14.93,2.88,0.193,,0.0,Panadol,1.0,,2,3,1.0,1,,0.421
+hf_synth-full-s250_ur,merab-haroon,dict_01,dictation,29.7,2.26,0.076,,1.0,,0.5,28,2,3,1.0,1,,0.264
+hf_synth-full-s250_ur,merab-haroon,dict_02,dictation,25.34,0.74,0.029,,0.667,Panadol,0.5,34,3,4,1.0,1,Cac-1000,0.184
+hf_synth-full-s250_ur,merab-haroon,dict_03,dictation,30.29,0.78,0.026,,1.0,,0.5,40,1,1,1.0,0,Atenolol,0.162
+hf_synth-full-s250_ur,merab-haroon,dict_04,dictation,24.15,0.67,0.028,,0.0,Norvasc,0.75,160,2,2,1.0,0,Cac-1000,0.303
+hf_synth-full-s250_ur,merab-haroon,dict_05,dictation,37.63,3.9,0.104,,0.0,Glucophage,0.2,50 180 260 500,1,0,0.0,0,Concor Nexum ORS,0.64
+hf_synth-full-s250_ur,merab-haroon,dict_06,dictation,19.29,0.87,0.045,,0.5,Risek,0.5,20,2,2,1.0,0,,0.243
+hf_synth-full-s250_ur,merab-haroon,dict_07,dictation,28.59,1.01,0.035,,0.5,Cough syrup,1.0,,1,0,0.0,0,Cefspan,0.258
+hf_synth-full-s250_ur,merab-haroon,dict_08,dictation,25.34,0.95,0.037,,1.0,,0.5,26,4,4,1.0,0,Avil,0.11
+hf_synth-full-s250_ur,merab-haroon,dict_09,dictation,24.75,1.04,0.042,,1.0,,1.0,,2,2,1.0,0,,0.259
+hf_synth-full-s250_ur,merab-haroon,dict_10,dictation,19.2,0.97,0.05,,1.0,,0.0,38,5,6,1.0,1,Cytotec Serc,0.203
+hf_synth-full-s250_ur,merab-haroon,own_01,free_dictation,14.17,0.46,0.033,,1.0,,1.0,,2,2,1.0,0,Lyrica,0.145
+hf_synth-full-s250_ur,merab-haroon,own_02,free_dictation,16.47,0.75,0.046,,0.0,Panadol,1.0,,3,2,0.667,0,Carvedilol,0.427
+hf_synth-full-s250_ur,merab-haroon,own_03,free_dictation,16.73,0.77,0.046,,0.0,Panadol,1.0,,2,2,1.0,0,Diovan,0.643
+hf_synth-full-s250_ur,nouman-tanveer,dict_01,dictation,28.84,1.16,0.04,,0.5,Azomax,1.0,,2,3,1.0,1,,0.321
+hf_synth-full-s250_ur,nouman-tanveer,dict_02,dictation,24.58,1.06,0.043,,1.0,,1.0,,3,3,1.0,0,Serc,0.117
+hf_synth-full-s250_ur,nouman-tanveer,dict_03,dictation,31.15,1.09,0.035,,1.0,,1.0,,1,1,1.0,0,Cac-1000,0.162
+hf_synth-full-s250_ur,nouman-tanveer,dict_04,dictation,23.13,0.87,0.038,,0.0,Norvasc,0.75,160,2,2,1.0,0,Novorapid Serc,0.288
+hf_synth-full-s250_ur,nouman-tanveer,dict_05,dictation,30.38,0.95,0.031,,1.0,,0.4,50 180 260,1,2,1.0,1,,0.163
+hf_synth-full-s250_ur,nouman-tanveer,dict_06,dictation,20.39,0.65,0.032,,1.0,,1.0,,2,3,1.0,1,,0.162
+hf_synth-full-s250_ur,nouman-tanveer,dict_07,dictation,30.55,0.77,0.025,,0.0,Augmentin Cough syrup,1.0,,1,0,0.0,0,Eziday Plavix,0.289
+hf_synth-full-s250_ur,nouman-tanveer,dict_08,dictation,20.91,0.68,0.033,,1.0,,1.0,,4,3,0.75,0,,0.132
+hf_synth-full-s250_ur,nouman-tanveer,dict_09,dictation,23.47,0.71,0.03,,0.5,Ventolin,1.0,,2,3,1.0,1,Acyclovir Ceclor ORS,0.235
+hf_synth-full-s250_ur,nouman-tanveer,dict_10,dictation,23.13,0.74,0.032,,0.667,Augmentin,1.0,,5,5,1.0,0,Diflucan,0.165
+hf_synth-full-s250_ur,nouman-tanveer,own_01,free_dictation,12.12,0.34,0.028,,0.0,Panadol,1.0,,2,2,1.0,0,Cac-1000,0.153
+hf_synth-full-s250_ur,nouman-tanveer,own_02,free_dictation,17.15,0.44,0.026,,1.0,,1.0,,3,3,1.0,0,,0.211
+hf_synth-full-s250_ur,nouman-tanveer,own_03,free_dictation,14.68,0.38,0.026,,1.0,,1.0,,2,2,1.0,0,,0.089
 hf_synth-full-s500_ur,hadi,dict_01,dictation,20.57,3.25,0.158,,1.0,,0.5,500,2,3,1.0,1,Gliclazide,0.377
 hf_synth-full-s500_ur,hadi,dict_02,dictation,18.09,2.99,0.165,,1.0,,0.5,95,3,4,1.0,1,Calpol Plavix Serc Sumatriptan,0.272
 hf_synth-full-s500_ur,hadi,dict_03,dictation,17.32,13.11,0.757,,0.0,ORS Flagyl,0.5,400,1,2,1.0,1,Calcium,0.434
