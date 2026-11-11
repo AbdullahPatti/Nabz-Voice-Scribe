@@ -16,3 +16,4 @@ results/notes/
 results/negation_guard.csv
 run-*.txt
 checkpoints/
+phone_bundle/
