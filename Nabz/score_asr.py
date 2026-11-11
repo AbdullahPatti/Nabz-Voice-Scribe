@@ -6,7 +6,7 @@ Per clip: drug names found, numbers found, negations kept, and SkER (consonant-s
 error rate, a rough script-independent error rate). Writes results/asr_scores.csv and
 results/asr_summary.csv, and prints the summary sorted by drug recall.
 """
-from nabzlib import (RESULTS, ROOT, count_negations, find_number, find_term, find_terms, levenshtein, load_config,
+from nabzlib import (RESULTS, ROOT, count_negations, find_number, find_term, find_terms, levenshtein, written_drugs, load_config,
                      load_key, mean, pct, print_table, quantile, read_csv, read_reference,
                      text_skeleton, write_csv)
 
@@ -54,9 +54,9 @@ def main():
             row["neg_extra"] = max(0, nh - nr)  # neg_kept alone rewards a model that writes "nahi" everywhere
             if (sp, clip) not in ref_drugs:
                 ref_drugs[(sp, clip)] = find_terms(ref, lexicon)  # fuzzy: anything close to a said name is not an insertion
-            # a lexicon drug written exactly (skeleton match, as drug_check does) that was not said; fuzzy
-            # matching here counts ordinary Urdu words as drugs (234 on plain whisper-base)
-            row["drugs_inserted"] = " ".join(sorted(find_terms(hyp, lexicon, exact=True) - ref_drugs[(sp, clip)]))
+            # a lexicon drug written out (nabzlib.written_drugs) that was not said; fuzzy matching here counts
+            # ordinary Urdu words as drugs (234 on plain whisper-base)
+            row["drugs_inserted"] = " ".join(sorted(written_drugs(hyp, lexicon) - ref_drugs[(sp, clip)]))
             rs, hs = text_skeleton(ref), text_skeleton(hyp)
             row["sker"] = round(levenshtein(rs, hs) / len(rs), 3) if rs else ""
         scores.append(row)

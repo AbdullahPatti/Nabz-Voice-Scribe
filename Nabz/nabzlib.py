@@ -109,9 +109,8 @@ to jab par wala wali karna kar lein piyein chamach mg saal sau hazaar din mein k
 STOP |= set("میں تین دو دن سے کا کی کے کو ہے ہیں اور نہیں ایک بار دفعہ گولی ساتھ رات صبح اب بھی تو جب پر والا سال سو ہزار کھانے پہلے بعد لیے دوبارہ".split())
 
 
-def find_terms(text, names, max_ngram=3, exact=False):
-    """The subset of names that find_term would find in text, building the token windows only once.
-    exact=True requires an identical consonant skeleton (no edits), as drug_check.in_lexicon does."""
+def find_terms(text, names, max_ngram=3):
+    """The subset of names that find_term would find in text, building the token windows only once."""
     toks = [t for t in tokens(text) if not t.isdigit()]
     sk = [skeleton(t) for t in toks]
     stop = [t in STOP for t in toks]
@@ -123,10 +122,48 @@ def find_terms(text, names, max_ngram=3, exact=False):
         vs = "".join(skeleton(w) for w in tokens(name))
         if not vs:
             continue
-        tol = 0 if exact else _allowed(len(vs))
+        tol = _allowed(len(vs))
         if any(abs(len(w) - len(vs)) <= tol and levenshtein(w, vs) <= tol for w in windows):
             found.add(name)
     return found
+
+
+def latin_key(text):
+    """A drug name as written in Latin script: lowercase letters and digits only ("Cac-1000" -> "cac1000")."""
+    return "".join(t for t in tokens(text) if not URDU_RE.search(t))
+
+
+def written_drug_windows(toks, names, max_ngram=3):
+    """[(i, n, name)]: token windows that are a drug name written out, longest first and non-overlapping.
+
+    Strict on purpose (this decides whether a drug was *written*, not whether it sounds close): Latin windows must
+    spell the name exactly (letters and digits); Urdu-script windows need an identical consonant skeleton of at
+    least 3 consonants. Shorter skeletons collide with common words: Cac-1000 -> "k" (ke), Diovan -> "dn" (din)."""
+    lat = {latin_key(n): n for n in names}
+    sk_names = {}
+    for n in names:
+        s = "".join(skeleton(w) for w in tokens(n) if not w.isdigit())
+        if len(s) >= 3:
+            sk_names.setdefault(s, n)
+    hits, used = [], set()
+    for n in range(max_ngram, 0, -1):
+        for i in range(len(toks) - n + 1):
+            w = toks[i:i + n]
+            if any(j in used for j in range(i, i + n)) or w[0] in STOP or w[-1] in STOP:
+                continue
+            if any(URDU_RE.search(t) for t in w):
+                name = sk_names.get("".join(skeleton(t) for t in w if not t.isdigit()))
+            else:
+                name = lat.get("".join(w))
+            if name:
+                hits.append((i, n, name))
+                used.update(range(i, i + n))
+    return hits
+
+
+def written_drugs(text, names):
+    """The set of lexicon names written out in text (see written_drug_windows)."""
+    return {name for _, _, name in written_drug_windows(tokens(text), names)}
 
 
 def find_term(text, variants, max_ngram=3):

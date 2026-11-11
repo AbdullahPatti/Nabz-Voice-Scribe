@@ -43,7 +43,11 @@ class Transcriber:
 
     @torch.inference_mode()
     def __call__(self, audio):
-        feats = self.proc(audio, sampling_rate=16000, return_tensors="pt", return_attention_mask=True)
+        # truncation=False: the feature extractor otherwise cuts every clip to 30 s, so the long-form branch
+        # below never ran and the end of longer clips was silently dropped (runs before 10 Nov 2026)
+        long = len(audio) > 30 * 16000
+        feats = self.proc(audio, sampling_rate=16000, return_tensors="pt", return_attention_mask=True,
+                          **(dict(truncation=False, padding="longest") if long else {}))
         # like whisper.cpp's defaults: beam 5, and re-decode at higher temperature when the output looks like a
         # repetition loop (compression ratio) or is low-confidence. Plain greedy loops on half the clips.
         kw = dict(task="transcribe", num_beams=5, max_new_tokens=440, temperature=(0.0, 0.2, 0.4, 0.6, 0.8, 1.0),

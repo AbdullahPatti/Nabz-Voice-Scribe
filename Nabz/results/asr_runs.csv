@@ -883,3 +883,13 @@ hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,nouman-tanveer,dict
 hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,nouman-tanveer,own_01,free_dictation,12.12,0.34,,0.34,0.028,,0
 hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,nouman-tanveer,own_02,free_dictation,17.15,0.44,,0.44,0.026,,0
 hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,nouman-tanveer,own_03,free_dictation,14.68,0.38,,0.38,0.026,,0
+hf_base_ur,hf-gpu,openai/whisper-base,ur,,merab-haroon,dict_03,dictation,30.29,1.73,,1.73,0.057,,0
+hf_base_ur,hf-gpu,openai/whisper-base,ur,,merab-haroon,dict_05,dictation,37.63,1.17,,1.17,0.031,,0
+hf_base_ur,hf-gpu,openai/whisper-base,ur,,nouman-tanveer,dict_03,dictation,31.15,0.94,,0.94,0.03,,0
+hf_base_ur,hf-gpu,openai/whisper-base,ur,,nouman-tanveer,dict_05,dictation,30.38,0.99,,0.99,0.032,,0
+hf_base_ur,hf-gpu,openai/whisper-base,ur,,nouman-tanveer,dict_07,dictation,30.55,1.11,,1.11,0.036,,0
+hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,merab-haroon,dict_03,dictation,30.29,1.97,,1.97,0.065,,0
+hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,merab-haroon,dict_05,dictation,37.63,0.88,,0.88,0.023,,0
+hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,nouman-tanveer,dict_03,dictation,31.15,0.95,,0.95,0.03,,0
+hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,nouman-tanveer,dict_05,dictation,30.38,0.79,,0.79,0.026,,0
+hf_synth-full-s250_ur,hf-gpu,checkpoints/synth-full-s250,ur,,nouman-tanveer,dict_07,dictation,30.55,0.86,,0.86,0.028,,0

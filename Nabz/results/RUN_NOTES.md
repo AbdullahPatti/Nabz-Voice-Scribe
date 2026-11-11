@@ -246,3 +246,33 @@ Note writer: Qwen3.5 4B IQ3_M, capped schema, `note_system.txt` (hints runs: `no
 3. **Strengths don't improve (14%).** Doses come out as numbers, but the note writer often drops them or pairs them with the wrong drug when the drug name is wrong.
 4. **Less training is better** (sker and invented drugs rise with steps in both variants), and training the encoder helps end to end at 250 steps. 250 steps is the earliest checkpoint tried; shorter runs and lower lr are untested.
 5. Caveats: 3 speakers, 39 clips, one dev speaker; every speaker read the same dict_01-10 scripts. The synthetic grammar excluded the test scripts' 5-grams, but its vocabulary was written with this OPD domain in mind. The phone runtime is whisper.cpp; this checkpoint still has to be converted and checked for parity there.
+
+## Catching drugs the fine-tuned ASR invents, 10 November 2026
+
+**Fix first: `run_asr_hf.py` cut every clip at 30 s.** Whisper's feature extractor truncates by default, so the long-form branch never ran. 5 of 39 clips are longer (30.3-37.6 s); only Merab dict_05 (37.6 s) lost speech (its last ~7 s, a sugar test and "pairon mein sun hona nahi hai"). Fixed with `truncation=False`; `hf_base_ur` and `hf_synth-full-s250_ur` were re-run on those 5 clips and their notes regenerated. whisper.cpp runs were never affected. Corrected test numbers are below; the table in the previous section is from before the fix (medicines 42% → 40%).
+
+**Stricter "drug written" matcher** (`nabzlib.written_drugs`): the consonant skeleton is too lossy for short names (Cac-1000 → "k" = "ke", Diovan → "dn" = "din", Avil → "l"), which is where most of base's `drugs_inserted` noise came from. Latin windows must now spell the name exactly; Urdu-script windows need an identical skeleton of at least 3 consonants. `drugs_inserted` on the test speakers: base 5, fine-tuned 11.
+
+**1. Whisper's own confidence is a weak check** (`asr_confidence.py`). Each transcript is re-scored against its audio by teacher forcing, and each written drug gets the lowest probability of its tokens. The fine-tuned model writes 52 drug names, 33 said and 19 invented. AUC for said vs invented is 0.57 (Hadi) and 0.71 (test), or 0.67/0.78 with the mean token probability. At the cut-off fixed on Hadi (flag at most 1 in 5 said drugs), it catches 1 of 11 invented drugs on the test speakers. Invented drugs come from the learned dictation template and are written with confidence.
+
+**2. Cross-checking against plain whisper-base works.** The base model never saw the template. A drug the fine-tuned model writes is flagged when base's Urdu-script transcript has nothing that sounds like it (the fuzzy cross-script `find_terms`):
+
+| written by synth-full-s250 | invented drugs flagged | said drugs flagged |
+|---|---|---|
+| Hadi (dev) | 8 / 8 | 3 / 11 |
+| Merab + Nouman (test) | **11 / 11** | 5 / 22 |
+
+**3. End to end** (Qwen3.5 4B IQ3_M, capped schema; a note medicine is flagged if `drug_check.py` flags it or base's transcript has no sound-alike):
+
+| Merab + Nouman (test) | med_recall | strength | neg_recall | neg_flips | avoid_violations | right / wrong | wrong unflagged | right flagged for review |
+|---|---|---|---|---|---|---|---|---|
+| hf whisper-base ur | 12% | 14% | 16% | 10 | 1 | 4 / 18 | 0 | |
+| hf whisper-base ur + hints | 15% | 29% | 20% | 12 | 1 | 5 / 13 | 3 | |
+| synth-full-s250 | 40% | 14% | 63% | 5 | 0 | 14 / 28 | 10 | |
+| **synth-full-s250 + base cross-check** | 40% | 14% | 63% | 5 | 0 | 14 / 28 | **0** | 4 / 14 |
+
+On Hadi the same gate takes wrong-unflagged from 3 to 0 and flags 2 of 8 right medicines.
+
+- **Proposed pipeline:** fine-tuned base writes the transcript the note writer reads, and plain base runs on the same audio as an independent witness. Every medicine is still a one-tap confirm; the flag marks "the ASR may have invented this". On these 26 test clips, 10 of 14 correct medicines arrive unflagged and every wrong one is flagged.
+- **Cost on the phone:** a second base-size ASR pass (both models are base size), so ASR time roughly doubles. The two can share audio preprocessing.
+- **Not checked yet:** both models in whisper.cpp q8 (conversion is blocked on running freshly downloaded code here), and sound-alike collisions once the lexicon becomes the ~72k-entry DRAP list.
