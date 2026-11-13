@@ -18,7 +18,55 @@ At the start of every session: read this and continue from the first item that i
 | Step 1.8 Phone pair in whisper.cpp | done (13 Nov 2026, after b5edee1) | synth-full-s250 converted (convert-h5-to-ggml.py at d2c6f05) and quantized q8_0 to models/ft-synth-full-s250/ggml-model-q8_0.bin (78 MB; folder and config.json entry unchanged, same checkpoint as before). whisper.cpp b5454 -t 4 -l ur on 39 clips (avx2_ft-s250-q8_ur_t4), notes via rerun_notes.py phone-pair. Test: med_recall 50% vs 10% base-q8, wrong unflagged after cross-check 0; 1 avoid violation (flagged by drug_check). |
 | Step 2. Write up RUN_NOTES | done (13 Nov 2026, after 3f7846e) | RUN_NOTES.md: line under the first A4000 heading, Gaps fixed (3 speakers is a stated limitation), 8 'Rerun' sections with commands, tables and agreement with the earlier run. |
 | Step 3. Phone bundle | done (13 Nov 2026, after d1264ab) | phone_bundle/nabz/ built (2.4 GB, not in git): ggml-ft-s250-q8_0.bin, Qwen_Qwen3.5-4B-IQ3_M.gguf, termux_bench.sh, clips/ (merab-haroon_dict_05 37.6 s, hadi_dict_01, nouman-tanveer_own_01); clip names written into phone/README.md step 1. The phone test itself waits for the user. |
-| Step 4. Push, release, "Finished" section | todo | |
+| Step 4. Push, release, "Finished" section | done (13 Nov 2026), except the release upload | Everything pushed, one commit per item; largest tracked file 78 MB. The GitHub release was NOT created: gh is not logged in on this PC and the automated attempt was blocked. The zipped checkpoint is at Nabz/dl/ft-synth-full-s250.zip (269 MB, not in git) for the user to upload. |
 
 ## Log
 
+
+## Finished (13 November 2026)
+
+**What was done.** Every item of Steps 0 to 4 on one PC (RTX A4000 16 GB) in one session of about 3.5 hours:
+environment; run logs cleaned; 9 Urdu note-writer runs; 30 phone-tier note-writer runs (plain, DRY, cap, hints);
+PyTorch Whisper parity; the lexicon-biasing grid on Hadi; synthetic audio and two fine-tuning runs (6 checkpoints);
+end to end on Hadi, the checkpoint choice, the test speakers once; ASR confidence and the base cross-check; the
+chosen checkpoint converted to whisper.cpp q8_0 and the phone pair run end to end; RUN_NOTES written up; the phone
+bundle staged. Per-clip transcripts and notes for all of it are in git.
+
+**What failed, and why.**
+- The GitHub release (`gh release create ft-s250 ...`) was not created. `gh` was installed for this run but is not
+  logged in, and the attempt to reuse git's stored credential for it was blocked by the session's permission
+  check. **To do by hand:** upload `Nabz/dl/ft-synth-full-s250.zip` (269 MB, the PyTorch checkpoint
+  `checkpoints/synth-full-s250`) on the repository's Releases page as tag `ft-s250`, or run `gh auth login` and then
+  `gh release create ft-s250 dl/ft-synth-full-s250.zip --notes "Whisper base, synthetic fine-tune"`.
+  Until then that checkpoint exists on this PC only (its q8_0 conversion is in git).
+- Nothing else failed. No download needed a retry, no model was skipped, no item needed a second attempt.
+
+**Checkpoint chosen:** `synth-full-s250`, by the rule fixed before training (rerun_tables.py choose): no avoid
+violation and the most medicines in the note on Hadi (46%; stock base 12%). The same checkpoint as the A4000 run.
+
+**Does each headline result agree with the A4000 snapshot?**
+
+| result | this run | A4000 | agrees |
+|---|---|---|---|
+| Urdu note writers, phone-tier note writers, cap, DRY, hints | all 39 redone runs | | identical, row for row |
+| PyTorch whisper-base ur, 39 clips (drugs / numbers / neg / sker) | 61 / 26 / 59 / 32% | 68 / 33 / 61 / 28% | base 4 to 7 points lower; small agrees |
+| Lexicon biasing, Hadi drug_recall: no bias vs λ=2 | 51% vs 67% | 67% vs 67% | **no**: the baseline is 16 points lower here, so biasing now shows a gain on Hadi; reported as such, not tuned |
+| Test speakers, PyTorch pair: medicines in the note, fine-tuned vs base | 44% vs 10% | 40% vs 12% | yes |
+| ... neg_recall, fine-tuned | 50% | 63% | 13 points lower |
+| Cross-check: invented drugs flagged on test | 10 / 10 | 11 / 11 | yes |
+| **Headline, whisper.cpp pair on test: medicines in the note** | **50% vs 10% for stock base** | 46% vs 10% | yes |
+| **Headline: wrong medicines unflagged after the cross-check** | **0** | 0 | yes |
+| whisper.cpp pair on test: avoid violations | 1 (flagged by drug_check) | 0 | **no** |
+| whisper.cpp pair on test: neg_recall / strength | 47% / 21% | 61% / 36% | 14 and 15 points lower |
+| whisper.cpp pair on Hadi: medicines in the note | 54% | 31% | 23 points higher |
+
+Details and commands: the "Rerun" sections of `results/RUN_NOTES.md`.
+
+**Waiting for the user.**
+- The phone test (NEXT_STEPS Step 3, `phone/README.md`): copy `phone_bundle/nabz/` (2.4 GB, on this PC, not in git)
+  to the phone's Download folder, run `termux_bench.sh` in Termux, put the results in `results/phone/`.
+- The release upload above.
+- From "After this" in NEXT_STEPS: correct the own-words references, replace `lexicon.txt` with the DRAP export.
+
+**Left on this PC, not in git:** `models/*.gguf` (24 GB), `checkpoints/` (6 checkpoints), `data/synth/wav/` (3.1 GB),
+`phone_bundle/`, `llama.cpp/`, `whisper.cpp/`, `.venv/`, `dl/`. Free disk is 171 GB, so nothing was deleted.
