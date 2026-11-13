@@ -591,3 +591,36 @@ Hadi (dev), same pair: med_recall 54% (PyTorch 46%, base-q8 8%), strength 43%, n
 5. The fine-tune survives conversion to the phone runtime: precision is 41% (18 of 44) against 21% for base-q8 (3 of 14), and ASR sker on the test speakers is 23% against 35%.
 
 **Caveats, unchanged:** 3 speakers, 39 clips, one dev speaker, all 18 to 24; every speaker read the same dict_01-10 scripts; `lexicon.txt` is a 318-entry placeholder; own-words references are drafts. The phone timings and RAM are not measured yet (`phone/README.md`).
+
+## Phone test: Google Pixel 8 Pro, 14 November 2026
+
+    # in Termux (F-Droid), after pkg upgrade -y; models downloaded on the phone with wget
+    bash ~/storage/downloads/nabz/termux_bench.sh        # results/phone/google-pixel-8-pro.txt
+
+Google Pixel 8 Pro, Tensor G3, Android 17, 11.3 GB RAM, CPU only, 4 threads. whisper.cpp b5454 and llama.cpp b11912
+(961c376) compiled on the phone, the same versions as the PC runs. One run; battery level and temperature were not
+recorded. The Qwen file is the PC's file (2,483,333,088 bytes); llama-bench labels it "IQ3_S mix, 3.66 bpw".
+
+Speech to text (`whisper-cli -l ur -t 4`, beam 5), wall seconds:
+
+| clip | audio | ft-s250-q8 | base-q8 (witness) | both | peak RAM |
+|---|---|---|---|---|---|
+| hadi dict_01 | 20.6 s | 7.5 | 10.2 | 17.8 | 221 MB |
+| merab-haroon dict_05 (longest) | 37.6 s | 11.6 | 12.7 | 24.2 | 260 MB |
+| nouman-tanveer own_01 (shortest) | 12.1 s | 6.2 | 8.0 | 14.2 | 220 MB |
+
+Note writer (Qwen3.5 4B IQ3_M, `llama-bench -p 400 -n 360 -t 4`): prompt 3.98 tokens/s, generation 2.32 tokens/s,
+peak RAM 3,519 MB. A cold-start p90 note is 400 / 3.98 + 360 / 2.32 = 101 + 155 = **256 s, about 4 minutes 16 seconds**.
+
+Against the budgets in `config.json` (30 s each, p90):
+
+1. **Speech fits.** Both models on the worst-case clip take 24.2 s. The two models run one after the other here; the
+   margin on the 37.6 s clip is 6 s.
+2. **The note writer does not fit: 256 s against 30 s, about 8.5 times over.** Generation alone (155 s) is 5 times
+   the budget, so caching the system prompt does not rescue it.
+3. **RAM: 3.5 GB for the note writer.** Fine on this phone; over the "much over ~3 GB is a risk" line of
+   `phone/README.md` for a 6 GB phone.
+
+**This phone is a flagship with 11.3 GB RAM, not the mid-range 6-8 GB phone `phone/README.md` asks for.** A mid-range
+phone will be slower, so the speech margin may not hold there and the note writer will be further over. Not measured:
+a mid-range phone, a second run when hot, Qwen3.5 2B on a phone, GPU or NPU back ends.

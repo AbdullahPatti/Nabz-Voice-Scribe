@@ -1,0 +1,22 @@
+# Nabz phone benchmark 2026-11-14 01:51
+device: Google Pixel 8 Pro  soc: Tensor G3 zuma
+android: 17  ram: 11.3 GB  threads: 4
+battery: ?%  
+
+## speech to text (whisper-cli -l ur, default beam 5): wall seconds, peak RAM MB
+model clip audio_s wall_s peak_ram_mb
+ft-s250 hadi_dict_01 20 7.53 221
+ft-s250 merab-haroon_dict_05 37 11.56 260
+ft-s250 nouman-tanveer_own_01 12 6.20 220
+base hadi_dict_01 20 10.23 221
+base merab-haroon_dict_05 37 12.67 252
+base nouman-tanveer_own_01 12 8.03 220
+
+## note writer (llama-bench, Qwen3.5 4B IQ3_M): tokens per second; peak RAM MB
+| model                          |       size |     params | backend    | threads |            test |                  t/s |
+| ------------------------------ | ---------: | ---------: | ---------- | ------: | --------------: | -------------------: |
+| qwen35 4B IQ3_S mix - 3.66 bpw |   2.30 GiB |     4.33 B | CPU        |       4 |           pp400 |          3.98 ± 0.01 |
+| qwen35 4B IQ3_S mix - 3.66 bpw |   2.30 GiB |     4.33 B | CPU        |       4 |           tg360 |          2.32 ± 0.01 |
+
+build: 961c376 (1)
+peak_ram_mb 3519

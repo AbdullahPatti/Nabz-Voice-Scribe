@@ -17,7 +17,7 @@ At the start of every session: read this and continue from the first item that i
 | Step 1.7 ASR confidence and base cross-check | done (13 Nov 2026, after 47c6154) | asr_confidence.py on hf_synth-full-s250_ur (48 drugs written: 31 said, 17 invented); AUC min_p 0.57 dev / 0.65 test; base cross-check (rerun_tables.py crosscheck, results/crosscheck.csv) flags 7/7 and 10/10 invented drugs; end to end wrong unflagged 7 -> 0 on test. |
 | Step 1.8 Phone pair in whisper.cpp | done (13 Nov 2026, after b5edee1) | synth-full-s250 converted (convert-h5-to-ggml.py at d2c6f05) and quantized q8_0 to models/ft-synth-full-s250/ggml-model-q8_0.bin (78 MB; folder and config.json entry unchanged, same checkpoint as before). whisper.cpp b5454 -t 4 -l ur on 39 clips (avx2_ft-s250-q8_ur_t4), notes via rerun_notes.py phone-pair. Test: med_recall 50% vs 10% base-q8, wrong unflagged after cross-check 0; 1 avoid violation (flagged by drug_check). |
 | Step 2. Write up RUN_NOTES | done (13 Nov 2026, after 3f7846e) | RUN_NOTES.md: line under the first A4000 heading, Gaps fixed (3 speakers is a stated limitation), 8 'Rerun' sections with commands, tables and agreement with the earlier run. |
-| Step 3. Phone bundle | done (13 Nov 2026, after d1264ab) | phone_bundle/nabz/ built (2.4 GB, not in git): ggml-ft-s250-q8_0.bin, Qwen_Qwen3.5-4B-IQ3_M.gguf, termux_bench.sh, clips/ (merab-haroon_dict_05 37.6 s, hadi_dict_01, nouman-tanveer_own_01); clip names written into phone/README.md step 1. The phone test itself waits for the user. |
+| Step 3. Phone bundle | done (13 Nov 2026, after d1264ab) | phone_bundle/nabz/ built (2.4 GB, not in git): ggml-ft-s250-q8_0.bin, Qwen_Qwen3.5-4B-IQ3_M.gguf, termux_bench.sh, clips/ (merab-haroon_dict_05 37.6 s, hadi_dict_01, nouman-tanveer_own_01); clip names written into phone/README.md step 1. Phone test run by the user on 14 Nov 2026 on a Google Pixel 8 Pro (11.3 GB RAM): results/phone/google-pixel-8-pro.txt, RUN_NOTES "Phone test". Speech 24.2 s on the longest clip (budget 30 s); note writer 256 s per note (budget 30 s), 3.5 GB peak RAM. A mid-range phone is still not measured. |
 | Step 4. Push, release, "Finished" section | done (13 Nov 2026), except the release upload | Everything pushed, one commit per item; largest tracked file 78 MB. The GitHub release was NOT created: gh is not logged in on this PC and the automated attempt was blocked. The zipped checkpoint is at Nabz/dl/ft-synth-full-s250.zip (269 MB, not in git) for the user to upload. |
 
 ## Log
@@ -63,8 +63,8 @@ violation and the most medicines in the note on Hadi (46%; stock base 12%). The 
 Details and commands: the "Rerun" sections of `results/RUN_NOTES.md`.
 
 **Waiting for the user.**
-- The phone test (NEXT_STEPS Step 3, `phone/README.md`): copy `phone_bundle/nabz/` (2.4 GB, on this PC, not in git)
-  to the phone's Download folder, run `termux_bench.sh` in Termux, put the results in `results/phone/`.
+- The phone test was run on a Pixel 8 Pro (14 Nov 2026). Still open: the same test on a mid-range 6-8 GB phone,
+  and a decision on the note writer, which takes 256 s per note against a 30 s budget.
 - The release upload above.
 - From "After this" in NEXT_STEPS: correct the own-words references, replace `lexicon.txt` with the DRAP export.
 
