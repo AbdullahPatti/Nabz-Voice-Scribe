@@ -15,7 +15,11 @@ Use the kind of phone doctors actually carry (a mid-range Android with 6-8 GB RA
 ## Steps
 
 1. **On the PC**, the bundle is ready in `phone_bundle/nabz/` (2.4 GB: two models, three test clips, the script).
-   If it is gone, ask Claude to re-stage it (it is kept out of git).
+   If it is gone, ask Claude to re-stage it (it is kept out of git). Built 13 November 2026 from the rerun; the
+   three clips in `clips/` are:
+   - `merab-haroon_dict_05.wav` (`data/merab-haroon/dict_05.wav`, 37.6 s, the longest clip: the worst case)
+   - `hadi_dict_01.wav` (`data/hadi/dict_01.wav`, 20.6 s, a typical dictation)
+   - `nouman-tanveer_own_01.wav` (`data/nouman-tanveer/own_01.wav`, 12.1 s, the shortest, own words)
 2. **Copy it to the phone** over USB: put the whole `nabz` folder in the phone's **Download** folder, so it ends
    up at `Download/nabz/`.
 3. **Install Termux** from F-Droid (https://f-droid.org/packages/com.termux/). The Play Store version is outdated.
