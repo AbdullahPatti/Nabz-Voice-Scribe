@@ -1,0 +1,48 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in lower back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain behind eyes\",\n      \"duration\": \"little 150 mg\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"increased urination\"\n  ],\n  \"allergies\": [\n    \"Painadol\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Disperin\",\n      \"strength\": \"150 mg\",\n      \"dose\": \"2 tablets daily 10 times a day\",\n      \"frequency\": \"avoid\",\n      \"duration\": null,\n      \"instructions\": \"avoid\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Disperin 150 mg\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"increase fluid intake\"\n  ],\n  \"follow_up\": \"repeat in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "pain in lower back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "little 150 mg"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "increased urination"
+    ],
+    "allergies": [
+      "Painadol"
+    ],
+    "medications": [
+      {
+        "name": "Disperin",
+        "strength": "150 mg",
+        "dose": "2 tablets daily 10 times a day",
+        "frequency": "avoid",
+        "duration": null,
+        "instructions": "avoid"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Disperin 150 mg"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "increase fluid intake"
+    ],
+    "follow_up": "repeat in 2 days"
+  },
+  "timings": {}
+}

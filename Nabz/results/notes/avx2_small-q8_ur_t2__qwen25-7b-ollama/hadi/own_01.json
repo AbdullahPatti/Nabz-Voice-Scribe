@@ -1,0 +1,45 @@
+{
+  "transcript": "اورت سکسٹی عیرز تو مہینے سے نہیں پین، سیڈیوں پہ ذاتہ بری، نو سویلنگ، نو فیور، دن میں پیناڈال کے دو تیبلیٹ، حلکی ایک سکسائس دیلی اور ایک مہینے بعد واپس آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"months\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"vaginal discharge\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Dinapride\",\n      \"strength\": \"2\",\n      \"dose\": \"tablets\",\n      \"frequency\": \"daily\",\n      \"duration\": \"as needed\",\n      \"instructions\": \"for pain\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Sexual intercourse\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Follow up in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "months"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "vaginal discharge"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Dinapride",
+        "strength": "2",
+        "dose": "tablets",
+        "frequency": "daily",
+        "duration": "as needed",
+        "instructions": "for pain"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Sexual intercourse"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Follow up in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {}
+}

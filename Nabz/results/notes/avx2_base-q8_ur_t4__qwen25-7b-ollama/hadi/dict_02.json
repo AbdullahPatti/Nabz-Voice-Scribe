@@ -1,0 +1,44 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"redness\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"eye pain behind the eyes\",\n    \"increased thirst\",\n    \"increased urination\",\n    \"no fever\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"profen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"no increase in fluid intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "redness",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "eye pain behind the eyes",
+      "increased thirst",
+      "increased urination",
+      "no fever"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "profen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "no increase in fluid intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

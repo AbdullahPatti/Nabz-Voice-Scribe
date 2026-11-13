@@ -1,0 +1,40 @@
+{
+  "transcript": "خاتون 38 سال صرف فالوہ آپ کے لیے آئی ہے پرشلی دوائی سے کوئی راش نہیں ہوا کوئی سائٹ افیکٹ نہیں بخار نہیں خانسی نہیں پہنے سرن سے ڈرجی ہے اس لئے اکمنٹن نہیں دینی سرٹے قادری گولی رات کو 10 دن ایک وینے بعد دکھائے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"discharge\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"site effect\",\n    \"bloating\",\n    \"pain\",\n    \"vaginal discharge\"\n  ],\n  \"findings\": [\n    \"no cervical motion\",\n    \"no signs of infection\"\n  ],\n  \"allergies\": [\n    \"Augmentin 625 once daily for 10 days\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"no cervical motion\"\n  ],\n  \"follow_up\": \"10 days after\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "discharge",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "site effect",
+      "bloating",
+      "pain",
+      "vaginal discharge"
+    ],
+    "findings": [
+      "no cervical motion",
+      "no signs of infection"
+    ],
+    "allergies": [
+      "Augmentin 625 once daily for 10 days"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "no cervical motion"
+    ],
+    "follow_up": "10 days after"
+  },
+  "timings": {}
+}

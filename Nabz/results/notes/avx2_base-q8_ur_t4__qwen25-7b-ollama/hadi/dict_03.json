@@ -1,0 +1,55 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"night sweats\",\n      \"duration\": \"40 years\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"hand swelling\",\n      \"duration\": \"not present\"\n    },\n    {\n      \"symptom\": \"hand pain\",\n      \"duration\": \"not present\"\n    },\n    {\n      \"symptom\": \"hand rash\",\n      \"duration\": \"4 days, 3 times a day\"\n    },\n    {\n      \"symptom\": \"itching\",\n      \"duration\": \"5 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no hand swelling\",\n    \"no hand pain\"\n  ],\n  \"findings\": [\n    \"night sweats\",\n    \"fever\",\n    \"hand rash\",\n    \"itching\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"apply antiseptic cream immediately\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "night sweats",
+        "duration": "40 years"
+      },
+      {
+        "symptom": "fever",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "hand swelling",
+        "duration": "not present"
+      },
+      {
+        "symptom": "hand pain",
+        "duration": "not present"
+      },
+      {
+        "symptom": "hand rash",
+        "duration": "4 days, 3 times a day"
+      },
+      {
+        "symptom": "itching",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "no hand swelling",
+      "no hand pain"
+    ],
+    "findings": [
+      "night sweats",
+      "fever",
+      "hand rash",
+      "itching"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "apply antiseptic cream immediately"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

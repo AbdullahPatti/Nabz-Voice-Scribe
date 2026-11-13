@@ -1,0 +1,38 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"since last night\"\n    }\n  ],\n  \"negatives\": [\n    \"rash\",\n    \"septicemia\",\n    \"fever\",\n    \"swelling\"\n  ],\n  \"findings\": [\n    \"no signs of injury on examination\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Brufen\"\n  ],\n  \"follow_up\": \"for follow-up\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "since last night"
+      }
+    ],
+    "negatives": [
+      "rash",
+      "septicemia",
+      "fever",
+      "swelling"
+    ],
+    "findings": [
+      "no signs of injury on examination"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Brufen"
+    ],
+    "follow_up": "for follow-up"
+  },
+  "timings": {}
+}

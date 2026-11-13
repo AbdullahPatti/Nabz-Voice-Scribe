@@ -1,0 +1,69 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"rash\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"side effect\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"none\"\n    }\n  ],\n  \"negatives\": [\n    \"no rash after last medicine\",\n    \"no side effects after last medicine\",\n    \"no fever\",\n    \"no cough\"\n  ],\n  \"findings\": [\n    \"Penicillin allergy\"\n  ],\n  \"allergies\": [\n    \"Penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"half tablet\",\n      \"dose\": \"at night, every 10 days\",\n      \"frequency\": \"every 10 days\",\n      \"duration\": \"one month\",\n      \"instructions\": \"show after one month\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Zyrtec half tablet at night, every 10 days. Show after one month.\"\n  ],\n  \"follow_up\": \"in one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "rash",
+        "duration": "none"
+      },
+      {
+        "symptom": "side effect",
+        "duration": "none"
+      },
+      {
+        "symptom": "fever",
+        "duration": "none"
+      },
+      {
+        "symptom": "cough",
+        "duration": "none"
+      }
+    ],
+    "negatives": [
+      "no rash after last medicine",
+      "no side effects after last medicine",
+      "no fever",
+      "no cough"
+    ],
+    "findings": [
+      "Penicillin allergy"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half tablet",
+        "dose": "at night, every 10 days",
+        "frequency": "every 10 days",
+        "duration": "one month",
+        "instructions": "show after one month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Zyrtec half tablet at night, every 10 days. Show after one month."
+    ],
+    "follow_up": "in one month"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 92,
+    "prompt_ms": 1243.807,
+    "prompt_per_token_ms": 13.519641304347827,
+    "prompt_per_second": 73.96645942658307,
+    "predicted_n": 379,
+    "predicted_ms": 62748.612,
+    "predicted_per_token_ms": 166.00161904761904,
+    "predicted_per_second": 6.024037631302506
+  }
+}

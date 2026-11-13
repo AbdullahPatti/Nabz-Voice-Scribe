@@ -1,19 +1,20 @@
-data/*/
-!data/manifest.csv
-models/
+# Audio clips (data/<speaker>/*.wav), refs/ and per-clip results are tracked since 13 Nov 2026 (user's decision).
+# Still local only: the kit's metadata.json and the original zips (one holds a phone number), and big or
+# re-downloadable files.
+data/*/metadata.json
+data/synth/wav/
+recordings/*.zip
+models/*
+!models/ft-synth-full-s250/
+models/ft-synth-full-s250/*
+!models/ft-synth-full-s250/ggml-model-q8_0.bin
 whisper.cpp/
 llama.cpp/
 .venv/
 __pycache__/
 *.log
 downloads/
-recordings/*.zip
 dl/
-# Recording-derived text stays local (consent: recordings are not published).
-refs/
-results/asr/
-results/notes/
-results/negation_guard.csv
 run-*.txt
 checkpoints/
 phone_bundle/

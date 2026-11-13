@@ -1,0 +1,60 @@
+{
+  "transcript": "خطون 26 سال دو دن سے پیشا میں جلن ہے اور بار بار آتا ہے بخار نہیں کمر میں درد ہے پرگنٹ نہیں ہے سیپرو 500 دن میں دو بار تین دن پانی زیادہ پییں شاہب کو ٹیشٹ کروالیں تین دن میں فرق نہ پڑے تو دو بارا آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation\", \"duration\": \"2 days\"},\n    {\"symptom\": \"recurrent episodes\", \"duration\": \"2 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Cipro\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"for 3 days\",\"duration\": \"3 days\",\"instructions\": \"drink more water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"test urine\"\n  ],\n  \"advice\": [\n    \"return in 3 days if no improvement\",\n    \"return in 3 days if symptoms recur\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "recurrent episodes",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Cipro",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "for 3 days",
+        "duration": "3 days",
+        "instructions": "drink more water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "test urine"
+    ],
+    "advice": [
+      "return in 3 days if no improvement",
+      "return in 3 days if symptoms recur"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 5266.543,
+    "prompt_per_token_ms": 54.29425773195876,
+    "prompt_per_second": 18.41815399589446,
+    "predicted_n": 274,
+    "predicted_ms": 62635.933,
+    "predicted_per_token_ms": 229.435652014652,
+    "predicted_per_second": 4.358520531657124
+  }
+}

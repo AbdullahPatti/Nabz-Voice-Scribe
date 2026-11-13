@@ -1,0 +1,34 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"since last night\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"site infection\",\n    \"swelling\",\n    \"menstruation\"\n  ],\n  \"findings\": [\n    \"bruise on arm shown since last night\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\"\n  ],\n  \"follow_up\": \"for follow up\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "since last night"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "site infection",
+      "swelling",
+      "menstruation"
+    ],
+    "findings": [
+      "bruise on arm shown since last night"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest"
+    ],
+    "follow_up": "for follow up"
+  },
+  "timings": {}
+}

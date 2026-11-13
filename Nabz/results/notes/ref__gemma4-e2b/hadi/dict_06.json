@@ -1,0 +1,50 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Stomach burning\",\n      \"duration\": \"after eating more\"\n    },\n    {\n      \"symptom\": \"Sour taste\",\n      \"duration\": \"not specified\"\n    }\n  ],\n  \"negatives\": [\n    \"No vomiting\",\n    \"No weight loss\"\n  ],\n  \"findings\": [\n    \"Stomach burning after eating more\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Chai\",\n    \"Mirch\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Risek 20 am on an empty stomach for two weeks.\",\n    \"Reduce tea and chili.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "Stomach burning",
+        "duration": "after eating more"
+      },
+      {
+        "symptom": "Sour taste",
+        "duration": "not specified"
+      }
+    ],
+    "negatives": [
+      "No vomiting",
+      "No weight loss"
+    ],
+    "findings": [
+      "Stomach burning after eating more"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Chai",
+      "Mirch"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Risek 20 am on an empty stomach for two weeks.",
+      "Reduce tea and chili."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 96,
+    "prompt_ms": 1350.273,
+    "prompt_per_token_ms": 14.065343749999998,
+    "prompt_per_second": 71.09673377161508,
+    "predicted_n": 237,
+    "predicted_ms": 38727.946,
+    "predicted_per_token_ms": 164.10146610169494,
+    "predicted_per_second": 6.093790773205477
+  }
+}

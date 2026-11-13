@@ -1,0 +1,50 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سکیرز نوز ویلن نو فیور پاندول 2 تبلرٹز 2 ایرز اگی لائی تکسرسیز دیلی کم بیکن 1 منگت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"2 tablets\"\n    }\n  ],\n  \"negatives\": [\n    \"no rash\",\n    \"no dizziness\"\n  ],\n  \"findings\": [\n    \"skin lesions\"\n  ],\n  \"allergies\": [\n    \"Ipratropium\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"2 tablets\",\n      \"dose\": \"2 times daily\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"2 months\",\n      \"instructions\": \"continue\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Brufen\",\n    \"continue Augmentin 625 as needed for 2 months\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "cough",
+        "duration": "2 tablets"
+      }
+    ],
+    "negatives": [
+      "no rash",
+      "no dizziness"
+    ],
+    "findings": [
+      "skin lesions"
+    ],
+    "allergies": [
+      "Ipratropium"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "2 tablets",
+        "dose": "2 times daily",
+        "frequency": "as needed",
+        "duration": "2 months",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Brufen",
+      "continue Augmentin 625 as needed for 2 months"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

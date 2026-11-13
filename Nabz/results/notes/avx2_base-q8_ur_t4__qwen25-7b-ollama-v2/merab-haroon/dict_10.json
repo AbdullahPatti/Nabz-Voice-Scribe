@@ -1,0 +1,51 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"eye redness\",\n      \"duration\": \"follow-up\"\n    },\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"one day\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no discharge\",\n    \"no dizziness\"\n  ],\n  \"findings\": [\n    \"allergic conjunctivitis\",\n    \"recent foreign body\",\n    \"possible bullet injury\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"not given\",\n      \"frequency\": \"not given\",\n      \"duration\": \"not given\",\n      \"instructions\": \"avoid\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Augmentin 625\",\n    \"no Brufen\"\n  ],\n  \"follow_up\": \"not mentioned\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "eye redness",
+        "duration": "follow-up"
+      },
+      {
+        "symptom": "pain",
+        "duration": "one day"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no discharge",
+      "no dizziness"
+    ],
+    "findings": [
+      "allergic conjunctivitis",
+      "recent foreign body",
+      "possible bullet injury"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "not given",
+        "frequency": "not given",
+        "duration": "not given",
+        "instructions": "avoid"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Augmentin 625",
+      "no Brufen"
+    ],
+    "follow_up": "not mentioned"
+  },
+  "timings": {}
+}

@@ -1,0 +1,67 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"since last night\"\n    },\n    {\n      \"symptom\": \"frequency\",\n      \"duration\": \"nine times\"\n    },\n    {\n      \"symptom\": \"blood in stool\",\n      \"duration\": \"no\"\n    },\n    {\n      \"symptom\": \"dehydration\",\n      \"duration\": \"mild\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"mild dehydration\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl\",\n      \"strength\": \"400\",\n      \"dose\": \"three times in 400 days, five days\",\n      \"frequency\": \"three times in 400 days, five days\",\n      \"duration\": \"five days\",\n      \"instructions\": \"stop if urine output decreases\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"milk\",\n    \"fried food\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink one glass of ORS after every episode of diarrhea\",\n    \"return immediately if urine output decreases\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "since last night"
+      },
+      {
+        "symptom": "frequency",
+        "duration": "nine times"
+      },
+      {
+        "symptom": "blood in stool",
+        "duration": "no"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "mild"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "mild dehydration"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "three times in 400 days, five days",
+        "frequency": "three times in 400 days, five days",
+        "duration": "five days",
+        "instructions": "stop if urine output decreases"
+      }
+    ],
+    "drugs_to_avoid": [
+      "milk",
+      "fried food"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "drink one glass of ORS after every episode of diarrhea",
+      "return immediately if urine output decreases"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 327,
+    "prompt_n": 5,
+    "prompt_ms": 232.598,
+    "prompt_per_token_ms": 46.519600000000004,
+    "prompt_per_second": 21.496315531517894,
+    "predicted_n": 369,
+    "predicted_ms": 61690.474,
+    "predicted_per_token_ms": 167.63715760869565,
+    "predicted_per_second": 5.965264588500324
+  }
+}

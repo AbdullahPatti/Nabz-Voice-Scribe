@@ -1,0 +1,50 @@
+{
+  "transcript": "ہاتون چھبکسار دو دن سے پیشاب میں جرن ہے اور بار بار آتا ہے بوحار نہیں کمر میں درد نہیں پرگرن نہیں ہے سپرو 500 دن میں دو بار تین دن پانی زادہ پی ہیں پیشاب کا تیس کروالیں تین دن میں فرق نہ پڑے تو دو بارا آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Frequent urination for two days\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"Frequent urination\",\n      \"duration\": \"repeated\"\n    },\n    {\n      \"symptom\": \"Increased urine volume (water intake)\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"No fever\",\n    \"No back pain\"\n  ],\n  \"findings\": [\n    \"No proteinuria\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"If urine volume does not decrease in three days, to come back twice.\"\n  ],\n  \"follow_up\": \"Return in 3 days if no improvement in urine volume.\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "Frequent urination for two days",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "Frequent urination",
+        "duration": "repeated"
+      },
+      {
+        "symptom": "Increased urine volume (water intake)",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "No fever",
+      "No back pain"
+    ],
+    "findings": [
+      "No proteinuria"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "If urine volume does not decrease in three days, to come back twice."
+    ],
+    "follow_up": "Return in 3 days if no improvement in urine volume."
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 82,
+    "prompt_ms": 1326.182,
+    "prompt_per_token_ms": 16.172951219512196,
+    "prompt_per_second": 61.831633968791614,
+    "predicted_n": 253,
+    "predicted_ms": 44138.427,
+    "predicted_per_token_ms": 175.1524880952381,
+    "predicted_per_second": 5.709310846079766
+  }
+}

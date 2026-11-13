@@ -1,0 +1,31 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"frequent urination\",\n      \"duration\": \"2 days after eating 1000 rupees\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"frequent urination 2 times a day after eating 1000 rupees\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid brufen\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "frequent urination",
+        "duration": "2 days after eating 1000 rupees"
+      }
+    ],
+    "negatives": [
+      "no fever"
+    ],
+    "findings": [
+      "frequent urination 2 times a day after eating 1000 rupees"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid brufen"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

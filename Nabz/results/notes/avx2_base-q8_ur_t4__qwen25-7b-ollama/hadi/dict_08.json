@@ -1,0 +1,38 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"sputum production (2-3 times/day)\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625 (2 times/day)\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Augmentin 625\",\n    \"continue steam inhalation\",\n    \"increase fluid intake\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "cough",
+      "sputum production (2-3 times/day)"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin 625 (2 times/day)"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Augmentin 625",
+      "continue steam inhalation",
+      "increase fluid intake"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {}
+}

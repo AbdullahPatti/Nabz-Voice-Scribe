@@ -1,0 +1,40 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 8\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"no fever\",\n      \"duration\": \"since previous visit\"\n    }\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no sputum\",\n    \"no vomiting\",\n    \"no pain\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"no signs of illness\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen nahi leni\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue current care\",\n    \"follow up in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 8
+    },
+    "complaints": [
+      {
+        "symptom": "no fever",
+        "duration": "since previous visit"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no sputum",
+      "no vomiting",
+      "no pain",
+      "no diarrhea"
+    ],
+    "findings": [
+      "no signs of illness"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen nahi leni"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "continue current care",
+      "follow up in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {}
+}

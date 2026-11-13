@@ -1,0 +1,45 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"swelling\",\n      \"duration\": \"night before\"\n    }\n  ],\n  \"negatives\": [\n    \"no blood in hand\",\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"slight dehydration\",\n    \"oral rehydration solution (ORS) taken after each hand wash\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl 400\",\n      \"strength\": null,\n      \"dose\": \"three times a day for five days\",\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"milk\",\n    \"cooked foods\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return if symptoms worsen\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "swelling",
+        "duration": "night before"
+      }
+    ],
+    "negatives": [
+      "no blood in hand",
+      "no fever"
+    ],
+    "findings": [
+      "slight dehydration",
+      "oral rehydration solution (ORS) taken after each hand wash"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl 400",
+        "strength": null,
+        "dose": "three times a day for five days",
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "milk",
+      "cooked foods"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return if symptoms worsen"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

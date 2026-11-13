@@ -1,0 +1,53 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"shortness of breath\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no rash\",\n    \"no swelling\",\n    \"no bleeding\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no rash\",\n    \"no swelling\",\n    \"no bleeding\"\n  ],\n  \"findings\": [\n    \"cough productive of sputum\"\n  ],\n  \"allergies\": [\n    \"no known drug allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid cough suppressants\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no diarrhea",
+      "no abdominal pain",
+      "no cough",
+      "no chest pain",
+      "no headache",
+      "no joint pain",
+      "no rash",
+      "no swelling",
+      "no bleeding",
+      "no vomiting",
+      "no diarrhea",
+      "no abdominal pain",
+      "no cough",
+      "no chest pain",
+      "no headache",
+      "no joint pain",
+      "no rash",
+      "no swelling",
+      "no bleeding"
+    ],
+    "findings": [
+      "cough productive of sputum"
+    ],
+    "allergies": [
+      "no known drug allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid cough suppressants"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

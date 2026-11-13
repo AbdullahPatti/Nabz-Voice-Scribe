@@ -1,0 +1,39 @@
+{
+  "transcript": "میں 35 سوٹ روٹ روٹ روٹ for 2 دیز خانسی نہیں ہے اور کوئی سانس کا مسئلہ نہیں ہے پہنڈ اور جب بھی فیوڈ ہو وام سوٹ روٹر کتین دن میں تین بارگر آرے کریں اگر تھیک نہیں ہوتا تو تین دن میں واپس آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"khansi\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no breathing problem\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"If fever occurs, have three loose stools. If it doesn't resolve, return in three days.\"\n  ],\n  \"follow_up\": \"Return in three days if symptoms persist.\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "khansi",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no breathing problem"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "If fever occurs, have three loose stools. If it doesn't resolve, return in three days."
+    ],
+    "follow_up": "Return in three days if symptoms persist."
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 74,
+    "prompt_ms": 1057.007,
+    "prompt_per_token_ms": 14.283878378378379,
+    "prompt_per_second": 70.00899710219515,
+    "predicted_n": 182,
+    "predicted_ms": 30242.414,
+    "predicted_per_token_ms": 167.08516022099448,
+    "predicted_per_second": 5.984971966854233
+  }
+}

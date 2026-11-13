@@ -1,0 +1,49 @@
+{
+  "transcript": "مارض بائیس آل رات کو ساتھ کی تقلیف اور سیننے سے سیٹی کی آس آتی ہے کہ براہد ہون دیگے بخار نہیں ویلنٹولی انہیلر ضرورت پر دو پف دین میں چارد فاصر زیادہ نہیں رات کو رٹک ایک گولی دول ہور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"runny nose\"\n  ],\n  \"findings\": [\n    \"allergic rhinitis\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"for sore throat\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid allergens\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "runny nose"
+    ],
+    "findings": [
+      "allergic rhinitis"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "for sore throat"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid allergens"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

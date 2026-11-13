@@ -1,0 +1,53 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"no rash\",\n      \"duration\": \"not specified\"\n    },\n    {\n      \"symptom\": \"no side effects\",\n      \"duration\": \"not specified\"\n    },\n    {\n      \"symptom\": \"no cough\",\n      \"duration\": \"not specified\"\n    },\n    {\n      \"symptom\": \"no wheezing\",\n      \"duration\": \"not specified\"\n    }\n  ],\n  \"negatives\": [\n    \"allergy to penicillin\",\n    \"do not give Augmentin\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"half a tablet\",\n      \"dose\": \"at night\",\n      \"frequency\": \"for 10 days\",\n      \"duration\": \"one month later follow up appointment\",\n      \"instructions\": \"not specified\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": \"one month later\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "no rash",
+        "duration": "not specified"
+      },
+      {
+        "symptom": "no side effects",
+        "duration": "not specified"
+      },
+      {
+        "symptom": "no cough",
+        "duration": "not specified"
+      },
+      {
+        "symptom": "no wheezing",
+        "duration": "not specified"
+      }
+    ],
+    "negatives": [
+      "allergy to penicillin",
+      "do not give Augmentin"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half a tablet",
+        "dose": "at night",
+        "frequency": "for 10 days",
+        "duration": "one month later follow up appointment",
+        "instructions": "not specified"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "one month later"
+  },
+  "timings": {}
+}

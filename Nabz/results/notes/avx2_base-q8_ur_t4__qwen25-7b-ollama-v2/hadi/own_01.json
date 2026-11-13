@@ -1,0 +1,35 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"months\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"history of pneumonia\",\n    \"history of pleurisy\",\n    \"history of tuberculosis\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Brufen\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "months"
+      }
+    ],
+    "negatives": [
+      "no fever"
+    ],
+    "findings": [
+      "history of pneumonia",
+      "history of pleurisy",
+      "history of tuberculosis"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Brufen"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

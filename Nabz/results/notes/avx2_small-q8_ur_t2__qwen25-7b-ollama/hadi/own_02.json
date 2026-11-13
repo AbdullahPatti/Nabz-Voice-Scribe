@@ -1,0 +1,32 @@
+{
+  "transcript": "میں 35 سوٹ روٹ روٹ روٹ for 2 دیز خانسی نہیں ہے اور کوئی سانس کا مسئلہ نہیں ہے پہنڈ اور جب بھی فیوڈ ہو وام سوٹ روٹر کتین دن میں تین بارگر آرے کریں اگر تھیک نہیں ہوتا تو تین دن میں واپس آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"breathing problem\"\n  ],\n  \"findings\": [\n    \"3 episodes of diarrhea\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"eat three times a day\"\n  ],\n  \"follow_up\": \"if not better in 3 days, return\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "breathing problem"
+    ],
+    "findings": [
+      "3 episodes of diarrhea"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "eat three times a day"
+    ],
+    "follow_up": "if not better in 3 days, return"
+  },
+  "timings": {}
+}

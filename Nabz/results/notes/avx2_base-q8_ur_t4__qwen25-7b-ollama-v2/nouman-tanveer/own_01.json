@@ -1,0 +1,51 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"2 months\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"no chest pain\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"allergies\": [\n    \"no known drug allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Brufen\",\n    \"one menthol\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "no chest pain",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "allergies": [
+      "no known drug allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Brufen",
+      "one menthol"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

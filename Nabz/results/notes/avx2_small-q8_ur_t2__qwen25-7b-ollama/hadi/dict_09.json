@@ -1,0 +1,42 @@
+{
+  "transcript": "امبرد 22 سال رادکو سانسی تقریف اور سینیس سیٹی کی اواز آتی ہے کبرات ہندی ہے وہ خار نہیں وینٹولین انہلہ رضورت پر دو پف دن میں چار دوہ سی جاتا نہیں رادکو زیٹک ایک گولی دول اور دویں سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"present\"\n    },\n    {\n      \"symptom\": \"sputum production\",\n      \"duration\": \"present\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"chest pain\",\n    \"hemoptysis\"\n  ],\n  \"findings\": [\n    \"respiratory sounds normal\",\n    \"cardiac sounds normal\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Augmentin 625\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "present"
+      },
+      {
+        "symptom": "sputum production",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "chest pain",
+      "hemoptysis"
+    ],
+    "findings": [
+      "respiratory sounds normal",
+      "cardiac sounds normal"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Augmentin 625"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

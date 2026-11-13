@@ -1,0 +1,50 @@
+{
+  "transcript": "خاتون 38 سال صرف فالوہ آپ کے لیے آئی ہے پرشلی دوائی سے کوئی راش نہیں ہوا کوئی سائٹ افیکٹ نہیں بخار نہیں خانسی نہیں پہنے سرن سے ڈرجی ہے اس لئے اکمنٹن نہیں دینی سرٹے قادری گولی رات کو 10 دن ایک وینے بعد دکھائے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\"symptom\": \"joint pain\", \"duration\": \"10 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no side effects from previous medication\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"10 days\",\"instructions\": \"show after 10 days\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue current medication\"\n  ],\"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "joint pain",
+        "duration": "10 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no side effects from previous medication"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "10 days",
+        "instructions": "show after 10 days"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue current medication"
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 5438.645,
+    "prompt_per_token_ms": 53.32004901960785,
+    "prompt_per_second": 18.75467143010805,
+    "predicted_n": 234,
+    "predicted_ms": 63442.35,
+    "predicted_per_token_ms": 272.28476394849787,
+    "predicted_per_second": 3.6726256199526026
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "transcript": "ہاتون چونٹی سالت تین دن سے بہار جسم میں درد اور آنکھوں کے پیچھے درد پلیٹ لیڈز 95000 ہے کہیں سے ہم نہیں آرہا صرف پیناڈول دو گولی دن میں تین بار بروفن نے لینے دیسپرن بھی نہیں پانی زادہ پی ہیں کل ہم کا تیس دوبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"body pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain behind eyes\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"platelets 95000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Dapsperin\"\n  ],\n  \"investigations_ordered\": [\n    \"Repeat test tomorrow\"\n  ],\n  \"advice\": [\n    \"Take Paracetamol 1 tablet three times a day\"\n  ],\n  \"follow_up\": \"Repeat test tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "platelets 95000"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Dapsperin"
+    ],
+    "investigations_ordered": [
+      "Repeat test tomorrow"
+    ],
+    "advice": [
+      "Take Paracetamol 1 tablet three times a day"
+    ],
+    "follow_up": "Repeat test tomorrow"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 88,
+    "prompt_ms": 1284.033,
+    "prompt_per_token_ms": 14.59128409090909,
+    "prompt_per_second": 68.53406415567203,
+    "predicted_n": 236,
+    "predicted_ms": 41493.447,
+    "predicted_per_token_ms": 176.5678595744681,
+    "predicted_per_second": 5.6635448966194595
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"nighttime\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"chest\"},\n    {\"symptom\": \"anxiety\", \"duration\": \"nighttime\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": \"not specified\",\n      \"dose\": \"2 puffs\",\n      \"frequency\": \"as needed, max 4 times daily\",\n      \"duration\": \"not specified\",\"instructions\": \"take only when needed\"}\n    ],\n    \"drugs_to_avoid\": [\n      \"dust\",\n      \"smoke\"\n    ],\"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid dust and smoke\"\n  ],\"follow_up\": \"not specified\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "chest"
+      },
+      {
+        "symptom": "anxiety",
+        "duration": "nighttime"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "not specified",
+        "dose": "2 puffs",
+        "frequency": "as needed, max 4 times daily",
+        "duration": "not specified",
+        "instructions": "take only when needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "dust",
+      "smoke"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid dust and smoke"
+    ],
+    "follow_up": "not specified"
+  },
+  "timings": {
+    "cache_n": 331,
+    "prompt_n": 4,
+    "prompt_ms": 534.309,
+    "prompt_per_token_ms": 133.57725,
+    "prompt_per_second": 7.48630474126395,
+    "predicted_n": 259,
+    "predicted_ms": 74932.923,
+    "predicted_per_token_ms": 290.4376860465116,
+    "predicted_per_second": 3.4430793524496575
+  }
+}

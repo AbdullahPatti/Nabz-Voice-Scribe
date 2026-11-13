@@ -1,0 +1,36 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"gastrointestinal discomfort\",\n      \"duration\": \"2 weeks\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"morning abdominal pain\",\n    \"worsens after eating\",\n    \"nighttime heartburn\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Gaviscon 2x daily at night\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce tea and chili intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "gastrointestinal discomfort",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [
+      "morning abdominal pain",
+      "worsens after eating",
+      "nighttime heartburn"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Gaviscon 2x daily at night"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce tea and chili intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

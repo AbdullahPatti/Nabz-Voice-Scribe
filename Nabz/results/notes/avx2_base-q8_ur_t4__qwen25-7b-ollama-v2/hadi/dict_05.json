@@ -1,0 +1,48 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"polyuria\",\n      \"duration\": \"since 1 month\"\n    },\n    {\n      \"symptom\": \"polydipsia\",\n      \"duration\": \"since 1 month\"\n    },\n    {\n      \"symptom\": \"polyphagia\",\n      \"duration\": \"since 1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no rash\",\n    \"no dizziness\"\n  ],\n  \"findings\": [\n    \"urine glucose present\",\n    \"urine glucose 100 mg/dL\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"avoid\"\n  ],\n  \"investigations_ordered\": [\n    \"HbA1c test in 3 months\"\n  ],\n  \"advice\": [\n    \"diet control\",\n    \"200 mg of glucose twice a day\"\n  ],\n  \"follow_up\": \"in 3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "polyuria",
+        "duration": "since 1 month"
+      },
+      {
+        "symptom": "polydipsia",
+        "duration": "since 1 month"
+      },
+      {
+        "symptom": "polyphagia",
+        "duration": "since 1 month"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no rash",
+      "no dizziness"
+    ],
+    "findings": [
+      "urine glucose present",
+      "urine glucose 100 mg/dL"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen",
+      "avoid"
+    ],
+    "investigations_ordered": [
+      "HbA1c test in 3 months"
+    ],
+    "advice": [
+      "diet control",
+      "200 mg of glucose twice a day"
+    ],
+    "follow_up": "in 3 months"
+  },
+  "timings": {}
+}

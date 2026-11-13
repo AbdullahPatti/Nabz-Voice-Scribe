@@ -1,0 +1,63 @@
+{
+  "transcript": "مرت 45 ساتھ ایک ہفتے سے خانسی پیلا بلگم اور حلکہ بحار سانس نہیں بھولتا سینی کی دیان کی دائیں طرف حواز آ رہی ہے اگمینٹن 625 دن میں دو بات پانچ دیں خانسی کا سیرب دو چمش دن میں تین بار سیگرٹ بند کرنی ہے چیسٹ xy کروالیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Khanasi (diarrhea)\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"Pila (jaundice)\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"Belgam (chest tightness)\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"Halqa (fever)\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"Saans nahi bhoolta (shortness of breath)\",\n      \"duration\": \"not specified\"\n    }\n  ],\n  \"negatives\": [\n    \"Bukhar nahi (no fever)\",\n    \"Ulti nahi (no vomiting)\"\n  ],\n  \"findings\": [\n    \"Sini ki deen ki daayein taraf hawaz aa rahi hai (a sensation on the right side of the chest)\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Cisat XY (Cisat XY)\"\n  ],\n  \"investigations_ordered\": [\n    \"Augmentin 625\"\n  ],\n  \"advice\": [\n    \"Khanasi ka syrup do chammach (Give one teaspoon of diarrhea syrup)\",\n    \"Chams dain mein teen baar cigarette band karni hai (Stop smoking three times a day)\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "Khanasi (diarrhea)",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "Pila (jaundice)",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "Belgam (chest tightness)",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "Halqa (fever)",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "Saans nahi bhoolta (shortness of breath)",
+        "duration": "not specified"
+      }
+    ],
+    "negatives": [
+      "Bukhar nahi (no fever)",
+      "Ulti nahi (no vomiting)"
+    ],
+    "findings": [
+      "Sini ki deen ki daayein taraf hawaz aa rahi hai (a sensation on the right side of the chest)"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Cisat XY (Cisat XY)"
+    ],
+    "investigations_ordered": [
+      "Augmentin 625"
+    ],
+    "advice": [
+      "Khanasi ka syrup do chammach (Give one teaspoon of diarrhea syrup)",
+      "Chams dain mein teen baar cigarette band karni hai (Stop smoking three times a day)"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 90,
+    "prompt_ms": 1261.413,
+    "prompt_per_token_ms": 14.0157,
+    "prompt_per_second": 71.34855911584866,
+    "predicted_n": 392,
+    "predicted_ms": 68063.411,
+    "predicted_per_token_ms": 174.07521994884908,
+    "predicted_per_second": 5.7446430358889895
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "transcript": "مرت 50 سار شگر کا پرانہ مریز نحار موش شگر 180 اور کھانےگا بعد 260 پہلے گلوکو فیج 500 دن میں دو بار لے رہا تھا بلوکو فیج ہزار دن میں دو بار کھانےگا تھا تین مہینے والا شگر ٹیست کروان ہے پیرو میں سون ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"shortness of breath\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\"\n  ],\n  \"findings\": [\n    \"HbA1c 180\",\n    \"fasting blood glucose 260\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Gliclazide\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"as needed\",\n      \"instructions\": \"to be taken with meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Gliclazide 1000\",\n    \"Gliclazide 500\",\n    \"Metformin 500\",\n    \"Metformin 1000\"\n  ],\n  \"investigations_ordered\": [\n    \"HbA1c in 3 months\"\n  ],\n  \"advice\": [\n    \"no specific advice given\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no chest pain"
+    ],
+    "findings": [
+      "HbA1c 180",
+      "fasting blood glucose 260"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Gliclazide",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "daily",
+        "duration": "as needed",
+        "instructions": "to be taken with meals"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Gliclazide 1000",
+      "Gliclazide 500",
+      "Metformin 500",
+      "Metformin 1000"
+    ],
+    "investigations_ordered": [
+      "HbA1c in 3 months"
+    ],
+    "advice": [
+      "no specific advice given"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

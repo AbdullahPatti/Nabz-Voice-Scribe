@@ -1,0 +1,37 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no vision problem\",\n    \"no hypertension\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Paracetamol (Panadol) except when necessary\",\n    \"reduce salt intake\"\n  ],\n  \"investigations_ordered\": [\n    \"BP check after 1 week\"\n  ],\n  \"advice\": [\n    \"Monitor BP at home\"\n  ],\n  \"follow_up\": \"1 week later\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no vision problem",
+      "no hypertension"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Paracetamol (Panadol) except when necessary",
+      "reduce salt intake"
+    ],
+    "investigations_ordered": [
+      "BP check after 1 week"
+    ],
+    "advice": [
+      "Monitor BP at home"
+    ],
+    "follow_up": "1 week later"
+  },
+  "timings": {}
+}

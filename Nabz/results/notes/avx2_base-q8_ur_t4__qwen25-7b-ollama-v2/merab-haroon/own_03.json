@@ -1,0 +1,38 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no problem with kaisard\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [\n    \"check again after one week\"\n  ],\n  \"advice\": [\n    \"no specific advice given\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no problem with kaisard",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [
+      "check again after one week"
+    ],
+    "advice": [
+      "no specific advice given"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

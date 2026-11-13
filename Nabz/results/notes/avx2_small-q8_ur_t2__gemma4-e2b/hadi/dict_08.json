@@ -1,0 +1,52 @@
+{
+  "transcript": "خاتون 26 سال دو دن سے پیشاب میں جلن ہے اور پاروار آتا ہے بخار نہیں کمر میں درد نہیں پرکنٹ نہیں ہے سیپرو پان سو دن میں دو بار تین دن پانی زیادہ پییں پیشاب کو ٹیست کروالیں تین دن میں فرقنا پڑے تا دو بارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Dysuria\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"Paramenorrhea\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"Fever\",\n    \"Back pain\",\n    \"Pain in the abdomen\",\n    \"Constipation\"\n  ],\n  \"findings\": [\n    \"Increased water intake\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Urinalysis\"\n  ],\n  \"advice\": [\n    \"Test urine\",\n    \"Difference will be seen in 3 days\",\n    \"Urinate twice\"\n  ],\n  \"follow_up\": \"In 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "Dysuria",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "Paramenorrhea",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "Fever",
+      "Back pain",
+      "Pain in the abdomen",
+      "Constipation"
+    ],
+    "findings": [
+      "Increased water intake"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Urinalysis"
+    ],
+    "advice": [
+      "Test urine",
+      "Difference will be seen in 3 days",
+      "Urinate twice"
+    ],
+    "follow_up": "In 3 days"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 79,
+    "prompt_ms": 1104.554,
+    "prompt_per_token_ms": 13.981696202531646,
+    "prompt_per_second": 71.52208040530385,
+    "predicted_n": 246,
+    "predicted_ms": 41385.282,
+    "predicted_per_token_ms": 168.91951836734694,
+    "predicted_per_second": 5.919978991565166
+  }
+}

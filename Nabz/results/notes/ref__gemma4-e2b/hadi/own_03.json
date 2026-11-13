@@ -1,0 +1,47 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"one week\"\n    }\n  ],\n  \"negatives\": [\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Namak (salt)\"\n  ],\n  \"investigations_ordered\": [\n    \"BP check after one week\"\n  ],\n  \"advice\": [\n    \"Take Panadol if needed\",\n    \"Eat less salt\"\n  ],\n  \"follow_up\": \"BP check after one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Namak (salt)"
+    ],
+    "investigations_ordered": [
+      "BP check after one week"
+    ],
+    "advice": [
+      "Take Panadol if needed",
+      "Eat less salt"
+    ],
+    "follow_up": "BP check after one week"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 75,
+    "prompt_ms": 1127.466,
+    "prompt_per_token_ms": 15.032879999999999,
+    "prompt_per_second": 66.52085295698497,
+    "predicted_n": 213,
+    "predicted_ms": 35753.748,
+    "predicted_per_token_ms": 168.64975471698114,
+    "predicted_per_second": 5.92944829168679
+  }
+}

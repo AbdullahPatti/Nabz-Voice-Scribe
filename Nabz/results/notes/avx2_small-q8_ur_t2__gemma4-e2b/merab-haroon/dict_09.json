@@ -1,0 +1,47 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تقریب اور سینے سے سیٹی کی اہواز آتی ہے گبرار ٹوندی ہے وہ حار نہیں مینٹونین انہیلر ضرورت پر دو پاف دن میں چار دفعہ سے زاد آنے رات کو زرٹک ایک گولی دوڑ اور دومے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"night breathing and chest tightness\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"patient is pale\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Zotac\"\n  ],\n  \"investigations_ordered\": [\n    \"nebulizer use on demand\"\n  ],\n  \"advice\": [\n    \"two puffs four times a day\",\n    \"take one tablet at night and avoid second dose\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "night breathing and chest tightness",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "patient is pale"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Zotac"
+    ],
+    "investigations_ordered": [
+      "nebulizer use on demand"
+    ],
+    "advice": [
+      "two puffs four times a day",
+      "take one tablet at night and avoid second dose"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 81,
+    "prompt_ms": 1234.129,
+    "prompt_per_token_ms": 15.236160493827159,
+    "prompt_per_second": 65.63333330632373,
+    "predicted_n": 209,
+    "predicted_ms": 35884.21,
+    "predicted_per_token_ms": 172.5202403846154,
+    "predicted_per_second": 5.7964213229161246
+  }
+}

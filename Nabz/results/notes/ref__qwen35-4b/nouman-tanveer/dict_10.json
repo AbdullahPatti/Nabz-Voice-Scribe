@@ -1,0 +1,50 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"rash\",\n    \"side effects\",\n    \"fever\",\n    \"cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"half tablet\",\n      \"dose\": \"night\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"10 days\",\n      \"instructions\": \"continue for one month, review in one month\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"follow up in one month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [
+      "rash",
+      "side effects",
+      "fever",
+      "cough"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half tablet",
+        "dose": "night",
+        "frequency": "once daily",
+        "duration": "10 days",
+        "instructions": "continue for one month, review in one month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "follow up in one month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 5603.394,
+    "prompt_per_token_ms": 50.030303571428576,
+    "prompt_per_second": 19.987885913430326,
+    "predicted_n": 241,
+    "predicted_ms": 66268.825,
+    "predicted_per_token_ms": 276.12010416666664,
+    "predicted_per_second": 3.6216124248468264
+  }
+}

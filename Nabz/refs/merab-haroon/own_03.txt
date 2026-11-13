@@ -1,0 +1,5 @@
+# Reference transcript for own_03.wav (Evening headache)
+# Lines starting with # are ignored. Write what was actually said, in Roman Urdu.
+# Facts shown to the speaker: Woman, 45 years; Headache in the evenings for 1 week; BP 140 over 90; No problem with eyesight, no vomiting; Panadol when needed, eat less salt; BP check again after 1 week
+# DRAFT: written by Claude from the fact card plus the small/turbo transcripts. Listen once and correct.
+Woman 45 years, headache in the evening for one week. BP 140 over 90. No problem with eyesight, no vomiting. Panadol when needed, eat less salt. BP check again after one week.

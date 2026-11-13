@@ -1,0 +1,39 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"redness of right eye\",\n    \"pain on touching right eye\",\n    \"visual disturbance\"\n  ],\n  \"allergies\": [\n    \"paracetamol\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"paracetamol\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"increase fluid intake\"\n  ],\n  \"follow_up\": \"repeat in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "redness of right eye",
+      "pain on touching right eye",
+      "visual disturbance"
+    ],
+    "allergies": [
+      "paracetamol"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "paracetamol"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "increase fluid intake"
+    ],
+    "follow_up": "repeat in 2 days"
+  },
+  "timings": {}
+}

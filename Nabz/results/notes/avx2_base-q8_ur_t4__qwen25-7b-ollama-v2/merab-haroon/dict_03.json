@@ -1,0 +1,40 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hand swelling\",\n      \"duration\": \"4 years\"\n    },\n    {\n      \"symptom\": \"intermittent fever\",\n      \"duration\": \"4 years\"\n    }\n  ],\n  \"negatives\": [\n    \"hand rash\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"hand edema present\",\n    \"intermittent fever present\",\n    \"no rash on hands\",\n    \"no rash on feet\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid strenuous activities\",\n    \"rest hands after every 4 days\"\n  ],\n  \"follow_up\": \"soon\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hand swelling",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "intermittent fever",
+        "duration": "4 years"
+      }
+    ],
+    "negatives": [
+      "hand rash",
+      "fever"
+    ],
+    "findings": [
+      "hand edema present",
+      "intermittent fever present",
+      "no rash on hands",
+      "no rash on feet"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid strenuous activities",
+      "rest hands after every 4 days"
+    ],
+    "follow_up": "soon"
+  },
+  "timings": {}
+}

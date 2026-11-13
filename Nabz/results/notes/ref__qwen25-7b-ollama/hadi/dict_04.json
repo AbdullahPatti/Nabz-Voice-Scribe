@@ -1,0 +1,46 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"present\"\n    }\n  ],\n  \"negatives\": [\n    \"no neck pain\",\n    \"no ear pain\"\n  ],\n  \"findings\": [\n    \"BP 160/100\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Norvasc\",\n      \"strength\": \"5 mg\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"nightly\",\n      \"duration\": \"started 1 day ago\",\n      \"instructions\": \"to be taken for 2 weeks\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"follow up BP in 2 weeks\"\n  ],\n  \"follow_up\": \"BP to be checked in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "no neck pain",
+      "no ear pain"
+    ],
+    "findings": [
+      "BP 160/100"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5 mg",
+        "dose": "once daily",
+        "frequency": "nightly",
+        "duration": "started 1 day ago",
+        "instructions": "to be taken for 2 weeks"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake",
+      "follow up BP in 2 weeks"
+    ],
+    "follow_up": "BP to be checked in 2 weeks"
+  },
+  "timings": {}
+}

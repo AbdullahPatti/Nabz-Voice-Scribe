@@ -1,0 +1,57 @@
+{
+  "transcript": "مریز مرد اٹھائی شال پانچ دین سے تیس بخور ہے سر درد اور کمزوری بھی ہے کہندہ ایران پورٹ ٹھانٹ لاغ دیئے اولٹی نہیں ہے دست نہیں ہے ٹیفٹ کا ٹس پورٹی بایا ہے ایکزو میکس ٹھائی پھر حنڈ روزانہ ایک گولی سات دین پینڈول دو گولی دین میں تین بھر جب بخور ہو تین دین بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"hand pain\"\n  ],\n  \"findings\": [\n    \"throat is dry\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Exomix\",\n      \"strength\": \"1 tablet daily\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"daily\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"Take 2 tablets in the morning, 3 tablets after fever returns\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "hand pain"
+    ],
+    "findings": [
+      "throat is dry"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Exomix",
+        "strength": "1 tablet daily",
+        "dose": "1 tablet",
+        "frequency": "daily",
+        "duration": "3 days",
+        "instructions": "Take 2 tablets in the morning, 3 tablets after fever returns"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 98,
+    "prompt_ms": 1387.816,
+    "prompt_per_token_ms": 14.16138775510204,
+    "prompt_per_second": 70.61454832629109,
+    "predicted_n": 294,
+    "predicted_ms": 51999.253,
+    "predicted_per_token_ms": 177.4718532423208,
+    "predicted_per_second": 5.634696329195345
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 8\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"no fever\",\n      \"duration\": \"since previous visit\"\n    }\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no sputum\",\n    \"no chest pain\",\n    \"no difficulty breathing\"\n  ],\n  \"findings\": [\n    \"no fever\",\n    \"no cough\",\n    \"no sputum\",\n    \"no chest pain\",\n    \"no difficulty breathing\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [\n    \"no investigations ordered\"\n  ],\n  \"advice\": [\n    \"continue current treatment\",\n    \"follow up in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 8
+    },
+    "complaints": [
+      {
+        "symptom": "no fever",
+        "duration": "since previous visit"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no sputum",
+      "no chest pain",
+      "no difficulty breathing"
+    ],
+    "findings": [
+      "no fever",
+      "no cough",
+      "no sputum",
+      "no chest pain",
+      "no difficulty breathing"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "no investigations ordered"
+    ],
+    "advice": [
+      "continue current treatment",
+      "follow up in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {}
+}

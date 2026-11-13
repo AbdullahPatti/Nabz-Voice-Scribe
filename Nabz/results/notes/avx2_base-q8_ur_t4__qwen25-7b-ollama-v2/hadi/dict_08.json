@@ -1,0 +1,41 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"vaginal discharge\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"foul smell\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"abdominal pain\",\n    \"pelvic pain\",\n    \"dysuria\"\n  ],\n  \"findings\": [\n    \"vaginal discharge present\",\n    \"foul smell present\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid sexual intercourse\",\n    \"increase fluid intake\",\n    \"change sanitary pads frequently\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "vaginal discharge",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "foul smell",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "abdominal pain",
+      "pelvic pain",
+      "dysuria"
+    ],
+    "findings": [
+      "vaginal discharge present",
+      "foul smell present"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid sexual intercourse",
+      "increase fluid intake",
+      "change sanitary pads frequently"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

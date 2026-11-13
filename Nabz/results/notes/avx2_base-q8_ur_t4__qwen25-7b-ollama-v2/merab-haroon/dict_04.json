@@ -1,0 +1,39 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"vomiting\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"weight gain 170 and 180 kg\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake for 2 weeks\"\n  ],\n  \"follow_up\": \"repeat in 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting",
+      "fever"
+    ],
+    "findings": [
+      "weight gain 170 and 180 kg"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake for 2 weeks"
+    ],
+    "follow_up": "repeat in 1 week"
+  },
+  "timings": {}
+}

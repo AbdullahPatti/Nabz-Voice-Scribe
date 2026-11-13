@@ -1,0 +1,50 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے کے بعد جاتا کہن دی ایک خٹے دکان روندے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی صبا خالی پیٹ دوف تیرات کو گیو اس کون کے دو چم مچای اور میچ کام کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 3\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Stomach burning after eating\",\n      \"duration\": \"3 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"not mentioned\"\n    },\n    {\n      \"symptom\": \"Weight loss\",\n      \"duration\": \"not mentioned\"\n    }\n  ],\n  \"negatives\": [\n    \"No vomiting\",\n    \"No weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Give two spoons of 'kon' and mix with 'match' and work on it.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 3
+    },
+    "complaints": [
+      {
+        "symptom": "Stomach burning after eating",
+        "duration": "3 years"
+      },
+      {
+        "symptom": "Nausea",
+        "duration": "not mentioned"
+      },
+      {
+        "symptom": "Weight loss",
+        "duration": "not mentioned"
+      }
+    ],
+    "negatives": [
+      "No vomiting",
+      "No weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Give two spoons of 'kon' and mix with 'match' and work on it."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 75,
+    "prompt_ms": 1127.358,
+    "prompt_per_token_ms": 15.03144,
+    "prompt_per_second": 66.52722560180528,
+    "predicted_n": 239,
+    "predicted_ms": 41075.903,
+    "predicted_per_token_ms": 172.58782773109243,
+    "predicted_per_second": 5.794151378729276
+  }
+}

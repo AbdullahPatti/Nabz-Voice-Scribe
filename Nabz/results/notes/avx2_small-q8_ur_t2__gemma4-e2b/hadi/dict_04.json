@@ -1,0 +1,46 @@
+{
+  "transcript": "خاتون پچھپن سار آج وی پی 160 اور سو آیا سار بھری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نور ویس پانچ رات کو ایک گولی شروع کر دی ہے نمہ کام کرنا ہے دو افتبات بی پی دوارہ چکر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 59\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"BP 160 and 100\",\n      \"duration\": \"today\"\n    },\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"denied\"\n    }\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"nausea\"\n  ],\n  \"findings\": [\n    \"BP 160/100\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"need to work\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 59
+    },
+    "complaints": [
+      {
+        "symptom": "BP 160 and 100",
+        "duration": "today"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "denied"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "nausea"
+    ],
+    "findings": [
+      "BP 160/100"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "need to work"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 72,
+    "prompt_ms": 1207.964,
+    "prompt_per_token_ms": 16.777277777777776,
+    "prompt_per_second": 59.604425297442646,
+    "predicted_n": 213,
+    "predicted_ms": 37306.266,
+    "predicted_per_token_ms": 175.9729528301887,
+    "predicted_per_second": 5.682691481372056
+  }
+}

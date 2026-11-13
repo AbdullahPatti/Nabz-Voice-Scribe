@@ -1,0 +1,42 @@
+{
+  "transcript": "خاتون چونٹس سال تھی دن سے بخار جس میں دیرد اور رانکوں کے پیچھے درد پلیٹلٹس پچانوے حزار ہیں کہی سے خون نہیں آرہا صرف پر اڑال دوگوڑی دن میں تین بار پروفن بلکل نہیں لینی دیسپنین بھی نہیں پانی زادہ پیئے کل خون کا تیز تبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"days\"\n    },\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"days\"\n    },\n    {\n      \"symptom\": \"pain behind the ear\",\n      \"duration\": \"days\"\n    }\n  ],\n  \"negatives\": [\n    \"no bleeding\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"platelet count <10000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink plenty of fluids\",\n    \"rapid blood test\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "days"
+      },
+      {
+        "symptom": "pain",
+        "duration": "days"
+      },
+      {
+        "symptom": "pain behind the ear",
+        "duration": "days"
+      }
+    ],
+    "negatives": [
+      "no bleeding",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "platelet count <10000"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink plenty of fluids",
+      "rapid blood test"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

@@ -1,0 +1,46 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"since last team event\"\n    }\n  ],\n  \"negatives\": [\n    \"no edema\",\n    \"no chest pain\",\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"BP 140/90 mmHg\"\n  ],\n  \"allergies\": [\n    \"penicillin allergy\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take when needed and for urinary complaints, check after one tablet\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Brufen\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "since last team event"
+      }
+    ],
+    "negatives": [
+      "no edema",
+      "no chest pain",
+      "no fever"
+    ],
+    "findings": [
+      "BP 140/90 mmHg"
+    ],
+    "allergies": [
+      "penicillin allergy"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take when needed and for urinary complaints, check after one tablet"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Brufen"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

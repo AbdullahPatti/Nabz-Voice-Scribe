@@ -1,0 +1,57 @@
+{
+  "transcript": "خطور 38 سال صرف فولو اپ کے لیے آئی ہیں پشلی دفعہ سے کوئی جیاش نہیں ہوا کوئی سائرڈیفک نہیں بخار نہیں خانسی نہیں پینس لیلی سے علیرجی ہے اس لیے اکھتھا میٹین نہیں دینی زرٹیک آدیگولی رات کو دس دن ایک مہینے بعد دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"no fever\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"no diarrhea\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"no cough\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"allergy since last week\",\n      \"duration\": \"last week\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"Metin\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Zotik\"\n  ],\n  \"investigations_ordered\": [\n    \"to be seen in 10 days to 1 month\"\n  ],\n  \"advice\": [\n    \"to be seen in 10 days to 1 month\"\n  ],\n  \"follow_up\": \"in 10 days to 1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "no fever",
+        "duration": null
+      },
+      {
+        "symptom": "no diarrhea",
+        "duration": null
+      },
+      {
+        "symptom": "no cough",
+        "duration": null
+      },
+      {
+        "symptom": "allergy since last week",
+        "duration": "last week"
+      }
+    ],
+    "negatives": [
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [
+      "Metin"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Zotik"
+    ],
+    "investigations_ordered": [
+      "to be seen in 10 days to 1 month"
+    ],
+    "advice": [
+      "to be seen in 10 days to 1 month"
+    ],
+    "follow_up": "in 10 days to 1 month"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 87,
+    "prompt_ms": 1219.435,
+    "prompt_per_token_ms": 14.016494252873562,
+    "prompt_per_second": 71.34451610786962,
+    "predicted_n": 287,
+    "predicted_ms": 49517.609,
+    "predicted_per_token_ms": 173.138493006993,
+    "predicted_per_second": 5.7757231371975175
+  }
+}

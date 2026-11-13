@@ -1,0 +1,56 @@
+{
+  "transcript": "خطون 26 سال دو دن سے پیشا میں جلن ہے اور بار بار آتا ہے بخار نہیں کمر میں درد ہے پرگنٹ نہیں ہے سیپرو 500 دن میں دو بار تین دن پانی زیادہ پییں شاہب کو ٹیشٹ کروالیں تین دن میں فرق نہ پڑے تو دو بارا آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Vaginal itching for 2 days\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"Frequent urination\",\n      \"duration\": \"frequent\"\n    },\n    {\n      \"symptom\": \"Fever\",\n      \"duration\": \"not present\"\n    },\n    {\n      \"symptom\": \"Back pain\",\n      \"duration\": \"present\"\n    }\n  ],\n  \"negatives\": [\n    \"No pregnancy\"\n  ],\n  \"findings\": [\n    \"No difference after three days of water intake\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Test for Shahab\"\n  ],\n  \"advice\": [\n    \"Drink more water for three days\",\n    \"If no difference after three days, return\"\n  ],\n  \"follow_up\": \"Return in three days if no improvement\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "Vaginal itching for 2 days",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "Frequent urination",
+        "duration": "frequent"
+      },
+      {
+        "symptom": "Fever",
+        "duration": "not present"
+      },
+      {
+        "symptom": "Back pain",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "No pregnancy"
+    ],
+    "findings": [
+      "No difference after three days of water intake"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Test for Shahab"
+    ],
+    "advice": [
+      "Drink more water for three days",
+      "If no difference after three days, return"
+    ],
+    "follow_up": "Return in three days if no improvement"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 82,
+    "prompt_ms": 1280.549,
+    "prompt_per_token_ms": 15.616451219512195,
+    "prompt_per_second": 64.035034973281,
+    "predicted_n": 289,
+    "predicted_ms": 49995.789,
+    "predicted_per_token_ms": 173.59648958333332,
+    "predicted_per_second": 5.76048514805917
+  }
+}

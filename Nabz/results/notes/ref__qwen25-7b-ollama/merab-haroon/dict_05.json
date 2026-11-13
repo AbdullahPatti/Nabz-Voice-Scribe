@@ -1,0 +1,45 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"long-standing\"\n    }\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no palpitations\"\n  ],\n  \"findings\": [\n    \"fasting blood sugar 180\",\n    \"2 hours postprandial blood sugar 260\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"1000 mg\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"1000 mg for 1000 days (2.7 years, but likely a typo, should be 500 days or 1000 mg twice daily for 500 days based on previous history of 500 mg twice daily)\",\n      \"instructions\": \"with meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"HbA1c in 3 months\"\n  ],\n  \"advice\": [\n    \"no smoking\",\n    \"no alcohol\"\n  ],\n  \"follow_up\": \"in 3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "high blood sugar",
+        "duration": "long-standing"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no palpitations"
+    ],
+    "findings": [
+      "fasting blood sugar 180",
+      "2 hours postprandial blood sugar 260"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "1000 mg",
+        "dose": "twice daily",
+        "frequency": "daily",
+        "duration": "1000 mg for 1000 days (2.7 years, but likely a typo, should be 500 days or 1000 mg twice daily for 500 days based on previous history of 500 mg twice daily)",
+        "instructions": "with meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "HbA1c in 3 months"
+    ],
+    "advice": [
+      "no smoking",
+      "no alcohol"
+    ],
+    "follow_up": "in 3 months"
+  },
+  "timings": {}
+}

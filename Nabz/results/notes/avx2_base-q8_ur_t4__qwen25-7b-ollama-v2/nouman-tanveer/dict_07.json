@@ -1,0 +1,57 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"rhinorrhea\",\n    \"hoarseness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Cefixime\",\n      \"strength\": \"200 mg\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Cough syrup\",\n      \"strength\": \"3 times daily\",\n      \"dose\": \"3 teaspoons\",\n      \"frequency\": \"three times daily\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"avoid smoke\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "rhinorrhea",
+      "hoarseness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Cefixime",
+        "strength": "200 mg",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Cough syrup",
+        "strength": "3 times daily",
+        "dose": "3 teaspoons",
+        "frequency": "three times daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids",
+      "avoid smoke"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

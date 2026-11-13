@@ -1,0 +1,62 @@
+{
+  "transcript": "مر چارے سال کل راتلے دست لگے ہیں، 8 نون دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جیسے میں تھوڑے پانی کی کمی ہے ہر دست کے بعد ہوا رہا ہے اس کا ایک گلاس فلیجل چارس دن میں تین بار پانچ دن دوس اور تلیوی چیزیں بند اگر بشاہب کم ہو جاتا تو فوراً واپس نائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 8\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Hand sores/lesions\",\n      \"duration\": \"last night\"\n    },\n    {\n      \"symptom\": \"Fingers not feeling like they have water/dryness\",\n      \"duration\": \"after each hand wash\"\n    },\n    {\n      \"symptom\": \"Thirst\",\n      \"duration\": \"every hand wash\"\n    },\n    {\n      \"symptom\": \"Urinary frequency\",\n      \"duration\": \"3 times in 4 days\"\n    },\n    {\n      \"symptom\": \"Diarrhea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"Stomach issues\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"Food intolerance\",\n      \"duration\": \"if food is less, immediately return\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 8
+    },
+    "complaints": [
+      {
+        "symptom": "Hand sores/lesions",
+        "duration": "last night"
+      },
+      {
+        "symptom": "Fingers not feeling like they have water/dryness",
+        "duration": "after each hand wash"
+      },
+      {
+        "symptom": "Thirst",
+        "duration": "every hand wash"
+      },
+      {
+        "symptom": "Urinary frequency",
+        "duration": "3 times in 4 days"
+      },
+      {
+        "symptom": "Diarrhea",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "Stomach issues",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "Food intolerance",
+        "duration": "if food is less, immediately return"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 90,
+    "prompt_ms": 1407.259,
+    "prompt_per_token_ms": 15.63621111111111,
+    "prompt_per_second": 63.954112213885296,
+    "predicted_n": 335,
+    "predicted_ms": 58385.329,
+    "predicted_per_token_ms": 174.806374251497,
+    "predicted_per_second": 5.720615190847003
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے کے بعد جاتا کہن دی ایک خٹے دکان روندے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی صبا خالی پیٹ دوف تیرات کو گیو اس کون کے دو چم مچای اور میچ کام کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"after eating\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"two episodes of loose stools\",\n    \"no fever\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy food\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "nausea",
+        "duration": "after eating"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss",
+      "no diarrhea"
+    ],
+    "findings": [
+      "two episodes of loose stools",
+      "no fever"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy food"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

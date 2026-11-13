@@ -1,0 +1,53 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 21\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"acute\"\n    },\n    {\n      \"symptom\": \"chills\",\n      \"duration\": \"present\"\n    },\n    {\n      \"symptom\": \"coldness\",\n      \"duration\": \"present\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"sweating\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"dizziness\",\n    \"fatigue\",\n    \"joint pain\",\n    \"rash\",\n    \"swelling\",\n    \"weight loss\",\n    \"feeling of impending doom\"\n  ],\n  \"findings\": [\n    \"fever\",\n    \"chills\",\n    \"coldness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"follow up in 3 days\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 21
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "acute"
+      },
+      {
+        "symptom": "chills",
+        "duration": "present"
+      },
+      {
+        "symptom": "coldness",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "sweating",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal pain",
+      "dizziness",
+      "fatigue",
+      "joint pain",
+      "rash",
+      "swelling",
+      "weight loss",
+      "feeling of impending doom"
+    ],
+    "findings": [
+      "fever",
+      "chills",
+      "coldness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "follow up in 3 days"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {}
+}

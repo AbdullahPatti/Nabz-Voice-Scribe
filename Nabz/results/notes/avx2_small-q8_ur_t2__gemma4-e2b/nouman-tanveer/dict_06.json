@@ -1,0 +1,52 @@
+{
+  "transcript": "حطون تی سال پیٹ کے اوپر جلن ہوتی ہے کھانے کے بعد سیاتا کہن دیئے کھٹٹکار ہوں دے نے اوٹی نہیں وزن کم نہیں ہوا رائیسٹیک بھی صبا خالی پیٹ دو ہفتے رات کو گیویس ہون کے دو چمچے چائے اور میٹچ کم کڑیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Stomach burning after eating\",\n      \"duration\": \"3 years\"\n    },\n    {\n      \"symptom\": \"Constipation\",\n      \"duration\": \"Not specified\"\n    },\n    {\n      \"symptom\": \"Weight loss\",\n      \"duration\": \"Not specified\"\n    }\n  ],\n  \"negatives\": [\n    \"No fever\",\n    \"No vomiting\"\n  ],\n  \"findings\": [\n    \"No weight loss noted\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Karatkar\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Give two spoons of tea and match at night on an empty stomach for two weeks.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "Stomach burning after eating",
+        "duration": "3 years"
+      },
+      {
+        "symptom": "Constipation",
+        "duration": "Not specified"
+      },
+      {
+        "symptom": "Weight loss",
+        "duration": "Not specified"
+      }
+    ],
+    "negatives": [
+      "No fever",
+      "No vomiting"
+    ],
+    "findings": [
+      "No weight loss noted"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Karatkar"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Give two spoons of tea and match at night on an empty stomach for two weeks."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 82,
+    "prompt_ms": 1330.576,
+    "prompt_per_token_ms": 16.226536585365853,
+    "prompt_per_second": 61.62744555741273,
+    "predicted_n": 254,
+    "predicted_ms": 45481.381,
+    "predicted_per_token_ms": 179.7683043478261,
+    "predicted_per_second": 5.562715872677656
+  }
+}

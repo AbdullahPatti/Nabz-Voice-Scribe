@@ -1,0 +1,47 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"painful walking\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"intermittent pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever negative\",\n    \"abdominal pain negative\",\n    \"pregnant negative\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Cipro 500\",\n      \"strength\": null,\n      \"dose\": \"twice a day for 3 days\",\n      \"frequency\": \"daily\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"take as directed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"increase fluid intake\",\n    \"return in 3 days if no improvement\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "painful walking",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "intermittent pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever negative",
+      "abdominal pain negative",
+      "pregnant negative"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Cipro 500",
+        "strength": null,
+        "dose": "twice a day for 3 days",
+        "frequency": "daily",
+        "duration": "3 days",
+        "instructions": "take as directed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "increase fluid intake",
+      "return in 3 days if no improvement"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {}
+}

@@ -1,0 +1,41 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"since yesterday\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"since yesterday\"\n    }\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"cough\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"no rash\",\n    \"no vomiting\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest for 2 weeks\",\n    \"salt reduction\"\n  ],\n  \"follow_up\": \"repeat in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "since yesterday"
+      },
+      {
+        "symptom": "fever",
+        "duration": "since yesterday"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "cough",
+      "fever"
+    ],
+    "findings": [
+      "no rash",
+      "no vomiting"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "rest for 2 weeks",
+      "salt reduction"
+    ],
+    "follow_up": "repeat in 2 weeks"
+  },
+  "timings": {}
+}

@@ -1,0 +1,40 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"7 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"chest pain\",\n    \"headache\",\n    \"rash\",\n    \"dizziness\"\n  ],\n  \"findings\": [\n    \"no cough\",\n    \"no sputum\"\n  ],\n  \"allergies\": [\n    \"no known drug allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"salt restriction advised\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fatigue",
+        "duration": "7 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "chest pain",
+      "headache",
+      "rash",
+      "dizziness"
+    ],
+    "findings": [
+      "no cough",
+      "no sputum"
+    ],
+    "allergies": [
+      "no known drug allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "salt restriction advised"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون چونٹس سال تھی دن سے بخار جس میں دیرد اور رانکوں کے پیچھے درد پلیٹلٹس پچانوے حزار ہیں کہی سے خون نہیں آرہا صرف پر اڑال دوگوڑی دن میں تین بار پروفن بلکل نہیں لینی دیسپنین بھی نہیں پانی زادہ پیئے کل خون کا تیز تبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 5364.253,
+    "prompt_per_token_ms": 49.21333027522935,
+    "prompt_per_second": 20.319697821858888,
+    "predicted_n": 800,
+    "predicted_ms": 217732.201,
+    "predicted_per_token_ms": 272.50588360450564,
+    "predicted_per_second": 3.6696455385577074
+  }
+}

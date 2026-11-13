@@ -1,0 +1,59 @@
+{
+  "transcript": "خاتون پچھ پل سال آج بیپی 168 اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نورک فائیف رات کو ایک گولی شروع کر دی ہے نمہ کم کرنا ہے دو ہفتے بعد بیپی دوبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 5\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"BP 168/100 for the last 5 years\",\n      \"duration\": \"5 years\"\n    },\n    {\n      \"symptom\": \"Head heaviness\",\n      \"duration\": \"ongoing\"\n    },\n    {\n      \"symptom\": \"Dizziness\",\n      \"duration\": \"ongoing\"\n    }\n  ],\n  \"negatives\": [\n    \"No chest pain\",\n    \"No nausea\"\n  ],\n  \"findings\": [\n    \"BP 168/100\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nurk Five\",\n      \"strength\": \"one tablet\",\n      \"dose\": \"at night\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"two weeks\",\n      \"instructions\": \"To reduce phlegm\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"BP will be checked again after two weeks\"\n  ],\n  \"follow_up\": \"BP check in two weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 5
+    },
+    "complaints": [
+      {
+        "symptom": "BP 168/100 for the last 5 years",
+        "duration": "5 years"
+      },
+      {
+        "symptom": "Head heaviness",
+        "duration": "ongoing"
+      },
+      {
+        "symptom": "Dizziness",
+        "duration": "ongoing"
+      }
+    ],
+    "negatives": [
+      "No chest pain",
+      "No nausea"
+    ],
+    "findings": [
+      "BP 168/100"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurk Five",
+        "strength": "one tablet",
+        "dose": "at night",
+        "frequency": "once daily",
+        "duration": "two weeks",
+        "instructions": "To reduce phlegm"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "BP will be checked again after two weeks"
+    ],
+    "follow_up": "BP check in two weeks"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 74,
+    "prompt_ms": 1247.4,
+    "prompt_per_token_ms": 16.85675675675676,
+    "prompt_per_second": 59.323392656725986,
+    "predicted_n": 324,
+    "predicted_ms": 58338.242,
+    "predicted_per_token_ms": 180.61375232198142,
+    "predicted_per_second": 5.536676953686743
+  }
+}

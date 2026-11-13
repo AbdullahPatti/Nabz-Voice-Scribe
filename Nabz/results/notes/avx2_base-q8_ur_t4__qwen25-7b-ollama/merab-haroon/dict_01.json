@@ -1,0 +1,53 @@
+{
+  "transcript": "تیفورٹ مرد اٹھائی ساتھ پانچ دن سے تیس بہارے سر دردور کمزوری بھی ہے کندہی راتنوں بہت ہندہ لگ دیا ڈی نہیں ہے دست بھی نہیں ہے تیفورٹ کارٹی اس پوزگی بایا ہے ازو میکس 500 روزانہ ایک گولی ساتھیں پینے دول دولی دن میں تین بار جب ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no nausea\",\n    \"no abdominal pain\",\n    \"no joint pain\"\n  ],\n  \"findings\": [\n    \"temperature taken at home is 38.5°C\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Azomax\",\n      \"strength\": \"500\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"7 days\",\n      \"instructions\": \"take as directed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"follow up in 3 days\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no nausea",
+      "no abdominal pain",
+      "no joint pain"
+    ],
+    "findings": [
+      "temperature taken at home is 38.5°C"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Azomax",
+        "strength": "500",
+        "dose": "once daily",
+        "frequency": "daily",
+        "duration": "7 days",
+        "instructions": "take as directed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "follow up in 3 days"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {}
+}

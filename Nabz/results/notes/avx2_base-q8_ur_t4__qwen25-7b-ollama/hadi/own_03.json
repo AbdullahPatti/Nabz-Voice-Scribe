@@ -1,0 +1,38 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"no chest pain\",\n      \"duration\": \"since 140/90 mmHg\"\n    }\n  ],\n  \"negatives\": [\n    \"no shortness of breath\",\n    \"no dizziness\",\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90 mmHg\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Penicillin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"check BP one week after taking tablets\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "no chest pain",
+        "duration": "since 140/90 mmHg"
+      }
+    ],
+    "negatives": [
+      "no shortness of breath",
+      "no dizziness",
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90 mmHg"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "check BP one week after taking tablets"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

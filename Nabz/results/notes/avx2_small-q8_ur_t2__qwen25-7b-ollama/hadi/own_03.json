@@ -1,0 +1,34 @@
+{
+  "transcript": "اورت 45 سال شام کا طائم ہیٹیک اک ہفتے سے بیپی 140 over 90 آئیسرٹ میں کوئی مسئلہ نہیں اور نو اولٹی پیناڈال جب ضرورت پڑے اور نمک کام کھائیں بیپی ایک ہفتے بعد پھر چیک کروائے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no problem in systolic 140\",\n    \"no problem in diastolic 90\",\n    \"no problem in 11 previous blood pressure readings\",\n    \"no problem in salt intake\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"salt\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"check blood pressure again in one week\"\n  ],\n  \"follow_up\": \"one week later\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no problem in systolic 140",
+      "no problem in diastolic 90",
+      "no problem in 11 previous blood pressure readings",
+      "no problem in salt intake"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "salt"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "check blood pressure again in one week"
+    ],
+    "follow_up": "one week later"
+  },
+  "timings": {}
+}

@@ -1,0 +1,36 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سکیرز نوز ویلن نو فیور پاندول 2 تبلرٹز 2 ایرز اگی لائی تکسرسیز دیلی کم بیکن 1 منگت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"skin rashes\",\n      \"duration\": \"2 months\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"2 tablets of Augmentin 625 twice daily\"\n  ],\n  \"allergies\": [\n    \"Nepen 2\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Reduce back pain\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "skin rashes",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "2 tablets of Augmentin 625 twice daily"
+    ],
+    "allergies": [
+      "Nepen 2"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Reduce back pain"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

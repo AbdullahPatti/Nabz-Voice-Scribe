@@ -1,0 +1,39 @@
+{
+  "transcript": "اپنے 45 سامنے میں ساکتا ہی جانتا ہے۔ اپنے ہی جانتا ہے۔ اپنے اپنے ہی جانتا ہے۔ اپنے اپنے اپنے اپنے اپنے جانتا ہے۔ اپنے اپنے اپنے اپنے ہی جانتا ہے۔ اپنے اپنے اپنے اپنے ہی جانتا ہے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"unknown\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"unknown\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"unknown\"\n  ],\n  \"findings\": [\n    \"unknown\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "unknown",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "unknown",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "unknown"
+    ],
+    "findings": [
+      "unknown"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 60,
+    "prompt_ms": 968.601,
+    "prompt_per_token_ms": 16.14335,
+    "prompt_per_second": 61.94501141336835,
+    "predicted_n": 152,
+    "predicted_ms": 27003.57,
+    "predicted_per_token_ms": 178.8315894039735,
+    "predicted_per_second": 5.591853225332799
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"loss_of_appetite\",\n      \"duration\": \"present\"\n    }\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"vomiting\",\n    \"fever\",\n    \"chest_pain\",\n    \"cough\",\n    \"shortness_of_breath\",\n    \"weight_loss\",\n    \"fatigue\",\n    \"joint_pain\",\n    \"abdominal_pain\",\n    \"diarrhea\",\n    \"constipation\",\n    \"urinary_symptoms\",\n    \"sexual_symptoms\",\n    \"visual_symptoms\",\n    \"ear_nose_throat_symptoms\",\n    \"skin_symptoms\",\n    \"musculoskeletal_symptoms\",\n    \"neurological_symptoms\",\n    \"psychiatric_symptoms\",\n    \"cardiovascular_symptoms\",\n    \"respiratory_symptoms\",\n    \"gastrointestinal_symptoms\",\n    \"genitourinary_symptoms\",\n    \"endocrine_symptoms\",\n    \"hematological_symptoms\",\n    \"immune_symptoms\",\n    \"infectious_symptoms\",\n    \"allergic_symptoms\",\n    \"pain\"\n  ],\n  \"findings\": [\n    \"headache\",\n    \"loss_of_appetite\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"salt_reduction_for_2_weeks\"\n  ],\n  \"follow_up\": \"in_2_weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "loss_of_appetite",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting",
+      "fever",
+      "chest_pain",
+      "cough",
+      "shortness_of_breath",
+      "weight_loss",
+      "fatigue",
+      "joint_pain",
+      "abdominal_pain",
+      "diarrhea",
+      "constipation",
+      "urinary_symptoms",
+      "sexual_symptoms",
+      "visual_symptoms",
+      "ear_nose_throat_symptoms",
+      "skin_symptoms",
+      "musculoskeletal_symptoms",
+      "neurological_symptoms",
+      "psychiatric_symptoms",
+      "cardiovascular_symptoms",
+      "respiratory_symptoms",
+      "gastrointestinal_symptoms",
+      "genitourinary_symptoms",
+      "endocrine_symptoms",
+      "hematological_symptoms",
+      "immune_symptoms",
+      "infectious_symptoms",
+      "allergic_symptoms",
+      "pain"
+    ],
+    "findings": [
+      "headache",
+      "loss_of_appetite"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "salt_reduction_for_2_weeks"
+    ],
+    "follow_up": "in_2_weeks"
+  },
+  "timings": {}
+}

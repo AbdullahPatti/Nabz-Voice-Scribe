@@ -1,0 +1,46 @@
+{
+  "transcript": "سیارہ سیارہ سیارہ، نیپنے لیے دو منس ورسن سیارہ، نو سوالنگ، نو فیور، پانڈول، دو طیبیٹس، دو دویس دی، لائیت ایک سیارہ سیارہ دیلی کم بہت میں بہت میں بہت میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"no fever\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Panadol\"\n  ],\n  \"investigations_ordered\": [\n    \"two tests\"\n  ],\n  \"advice\": [\n    \"rest for two minutes\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no fever"
+    ],
+    "findings": [
+      "no fever"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Panadol"
+    ],
+    "investigations_ordered": [
+      "two tests"
+    ],
+    "advice": [
+      "rest for two minutes"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 69,
+    "prompt_ms": 974.884,
+    "prompt_per_token_ms": 14.128753623188405,
+    "prompt_per_second": 70.7776514949471,
+    "predicted_n": 185,
+    "predicted_ms": 32124.047,
+    "predicted_per_token_ms": 174.58721195652174,
+    "predicted_per_second": 5.727796376340752
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "transcript": "مرضہ چاریس آر کال رات سے 10 تلکہ ہیں 8 نو دفا ہو چکے ہیں 10 تلکہ ہون نہیں ہیں جس میں تھوڑا تھوڑی پانی کی کمی ہیں ہر 10 کے بات اور از کا ایک گلاثت فلجل 400 دین میں 3 بار 5 دین دوڑ ہوڑ تلی ہوئی چیزے بان اگر پیشہ آپ کام ہو جائے تو فورن باکس اپنے\nاگئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"10 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"4 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no chest pain\"\n  ],\n  \"findings\": [\n    \"decreased urine output\",\n    \"hoarseness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen 500\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest at home\",\n    \"take fluids\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "10 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "4 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no chest pain"
+    ],
+    "findings": [
+      "decreased urine output",
+      "hoarseness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen 500"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "rest at home",
+      "take fluids"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {}
+}

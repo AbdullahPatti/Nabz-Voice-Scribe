@@ -1,0 +1,38 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 2\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"recurring\"\n    }\n  ],\n  \"negatives\": [\n    \"no breathlessness\",\n    \"no pregnancy\"\n  ],\n  \"findings\": [\n    \"abdominal pain\",\n    \"no diarrhea\",\n    \"oral intake of 3 glasses of water and tea in 3 days\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"repeat in 3 days if symptoms recur\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 2
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "recurring"
+      }
+    ],
+    "negatives": [
+      "no breathlessness",
+      "no pregnancy"
+    ],
+    "findings": [
+      "abdominal pain",
+      "no diarrhea",
+      "oral intake of 3 glasses of water and tea in 3 days"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "repeat in 3 days if symptoms recur"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {}
+}

@@ -1,0 +1,48 @@
+{
+  "transcript": "ہاتھوں 38 سال، صرف follow-up کے لئے آئی ہے پچری دوائی سے کوئی ریش نہیں ہوا کوئی ساید افیت نہیں بھاہر نہیں کھانتی نہیں پینی سیلین سے الیرڈی ہے اس لئے اگوینکن نہیں دینی زرکک آدی گولی رات کو 10 دن ایک مہینے بعد دیکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"sneezing\",\n    \"allergy to penicillin\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"10 days\",\"instructions\": \"take at night\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"follow-up in 1 month\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [
+      "fever",
+      "cough",
+      "sneezing",
+      "allergy to penicillin"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "once daily",
+        "duration": "10 days",
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "follow-up in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 5945.354,
+    "prompt_per_token_ms": 54.544532110091744,
+    "prompt_per_second": 18.333643379351336,
+    "predicted_n": 225,
+    "predicted_ms": 51911.034,
+    "predicted_per_token_ms": 231.7456875,
+    "predicted_per_second": 4.3150749029580115
+  }
+}

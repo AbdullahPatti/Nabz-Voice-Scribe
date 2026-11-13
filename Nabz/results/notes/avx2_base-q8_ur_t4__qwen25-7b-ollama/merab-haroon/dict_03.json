@@ -1,0 +1,51 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hand swelling\",\n      \"duration\": \"40 years\"\n    }\n  ],\n  \"negatives\": [\n    \"no hand pain\",\n    \"no hand deformity\",\n    \"no hand joint involvement\",\n    \"no hand joint fluid\"\n  ],\n  \"findings\": [\n    \"hand swelling present\",\n    \"hand joint involvement not present\",\n    \"hand joint fluid present in small amount\"\n  ],\n  \"allergies\": [\n    \"no known drug allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"six hundred twenty five\",\n      \"dose\": \"three times a day\",\n      \"frequency\": \"every four days\",\n      \"duration\": \"five days\",\n      \"instructions\": \"for now\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Fluconazole\"\n  ],\n  \"investigations_ordered\": [\n    \"no specific investigations ordered\"\n  ],\n  \"advice\": [\n    \"avoid strenuous activities\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hand swelling",
+        "duration": "40 years"
+      }
+    ],
+    "negatives": [
+      "no hand pain",
+      "no hand deformity",
+      "no hand joint involvement",
+      "no hand joint fluid"
+    ],
+    "findings": [
+      "hand swelling present",
+      "hand joint involvement not present",
+      "hand joint fluid present in small amount"
+    ],
+    "allergies": [
+      "no known drug allergies"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "six hundred twenty five",
+        "dose": "three times a day",
+        "frequency": "every four days",
+        "duration": "five days",
+        "instructions": "for now"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Fluconazole"
+    ],
+    "investigations_ordered": [
+      "no specific investigations ordered"
+    ],
+    "advice": [
+      "avoid strenuous activities"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

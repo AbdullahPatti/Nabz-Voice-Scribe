@@ -1,0 +1,43 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"polyuria\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"polydipsia\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"urine glucose present\",\n    \"urine ketones present\",\n    \"urine specific gravity 1.020\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [\n    \"urine glucose test\",\n    \"urine ketones test\",\n    \"urine specific gravity test\"\n  ],\n  \"advice\": [\n    \"avoid fever\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "polyuria",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "polydipsia",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "urine glucose present",
+      "urine ketones present",
+      "urine specific gravity 1.020"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [
+      "urine glucose test",
+      "urine ketones test",
+      "urine specific gravity test"
+    ],
+    "advice": [
+      "avoid fever"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

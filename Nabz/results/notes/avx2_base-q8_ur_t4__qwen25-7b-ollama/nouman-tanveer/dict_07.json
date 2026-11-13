@@ -1,0 +1,56 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 1\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"one week\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"respiratory sounds heard on the left side\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"six tablets\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"for five days\",\n      \"duration\": \"five days\",\n      \"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Cefixime\",\n      \"strength\": \"three doses\",\n      \"dose\": \"three times daily\",\n      \"frequency\": \"for five days\",\n      \"duration\": \"five days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"no specific drugs mentioned\"\n  ],\n  \"investigations_ordered\": [\n    \"no specific investigations mentioned\"\n  ],\n  \"advice\": [\n    \"follow up in one week\"\n  ],\n  \"follow_up\": \"one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 1
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "respiratory sounds heard on the left side"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "six tablets",
+        "dose": "twice daily",
+        "frequency": "for five days",
+        "duration": "five days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Cefixime",
+        "strength": "three doses",
+        "dose": "three times daily",
+        "frequency": "for five days",
+        "duration": "five days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no specific drugs mentioned"
+    ],
+    "investigations_ordered": [
+      "no specific investigations mentioned"
+    ],
+    "advice": [
+      "follow up in one week"
+    ],
+    "follow_up": "one week"
+  },
+  "timings": {}
+}

@@ -1,0 +1,41 @@
+{
+  "transcript": "مرد 45 سال 1 ہفتے سے خواہنسی پیلا بلگو مرحل کا بہار سان سے ہی پھولتا سینے کے دائی طرح پواد آرہی ہے اگر میں انڈن چیسو پچھس دن میں دو بار پانچ دن خواہنسی کا صرف دو چمجھ دن میں تین بار سیگرٹ بند کرنی ہے چیسٹ ٹیکسٹرے کروالیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"45 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no breathlessness\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no bleeding\"\n  ],\n  \"findings\": [\n    \"coughing up greenish sputum\",\n    \"coughing fits 2-3 times a day\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Chest Tycateryl\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid Chest Tycateryl\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fever",
+        "duration": "45 days"
+      }
+    ],
+    "negatives": [
+      "no breathlessness",
+      "no vomiting",
+      "no diarrhea",
+      "no bleeding"
+    ],
+    "findings": [
+      "coughing up greenish sputum",
+      "coughing fits 2-3 times a day"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Chest Tycateryl"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid Chest Tycateryl"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

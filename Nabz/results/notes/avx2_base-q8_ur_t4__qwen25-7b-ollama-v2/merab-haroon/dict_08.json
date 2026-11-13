@@ -1,0 +1,48 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"swelling\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"swelling in hands\",\n    \"pain in hands intermittent\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ciprofloxacin\",\n      \"strength\": \"500\",\n      \"dose\": \"2 times a day\",\n      \"frequency\": \"2 days\",\n      \"duration\": \"2 days\",\n      \"instructions\": \"as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Ibuprofen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"increase fluid intake\",\n    \"if no improvement in 3 days, return for follow-up\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "swelling",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "swelling in hands",
+      "pain in hands intermittent"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "2 times a day",
+        "frequency": "2 days",
+        "duration": "2 days",
+        "instructions": "as needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ibuprofen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "increase fluid intake",
+      "if no improvement in 3 days, return for follow-up"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {}
+}

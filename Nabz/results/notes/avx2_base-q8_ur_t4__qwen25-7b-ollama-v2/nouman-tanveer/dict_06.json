@@ -1,0 +1,37 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"rash\",\n      \"duration\": \"2 weeks\"\n    }\n  ],\n  \"negatives\": [\n    \"weight_loss\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"rash on inner thigh\",\n    \"no oozing\"\n  ],\n  \"allergies\": [\n    \"dust mite allergy\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce caffeine intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "rash",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "weight_loss",
+      "fever"
+    ],
+    "findings": [
+      "rash on inner thigh",
+      "no oozing"
+    ],
+    "allergies": [
+      "dust mite allergy"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce caffeine intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

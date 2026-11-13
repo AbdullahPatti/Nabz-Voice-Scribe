@@ -1,0 +1,40 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"redness\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no relief\",\n    \"no side effects\"\n  ],\n  \"findings\": [\n    \"allergic to penicillin\",\n    \"allergic to amoxicillin\",\n    \"allergic to cefadroxil\"\n  ],\n  \"allergies\": [\n    \"penicillin\",\n    \"amoxicillin\",\n    \"cefadroxil\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"penicillin\",\n    \"amoxicillin\",\n    \"cefadroxil\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "redness",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no relief",
+      "no side effects"
+    ],
+    "findings": [
+      "allergic to penicillin",
+      "allergic to amoxicillin",
+      "allergic to cefadroxil"
+    ],
+    "allergies": [
+      "penicillin",
+      "amoxicillin",
+      "cefadroxil"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "penicillin",
+      "amoxicillin",
+      "cefadroxil"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {}
+}

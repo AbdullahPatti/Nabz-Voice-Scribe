@@ -1,0 +1,42 @@
+{
+  "transcript": "مرد چالے سال کل راد سے دست لگی ہیں آتنو دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جسہ میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اور اس ایک گلاس فلیجل چارسو دن میں تین بار پانچ دن دود اور تلی ہوئی چیزیں بند اگر پشاب کم ہو جے تو فورن واپس آئیں\nایسا بہت سوچی ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"since yesterday evening\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"dairy products\",\n    \"fried foods\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue drinking small amounts of water after each episode of diarrhea\",\n    \"take 1 glass of Flogil 400 three times a day for 4 days\",\n    \"return immediately if diarrhea worsens\"\n  ],\"follow_up\": \"return if symptoms worsen\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "since yesterday evening"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "dairy products",
+      "fried foods"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "continue drinking small amounts of water after each episode of diarrhea",
+      "take 1 glass of Flogil 400 three times a day for 4 days",
+      "return immediately if diarrhea worsens"
+    ],
+    "follow_up": "return if symptoms worsen"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 119,
+    "prompt_ms": 6454.186,
+    "prompt_per_token_ms": 54.23685714285714,
+    "prompt_per_second": 18.437646513441045,
+    "predicted_n": 193,
+    "predicted_ms": 197302.58,
+    "predicted_per_token_ms": 1027.6176041666665,
+    "predicted_per_second": 0.9731246291862987
+  }
+}

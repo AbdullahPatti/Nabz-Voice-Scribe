@@ -1,0 +1,47 @@
+{
+  "transcript": "مر چارے سال کل راتلے دست لگے ہیں، 8 نون دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جیسے میں تھوڑے پانی کی کمی ہے ہر دست کے بعد ہوا رہا ہے اس کا ایک گلاس فلیجل چارس دن میں تین بار پانچ دن دوس اور تلیوی چیزیں بند اگر بشاہب کم ہو جاتا تو فوراً واپس نائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"4 years\"},\n    {\"symptom\": \"dehydration\", \"duration\": \"after each episode\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink one glass of oral rehydration salts (ORS) three times a day for 4 days\",\n    \"Continue ORS for 5 more days\",\n    \"Avoid other foods\",\n    \"Return immediately if symptoms improve\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "after each episode"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink one glass of oral rehydration salts (ORS) three times a day for 4 days",
+      "Continue ORS for 5 more days",
+      "Avoid other foods",
+      "Return immediately if symptoms improve"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 118,
+    "prompt_ms": 5957.943,
+    "prompt_per_token_ms": 50.49104237288136,
+    "prompt_per_second": 19.805493271755033,
+    "predicted_n": 207,
+    "predicted_ms": 55756.628,
+    "predicted_per_token_ms": 270.6632427184466,
+    "predicted_per_second": 3.694628018035811
+  }
+}

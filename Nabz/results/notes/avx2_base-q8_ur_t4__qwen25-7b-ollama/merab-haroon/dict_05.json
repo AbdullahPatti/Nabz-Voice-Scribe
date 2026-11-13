@@ -1,0 +1,35 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"frequent urination\",\n      \"duration\": \"2 days after 1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no abdominal pain\",\n    \"no dysuria\",\n    \"no hematuria\"\n  ],\n  \"findings\": [\n    \"urine frequency twice a day\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid frequent urination\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "frequent urination",
+        "duration": "2 days after 1 week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no abdominal pain",
+      "no dysuria",
+      "no hematuria"
+    ],
+    "findings": [
+      "urine frequency twice a day"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid frequent urination"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

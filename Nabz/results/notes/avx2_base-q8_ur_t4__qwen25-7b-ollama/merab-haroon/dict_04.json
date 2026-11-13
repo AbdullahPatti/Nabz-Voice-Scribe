@@ -1,0 +1,40 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 41\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"runny nose\",\n    \"five nights of one pill\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"salt\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake for 2 weeks\"\n  ],\n  \"follow_up\": \"repeat in 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 41
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "cough",
+      "runny nose",
+      "five nights of one pill"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "salt"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake for 2 weeks"
+    ],
+    "follow_up": "repeat in 1 week"
+  },
+  "timings": {}
+}

@@ -1,0 +1,51 @@
+{
+  "transcript": "مرد 45 سال 1 ہفتے سے خواہنسی پیلا بلگو مرحل کا بہار سان سے ہی پھولتا سینے کے دائی طرح پواد آرہی ہے اگر میں انڈن چیسو پچھس دن میں دو بار پانچ دن خواہنسی کا صرف دو چمجھ دن میں تین بار سیگرٹ بند کرنی ہے چیسٹ ٹیکسٹرے کروالیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Stop smoking for 5 days\",\n    \"Take cough medicine 2 times a day for 5 days\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Stop smoking for 5 days",
+      "Take cough medicine 2 times a day for 5 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 5668.411,
+    "prompt_per_token_ms": 50.162929203539825,
+    "prompt_per_second": 19.935039996217636,
+    "predicted_n": 209,
+    "predicted_ms": 56861.319,
+    "predicted_per_token_ms": 273.37172596153846,
+    "predicted_per_second": 3.6580227764326043
+  }
+}

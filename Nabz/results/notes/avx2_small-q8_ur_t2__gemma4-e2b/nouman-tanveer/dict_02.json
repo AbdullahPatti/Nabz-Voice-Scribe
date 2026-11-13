@@ -1,0 +1,67 @@
+{
+  "transcript": "خطون 34 سال تین دن سے بخوا ہے جس ہم میں درد اور آنکھوں کے پیچھے درد پلیٹلاس پچانوے ہزار ہیں کہی سے خون نہیں آرہا صرف پناڈول دو گولی دن میں تین بار بروفن بلکل نہیں لینا دسپرین بھی نہیں پانی زیادہ پیئے کل خون کا ٹیس دوبارہ کرونا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"body ache\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain behind eyes\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"platelets\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"bleeding\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no vomiting\",\n    \"no fever (implied by context, but explicitly stated as 'bukhar nahi' is not present, only symptoms are listed)\",\n    \"no pain (implied by context, but explicitly stated as 'dard nahi' is not present, only symptoms are listed)\"\n  ],\n  \"findings\": [\n    \"platelets: 20,000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Paracetamol\",\n    \"Brufen\",\n    \"Ibuprofen\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"drink more water\",\n    \"repeat blood test for blood count\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body ache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "platelets",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "bleeding",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no vomiting",
+      "no fever (implied by context, but explicitly stated as 'bukhar nahi' is not present, only symptoms are listed)",
+      "no pain (implied by context, but explicitly stated as 'dard nahi' is not present, only symptoms are listed)"
+    ],
+    "findings": [
+      "platelets: 20,000"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Paracetamol",
+      "Brufen",
+      "Ibuprofen"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "drink more water",
+      "repeat blood test for blood count"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 86,
+    "prompt_ms": 1212.151,
+    "prompt_per_token_ms": 14.094779069767442,
+    "prompt_per_second": 70.94825644659782,
+    "predicted_n": 383,
+    "predicted_ms": 66396.187,
+    "predicted_per_token_ms": 173.81200785340314,
+    "predicted_per_second": 5.753342432149002
+  }
+}

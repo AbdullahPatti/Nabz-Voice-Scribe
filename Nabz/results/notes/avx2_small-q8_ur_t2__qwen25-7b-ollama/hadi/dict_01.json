@@ -1,0 +1,89 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پانچن سے تیز بخار ہے سردتر کمزوری بھی ہے کہ اندائی راتنو بہت ڈھان لگ دی ہے اولٹی نہیں ہے دست بھی نہیں ٹائی فیٹ کو ٹائی فیٹ پولٹی بایا ہے ازم ایک سبان سرزان ایک گولی ساتھ دن پر اندال دو گولی دن میں تین بار جب بخار ہو تین دن بعد بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 21\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"recent\"\n    },\n    {\n      \"symptom\": \"chills\",\n      \"duration\": \"recent\"\n    },\n    {\n      \"symptom\": \"myalgia\",\n      \"duration\": \"recent\"\n    },\n    {\n      \"symptom\": \"arthralgia\",\n      \"duration\": \"recent\"\n    }\n  ],\n  \"negatives\": [\n    \"rash\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"nausea\",\n    \"cough\",\n    \"sore throat\",\n    \"runny nose\",\n    \"headache\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"weight loss\",\n    \"night sweats\",\n    \"joint swelling\",\n    \"skin rash\",\n    \"abdominal pain\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"cough\",\n    \"sore throat\",\n    \"runny nose\",\n    \"headache\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"weight loss\",\n    \"night sweats\",\n    \"joint swelling\",\n    \"skin rash\",\n    \"abdominal pain\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"cough\",\n    \"sore throat\",\n    \"runny nose\",\n    \"headache\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"weight loss\",\n    \"night sweats\",\n    \"joint swelling\",\n    \"skin rash\",\n    \"abdominal pain\"\n  ],\n  \"findings\": [\n    \"fever\",\n    \"chills\",\n    \"myalgia\",\n    \"arthralgia\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 21
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "recent"
+      },
+      {
+        "symptom": "chills",
+        "duration": "recent"
+      },
+      {
+        "symptom": "myalgia",
+        "duration": "recent"
+      },
+      {
+        "symptom": "arthralgia",
+        "duration": "recent"
+      }
+    ],
+    "negatives": [
+      "rash",
+      "vomiting",
+      "diarrhea",
+      "nausea",
+      "cough",
+      "sore throat",
+      "runny nose",
+      "headache",
+      "fatigue",
+      "loss of appetite",
+      "weight loss",
+      "night sweats",
+      "joint swelling",
+      "skin rash",
+      "abdominal pain",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "cough",
+      "sore throat",
+      "runny nose",
+      "headache",
+      "fatigue",
+      "loss of appetite",
+      "weight loss",
+      "night sweats",
+      "joint swelling",
+      "skin rash",
+      "abdominal pain",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "cough",
+      "sore throat",
+      "runny nose",
+      "headache",
+      "fatigue",
+      "loss of appetite",
+      "weight loss",
+      "night sweats",
+      "joint swelling",
+      "skin rash",
+      "abdominal pain"
+    ],
+    "findings": [
+      "fever",
+      "chills",
+      "myalgia",
+      "arthralgia"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {}
+}

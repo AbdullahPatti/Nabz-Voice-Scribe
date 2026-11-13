@@ -1,0 +1,46 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"months\"\n    }\n  ],\n  \"negatives\": [\n    \"no shortness of breath\",\n    \"no palpitations\"\n  ],\n  \"findings\": [\n    \"history of skin staphylococcal infections\"\n  ],\n  \"allergies\": [\n    \"no known drug allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Levofloxacin\",\n      \"strength\": \"name not specified\",\n      \"dose\": \"daily\",\n      \"frequency\": \"once a day\",\n      \"duration\": \"one month\",\n      \"instructions\": \"completed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue current treatment\",\n    \"follow up in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "months"
+      }
+    ],
+    "negatives": [
+      "no shortness of breath",
+      "no palpitations"
+    ],
+    "findings": [
+      "history of skin staphylococcal infections"
+    ],
+    "allergies": [
+      "no known drug allergies"
+    ],
+    "medications": [
+      {
+        "name": "Levofloxacin",
+        "strength": "name not specified",
+        "dose": "daily",
+        "frequency": "once a day",
+        "duration": "one month",
+        "instructions": "completed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "continue current treatment",
+      "follow up in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {}
+}

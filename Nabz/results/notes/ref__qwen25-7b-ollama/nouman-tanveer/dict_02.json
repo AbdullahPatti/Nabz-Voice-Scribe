@@ -1,0 +1,56 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"body pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"eye pain\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no bleeding from any source\"\n  ],\n  \"findings\": [\n    \"platelets count 95,000\"\n  ],\n  \"allergies\": [\n    \"ibuprofen\",\n    \"aspirin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"paracetamol\",\n      \"strength\": \"3\",\n      \"dose\": \"3 times a day\",\n      \"frequency\": \"2 days\",\n      \"duration\": \"2 days\",\n      \"instructions\": \"as needed for pain\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"ibuprofen\",\n    \"aspirin\"\n  ],\n  \"investigations_ordered\": [\n    \"recheck blood test for hemoglobin\"\n  ],\n  \"advice\": [\n    \"increase fluid intake\"\n  ],\n  \"follow_up\": \"repeat blood test for hemoglobin the next day\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "eye pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no bleeding from any source"
+    ],
+    "findings": [
+      "platelets count 95,000"
+    ],
+    "allergies": [
+      "ibuprofen",
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "paracetamol",
+        "strength": "3",
+        "dose": "3 times a day",
+        "frequency": "2 days",
+        "duration": "2 days",
+        "instructions": "as needed for pain"
+      }
+    ],
+    "drugs_to_avoid": [
+      "ibuprofen",
+      "aspirin"
+    ],
+    "investigations_ordered": [
+      "recheck blood test for hemoglobin"
+    ],
+    "advice": [
+      "increase fluid intake"
+    ],
+    "follow_up": "repeat blood test for hemoglobin the next day"
+  },
+  "timings": {}
+}

@@ -1,0 +1,42 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 31\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"sputum production\",\n    \"shortness of breath\",\n    \"swelling\",\n    \"night sweats\",\n    \"weight loss\"\n  ],\n  \"findings\": [\n    \"dilated pupils\",\n    \"tachycardia (2-3 beats per minute)\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"avoid strenuous activities\",\n    \"monitor symptoms\"\n  ],\n  \"follow_up\": \"in 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 31
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "sputum production",
+      "shortness of breath",
+      "swelling",
+      "night sweats",
+      "weight loss"
+    ],
+    "findings": [
+      "dilated pupils",
+      "tachycardia (2-3 beats per minute)"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "avoid strenuous activities",
+      "monitor symptoms"
+    ],
+    "follow_up": "in 1 week"
+  },
+  "timings": {}
+}

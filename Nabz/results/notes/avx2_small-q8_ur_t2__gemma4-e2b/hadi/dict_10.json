@@ -1,0 +1,60 @@
+{
+  "transcript": "خاتون 38 سال صرف فالوہ آپ کے لیے آئی ہے پرشلی دوائی سے کوئی راش نہیں ہوا کوئی سائٹ افیکٹ نہیں بخار نہیں خانسی نہیں پہنے سرن سے ڈرجی ہے اس لئے اکمنٹن نہیں دینی سرٹے قادری گولی رات کو 10 دن ایک وینے بعد دکھائے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"rash\",\n      \"duration\": \"not mentioned\"\n    },\n    {\n      \"symptom\": \"side effects\",\n      \"duration\": \"not mentioned\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"not mentioned\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"not mentioned\"\n    }\n  ],\n  \"negatives\": [\n    \"no rash\",\n    \"no side effects\",\n    \"no fever\",\n    \"no cough\"\n  ],\n  \"findings\": [\n    \"head is dry\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [\n    \"Sarkari Qadri tablet at night for 10 days, then show\"\n  ],\n  \"advice\": [\n    \"Take Sarkari Qadri tablet at night for 10 days, then show\"\n  ],\n  \"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "rash",
+        "duration": "not mentioned"
+      },
+      {
+        "symptom": "side effects",
+        "duration": "not mentioned"
+      },
+      {
+        "symptom": "fever",
+        "duration": "not mentioned"
+      },
+      {
+        "symptom": "cough",
+        "duration": "not mentioned"
+      }
+    ],
+    "negatives": [
+      "no rash",
+      "no side effects",
+      "no fever",
+      "no cough"
+    ],
+    "findings": [
+      "head is dry"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [
+      "Sarkari Qadri tablet at night for 10 days, then show"
+    ],
+    "advice": [
+      "Take Sarkari Qadri tablet at night for 10 days, then show"
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 84,
+    "prompt_ms": 1260.374,
+    "prompt_per_token_ms": 15.004452380952381,
+    "prompt_per_second": 66.64688417882311,
+    "predicted_n": 311,
+    "predicted_ms": 51702.175,
+    "predicted_per_token_ms": 166.78120967741935,
+    "predicted_per_second": 5.995879283608475
+  }
+}

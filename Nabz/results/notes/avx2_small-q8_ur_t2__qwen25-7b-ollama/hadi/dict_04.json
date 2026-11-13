@@ -1,0 +1,54 @@
+{
+  "transcript": "خاتون پچھپن سار آج وی پی 160 اور سو آیا سار بھری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نور ویس پانچ رات کو ایک گولی شروع کر دی ہے نمہ کام کرنا ہے دو افتبات بی پی دوارہ چکر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"vaginal discharge\",\n      \"duration\": \"since 160 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no breast pain\",\n    \"no chest pain\",\n    \"no pain in the breasts\",\n    \"no vaginal bleeding\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no abdominal pain\",\n    \"no urinary symptoms\",\n    \"no vaginal itching\",\n    \"no vaginal odor\",\n    \"no vaginal discharge on examination\"\n  ],\n  \"findings\": [\n    \"vaginal discharge present for 160 days\",\n    \"no fever\",\n    \"no breast pain\",\n    \"no chest pain\",\n    \"no pain in the breasts\",\n    \"no vaginal bleeding\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no abdominal pain\",\n    \"no urinary symptoms\",\n    \"no vaginal itching\",\n    \"no vaginal odor\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"start oral contraceptive pills\",\n    \"continue with current contraceptive method\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "vaginal discharge",
+        "duration": "since 160 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no breast pain",
+      "no chest pain",
+      "no pain in the breasts",
+      "no vaginal bleeding",
+      "no nausea",
+      "no vomiting",
+      "no abdominal pain",
+      "no urinary symptoms",
+      "no vaginal itching",
+      "no vaginal odor",
+      "no vaginal discharge on examination"
+    ],
+    "findings": [
+      "vaginal discharge present for 160 days",
+      "no fever",
+      "no breast pain",
+      "no chest pain",
+      "no pain in the breasts",
+      "no vaginal bleeding",
+      "no nausea",
+      "no vomiting",
+      "no abdominal pain",
+      "no urinary symptoms",
+      "no vaginal itching",
+      "no vaginal odor"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "start oral contraceptive pills",
+      "continue with current contraceptive method"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

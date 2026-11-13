@@ -1,0 +1,60 @@
+{
+  "transcript": "خاتون چونٹس سال تھی دن سے بخار جس میں دیرد اور رانکوں کے پیچھے درد پلیٹلٹس پچانوے حزار ہیں کہی سے خون نہیں آرہا صرف پر اڑال دوگوڑی دن میں تین بار پروفن بلکل نہیں لینی دیسپنین بھی نہیں پانی زادہ پیئے کل خون کا تیز تبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"one day\"\n    },\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"one day\"\n    },\n    {\n      \"symptom\": \"pain in joints\",\n      \"duration\": \"one day\"\n    },\n    {\n      \"symptom\": \"bleeding\",\n      \"duration\": \"one day\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"platelets 7000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Profen\",\n    \"Despenein\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test for high hemoglobin\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\",\n    \"get blood test for high hemoglobin\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "one day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "one day"
+      },
+      {
+        "symptom": "pain in joints",
+        "duration": "one day"
+      },
+      {
+        "symptom": "bleeding",
+        "duration": "one day"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "platelets 7000"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Profen",
+      "Despenein"
+    ],
+    "investigations_ordered": [
+      "blood test for high hemoglobin"
+    ],
+    "advice": [
+      "drink plenty of water",
+      "get blood test for high hemoglobin"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 93,
+    "prompt_ms": 1383.398,
+    "prompt_per_token_ms": 14.875247311827955,
+    "prompt_per_second": 67.2257730602473,
+    "predicted_n": 296,
+    "predicted_ms": 51670.732,
+    "predicted_per_token_ms": 175.15502372881357,
+    "predicted_per_second": 5.709228195180203
+  }
+}

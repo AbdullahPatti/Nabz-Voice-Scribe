@@ -1,0 +1,50 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"polyuria\",\n      \"duration\": \"since 1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"polydipsia\",\n    \"urine sugar 100\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"twice daily\",\n      \"dose\": \"not mentioned\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"not mentioned\",\n      \"instructions\": \"to be taken with meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Glucophage\"\n  ],\n  \"investigations_ordered\": [\n    \"HbA1c in 3 months\",\n    \"no dental issues\"\n  ],\n  \"advice\": [\n    \"diet control\",\n    \"regular meals\"\n  ],\n  \"follow_up\": \"in 1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "polyuria",
+        "duration": "since 1 month"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "polydipsia",
+      "urine sugar 100"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "twice daily",
+        "dose": "not mentioned",
+        "frequency": "twice daily",
+        "duration": "not mentioned",
+        "instructions": "to be taken with meals"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Glucophage"
+    ],
+    "investigations_ordered": [
+      "HbA1c in 3 months",
+      "no dental issues"
+    ],
+    "advice": [
+      "diet control",
+      "regular meals"
+    ],
+    "follow_up": "in 1 month"
+  },
+  "timings": {}
+}

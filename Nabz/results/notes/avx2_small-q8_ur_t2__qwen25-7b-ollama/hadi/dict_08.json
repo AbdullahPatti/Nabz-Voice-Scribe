@@ -1,0 +1,34 @@
+{
+  "transcript": "خاتون 26 سال دو دن سے پیشاب میں جلن ہے اور پاروار آتا ہے بخار نہیں کمر میں درد نہیں پرکنٹ نہیں ہے سیپرو پان سو دن میں دو بار تین دن پانی زیادہ پییں پیشاب کو ٹیست کروالیں تین دن میں فرقنا پڑے تا دو بارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no chest pain\"\n  ],\n  \"findings\": [\n    \"urinary frequency\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urinalysis\"\n  ],\n  \"advice\": [\n    \"urinalysis in 3 days\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no chest pain"
+    ],
+    "findings": [
+      "urinary frequency"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urinalysis"
+    ],
+    "advice": [
+      "urinalysis in 3 days"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {}
+}

@@ -1,0 +1,56 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"23 days\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"7 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"rash\",\n    \"swelling\",\n    \"fever\",\n    \"hand swelling\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"fever\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Maxcef 500\",\n      \"strength\": \"100 mg\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"1 month\",\n      \"instructions\": \"take as prescribed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"avoid\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"monitor symptoms\"\n  ],\n  \"follow_up\": \"in 10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "23 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "7 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "rash",
+      "swelling",
+      "fever",
+      "hand swelling"
+    ],
+    "findings": [
+      "cough",
+      "fever"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Maxcef 500",
+        "strength": "100 mg",
+        "dose": "once daily",
+        "frequency": "daily",
+        "duration": "1 month",
+        "instructions": "take as prescribed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "avoid"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids",
+      "monitor symptoms"
+    ],
+    "follow_up": "in 10 days"
+  },
+  "timings": {}
+}

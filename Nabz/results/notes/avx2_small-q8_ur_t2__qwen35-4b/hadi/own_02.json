@@ -1,0 +1,51 @@
+{
+  "transcript": "میں 35 سوٹ روٹ روٹ روٹ for 2 دیز خانسی نہیں ہے اور کوئی سانس کا مسئلہ نہیں ہے پہنڈ اور جب بھی فیوڈ ہو وام سوٹ روٹر کتین دن میں تین بارگر آرے کریں اگر تھیک نہیں ہوتا تو تین دن میں واپس آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"breathing difficulty\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Soot Rot\",\n      \"strength\": \"3\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"every 2 days\",\"duration\": \"2 days\",\"instructions\": \"take if not better, return in 3 days\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Soot Rot 3 times daily for 2 days\",\n    \"return in 3 days if not better\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "breathing difficulty",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Soot Rot",
+        "strength": "3",
+        "dose": "3 times daily",
+        "frequency": "every 2 days",
+        "duration": "2 days",
+        "instructions": "take if not better, return in 3 days"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take Soot Rot 3 times daily for 2 days",
+      "return in 3 days if not better"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 4950.474,
+    "prompt_per_token_ms": 52.6646170212766,
+    "prompt_per_second": 18.988080737319294,
+    "predicted_n": 250,
+    "predicted_ms": 67344.915,
+    "predicted_per_token_ms": 270.46150602409637,
+    "predicted_per_second": 3.697383833656929
+  }
+}

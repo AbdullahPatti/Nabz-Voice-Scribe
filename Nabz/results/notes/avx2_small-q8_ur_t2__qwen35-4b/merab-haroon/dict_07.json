@@ -1,0 +1,79 @@
+{
+  "transcript": "مرت 45 ساتھ ایک ہفتے سے خانسی پیلا بلگم اور حلکہ بحار سانس نہیں بھولتا سینی کی دیان کی دائیں طرف حواز آ رہی ہے اگمینٹن 625 دن میں دو بات پانچ دیں خانسی کا سیرب دو چمش دن میں تین بار سیگرٹ بند کرنی ہے چیسٹ xy کروالیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"chest tenderness on the right side\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2 times/day\",\"duration\": \"5 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Chest X-ray\",\n      \"strength\": \"\",\n      \"dose\": \"\",\n      \"frequency\": \"\",\n      \"duration\": \"\",\n      \"instructions\": \"do\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"smoking\"\n  ],\n  \"investigations_ordered\": [\n    \"chest X-ray\"\n  ],\n  \"advice\": [\n    \"stop smoking\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "chest tenderness on the right side"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "2 times/day",
+        "duration": "5 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Chest X-ray",
+        "strength": "",
+        "dose": "",
+        "frequency": "",
+        "duration": "",
+        "instructions": "do"
+      }
+    ],
+    "drugs_to_avoid": [
+      "smoking"
+    ],
+    "investigations_ordered": [
+      "chest X-ray"
+    ],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 106,
+    "prompt_ms": 6144.148,
+    "prompt_per_token_ms": 57.963660377358494,
+    "prompt_per_second": 17.252188586603058,
+    "predicted_n": 366,
+    "predicted_ms": 85188.926,
+    "predicted_per_token_ms": 233.3943178082192,
+    "predicted_per_second": 4.284594455387311
+  }
+}

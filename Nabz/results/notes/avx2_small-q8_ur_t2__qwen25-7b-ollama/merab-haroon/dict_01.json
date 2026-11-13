@@ -1,0 +1,71 @@
+{
+  "transcript": "ٹائفورد مرد ٹائی سار ٹائی دن سے ٹیز بحار ہے سر در در کمزوری بھی ہے کہندائی راتوں کو بہت ٹھنڈلگ دیئے اولٹی نہیں ہے دست بھی نہیں ہے ٹائفورد کا ٹس پوزگی بایا ہے ازو میکس ٹائی بھنڈ روزانہ ایک گولی ساتھ دن پنڈرڈول دو گولی دن میں ٹین بار جب بحاروں ٹین دن بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"since 3 days\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"since 3 days\"\n    },\n    {\n      \"symptom\": \"body aches\",\n      \"duration\": \"since 3 days\"\n    },\n    {\n      \"symptom\": \"chills\",\n      \"duration\": \"at night\"\n    },\n    {\n      \"symptom\": \"no sweating\",\n      \"duration\": \"since 3 days\"\n    },\n    {\n      \"symptom\": \"no chills in hands\",\n      \"duration\": \"since 3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no sweating\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"fever\",\n    \"body aches\",\n    \"chills at night\",\n    \"no sweating\",\n    \"no chills in hands\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Azomix\",\n      \"strength\": \"1 tablet\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"for 7 days\",\n      \"duration\": \"since 10 days ago\",\n      \"instructions\": \"to be taken\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Tynine\",\n    \"Pendar\",\n    \"Doubt\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Continue current medication\",\n    \"Avoid Tynine, Pendar, Doubt\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "since 3 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "since 3 days"
+      },
+      {
+        "symptom": "body aches",
+        "duration": "since 3 days"
+      },
+      {
+        "symptom": "chills",
+        "duration": "at night"
+      },
+      {
+        "symptom": "no sweating",
+        "duration": "since 3 days"
+      },
+      {
+        "symptom": "no chills in hands",
+        "duration": "since 3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no sweating"
+    ],
+    "findings": [
+      "cough",
+      "fever",
+      "body aches",
+      "chills at night",
+      "no sweating",
+      "no chills in hands"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Azomix",
+        "strength": "1 tablet",
+        "dose": "once daily",
+        "frequency": "for 7 days",
+        "duration": "since 10 days ago",
+        "instructions": "to be taken"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Tynine",
+      "Pendar",
+      "Doubt"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Continue current medication",
+      "Avoid Tynine, Pendar, Doubt"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

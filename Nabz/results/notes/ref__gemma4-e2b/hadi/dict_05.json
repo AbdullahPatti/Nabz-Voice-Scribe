@@ -1,0 +1,59 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"old patient with sugar\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"sugar level 180\",\n      \"duration\": null\n    },\n    {\n      \"symptom\": \"sugar level 260 after food\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [\n    \"no hearing in feet\"\n  ],\n  \"findings\": [\n    \"Sugar level 180\",\n    \"Post-meal sugar level 260\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"1000\",\n      \"dose\": \"twice a day with food\",\n      \"frequency\": \"twice a day\",\n      \"duration\": \"3 months\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"three-month sugar test\"\n  ],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "old patient with sugar",
+        "duration": null
+      },
+      {
+        "symptom": "sugar level 180",
+        "duration": null
+      },
+      {
+        "symptom": "sugar level 260 after food",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "no hearing in feet"
+    ],
+    "findings": [
+      "Sugar level 180",
+      "Post-meal sugar level 260"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "twice a day with food",
+        "frequency": "twice a day",
+        "duration": "3 months",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "three-month sugar test"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 226,
+    "prompt_n": 99,
+    "prompt_ms": 1296.534,
+    "prompt_per_token_ms": 13.096303030303032,
+    "prompt_per_second": 76.35742680099403,
+    "predicted_n": 316,
+    "predicted_ms": 51578.894,
+    "predicted_per_token_ms": 163.74252063492062,
+    "predicted_per_second": 6.107149176172719
+  }
+}

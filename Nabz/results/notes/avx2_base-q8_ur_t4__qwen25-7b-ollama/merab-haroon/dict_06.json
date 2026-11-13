@@ -1,0 +1,78 @@
+{
+  "transcript": "ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hand tremors\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"palpitations\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"increased appetite\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no fever\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no jaundice\",\n    \"no joint pain\",\n    \"no headache\",\n    \"no dizziness\",\n    \"no syncope\",\n    \"no palpitations\",\n    \"no cough\",\n    \"no sputum production\",\n    \"no hemoptysis\",\n    \"no dyspnea on exertion\",\n    \"no edema\",\n    \"no night sweats\",\n    \"no hematuria\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no jaundice\",\n    \"no rash\",\n    \"no itching\",\n    \"no joint swelling\",\n    \"no arthralgia\",\n    \"no myalgia\",\n    \"no fatigue\",\n    \"no weakness\",\n    \"no palpitations\",\n    \"no palpitations\",\n    \"no palpitations\"\n  ],\n  \"findings\": [\n    \"tremors\",\n    \"palpitations\",\n    \"increased appetite\",\n    \"weight loss\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"dietary advice\",\n    \"lifestyle modifications\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "hand tremors",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "palpitations",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "increased appetite",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no shortness of breath",
+      "no fever",
+      "no vomiting",
+      "no diarrhea",
+      "no abdominal pain",
+      "no jaundice",
+      "no joint pain",
+      "no headache",
+      "no dizziness",
+      "no syncope",
+      "no palpitations",
+      "no cough",
+      "no sputum production",
+      "no hemoptysis",
+      "no dyspnea on exertion",
+      "no edema",
+      "no night sweats",
+      "no hematuria",
+      "no melena",
+      "no hematemesis",
+      "no jaundice",
+      "no rash",
+      "no itching",
+      "no joint swelling",
+      "no arthralgia",
+      "no myalgia",
+      "no fatigue",
+      "no weakness",
+      "no palpitations",
+      "no palpitations",
+      "no palpitations"
+    ],
+    "findings": [
+      "tremors",
+      "palpitations",
+      "increased appetite",
+      "weight loss"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "dietary advice",
+      "lifestyle modifications"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

@@ -1,0 +1,36 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"rash\",\n      \"duration\": \"occasional\"\n    }\n  ],\n  \"negatives\": [\n    \"weight_loss\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"rash on thighs\"\n  ],\n  \"allergies\": [\n    \"no reaction to previous treatments\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"son\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "rash",
+        "duration": "occasional"
+      }
+    ],
+    "negatives": [
+      "weight_loss",
+      "fever"
+    ],
+    "findings": [
+      "rash on thighs"
+    ],
+    "allergies": [
+      "no reaction to previous treatments"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "son"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

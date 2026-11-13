@@ -1,0 +1,51 @@
+{
+  "transcript": "ہاتون پچھپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نورویسک پانچ رات کو ایک گولی شروع کرتی ہے نمک کم کرنا ہے دو ہفتے بعد بیپی دبارہ چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nurovex\",\n      \"strength\": \"5\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"once\",\"duration\": \"2 weeks\",\"instructions\": \"reduce salt intake\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check in 2 weeks\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurovex",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once",
+        "duration": "2 weeks",
+        "instructions": "reduce salt intake"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check in 2 weeks"
+    ],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 92,
+    "prompt_ms": 5041.451,
+    "prompt_per_token_ms": 54.79838043478261,
+    "prompt_per_second": 18.24871450699412,
+    "predicted_n": 226,
+    "predicted_ms": 250970.986,
+    "predicted_per_token_ms": 1115.4266044444444,
+    "predicted_per_second": 0.8965179743924662
+  }
+}

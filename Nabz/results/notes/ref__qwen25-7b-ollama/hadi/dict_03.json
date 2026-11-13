@@ -1,0 +1,42 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"swelling\",\n      \"duration\": \"since last night\"\n    }\n  ],\n  \"negatives\": [\n    \"no bleeding\",\n    \"no change in urine\"\n  ],\n  \"findings\": [\n    \"drinking less water\",\n    \"taking ORS after each hand wash\",\n    \"prescribed Flagyl 400 mg three times a day for five days\",\n    \"told to avoid milk and fermented foods\",\n    \"if appetite decreases, will return\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"milk\",\n    \"fermented foods\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"ORS after each hand wash\",\n    \"Flagyl 400 mg three times a day for five days\",\n    \"avoid milk and fermented foods\",\n    \"return if appetite decreases\"\n  ],\n  \"follow_up\": \"if peshab (appetite) decreases, will return\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "swelling",
+        "duration": "since last night"
+      }
+    ],
+    "negatives": [
+      "no bleeding",
+      "no change in urine"
+    ],
+    "findings": [
+      "drinking less water",
+      "taking ORS after each hand wash",
+      "prescribed Flagyl 400 mg three times a day for five days",
+      "told to avoid milk and fermented foods",
+      "if appetite decreases, will return"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "milk",
+      "fermented foods"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "ORS after each hand wash",
+      "Flagyl 400 mg three times a day for five days",
+      "avoid milk and fermented foods",
+      "return if appetite decreases"
+    ],
+    "follow_up": "if peshab (appetite) decreases, will return"
+  },
+  "timings": {}
+}

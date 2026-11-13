@@ -1,0 +1,39 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"weight gain\",\n      \"duration\": \"3 years\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no nausea\",\n    \"no diarrhea\",\n    \"no fever\",\n    \"no risk factors\"\n  ],\n  \"findings\": [\n    \"increased appetite\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Glycosides\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce two meals\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "weight gain",
+        "duration": "3 years"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no nausea",
+      "no diarrhea",
+      "no fever",
+      "no risk factors"
+    ],
+    "findings": [
+      "increased appetite"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Glycosides"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce two meals"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}

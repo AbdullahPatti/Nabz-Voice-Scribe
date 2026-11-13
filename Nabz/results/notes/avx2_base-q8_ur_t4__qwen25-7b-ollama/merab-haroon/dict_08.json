@@ -1,0 +1,48 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"swelling\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no other symptoms\"\n  ],\n  \"findings\": [\n    \"swelling in hands\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ciprofloxacin\",\n      \"strength\": \"500\",\n      \"dose\": \"2 times a day\",\n      \"frequency\": \"for 3 days\",\n      \"duration\": \"as needed for pain relief\",\n      \"instructions\": \"take for 3 days\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Sporine 500\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink 30-40 glasses of water daily\",\n    \"revisit if no relief in 3 days\"\n  ],\n  \"follow_up\": \"in 3 days if no improvement\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "swelling",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no other symptoms"
+    ],
+    "findings": [
+      "swelling in hands"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "2 times a day",
+        "frequency": "for 3 days",
+        "duration": "as needed for pain relief",
+        "instructions": "take for 3 days"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Sporine 500"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "drink 30-40 glasses of water daily",
+      "revisit if no relief in 3 days"
+    ],
+    "follow_up": "in 3 days if no improvement"
+  },
+  "timings": {}
+}

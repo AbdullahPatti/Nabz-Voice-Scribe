@@ -1,0 +1,45 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"noisy breathing\",\n      \"duration\": \"since last night\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"coughing while sleeping\"\n  ],\n  \"allergies\": [\n    \"inhaled corticosteroid\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"4 tablets\",\n      \"frequency\": \"twice a day\",\n      \"duration\": \"2 days\",\n      \"instructions\": \"taken\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"avoid\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid Brufen\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "noisy breathing",
+        "duration": "since last night"
+      }
+    ],
+    "negatives": [
+      "no fever"
+    ],
+    "findings": [
+      "coughing while sleeping"
+    ],
+    "allergies": [
+      "inhaled corticosteroid"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "4 tablets",
+        "frequency": "twice a day",
+        "duration": "2 days",
+        "instructions": "taken"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "avoid"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid Brufen"
+    ],
+    "follow_up": null
+  },
+  "timings": {}
+}
