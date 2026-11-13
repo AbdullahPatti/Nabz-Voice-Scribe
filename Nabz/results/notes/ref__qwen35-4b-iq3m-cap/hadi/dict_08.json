@@ -1,0 +1,44 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"dysuria\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"lower abdominal pain\",\n    \"pregnancy\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"increase fluid intake\",\n    \"return if no improvement in 3 days\"\n  ],\n  \"follow_up\": \"in 3 days if no improvement\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "lower abdominal pain",
+      "pregnancy"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "increase fluid intake",
+      "return if no improvement in 3 days"
+    ],
+    "follow_up": "in 3 days if no improvement"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 78.082,
+    "prompt_per_token_ms": 0.716348623853211,
+    "prompt_per_second": 1395.9683409748727,
+    "predicted_n": 187,
+    "predicted_ms": 2282.128,
+    "predicted_per_token_ms": 12.269505376344087,
+    "predicted_per_second": 81.50287801560648
+  }
+}

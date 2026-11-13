@@ -1,0 +1,56 @@
+{
+  "transcript": "خطور 38 سال صرف فولو اپ کے لیے آئی ہیں پشلی دفعہ سے کوئی جیاش نہیں ہوا کوئی سائرڈیفک نہیں بخار نہیں خانسی نہیں پینس لیلی سے علیرجی ہے اس لیے اکھتھا میٹین نہیں دینی زرٹیک آدیگولی رات کو دس دن ایک مہینے بعد دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"chest pain\",\n    \"coughing up blood\",\n    \"shortness of breath\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Zyrtec\", \"strength\": null, \"dose\": \"1 tablet\", \"frequency\": \"at night\", \"duration\": \"10 days\", \"instructions\": \"continue for 1 month\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Amoxil\",\n    \"Cefixime\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Return in 1 month if not improved\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "chest pain",
+      "coughing up blood",
+      "shortness of breath"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": null,
+        "dose": "1 tablet",
+        "frequency": "at night",
+        "duration": "10 days",
+        "instructions": "continue for 1 month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Amoxil",
+      "Cefixime"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Return in 1 month if not improved"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 74.02,
+    "prompt_per_token_ms": 0.7049523809523809,
+    "prompt_per_second": 1418.5355309375846,
+    "predicted_n": 256,
+    "predicted_ms": 3204.58,
+    "predicted_per_token_ms": 12.566980392156863,
+    "predicted_per_second": 79.57361027030063
+  }
+}

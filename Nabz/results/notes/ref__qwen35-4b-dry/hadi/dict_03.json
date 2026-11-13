@@ -1,0 +1,53 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [\n    \"blood in stool\"\n  ],\n  \"findings\": [\n    \"dehydration\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl\",\n      \"strength\": \"400\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"5 days\",\"duration\": \"5 days\",\"instructions\": \"take one glass of ORS after each episode of diarrhea\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"doodh\",\n    \"tali hui cheezein\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return immediately if urine output decreases\"\n  ],\"follow_up\": \"return if urine output decreases\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [
+      "blood in stool"
+    ],
+    "findings": [
+      "dehydration"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take one glass of ORS after each episode of diarrhea"
+      }
+    ],
+    "drugs_to_avoid": [
+      "doodh",
+      "tali hui cheezein"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return immediately if urine output decreases"
+    ],
+    "follow_up": "return if urine output decreases"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 97.974,
+    "prompt_per_token_ms": 0.7965365853658537,
+    "prompt_per_second": 1255.4351154387898,
+    "predicted_n": 249,
+    "predicted_ms": 3013.313,
+    "predicted_per_token_ms": 12.15045564516129,
+    "predicted_per_second": 82.30144030839146
+  }
+}

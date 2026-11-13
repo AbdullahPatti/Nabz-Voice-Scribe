@@ -1,0 +1,51 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"1 tablet once daily\", \"frequency\": \"once daily\", \"duration\": \"7 days\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take paracetamol if fever occurs\",\n    \"take medicine with food\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet once daily",
+        "frequency": "once daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take paracetamol if fever occurs",
+      "take medicine with food"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 134,
+    "prompt_ms": 87.503,
+    "prompt_per_token_ms": 0.6530074626865672,
+    "prompt_per_second": 1531.3760671062707,
+    "predicted_n": 216,
+    "predicted_ms": 2740.676,
+    "predicted_per_token_ms": 12.74733023255814,
+    "predicted_per_second": 78.44779901017121
+  }
+}

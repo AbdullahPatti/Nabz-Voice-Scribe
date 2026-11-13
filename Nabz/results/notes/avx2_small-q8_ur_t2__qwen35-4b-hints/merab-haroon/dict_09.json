@@ -1,0 +1,55 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تقریب اور سینے سے سیٹی کی اہواز آتی ہے گبرار ٹوندی ہے وہ حار نہیں مینٹونین انہیلر ضرورت پر دو پاف دن میں چار دفعہ سے زاد آنے رات کو زرٹک ایک گولی دوڑ اور دومے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"night\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Montelukast\",\n      \"strength\": null,\n      \"dose\": \"2\",\n      \"frequency\": \"4 times daily\",\n      \"duration\": null,\n      \"instructions\": \"take as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Zyrtec\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid cold drinks\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Montelukast",
+        "strength": null,
+        "dose": "2",
+        "frequency": "4 times daily",
+        "duration": null,
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Zyrtec"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid cold drinks"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 191,
+    "prompt_ms": 112.873,
+    "prompt_per_token_ms": 0.5909581151832461,
+    "prompt_per_second": 1692.1673030751376,
+    "predicted_n": 234,
+    "predicted_ms": 2926.652,
+    "predicted_per_token_ms": 12.560738197424893,
+    "predicted_per_second": 79.61315523676883
+  }
+}

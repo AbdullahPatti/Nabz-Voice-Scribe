@@ -1,0 +1,51 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 29\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation\", \"duration\": \"2 years\"},\n    {\"symptom\": \"recurrent episodes\", \"duration\": \"2 years\"},\n    {\"symptom\": \"lower back pain\", \"duration\": \"2 years\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Urine test\"\n  ],\n  \"advice\": [\n    \"Repeat urine test in 3 days\",\n    \"If symptoms persist, come back\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 29
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "recurrent episodes",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "lower back pain",
+        "duration": "2 years"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Urine test"
+    ],
+    "advice": [
+      "Repeat urine test in 3 days",
+      "If symptoms persist, come back"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 144,
+    "prompt_ms": 85.763,
+    "prompt_per_token_ms": 0.595576388888889,
+    "prompt_per_second": 1679.0457423364385,
+    "predicted_n": 214,
+    "predicted_ms": 2620.595,
+    "predicted_per_token_ms": 12.303262910798122,
+    "predicted_per_second": 81.27925146770104
+  }
+}

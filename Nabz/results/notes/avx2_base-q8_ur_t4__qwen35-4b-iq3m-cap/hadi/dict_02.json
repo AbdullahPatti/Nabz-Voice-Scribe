@@ -1,0 +1,67 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"cough\", \"duration\": \"3 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"3 days\"},\n    {\"symptom\": \"blood in sputum\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no chest pain on inhalation\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Paracetamol\", \"strength\": \"625\", \"dose\": \"3 times a day\", \"frequency\": \"3 times a day\", \"duration\": null, \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": \"in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "blood in sputum",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no chest pain on inhalation"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "625",
+        "dose": "3 times a day",
+        "frequency": "3 times a day",
+        "duration": null,
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "in 2 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 78.948,
+    "prompt_per_token_ms": 0.7048928571428571,
+    "prompt_per_second": 1418.6553174241274,
+    "predicted_n": 291,
+    "predicted_ms": 3577.507,
+    "predicted_per_token_ms": 12.33623103448276,
+    "predicted_per_second": 81.06203565779185
+  }
+}

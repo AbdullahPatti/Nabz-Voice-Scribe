@@ -1,0 +1,46 @@
+{
+  "transcript": "اورت سکسٹی عیرز تو مہینے سے نہیں پین، سیڈیوں پہ ذاتہ بری، نو سویلنگ، نو فیور، دن میں پیناڈال کے دو تیبلیٹ، حلکی ایک سکسائس دیلی اور ایک مہینے بعد واپس آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"1 month\"\n    }\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2 tablets\",\"dose\": \"twice daily\",\"frequency\": \"twice daily\",\"duration\": \"1 month\",\"instructions\": \"return in 1 month\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return in 1 month\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2 tablets",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "1 month",
+        "instructions": "return in 1 month"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "return in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 89,
+    "prompt_ms": 96.782,
+    "prompt_per_token_ms": 1.087438202247191,
+    "prompt_per_second": 919.5924862061128,
+    "predicted_n": 201,
+    "predicted_ms": 2644.023,
+    "predicted_per_token_ms": 13.220115,
+    "predicted_per_second": 75.6423071962687
+  }
+}

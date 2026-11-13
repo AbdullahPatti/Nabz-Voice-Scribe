@@ -1,0 +1,48 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"menstrual pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"heavy bleeding\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no dysuria\",\n    \"no chest pain\",\n    \"no palpitations\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink plenty of water\",\n    \"take iron supplements\"\n  ],\"follow_up\": \"in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "menstrual pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "heavy bleeding",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no dysuria",
+      "no chest pain",
+      "no palpitations"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink plenty of water",
+      "take iron supplements"
+    ],
+    "follow_up": "in 2 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 245,
+    "prompt_ms": 128.876,
+    "prompt_per_token_ms": 0.5260244897959184,
+    "prompt_per_second": 1901.0521741829355,
+    "predicted_n": 196,
+    "predicted_ms": 2413.113,
+    "predicted_per_token_ms": 12.374938461538461,
+    "predicted_per_second": 80.8084826529052
+  }
+}

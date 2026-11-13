@@ -1,0 +1,30 @@
+{
+  "transcript": "میں این این این این این این این این این این این این این",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 31,
+    "prompt_ms": 80.702,
+    "prompt_per_token_ms": 2.603290322580645,
+    "prompt_per_second": 384.1292656935392,
+    "predicted_n": 103,
+    "predicted_ms": 1475.93,
+    "predicted_per_token_ms": 14.469901960784314,
+    "predicted_per_second": 69.10896858252084
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{ \"patient\": { \"sex\": \"male\", \"age_years\": 50 }, \"complaints\": [ { \"symptom\": \"sugar ka purana mareez\", \"duration\": null } ], \"negatives\": [ \"bukhar nahi\", \"ulti nahi\" ], \"findings\": [ \"Nihar mun sugar 180 aur khane ke baad 260\" ],\"allergies\": [ \"null\" ],\"medications\": [ { \"name\": \"Glucophage\", \"strength\": \"500\", \"dose\": \"din mein do baar\", \"frequency\": \"le raha tha\",\"duration\": \"pehle\",\"instructions\": \"Ab Glucophage 1000 din mein do baar, khane ke saath\" } ],\"drugs_to_avoid\": [ \"null\" ],\"investigations_ordered\": [ \"null\" ],\"advice\": [ \"teen mahine wala sugar test karwana hai\" ],\"follow_up\": \"pairon mein sun hona nahi hai\" }",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sugar ka purana mareez",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "Nihar mun sugar 180 aur khane ke baad 260"
+    ],
+    "allergies": [
+      "null"
+    ],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "din mein do baar",
+        "frequency": "le raha tha",
+        "duration": "pehle",
+        "instructions": "Ab Glucophage 1000 din mein do baar, khane ke saath"
+      }
+    ],
+    "drugs_to_avoid": [
+      "null"
+    ],
+    "investigations_ordered": [
+      "null"
+    ],
+    "advice": [
+      "teen mahine wala sugar test karwana hai"
+    ],
+    "follow_up": "pairon mein sun hona nahi hai"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 98,
+    "prompt_ms": 41.248,
+    "prompt_per_token_ms": 0.42089795918367345,
+    "prompt_per_second": 2375.8727695888288,
+    "predicted_n": 231,
+    "predicted_ms": 2036.09,
+    "predicted_per_token_ms": 8.852565217391303,
+    "predicted_per_second": 112.96160778747502
+  }
+}

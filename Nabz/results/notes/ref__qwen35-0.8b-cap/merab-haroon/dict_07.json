@@ -1,0 +1,79 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"khansi\",\n      \"duration\": \"1 hafte se\"\n    },\n    {\n      \"symptom\": \"peela balgham\",\n      \"duration\": \"1 hafte se\"\n    },\n    {\n      \"symptom\": \"halka bukhar\",\n      \"duration\": \"1 hafte se\"\n    },\n    {\n      \"symptom\": \"saans nahi phoolta\",\n      \"duration\": \"1 hafte se\"\n    },\n    {\n      \"symptom\": \"seene ki daayin taraf awaaz aa rahi hai\",\n      \"duration\": \"1 hafte se\"\n    },\n    {\n      \"symptom\": \"cigarette band karni hai\",\n      \"duration\": \"1 hafte se\"\n    },\n    {\n      \"symptom\": \"chest x-ray karwa lein\",\n      \"duration\": \"1 hafte se\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"Augmentin 625 din mein do baar\",\n    \"paanch din\",\n    \"khansi ka syrup do chamach din mein teen baar\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"din mein do baar, paanch din\",\n      \"frequency\": \"din mein do baar, paanch din\",\n      \"duration\": \"din mein do baar, paanch din\",\n      \"instructions\": \"cigarette band karni hai\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"chest x-ray\"\n  ],\n  \"advice\": [\n    \"cigarette band karna\"\n  ],\n  \"follow_up\": \"chest x-ray karwa lein\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "khansi",
+        "duration": "1 hafte se"
+      },
+      {
+        "symptom": "peela balgham",
+        "duration": "1 hafte se"
+      },
+      {
+        "symptom": "halka bukhar",
+        "duration": "1 hafte se"
+      },
+      {
+        "symptom": "saans nahi phoolta",
+        "duration": "1 hafte se"
+      },
+      {
+        "symptom": "seene ki daayin taraf awaaz aa rahi hai",
+        "duration": "1 hafte se"
+      },
+      {
+        "symptom": "cigarette band karni hai",
+        "duration": "1 hafte se"
+      },
+      {
+        "symptom": "chest x-ray karwa lein",
+        "duration": "1 hafte se"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "Augmentin 625 din mein do baar",
+      "paanch din",
+      "khansi ka syrup do chamach din mein teen baar"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "din mein do baar, paanch din",
+        "frequency": "din mein do baar, paanch din",
+        "duration": "din mein do baar, paanch din",
+        "instructions": "cigarette band karni hai"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "chest x-ray"
+    ],
+    "advice": [
+      "cigarette band karna"
+    ],
+    "follow_up": "chest x-ray karwa lein"
+  },
+  "timings": {
+    "cache_n": 341,
+    "prompt_n": 4,
+    "prompt_ms": 16.32,
+    "prompt_per_token_ms": 4.08,
+    "prompt_per_second": 245.09803921568627,
+    "predicted_n": 515,
+    "predicted_ms": 2342.231,
+    "predicted_per_token_ms": 4.5568696498054475,
+    "predicted_per_second": 219.44889295718482
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 18\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"فولو اپ\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بخور نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"کنسی نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"پینس لیلی سے ایلڈ جی ہے\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"اقتھا مٹین نہیں دینی\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"زرٹیک آدیگولی\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"رات کو دست دین\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"ایک مہین نے بات دکھائیں\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\n        \"بخور نہیں\",\n        \"کنسی نہیں\",\n        \"بھوک نہیں\",\n        \"بھوک نہیں\",\n        \"بھوک نہیں\",\n        \"بھوک نہیں\",\n        \"بھوک نہیں\",\n        \"بھوک نہیں\",\n        \"بھوک نہیں\",\n        \"بھوک نہیں\" ],\n    \"findings\": [\n        \"زرٹیک آدیگولی\" ],\n    \"allergies\": [\n        \"بھوک نہیں\" ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"1 گھنٹے میں 1 بار\",\n            \"frequency\": \"روزانہ\",\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"بھوک نہیں\" ],\n    \"investigations_ordered\": [\n        \"بھوک نہیں\" ],\n    \"advice\": [\n        \"رات کو دست دین\" ],\n    \"follow_up\": \"فولو اپ\" }",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 18
+    },
+    "complaints": [
+      {
+        "symptom": "فولو اپ",
+        "duration": null
+      },
+      {
+        "symptom": "بخور نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "کنسی نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "پینس لیلی سے ایلڈ جی ہے",
+        "duration": null
+      },
+      {
+        "symptom": "اقتھا مٹین نہیں دینی",
+        "duration": null
+      },
+      {
+        "symptom": "زرٹیک آدیگولی",
+        "duration": null
+      },
+      {
+        "symptom": "رات کو دست دین",
+        "duration": null
+      },
+      {
+        "symptom": "ایک مہین نے بات دکھائیں",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "بخور نہیں",
+      "کنسی نہیں",
+      "بھوک نہیں",
+      "بھوک نہیں",
+      "بھوک نہیں",
+      "بھوک نہیں",
+      "بھوک نہیں",
+      "بھوک نہیں",
+      "بھوک نہیں",
+      "بھوک نہیں"
+    ],
+    "findings": [
+      "زرٹیک آدیگولی"
+    ],
+    "allergies": [
+      "بھوک نہیں"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "1 گھنٹے میں 1 بار",
+        "frequency": "روزانہ",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "بھوک نہیں"
+    ],
+    "investigations_ordered": [
+      "بھوک نہیں"
+    ],
+    "advice": [
+      "رات کو دست دین"
+    ],
+    "follow_up": "فولو اپ"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 157,
+    "prompt_ms": 45.386,
+    "prompt_per_token_ms": 0.28908280254777075,
+    "prompt_per_second": 3459.2164984797073,
+    "predicted_n": 598,
+    "predicted_ms": 4973.252,
+    "predicted_per_token_ms": 8.330405360134003,
+    "predicted_per_second": 120.04217763346799
+  }
+}

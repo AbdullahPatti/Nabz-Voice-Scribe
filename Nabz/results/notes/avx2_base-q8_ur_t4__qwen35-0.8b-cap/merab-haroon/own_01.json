@@ -1,0 +1,16 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سکیرز نوز ویلن نو فیور پاندول 2 تبلرٹز 2 ایرز اگی لائی تکسرسیز دیلی کم بیکن 1 منگت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "note": null,
+  "timings": {
+    "cache_n": 303,
+    "prompt_n": 4,
+    "prompt_ms": 17.716,
+    "prompt_per_token_ms": 4.429,
+    "prompt_per_second": 225.78460149017835,
+    "predicted_n": 800,
+    "predicted_ms": 3071.344,
+    "predicted_per_token_ms": 3.843984981226533,
+    "predicted_per_second": 260.1466979928005
+  }
+}

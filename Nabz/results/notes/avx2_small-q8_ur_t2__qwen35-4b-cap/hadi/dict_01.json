@@ -1,0 +1,59 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پانچن سے تیز بخار ہے سردتر کمزوری بھی ہے کہ اندائی راتنو بہت ڈھان لگ دی ہے اولٹی نہیں ہے دست بھی نہیں ٹائی فیٹ کو ٹائی فیٹ پولٹی بایا ہے ازم ایک سبان سرزان ایک گولی ساتھ دن پر اندال دو گولی دن میں تین بار جب بخار ہو تین دن بعد بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 15\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"15 days\"},\n    {\"symptom\": \"chills\", \"duration\": \"15 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"15 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"15 days\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"3 times daily\",\n      \"duration\": \"3 days\",\"instructions\": \"take when fever occurs\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": \"3 days after fever onset\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 15
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "15 days"
+      },
+      {
+        "symptom": "chills",
+        "duration": "15 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "15 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "15 days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take when fever occurs"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "3 days after fever onset"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 97.38,
+    "prompt_per_token_ms": 0.8617699115044247,
+    "prompt_per_second": 1160.4025467241736,
+    "predicted_n": 265,
+    "predicted_ms": 3249.107,
+    "predicted_per_token_ms": 12.307223484848485,
+    "predicted_per_second": 81.25309508120232
+  }
+}

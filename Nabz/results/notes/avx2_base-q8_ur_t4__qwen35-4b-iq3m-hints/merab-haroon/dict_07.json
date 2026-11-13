@@ -1,0 +1,75 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"45 days\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest heaviness\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest burning\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest fullness\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest pressure\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest discomfort\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest ache\", \"duration\": \"45 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest heaviness",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest burning",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest fullness",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest pressure",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest discomfort",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest ache",
+        "duration": "45 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 181,
+    "prompt_ms": 99.015,
+    "prompt_per_token_ms": 0.5470441988950276,
+    "prompt_per_second": 1828.0058576983286,
+    "predicted_n": 309,
+    "predicted_ms": 3612.574,
+    "predicted_per_token_ms": 11.729136363636364,
+    "predicted_per_second": 85.25776911421053
+  }
+}

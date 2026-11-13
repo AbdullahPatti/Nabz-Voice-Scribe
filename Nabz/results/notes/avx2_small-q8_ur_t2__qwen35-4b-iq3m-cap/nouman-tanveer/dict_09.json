@@ -1,0 +1,54 @@
+{
+  "transcript": "مرد بائیسہ رات کو سانچ کی تقریف اور سینے سے سیٹی کی آتی ہے گبراد ہوندی یہ بخار نہیں ویلنٹولی انہلر ضرورت پر دو پف دین میں چار دفاسے زیادہ نہیں رات کو رٹک ایک گولی دول اور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"night\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ventolin\", \"strength\": null, \"dose\": \"2 puffs\", \"frequency\": \"as needed\", \"duration\": null, \"instructions\": \"take 2 puffs\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Ritalin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Ritalin one tablet at night and one in the morning\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": null,
+        "dose": "2 puffs",
+        "frequency": "as needed",
+        "duration": null,
+        "instructions": "take 2 puffs"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ritalin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Ritalin one tablet at night and one in the morning"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 71.426,
+    "prompt_per_token_ms": 0.7680215053763441,
+    "prompt_per_second": 1302.0468736874527,
+    "predicted_n": 226,
+    "predicted_ms": 2900.215,
+    "predicted_per_token_ms": 12.889844444444446,
+    "predicted_per_second": 77.58045524211136
+  }
+}

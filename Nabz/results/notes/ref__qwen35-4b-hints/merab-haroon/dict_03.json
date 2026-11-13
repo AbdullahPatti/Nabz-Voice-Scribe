@@ -1,0 +1,55 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"dehydration\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [\n    \"blood in stool\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl\",\n      \"strength\": \"400\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"5 days\",\"duration\": \"5 days\",\"instructions\": \"take 1 glass of ORS after each episode of diarrhea\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"dairy products\",\n    \"curdled foods\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return immediately if urine output decreases\"\n  ],\"follow_up\": \"return if urine output decreases\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [
+      "blood in stool"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take 1 glass of ORS after each episode of diarrhea"
+      }
+    ],
+    "drugs_to_avoid": [
+      "dairy products",
+      "curdled foods"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return immediately if urine output decreases"
+    ],
+    "follow_up": "return if urine output decreases"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 165,
+    "prompt_ms": 125.806,
+    "prompt_per_token_ms": 0.7624606060606061,
+    "prompt_per_second": 1311.5431696421474,
+    "predicted_n": 255,
+    "predicted_ms": 3172.136,
+    "predicted_per_token_ms": 12.48872440944882,
+    "predicted_per_second": 80.07222893343791
+  }
+}

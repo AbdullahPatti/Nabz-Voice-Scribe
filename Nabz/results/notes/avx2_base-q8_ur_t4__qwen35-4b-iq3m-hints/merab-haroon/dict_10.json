@@ -1,0 +1,125 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 day\"},\n    {\"symptom\": \"headache\", \"duration\": \"1 day\"},\n    {\"symptom\": \"cough\", \"duration\": \"1 day\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 day\"},\n    {\"symptom\": \"nausea\", \"duration\": \"1 day\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"1 day\"},\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 day\"},\n    {\"symptom\": \"abdominal pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"joint pain\", \"duration\": \"1 day\"}\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no joint pain\"\n  ],\n  \"findings\": [\n    \"normal blood pressure\",\n    \"normal heart rate\",\n    \"normal respiratory rate\",\n    \"normal temperature\",\n    \"normal oxygen saturation\",\n    \"normal pulse oximetry\",\n    \"normal capnography\",\n    \"normal blood gas\",\n    \"normal ECG\",\n    \"normal chest X-ray\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"1 tablet\", \"frequency\": \"twice daily\", \"duration\": \"5 days\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"complete blood count\",\n    \"blood sugar\",\n    \"liver function test\",\n    \"kidney function test\",\n    \"thyroid function test\",\n    \"lipid profile\",\n    \"urine routine\",\n    \"urine culture and sensitivity\",\n    \"stool routine\",\n    \"stool culture and sensitivity\"\n  ],\n  \"advice\": [\n    \"stay hydrated\",\n    \"rest\",\n    \"avoid spicy food\",\n    \"avoid alcohol\",\n    \"avoid smoking\",\n    \"avoid stress\",\n    \"avoid heavy lifting\",\n    \"avoid driving\",\n    \"avoid operating machinery\",\n    \"avoid sexual activity\"\n  ],\n  \"follow_up\": \"return in 1 day if no improvement\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "joint pain",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no shortness of breath",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea",
+      "no abdominal pain",
+      "no joint pain"
+    ],
+    "findings": [
+      "normal blood pressure",
+      "normal heart rate",
+      "normal respiratory rate",
+      "normal temperature",
+      "normal oxygen saturation",
+      "normal pulse oximetry",
+      "normal capnography",
+      "normal blood gas",
+      "normal ECG",
+      "normal chest X-ray"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "complete blood count",
+      "blood sugar",
+      "liver function test",
+      "kidney function test",
+      "thyroid function test",
+      "lipid profile",
+      "urine routine",
+      "urine culture and sensitivity",
+      "stool routine",
+      "stool culture and sensitivity"
+    ],
+    "advice": [
+      "stay hydrated",
+      "rest",
+      "avoid spicy food",
+      "avoid alcohol",
+      "avoid smoking",
+      "avoid stress",
+      "avoid heavy lifting",
+      "avoid driving",
+      "avoid operating machinery",
+      "avoid sexual activity"
+    ],
+    "follow_up": "return in 1 day if no improvement"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 263,
+    "prompt_ms": 115.418,
+    "prompt_per_token_ms": 0.438851711026616,
+    "prompt_per_second": 2278.6740369786344,
+    "predicted_n": 634,
+    "predicted_ms": 7238.736,
+    "predicted_per_token_ms": 11.435601895734598,
+    "predicted_per_second": 87.4462060779672
+  }
+}

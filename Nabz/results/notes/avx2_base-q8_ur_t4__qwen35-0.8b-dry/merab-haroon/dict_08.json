@@ -1,0 +1,16 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the neck\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the neck\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the neck\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the neck\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 98,
+    "prompt_ms": 30.546,
+    "prompt_per_token_ms": 0.3116938775510204,
+    "prompt_per_second": 3208.276042689714,
+    "predicted_n": 800,
+    "predicted_ms": 3016.121,
+    "predicted_per_token_ms": 3.7748698372966207,
+    "predicted_per_second": 264.90979639079467
+  }
+}

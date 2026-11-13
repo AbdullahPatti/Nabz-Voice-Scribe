@@ -1,0 +1,92 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"kamar mein dard nahi\",\n    \"pregnant nahi hain\"\n  ],\n  \"findings\": [\n    \"cipro 500 din mein do baar\",\n    \"teen din mein farq na pare to dobara aayein\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"ciprofloxacin\",\n      \"strength\": \"500 mg\",\n      \"dose\": \"do baar\",\n      \"frequency\": \"teen din\",\n      \"duration\": \"500 din\",\n      \"instructions\": \"do baar\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"peshab ka test\"\n  ],\n  \"advice\": [\n    \"peshab ka test karwa lein\",\n    \"teen din mein farq na pare to dobara aayein\"\n  ],\n  \"follow_up\": \"teen din mein farq na pare to dobara aayein\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      },
+      {
+        "symptom": "painful urination",
+        "duration": "daily"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "kamar mein dard nahi",
+      "pregnant nahi hain"
+    ],
+    "findings": [
+      "cipro 500 din mein do baar",
+      "teen din mein farq na pare to dobara aayein"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "ciprofloxacin",
+        "strength": "500 mg",
+        "dose": "do baar",
+        "frequency": "teen din",
+        "duration": "500 din",
+        "instructions": "do baar"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "peshab ka test"
+    ],
+    "advice": [
+      "peshab ka test karwa lein",
+      "teen din mein farq na pare to dobara aayein"
+    ],
+    "follow_up": "teen din mein farq na pare to dobara aayein"
+  },
+  "timings": {
+    "cache_n": 336,
+    "prompt_n": 4,
+    "prompt_ms": 15.608,
+    "prompt_per_token_ms": 3.902,
+    "prompt_per_second": 256.2788313685289,
+    "predicted_n": 570,
+    "predicted_ms": 2647.38,
+    "predicted_per_token_ms": 4.652688927943761,
+    "predicted_per_second": 214.92947744562548
+  }
+}

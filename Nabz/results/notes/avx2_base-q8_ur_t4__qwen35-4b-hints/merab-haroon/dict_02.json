@@ -1,0 +1,71 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"},\n    {\"symptom\": \"joint pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"headache\",\n    \"joint pain\",\n    \"pain behind eyes\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\"duration\": \"3 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Ibuprofen\",\n      \"strength\": \"400\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"twice daily\",\"duration\": \"3 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink plenty of water\",\n    \"rest\"\n  ],\"follow_up\": \"return if symptoms persist\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "joint pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "headache",
+      "joint pain",
+      "pain behind eyes"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Ibuprofen",
+        "strength": "400",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink plenty of water",
+      "rest"
+    ],
+    "follow_up": "return if symptoms persist"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 249,
+    "prompt_ms": 129.167,
+    "prompt_per_token_ms": 0.5187429718875503,
+    "prompt_per_second": 1927.736960678811,
+    "predicted_n": 342,
+    "predicted_ms": 4112.769,
+    "predicted_per_token_ms": 12.060906158357772,
+    "predicted_per_second": 82.91250979571184
+  }
+}

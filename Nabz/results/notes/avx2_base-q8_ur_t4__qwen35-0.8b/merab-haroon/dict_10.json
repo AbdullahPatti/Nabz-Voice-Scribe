@@ -1,0 +1,16 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nause",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 32.222,
+    "prompt_per_token_ms": 0.30687619047619047,
+    "prompt_per_second": 3258.643163056297,
+    "predicted_n": 800,
+    "predicted_ms": 3015.326,
+    "predicted_per_token_ms": 3.773874843554443,
+    "predicted_per_second": 264.97964067566824
+  }
+}

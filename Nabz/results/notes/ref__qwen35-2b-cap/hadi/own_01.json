@@ -1,0 +1,50 @@
+{
+  "transcript": "Aurat sixty years, do mahine se knee pain, seerhiyon pe zyada buri. No swelling, no fever. Din mein Panadol ke do tablet. Halki exercise daily, aur ek mahine baad wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"knee pain\",\n      \"duration\": \"6 months\"\n    }\n  ],\n  \"negatives\": [\n    \"swelling\",\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2 tablets daily\",\"dose\": \"2 tablets daily\",\"frequency\": \"daily\",\"duration\": \"6 months\",\"instructions\": \"continue until improvement\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"perform light exercise daily\",\n    \"return in 1 month\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "6 months"
+      }
+    ],
+    "negatives": [
+      "swelling",
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2 tablets daily",
+        "dose": "2 tablets daily",
+        "frequency": "daily",
+        "duration": "6 months",
+        "instructions": "continue until improvement"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "perform light exercise daily",
+      "return in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 70,
+    "prompt_ms": 55.329,
+    "prompt_per_token_ms": 0.7904142857142857,
+    "prompt_per_second": 1265.15931970576,
+    "predicted_n": 227,
+    "predicted_ms": 1761.282,
+    "predicted_per_token_ms": 7.793283185840708,
+    "predicted_per_second": 128.3156246415963
+  }
+}

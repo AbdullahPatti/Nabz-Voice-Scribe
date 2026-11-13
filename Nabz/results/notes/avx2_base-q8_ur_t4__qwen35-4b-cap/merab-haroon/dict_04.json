@@ -1,0 +1,53 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fainting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nurofen\",\n      \"strength\": \"500\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"as needed\",\"duration\": \"2 weeks\",\"instructions\": \"reduce salt intake\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fainting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurofen",
+        "strength": "500",
+        "dose": "1 tablet at night",
+        "frequency": "as needed",
+        "duration": "2 weeks",
+        "instructions": "reduce salt intake"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 93.349,
+    "prompt_per_token_ms": 0.9930744680851065,
+    "prompt_per_second": 1006.9738293929233,
+    "predicted_n": 234,
+    "predicted_ms": 3053.609,
+    "predicted_per_token_ms": 13.105618025751072,
+    "predicted_per_second": 76.30315472609624
+  }
+}

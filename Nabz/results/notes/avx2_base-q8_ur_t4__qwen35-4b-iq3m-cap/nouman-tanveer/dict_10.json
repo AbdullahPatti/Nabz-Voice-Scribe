@@ -1,0 +1,53 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 48\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 month\"},\n    {\"symptom\": \"cough\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no chest tightness\",\n    \"no chest congestion\",\n    \"no chest discharge\",\n    \"no chest wheeze\",\n    \"no chest rales\",\n    \"no chest crackles\",\n    \"no chest friction rub\",\n    \"no chest pleurisy\",\n    \"no chest pleural effusion\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"consult a doctor\",\n    \"show X-ray\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 48
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no chest tightness",
+      "no chest congestion",
+      "no chest discharge",
+      "no chest wheeze",
+      "no chest rales",
+      "no chest crackles",
+      "no chest friction rub",
+      "no chest pleurisy",
+      "no chest pleural effusion"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "consult a doctor",
+      "show X-ray"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 74.365,
+    "prompt_per_token_ms": 0.7219902912621359,
+    "prompt_per_second": 1385.060176158139,
+    "predicted_n": 241,
+    "predicted_ms": 2849.635,
+    "predicted_per_token_ms": 11.873479166666668,
+    "predicted_per_second": 84.22131255406394
+  }
+}

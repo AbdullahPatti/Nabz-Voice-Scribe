@@ -1,0 +1,16 @@
+{
+  "transcript": "میں این این این این این این این این این این این این این",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being in a loop\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped in a cycle\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck in a loop\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being in a cycle\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being in a loop\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being in a cycle\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being in a loop\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being in a cycle\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being in a loop\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being in a cycle\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being stuck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 31,
+    "prompt_ms": 27.485,
+    "prompt_per_token_ms": 0.8866129032258064,
+    "prompt_per_second": 1127.8879388757505,
+    "predicted_n": 800,
+    "predicted_ms": 3054.301,
+    "predicted_per_token_ms": 3.822654568210263,
+    "predicted_per_second": 261.5983166033734
+  }
+}

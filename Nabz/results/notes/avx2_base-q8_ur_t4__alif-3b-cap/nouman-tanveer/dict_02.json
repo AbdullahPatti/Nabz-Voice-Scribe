@@ -1,0 +1,71 @@
+{
+  "transcript": "خطوون چونتی سال، تین دین سے بخوا ہے جسم میں درد، اور آنکھوں کے پیچھے درد، پیٹلس پچانوے ہزار ہے کہ ہی سے خون نہیں آرہا، صرف پنے دول دو گلی، دین میں تین بات، بروفین بلکل نہیں لینہ، دیسپرین بھی نہیں، پانی زیادہ پیئے، کال خون کا ٹنس دبارہ کر مانا ہے،",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 30}, \"complaints\": [{\"symptom\": \"disease\", \"duration\": \"3 days\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"disease nahi\"],\"findings\": [\"pain in body\", \"pain behind eyes\", \"pitting edema of feet\", \"not enough blood in blood test\", \"no fever\", \"no rash\", \"no shortness of breath\", \"no chest pain\", \"no cough\", \"no wheezing\"],\"allergies\": [\"no\"],\"medications\": [{\"name\": \"Augmentin 625\", \"strength\": \"625\", \"dose\": \"3 times a day\", \"frequency\": \"every 6 hours\", \"duration\": \"3 days\", \"instructions\": \"3 times a day\"}], \"drugs_to_avoid\": [\"brofen\", \"disperin\"],\"investigations_ordered\": [\"calorie count\", \"blood test\", \"tissue sample\"],\"advice\": [\"drink more water\", \"call for blood test again\"],\"follow_up\": \"next week\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "disease",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "disease nahi"
+    ],
+    "findings": [
+      "pain in body",
+      "pain behind eyes",
+      "pitting edema of feet",
+      "not enough blood in blood test",
+      "no fever",
+      "no rash",
+      "no shortness of breath",
+      "no chest pain",
+      "no cough",
+      "no wheezing"
+    ],
+    "allergies": [
+      "no"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "3 times a day",
+        "frequency": "every 6 hours",
+        "duration": "3 days",
+        "instructions": "3 times a day"
+      }
+    ],
+    "drugs_to_avoid": [
+      "brofen",
+      "disperin"
+    ],
+    "investigations_ordered": [
+      "calorie count",
+      "blood test",
+      "tissue sample"
+    ],
+    "advice": [
+      "drink more water",
+      "call for blood test again"
+    ],
+    "follow_up": "next week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 174,
+    "prompt_ms": 50.365,
+    "prompt_per_token_ms": 0.28945402298850575,
+    "prompt_per_second": 3454.7801052318077,
+    "predicted_n": 250,
+    "predicted_ms": 2179.979,
+    "predicted_per_token_ms": 8.754935742971886,
+    "predicted_per_second": 114.22128378300893
+  }
+}

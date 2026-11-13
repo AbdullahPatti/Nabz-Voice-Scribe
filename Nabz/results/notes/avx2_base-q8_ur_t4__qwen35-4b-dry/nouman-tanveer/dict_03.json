@@ -1,0 +1,46 @@
+{
+  "transcript": "مرضہ چاریس آر کال رات سے 10 تلکہ ہیں 8 نو دفا ہو چکے ہیں 10 تلکہ ہون نہیں ہیں جس میں تھوڑا تھوڑی پانی کی کمی ہیں ہر 10 کے بات اور از کا ایک گلاثت فلجل 400 دین میں 3 بار 5 دین دوڑ ہوڑ تلی ہوئی چیزے بان اگر پیشہ آپ کام ہو جائے تو فورن باکس اپنے\nاگئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 43\n  },\n  \"complaints\": [\n    {\"symptom\": \"vomiting\", \"duration\": \"10 hours (since night)\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glatirax\",\n      \"strength\": \"400\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"3 times\",\"duration\": \"5 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink small amounts of water frequently.\"\n  ],\"follow_up\": \"return if symptoms persist\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 43
+    },
+    "complaints": [
+      {
+        "symptom": "vomiting",
+        "duration": "10 hours (since night)"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glatirax",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "3 times",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink small amounts of water frequently."
+    ],
+    "follow_up": "return if symptoms persist"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 129,
+    "prompt_ms": 99.95,
+    "prompt_per_token_ms": 0.7748062015503876,
+    "prompt_per_second": 1290.6453226613305,
+    "predicted_n": 209,
+    "predicted_ms": 2741.274,
+    "predicted_per_token_ms": 13.179201923076922,
+    "predicted_per_second": 75.87712866353382
+  }
+}

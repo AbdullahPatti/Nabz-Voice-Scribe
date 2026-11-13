@@ -1,0 +1,50 @@
+{
+  "transcript": "مرت 50 سار شگر کا پرانہ مریز نحار موش شگر 180 اور کھانےگا بعد 260 پہلے گلوکو فیج 500 دن میں دو بار لے رہا تھا بلوکو فیج ہزار دن میں دو بار کھانےگا تھا تین مہینے والا شگر ٹیست کروان ہے پیرو میں سون ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"proteinuria\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucofaj\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"for 180 days\",\"duration\": \"3 months\",\"instructions\": \"continue current regimen\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine protein test\"\n  ],\n  \"advice\": [\n    \"continue current medication regimen\"\n  ],\"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "proteinuria"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucofaj",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "for 180 days",
+        "duration": "3 months",
+        "instructions": "continue current regimen"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine protein test"
+    ],
+    "advice": [
+      "continue current medication regimen"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 114,
+    "prompt_ms": 83.11,
+    "prompt_per_token_ms": 0.7290350877192983,
+    "prompt_per_second": 1371.6760919263627,
+    "predicted_n": 232,
+    "predicted_ms": 2877.169,
+    "predicted_per_token_ms": 12.455277056277057,
+    "predicted_per_second": 80.28725458949405
+  }
+}

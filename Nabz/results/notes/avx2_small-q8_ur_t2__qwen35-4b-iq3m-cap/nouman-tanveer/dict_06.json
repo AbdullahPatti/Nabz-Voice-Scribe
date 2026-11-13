@@ -1,0 +1,56 @@
+{
+  "transcript": "حطون تی سال پیٹ کے اوپر جلن ہوتی ہے کھانے کے بعد سیاتا کہن دیئے کھٹٹکار ہوں دے نے اوٹی نہیں وزن کم نہیں ہوا رائیسٹیک بھی صبا خالی پیٹ دو ہفتے رات کو گیویس ہون کے دو چمچے چائے اور میٹچ کم کڑیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 32\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation in epigastric region\", \"duration\": \"2 years\"},\n    {\"symptom\": \"pain after eating\", \"duration\": \"2 years\"},\n    {\"symptom\": \"bloating\", \"duration\": \"2 years\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"2 years\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no nausea\"\n  ],\n  \"findings\": [\n    \"pain relieved by eating rice\",\n    \"pain relieved by drinking tea on empty stomach (2 teaspoons at night)\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Continue eating rice\",\n    \"Drink 2 teaspoons of tea at night on empty stomach\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 32
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation in epigastric region",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "pain after eating",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "bloating",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 years"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no nausea"
+    ],
+    "findings": [
+      "pain relieved by eating rice",
+      "pain relieved by drinking tea on empty stomach (2 teaspoons at night)"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Continue eating rice",
+      "Drink 2 teaspoons of tea at night on empty stomach"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 82.052,
+    "prompt_per_token_ms": 0.8044313725490196,
+    "prompt_per_second": 1243.1141227514258,
+    "predicted_n": 252,
+    "predicted_ms": 3067.515,
+    "predicted_per_token_ms": 12.22117529880478,
+    "predicted_per_second": 81.8251907488635
+  }
+}

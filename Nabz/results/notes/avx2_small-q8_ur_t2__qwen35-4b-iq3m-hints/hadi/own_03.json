@@ -1,0 +1,53 @@
+{
+  "transcript": "اورت 45 سال شام کا طائم ہیٹیک اک ہفتے سے بیپی 140 over 90 آئیسرٹ میں کوئی مسئلہ نہیں اور نو اولٹی پیناڈال جب ضرورت پڑے اور نمک کام کھائیں بیپی ایک ہفتے بعد پھر چیک کروائے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"hypertension\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no headache\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Tritace\", \"strength\": null, \"dose\": null, \"frequency\": \"once a week\", \"duration\": null, \"instructions\": \"take at night\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"check BP again in 1 week\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": \"in 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no headache",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Tritace",
+        "strength": null,
+        "dose": null,
+        "frequency": "once a week",
+        "duration": null,
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "check BP again in 1 week"
+    ],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": "in 1 week"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 152,
+    "prompt_ms": 87.43,
+    "prompt_per_token_ms": 0.5751973684210526,
+    "prompt_per_second": 1738.533684090129,
+    "predicted_n": 227,
+    "predicted_ms": 2912.364,
+    "predicted_per_token_ms": 12.886566371681416,
+    "predicted_per_second": 77.60019008612934
+  }
+}

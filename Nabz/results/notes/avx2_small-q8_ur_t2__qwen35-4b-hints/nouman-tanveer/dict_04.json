@@ -1,0 +1,58 @@
+{
+  "transcript": "خاتون پچھ پل سال آج بیپی 168 اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نورک فائیف رات کو ایک گولی شروع کر دی ہے نمہ کم کرنا ہے دو ہفتے بعد بیپی دوبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 168\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"vomiting\",\n    \"chest pain\",\n    \"fainting\"\n  ],\n  \"findings\": [\n    \"BP 168/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nurofen\",\n      \"strength\": \"100\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"once\",\"duration\": \"2 weeks\",\"instructions\": \"reduce BP\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"monitor BP\",\n    \"follow up in 2 weeks\"\n  ],\"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 168
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting",
+      "chest pain",
+      "fainting"
+    ],
+    "findings": [
+      "BP 168/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurofen",
+        "strength": "100",
+        "dose": "1 tablet at night",
+        "frequency": "once",
+        "duration": "2 weeks",
+        "instructions": "reduce BP"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "monitor BP",
+      "follow up in 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 122,
+    "prompt_ms": 102.532,
+    "prompt_per_token_ms": 0.8404262295081967,
+    "prompt_per_second": 1189.8724300706122,
+    "predicted_n": 270,
+    "predicted_ms": 3430.924,
+    "predicted_per_token_ms": 12.754364312267658,
+    "predicted_per_second": 78.4045347550689
+  }
+}

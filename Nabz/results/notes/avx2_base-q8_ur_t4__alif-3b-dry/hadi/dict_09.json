@@ -1,0 +1,64 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 45}, \"complaints\": [{\"symptom\": \"بخار نہیں\", \"duration\": \"1\"}], \"negatives\": [\"بھر آٹ ہندی ہے\"],\"findings\": [\"\"], \"allergies\": [\"\"], \"medications\": [{\"name\": \"زیٹیک\", \"strength\": \"1\", \"dose\": \"1 گولی\", \"frequency\": \"رات کو 1 گولی\", \"duration\": \"4 دن\", \"instructions\": \"\"}, {\"name\": \"Augmentin 625\", \"strength\": \"625\", \"dose\": \"2 پف\", \"frequency\": \"دو دن 1 پف\", \"duration\": \"4 دن\", \"instructions\": \"\"}], \"drugs_to_avoid\": [\"\"], \"investigations_ordered\": [\"\"], \"advice\": [\"رات کو زیٹیک 1 گولی 1 پف دو پف دن 4 دن 1 پف 4 دن\"],\"follow_up\": \"دو پف دن\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "بخار نہیں",
+        "duration": "1"
+      }
+    ],
+    "negatives": [
+      "بھر آٹ ہندی ہے"
+    ],
+    "findings": [
+      ""
+    ],
+    "allergies": [
+      ""
+    ],
+    "medications": [
+      {
+        "name": "زیٹیک",
+        "strength": "1",
+        "dose": "1 گولی",
+        "frequency": "رات کو 1 گولی",
+        "duration": "4 دن",
+        "instructions": ""
+      },
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "2 پف",
+        "frequency": "دو دن 1 پف",
+        "duration": "4 دن",
+        "instructions": ""
+      }
+    ],
+    "drugs_to_avoid": [
+      ""
+    ],
+    "investigations_ordered": [
+      ""
+    ],
+    "advice": [
+      "رات کو زیٹیک 1 گولی 1 پف دو پف دن 4 دن 1 پف 4 دن"
+    ],
+    "follow_up": "دو پف دن"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 136,
+    "prompt_ms": 43.44,
+    "prompt_per_token_ms": 0.31941176470588234,
+    "prompt_per_second": 3130.755064456722,
+    "predicted_n": 248,
+    "predicted_ms": 2230.709,
+    "predicted_per_token_ms": 9.031210526315789,
+    "predicted_per_second": 110.7271275634787
+  }
+}

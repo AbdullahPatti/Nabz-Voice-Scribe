@@ -1,0 +1,52 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"diabetes\", \"duration\": \"10 years\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"foot ulcers\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucofajin\",\n      \"strength\": \"2\",\n      \"dose\": \"twice daily\",\"frequency\": \"twice daily\",\"duration\": \"10 years\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"HbA1c\"\n  ],\n  \"advice\": [\n    \"maintain diet\"\n  ],\"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "10 years"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "foot ulcers"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucofajin",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "10 years",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "HbA1c"
+    ],
+    "advice": [
+      "maintain diet"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 118,
+    "prompt_ms": 103.329,
+    "prompt_per_token_ms": 0.8756694915254237,
+    "prompt_per_second": 1141.983373496308,
+    "predicted_n": 233,
+    "predicted_ms": 2932.378,
+    "predicted_per_token_ms": 12.639560344827586,
+    "predicted_per_second": 79.11667595378222
+  }
+}

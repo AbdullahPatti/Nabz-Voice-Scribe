@@ -1,0 +1,92 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"fatigue\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"dizziness\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"muscle pain\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"pain in the legs\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"pain in the arms\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"pain in the back\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"pain in the neck\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"pain in the shoulders\",\n            \"duration\": \"more than 6 months\"\n        },\n        {\n            \"symptom\": \"pain in the hips\",\n            \"duration\": \"more than 6 months\"\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"muscle pain\"\n    ],\n    \"allergies\": [\n        \"نامکمل\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"1 tablet daily\",\n            \"frequency\": \"once daily\",\n            \"duration\": \"more than 6 months\",\n            \"instructions\": \"شروع کریں\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"نامکمل\"\n    ],\n    \"investigations_ordered\": [\n        \"نامکمل\"\n    ],\n    \"advice\": [\n        \"نمک کم کریں\"\n    ],\n    \"follow_up\": \"دو ہفتے\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "muscle pain",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "pain in the legs",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "pain in the arms",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "pain in the neck",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "pain in the shoulders",
+        "duration": "more than 6 months"
+      },
+      {
+        "symptom": "pain in the hips",
+        "duration": "more than 6 months"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "muscle pain"
+    ],
+    "allergies": [
+      "نامکمل"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "1 tablet daily",
+        "frequency": "once daily",
+        "duration": "more than 6 months",
+        "instructions": "شروع کریں"
+      }
+    ],
+    "drugs_to_avoid": [
+      "نامکمل"
+    ],
+    "investigations_ordered": [
+      "نامکمل"
+    ],
+    "advice": [
+      "نمک کم کریں"
+    ],
+    "follow_up": "دو ہفتے"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 138,
+    "prompt_ms": 43.873,
+    "prompt_per_token_ms": 0.3179202898550724,
+    "prompt_per_second": 3145.442527294692,
+    "predicted_n": 486,
+    "predicted_ms": 3906.159,
+    "predicted_per_token_ms": 8.053936082474227,
+    "predicted_per_second": 124.16289249874364
+  }
+}

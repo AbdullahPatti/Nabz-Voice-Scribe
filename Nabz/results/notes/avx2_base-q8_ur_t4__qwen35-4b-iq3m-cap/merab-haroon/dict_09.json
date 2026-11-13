@@ -1,0 +1,43 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest tightness\", \"duration\": \"overnight\"},\n    {\"symptom\": \"wheezing from chest\", \"duration\": \"overnight\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take 2 puffs of Ventolin at night\",\n    \"Take 2 puffs of Ventolin in the morning\",\n    \"Avoid triggers\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "chest tightness",
+        "duration": "overnight"
+      },
+      {
+        "symptom": "wheezing from chest",
+        "duration": "overnight"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take 2 puffs of Ventolin at night",
+      "Take 2 puffs of Ventolin in the morning",
+      "Avoid triggers"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 72.065,
+    "prompt_per_token_ms": 0.7666489361702128,
+    "prompt_per_second": 1304.377992090474,
+    "predicted_n": 179,
+    "predicted_ms": 2210.927,
+    "predicted_per_token_ms": 12.420938202247191,
+    "predicted_per_second": 80.50921626991754
+  }
+}

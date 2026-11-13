@@ -1,0 +1,71 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 38}, \"complaints\": [], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"penicillin se allergy hai\", \"bharat nahi\"],\"findings\": [\"no rash\", \"no side effect\", \"no cough\", \"no sneezing\", \"no penicillin allergy\", \"no hives\", \"no rash with penicillin\", \"no rash with amoxicillin\", \"no rash with cephalexin\", \"no rash with clavulanic acid and amoxicillin\"],\"allergies\": [\"penicillin se allergy hai\"],\"medications\": [{\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"raat ko\", \"frequency\": \"das din\", \"duration\": \"ek mahine baad dikhayein\", \"instructions\": \"Zyrtec aadhi goli raat ko\"}, {\"name\": \"Zyrtec\", \"strength\": \"0.5\", \"dose\": \"raat ko\", \"frequency\": \"ek goli\", \"duration\": \"das din\", \"instructions\": \"raat ko\"}], \"drugs_to_avoid\": [\"Penicillin\"],\"investigations_ordered\": [\"no\"],\"advice\": [\"no\"],\"follow_up\": \"follow up\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "penicillin se allergy hai",
+      "bharat nahi"
+    ],
+    "findings": [
+      "no rash",
+      "no side effect",
+      "no cough",
+      "no sneezing",
+      "no penicillin allergy",
+      "no hives",
+      "no rash with penicillin",
+      "no rash with amoxicillin",
+      "no rash with cephalexin",
+      "no rash with clavulanic acid and amoxicillin"
+    ],
+    "allergies": [
+      "penicillin se allergy hai"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "raat ko",
+        "frequency": "das din",
+        "duration": "ek mahine baad dikhayein",
+        "instructions": "Zyrtec aadhi goli raat ko"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": "0.5",
+        "dose": "raat ko",
+        "frequency": "ek goli",
+        "duration": "das din",
+        "instructions": "raat ko"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [
+      "no"
+    ],
+    "advice": [
+      "no"
+    ],
+    "follow_up": "follow up"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 104,
+    "prompt_ms": 43.879,
+    "prompt_per_token_ms": 0.42191346153846154,
+    "prompt_per_second": 2370.154287928166,
+    "predicted_n": 296,
+    "predicted_ms": 2495.504,
+    "predicted_per_token_ms": 8.459335593220338,
+    "predicted_per_second": 118.21259352820113
+  }
+}

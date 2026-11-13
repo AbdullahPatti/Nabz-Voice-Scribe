@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation in stomach\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"worse after eating\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"skin rash on abdomen\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Gaviscon\",\n      \"strength\": null,\n      \"dose\": \"2 spoonfuls\",\n      \"frequency\": \"night\",\"duration\": null,\n      \"instructions\": \"reduce tea and chili consumption\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce tea and chili consumption\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation in stomach",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "worse after eating",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [
+      "skin rash on abdomen"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Gaviscon",
+        "strength": null,
+        "dose": "2 spoonfuls",
+        "frequency": "night",
+        "duration": null,
+        "instructions": "reduce tea and chili consumption"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce tea and chili consumption"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 79.545,
+    "prompt_per_token_ms": 0.743411214953271,
+    "prompt_per_second": 1345.1505437173928,
+    "predicted_n": 242,
+    "predicted_ms": 3242.254,
+    "predicted_per_token_ms": 13.453336099585062,
+    "predicted_per_second": 74.33100552886972
+  }
+}

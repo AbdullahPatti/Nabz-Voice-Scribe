@@ -1,0 +1,53 @@
+{
+  "transcript": "خطوون چونتی سال، تین دین سے بخوا ہے جسم میں درد، اور آنکھوں کے پیچھے درد، پیٹلس پچانوے ہزار ہے کہ ہی سے خون نہیں آرہا، صرف پنے دول دو گلی، دین میں تین بات، بروفین بلکل نہیں لینہ، دیسپرین بھی نہیں، پانی زیادہ پیئے، کال خون کا ٹنس دبارہ کر مانا ہے،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"blood pressure high\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Panadol\",\n    \"Brufen\",\n    \"Disprin\",\n    \"Colchicine\",\n    \"Concor\",\n    \"Aspirin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink more water\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fever"
+    ],
+    "findings": [
+      "blood pressure high"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Panadol",
+      "Brufen",
+      "Disprin",
+      "Colchicine",
+      "Concor",
+      "Aspirin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "drink more water"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 261,
+    "prompt_ms": 116.193,
+    "prompt_per_token_ms": 0.445183908045977,
+    "prompt_per_second": 2246.2626836384293,
+    "predicted_n": 217,
+    "predicted_ms": 2609.642,
+    "predicted_per_token_ms": 12.081675925925925,
+    "predicted_per_second": 82.76997381249996
+  }
+}

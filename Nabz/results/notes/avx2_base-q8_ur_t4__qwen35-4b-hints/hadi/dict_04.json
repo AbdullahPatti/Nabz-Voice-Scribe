@@ -1,0 +1,50 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 37\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no dizziness\",\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Vastarel\",\n      \"strength\": \"80\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"2 days\",\"instructions\": \"take after food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue current medication\"\n  ],\"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 37
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no dizziness",
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Vastarel",
+        "strength": "80",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take after food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue current medication"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 123,
+    "prompt_ms": 107.556,
+    "prompt_per_token_ms": 0.8744390243902439,
+    "prompt_per_second": 1143.5903157424968,
+    "predicted_n": 221,
+    "predicted_ms": 2782.799,
+    "predicted_per_token_ms": 12.649086363636364,
+    "predicted_per_second": 79.0570932359829
+  }
+}

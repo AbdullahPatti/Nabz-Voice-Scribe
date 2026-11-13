@@ -1,0 +1,124 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 50}, \"complaints\": [], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"sugar ka purana mareez\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\"],\"findings\": [\"Nihar mun sugar 180 aur khane ke baad 260\", \"Pehle Glucophage 500 din mein do baar le raha tha\", \"Ab Glucophage 1000 din mein do baar, khane ke saath\", \"Teen mahine wala sugar test karwana hai\", \"Pairon mein sun hona nahi hai\"],\"allergies\": [\"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\"],\"medications\": [{\"name\": \"Nihar\", \"strength\": \"180 aur khane ke baad 260\", \"dose\": \"nahi\", \"frequency\": \"nahi\", \"duration\": \"nahi\", \"instructions\": \"nahi\"}, {\"name\": \"Glucophage\", \"strength\": \"500 din mein do baar le raha tha\", \"dose\": \"nahi\", \"frequency\": \"nahi\", \"duration\": \"nahi\", \"instructions\": \"nahi\"}, {\"name\": \"Glucophage\", \"strength\": \"1000 din mein do baar, khane ke saath\", \"dose\": \"nahi\", \"frequency\": \"nahi\", \"duration\": \"nahi\", \"instructions\": \"nahi\"}, {\"name\": \"Nihar\", \"strength\": \"nahi\", \"dose\": \"nahi\", \"frequency\": \"nahi\", \"duration\": \"nahi\", \"instructions\": \"nahi\"}], \"drugs_to_avoid\": [\"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\"],\"investigations_ordered\": [\"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\"],\"advice\": [\"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\", \"nahi\"],\"follow_up\": \"teen mahine wala sugar test karwana hai\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "sugar ka purana mareez",
+      "sugar ka nahi",
+      "sugar ka nahi",
+      "sugar ka nahi",
+      "sugar ka nahi",
+      "sugar ka nahi",
+      "sugar ka nahi",
+      "sugar ka nahi"
+    ],
+    "findings": [
+      "Nihar mun sugar 180 aur khane ke baad 260",
+      "Pehle Glucophage 500 din mein do baar le raha tha",
+      "Ab Glucophage 1000 din mein do baar, khane ke saath",
+      "Teen mahine wala sugar test karwana hai",
+      "Pairon mein sun hona nahi hai"
+    ],
+    "allergies": [
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi"
+    ],
+    "medications": [
+      {
+        "name": "Nihar",
+        "strength": "180 aur khane ke baad 260",
+        "dose": "nahi",
+        "frequency": "nahi",
+        "duration": "nahi",
+        "instructions": "nahi"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "500 din mein do baar le raha tha",
+        "dose": "nahi",
+        "frequency": "nahi",
+        "duration": "nahi",
+        "instructions": "nahi"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "1000 din mein do baar, khane ke saath",
+        "dose": "nahi",
+        "frequency": "nahi",
+        "duration": "nahi",
+        "instructions": "nahi"
+      },
+      {
+        "name": "Nihar",
+        "strength": "nahi",
+        "dose": "nahi",
+        "frequency": "nahi",
+        "duration": "nahi",
+        "instructions": "nahi"
+      }
+    ],
+    "drugs_to_avoid": [
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi"
+    ],
+    "investigations_ordered": [
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi"
+    ],
+    "advice": [
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi",
+      "nahi"
+    ],
+    "follow_up": "teen mahine wala sugar test karwana hai"
+  },
+  "timings": {
+    "cache_n": 342,
+    "prompt_n": 1,
+    "prompt_ms": 22.011,
+    "prompt_per_token_ms": 22.011,
+    "prompt_per_second": 45.43182953977557,
+    "predicted_n": 588,
+    "predicted_ms": 4629.733,
+    "predicted_per_token_ms": 7.887109028960818,
+    "predicted_per_second": 126.78916905143342
+  }
+}

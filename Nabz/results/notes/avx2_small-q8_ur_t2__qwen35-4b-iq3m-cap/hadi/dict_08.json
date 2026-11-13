@@ -1,0 +1,48 @@
+{
+  "transcript": "خاتون 26 سال دو دن سے پیشاب میں جلن ہے اور پاروار آتا ہے بخار نہیں کمر میں درد نہیں پرکنٹ نہیں ہے سیپرو پان سو دن میں دو بار تین دن پانی زیادہ پییں پیشاب کو ٹیست کروالیں تین دن میں فرقنا پڑے تا دو بارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"dysuria\", \"duration\": \"2 days\"},\n    {\"symptom\": \"frequency of urination\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"lower back pain\",\n    \"pain on urination\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"repeat urine test in 3 days\",\n    \"if symptoms persist, return\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "frequency of urination",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "lower back pain",
+      "pain on urination"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "repeat urine test in 3 days",
+      "if symptoms persist, return"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 79.471,
+    "prompt_per_token_ms": 0.845436170212766,
+    "prompt_per_second": 1182.821406550817,
+    "predicted_n": 203,
+    "predicted_ms": 2446.905,
+    "predicted_per_token_ms": 12.113391089108912,
+    "predicted_per_second": 82.55326626902146
+  }
+}

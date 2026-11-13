@@ -1,0 +1,68 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 50\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"sathe shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"mirs nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"shugar 1.5\"\n    ],\n    \"allergies\": [\n        \"nahi\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"1 x 625 mg/day\",\n            \"frequency\": \"1 x/day\",\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"nahi\"\n    ],\n    \"investigations_ordered\": [\n        \"shugar test 3 times\"\n    ],\n    \"advice\": [\n        \"son nahi hona\"\n    ],\n    \"follow_up\": \"3 times\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sathe shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "mirs nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "shugar 1.5"
+    ],
+    "allergies": [
+      "nahi"
+    ],
+    "medications": [
+      {
+        "name": "augmentin 625",
+        "strength": "625",
+        "dose": "1 x 625 mg/day",
+        "frequency": "1 x/day",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "nahi"
+    ],
+    "investigations_ordered": [
+      "shugar test 3 times"
+    ],
+    "advice": [
+      "son nahi hona"
+    ],
+    "follow_up": "3 times"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 169,
+    "prompt_ms": 46.82,
+    "prompt_per_token_ms": 0.2770414201183432,
+    "prompt_per_second": 3609.5685604442547,
+    "predicted_n": 312,
+    "predicted_ms": 2680.442,
+    "predicted_per_token_ms": 8.618784565916398,
+    "predicted_per_second": 116.02564054734256
+  }
+}

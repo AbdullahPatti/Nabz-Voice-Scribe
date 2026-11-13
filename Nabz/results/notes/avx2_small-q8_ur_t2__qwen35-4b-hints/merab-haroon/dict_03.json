@@ -1,0 +1,54 @@
+{
+  "transcript": "مرد چالے سال کل راد سے دست لگی ہیں آتنو دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جسہ میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اور اس ایک گلاس فلیجل چارسو دن میں تین بار پانچ دن دود اور تلی ہوئی چیزیں بند اگر پشاب کم ہو جے تو فورن واپس آئیں\nایسا بہت سوچی ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"since yesterday\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"mild dehydration\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl\",\n      \"strength\": null,\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"3 days\",\n      \"duration\": null,\n      \"instructions\": \"take with a glass of water after each episode of diarrhea\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"dairy products\",\n    \"fried foods\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return immediately if diarrhea decreases\"\n  ],\"follow_up\": \"return if symptoms improve\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "since yesterday"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "mild dehydration"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": null,
+        "dose": "3 times daily",
+        "frequency": "3 days",
+        "duration": null,
+        "instructions": "take with a glass of water after each episode of diarrhea"
+      }
+    ],
+    "drugs_to_avoid": [
+      "dairy products",
+      "fried foods"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return immediately if diarrhea decreases"
+    ],
+    "follow_up": "return if symptoms improve"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 200,
+    "prompt_ms": 119.795,
+    "prompt_per_token_ms": 0.598975,
+    "prompt_per_second": 1669.5187612170791,
+    "predicted_n": 248,
+    "predicted_ms": 3058.982,
+    "predicted_per_token_ms": 12.384542510121458,
+    "predicted_per_second": 80.7458167455709
+  }
+}

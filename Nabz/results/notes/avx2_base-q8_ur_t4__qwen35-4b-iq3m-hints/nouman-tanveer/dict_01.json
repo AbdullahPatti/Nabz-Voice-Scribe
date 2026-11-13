@@ -1,0 +1,36 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n   \n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"weakness\",\n    \"lower limb weakness\"\n  ],\n  \"allergies\": [\n   \n  ],\n  \"medications\": [\n   \n  ],\n  \"drugs_to_avoid\": [\n   \n  ],\n  \"investigations_ordered\": [\n   \n  ],\n  \"advice\": [\n   \n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "weakness",
+      "lower limb weakness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 220,
+    "prompt_ms": 100.355,
+    "prompt_per_token_ms": 0.4561590909090909,
+    "prompt_per_second": 2192.2176274226495,
+    "predicted_n": 165,
+    "predicted_ms": 2030.086,
+    "predicted_per_token_ms": 12.378573170731707,
+    "predicted_per_second": 80.78475493156448
+  }
+}

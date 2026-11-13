@@ -1,0 +1,54 @@
+{
+  "transcript": "Man 35 years, sore throat aur fever for two days. Khansi nahi hai aur koi saans ka masla nahi hai. Panadol jab bhi fever ho. Warm salt water ke din mein teen baar gharare karein. Agar theek nahi hota to teen dinon mein wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"sore throat\", \"duration\": \"2 days\"},\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no respiratory distress\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": null,\n      \"dose\": \"as needed for fever\",\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"gargle with warm salt water 3 times daily\",\n    \"return in 3 days if not improved\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "sore throat",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no respiratory distress"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "as needed for fever",
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "gargle with warm salt water 3 times daily",
+      "return in 3 days if not improved"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 89,
+    "prompt_ms": 90.876,
+    "prompt_per_token_ms": 1.0210786516853934,
+    "prompt_per_second": 979.3564857608168,
+    "predicted_n": 246,
+    "predicted_ms": 2965.735,
+    "predicted_per_token_ms": 12.10504081632653,
+    "predicted_per_second": 82.61021298261645
+  }
+}

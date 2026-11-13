@@ -1,0 +1,16 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back of the eyes\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the head\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the neck\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the shoulder\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the hip\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the knee\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the ankle\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the foot\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the leg\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the arm\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the hand\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the wrist\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the elbow\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the shoulder\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the hip\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the knee\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the ankle\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the foot\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the leg\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the arm\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the hand\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the wrist\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the elbow\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the shoulder\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the hip\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 31.282,
+    "prompt_per_token_ms": 0.27683185840707963,
+    "prompt_per_second": 3612.3010037721374,
+    "predicted_n": 800,
+    "predicted_ms": 3000.698,
+    "predicted_per_token_ms": 3.7555669586983726,
+    "predicted_per_second": 266.27138085872025
+  }
+}

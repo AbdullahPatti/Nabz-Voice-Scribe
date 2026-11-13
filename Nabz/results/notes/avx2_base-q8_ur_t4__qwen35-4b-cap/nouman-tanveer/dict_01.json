@@ -1,0 +1,78 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"3 days\"},\n    {\"symptom\": \"joint pain\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"7 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": \"500\",\n      \"dose\": \"1 tablet twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"7 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Prednisolone\",\n      \"strength\": \"2\",\n      \"dose\": \"2 tablets twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"7 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"drink plenty of water\"\n  ],\"follow_up\": \"return if fever persists\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "joint pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet twice daily",
+        "frequency": "twice daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Paracetamol",
+        "strength": "500",
+        "dose": "1 tablet twice daily",
+        "frequency": "twice daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Prednisolone",
+        "strength": "2",
+        "dose": "2 tablets twice daily",
+        "frequency": "twice daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "drink plenty of water"
+    ],
+    "follow_up": "return if fever persists"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 134,
+    "prompt_ms": 114.355,
+    "prompt_per_token_ms": 0.8533955223880597,
+    "prompt_per_second": 1171.7896025534521,
+    "predicted_n": 396,
+    "predicted_ms": 4711.235,
+    "predicted_per_token_ms": 11.927177215189873,
+    "predicted_per_second": 83.84213481178503
+  }
+}

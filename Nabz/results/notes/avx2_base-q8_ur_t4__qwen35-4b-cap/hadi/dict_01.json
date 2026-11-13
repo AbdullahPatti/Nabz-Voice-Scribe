@@ -1,0 +1,68 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 19\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"19 days\"},\n    {\"symptom\": \"chills\", \"duration\": \"19 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"19 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"19 days\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"19 days\"},\n    {\"symptom\": \"diarrhea\", \"duration\": \"19 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"for 7 days\",\"duration\": \"7 days\",\"instructions\": \"take after meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue medication for 7 days\",\n    \"take medication after meals\",\n    \"take medication 3 times daily\"\n  ],\"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 19
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "chills",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "19 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "3 times daily",
+        "frequency": "for 7 days",
+        "duration": "7 days",
+        "instructions": "take after meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue medication for 7 days",
+      "take medication after meals",
+      "take medication 3 times daily"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 100.627,
+    "prompt_per_token_ms": 0.8984553571428571,
+    "prompt_per_second": 1113.0213560972702,
+    "predicted_n": 312,
+    "predicted_ms": 3759.264,
+    "predicted_per_token_ms": 12.087665594855306,
+    "predicted_per_second": 82.72895971126263
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 40}, \"complaints\": [{\"symptom\": \"dast lage hain\", \"duration\": \"raat se\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"khoon nahi hai\", \"jism mein paani ki kami hai\", \"dast ke baad ORS ka glass\", \"foran wapas aayein\"],\"findings\": [\"thori paani ki kami hai\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein paani nahi hai\", \"jism mein paani ki kami hai\", \"dast ke baad ORS ka glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein paani nahi hai\", \"jism mein paani ki kami hai\"],\"allergies\": [\"na\"], \"medications\": [{\"name\": \"Flagyl\", \"strength\": \"400\", \"dose\": \"din mein teen baar\", \"frequency\": \"paanch din\", \"duration\": \"din mein teen baar\", \"instructions\": \"din mein teen baar\"}], \"drugs_to_avoid\": [\"na\"],\"investigations_ordered\": [\"na\"],\"advice\": [\"doodh aur tali hui cheezein band\", \"agar peshab kam ho jaye to foran wapas aayein\"],\"follow_up\": \"din mein teen baar\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "dast lage hain",
+        "duration": "raat se"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "khoon nahi hai",
+      "jism mein paani ki kami hai",
+      "dast ke baad ORS ka glass",
+      "foran wapas aayein"
+    ],
+    "findings": [
+      "thori paani ki kami hai",
+      "dast lage hain",
+      "aath nau dafa ho chuke hain",
+      "dast mein paani nahi hai",
+      "jism mein paani ki kami hai",
+      "dast ke baad ORS ka glass",
+      "dast lage hain",
+      "aath nau dafa ho chuke hain",
+      "dast mein paani nahi hai",
+      "jism mein paani ki kami hai"
+    ],
+    "allergies": [
+      "na"
+    ],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "din mein teen baar",
+        "frequency": "paanch din",
+        "duration": "din mein teen baar",
+        "instructions": "din mein teen baar"
+      }
+    ],
+    "drugs_to_avoid": [
+      "na"
+    ],
+    "investigations_ordered": [
+      "na"
+    ],
+    "advice": [
+      "doodh aur tali hui cheezein band",
+      "agar peshab kam ho jaye to foran wapas aayein"
+    ],
+    "follow_up": "din mein teen baar"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 117,
+    "prompt_ms": 40.436,
+    "prompt_per_token_ms": 0.3456068376068376,
+    "prompt_per_second": 2893.461272133742,
+    "predicted_n": 341,
+    "predicted_ms": 2850.923,
+    "predicted_per_token_ms": 8.385067647058824,
+    "predicted_per_second": 119.25962223462368
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 45}, \"complaints\": [{\"symptom\": \"premature ejaculation\", \"duration\": \"3\"}], \"negatives\": [\"بُخار نہیں\", \"ulti نہیں\"],\"findings\": [\"کمر میں درد\"],\"allergies\": [\"نہیں\"],\"medications\": [{\"name\": \"Supro 500\", \"strength\": \"3\", \"dose\": \"2 times/day\", \"frequency\": \"3 days\", \"duration\": \"3 days\", \"instructions\": \"اگر نہ لے تو 3 days میں دو بار 3 دیں\"}], \"drugs_to_avoid\": [\"نہیں\"],\"investigations_ordered\": [\"پیشاب کا تیس کروالے 3 دن میں فرقنا\"],\"advice\": [\"پانی زادہ پیشاب کا تیس کروا لے 3 دن میں\"],\"follow_up\": \"دبارا آئیں\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "premature ejaculation",
+        "duration": "3"
+      }
+    ],
+    "negatives": [
+      "بُخار نہیں",
+      "ulti نہیں"
+    ],
+    "findings": [
+      "کمر میں درد"
+    ],
+    "allergies": [
+      "نہیں"
+    ],
+    "medications": [
+      {
+        "name": "Supro 500",
+        "strength": "3",
+        "dose": "2 times/day",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "اگر نہ لے تو 3 days میں دو بار 3 دیں"
+      }
+    ],
+    "drugs_to_avoid": [
+      "نہیں"
+    ],
+    "investigations_ordered": [
+      "پیشاب کا تیس کروالے 3 دن میں فرقنا"
+    ],
+    "advice": [
+      "پانی زادہ پیشاب کا تیس کروا لے 3 دن میں"
+    ],
+    "follow_up": "دبارا آئیں"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 143,
+    "prompt_ms": 45.153,
+    "prompt_per_token_ms": 0.31575524475524475,
+    "prompt_per_second": 3167.009943968286,
+    "predicted_n": 251,
+    "predicted_ms": 2214.612,
+    "predicted_per_token_ms": 8.858448000000001,
+    "predicted_per_second": 112.88659142098028
+  }
+}

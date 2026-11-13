@@ -1,0 +1,52 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"diabetes\", \"duration\": \"10 years\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"foot ulcers\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"1000\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"10 years\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"HbA1c\"\n  ],\n  \"advice\": [\n    \"diet and exercise\"\n  ],\"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "10 years"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "foot ulcers"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "10 years",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "HbA1c"
+    ],
+    "advice": [
+      "diet and exercise"
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 164,
+    "prompt_ms": 115.213,
+    "prompt_per_token_ms": 0.7025182926829268,
+    "prompt_per_second": 1423.4504786786213,
+    "predicted_n": 236,
+    "predicted_ms": 2936.136,
+    "predicted_per_token_ms": 12.494195744680852,
+    "predicted_per_second": 80.03716449101813
+  }
+}

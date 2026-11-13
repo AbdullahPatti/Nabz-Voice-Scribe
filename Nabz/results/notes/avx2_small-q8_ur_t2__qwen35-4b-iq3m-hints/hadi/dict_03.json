@@ -1,0 +1,46 @@
+{
+  "transcript": "مر چارے سال کل راتلے دست لگے ہیں، 8 نون دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جیسے میں تھوڑے پانی کی کمی ہے ہر دست کے بعد ہوا رہا ہے اس کا ایک گلاس فلیجل چارس دن میں تین بار پانچ دن دوس اور تلیوی چیزیں بند اگر بشاہب کم ہو جاتا تو فوراً واپس نائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"hand pain\", \"duration\": \"8 nights\"},\n    {\"symptom\": \"hand weakness\", \"duration\": \"8 nights\"},\n    {\"symptom\": \"feeling of water/thirst\", \"duration\": \"8 nights\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Stop taking Flagyl for 3 days, then take it again.\",\n    \"Take 1 glass of water 3 times a day.\"\n  ],\n  \"follow_up\": \"If symptoms improve, return immediately.\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hand pain",
+        "duration": "8 nights"
+      },
+      {
+        "symptom": "hand weakness",
+        "duration": "8 nights"
+      },
+      {
+        "symptom": "feeling of water/thirst",
+        "duration": "8 nights"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Stop taking Flagyl for 3 days, then take it again.",
+      "Take 1 glass of water 3 times a day."
+    ],
+    "follow_up": "If symptoms improve, return immediately."
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 178,
+    "prompt_ms": 91.011,
+    "prompt_per_token_ms": 0.5112977528089887,
+    "prompt_per_second": 1955.8075397479429,
+    "predicted_n": 203,
+    "predicted_ms": 2432.077,
+    "predicted_per_token_ms": 12.039985148514853,
+    "predicted_per_second": 83.05658085660939
+  }
+}

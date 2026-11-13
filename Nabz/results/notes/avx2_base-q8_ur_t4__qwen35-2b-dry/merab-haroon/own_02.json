@@ -1,0 +1,40 @@
+{
+  "transcript": "انہیں 30 سورٹورکہ پر کچھ دوڑیس میں پر کچھ کچھ پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"30 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"30 days\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "30 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "30 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 133,
+    "prompt_ms": 60.058,
+    "prompt_per_token_ms": 0.4515639097744361,
+    "prompt_per_second": 2214.525958240368,
+    "predicted_n": 161,
+    "predicted_ms": 1290.081,
+    "predicted_per_token_ms": 8.063006249999999,
+    "predicted_per_second": 124.02322024741083
+  }
+}

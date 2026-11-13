@@ -1,0 +1,16 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the lower back\",\n      \"duration\": \"months\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"months\"\n    }\n  ],\n  \"negatives\": [\n    \"no pain\",\n    \"no swelling\",\n    \"no fever\",\n    \"no weight loss\",\n    \"no night sweats\",\n    \"no weight gain\",\n    \"no fatigue\",\n    \"no anemia\",\n    \"no thrombocytopenia\",\n    \"no elevated liver enzymes\",\n    \"no elevated kidney enzymes\",\n    \"no elevated lipids\",\n    \"no elevated cholesterol\",\n    \"no elevated triglycerides\",\n    \"no elevated HDL\",\n    \"no elevated LDL\",\n    \"no elevated HbA1c\",\n    \"no elevated HbA2\",\n    \"no elevated HbF\",\n    \"no elevated HbS\",\n    \"no elevated HbC\",\n    \"no elevated HbD\",\n    \"no elevated HbE\",\n    \"no elevated HbG6P\",\n    \"no elevated HbM\",\n    \"no elevated HbN\",\n    \"no elevated HbP\",\n    \"no elevated HbQ\",\n    \"no elevated HbR\",\n    \"no elevated HbS\",\n    \"no elevated HbT\",\n    \"no elevated HbU\",\n    \"no elevated HbV\",\n    \"no elevated HbW\",\n    \"no elevated HbX\",\n    \"no elevated HbY\",\n    \"no elevated HbZ\",\n    \"no elevated HbAA\",\n    \"no elevated HBB\",\n    \"no elevated HBC\",\n    \"no elevated HBD\",\n    \"no elevated HBE\",\n    \"no elevated HBF\",\n    \"no elevated HBG\",\n    \"no elevated HBH\",\n    \"no elevated HBI\",\n    \"no elevated HIK\",\n    \"no elevated HIL\",\n    \"no elevated HIM\",\n    \"no elevated HIN\",\n    \"no elevated HIP\",\n    \"no elevated HIR\",\n    \"no elevated HIS\",\n    \"no elevated HIT\",\n    \"no elevated HIK\",\n    \"no elevated HIL\",\n    \"no elevated HIM\",\n    \"no elevated HIN\",\n    \"no elevated HIP\",\n    \"no elevated HIR\",\n    \"no elevated HIS\",\n    \"no elevated HIT\",\n    \"no elevated HIK\",\n    \"no elevated HIL\",\n    \"no elevated HIM\",\n    \"no elevated HIN\",\n    \"no elevated HIP\",\n    \"no elevated HIR\",\n    \"no elevated HIS\",\n    \"no elevated HIT\",\n    \"no elevated HIK\",\n    \"no elevated HIL\",\n    \"no elevated HIM\",\n    \"no elevated HIN\",\n    \"no elevated HIP\",\n    \"no elevated HIR\",\n    \"no elevated HIS\",\n    \"no elevated HIT\",\n    \"no elevated HIK\",\n    \"no elevated HIL\",\n    \"no elevated HIM\",\n    \"no elevated HIN\",\n    \"no elevated HIP\",\n    \"no elevated HIR\",\n    \"no elevated HIS\",\n    \"no elevated HIT\",\n    \"no elevated HIK\",\n    \"no elevated",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 82,
+    "prompt_ms": 30.826,
+    "prompt_per_token_ms": 0.3759268292682927,
+    "prompt_per_second": 2660.092130020113,
+    "predicted_n": 800,
+    "predicted_ms": 3079.784,
+    "predicted_per_token_ms": 3.8545481852315397,
+    "predicted_per_second": 259.433778472776
+  }
+}

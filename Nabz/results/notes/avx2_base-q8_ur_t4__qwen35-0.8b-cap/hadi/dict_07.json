@@ -1,0 +1,104 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Bukhar nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    }\n  ],\n  \"negatives\": [\n    \"Bukhar nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\"\n  ],\n  \"findings\": [\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\",\n    \"Punjab nahi\"\n  ],\n  \"follow_up\": \"Punjab nahi\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "Bukhar nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      },
+      {
+        "symptom": "Punjab nahi",
+        "duration": "1 hour"
+      }
+    ],
+    "negatives": [
+      "Bukhar nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi"
+    ],
+    "findings": [
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi",
+      "Punjab nahi"
+    ],
+    "follow_up": "Punjab nahi"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 31.183,
+    "prompt_per_token_ms": 0.2711565217391304,
+    "prompt_per_second": 3687.9068723342843,
+    "predicted_n": 671,
+    "predicted_ms": 2869.422,
+    "predicted_per_token_ms": 4.282719402985075,
+    "predicted_per_second": 233.4965020829979
+  }
+}

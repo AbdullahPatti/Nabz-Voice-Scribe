@@ -1,0 +1,47 @@
+{
+  "transcript": "ہاتون چھبکسار دو دن سے پیشاب میں جرن ہے اور بار بار آتا ہے بوحار نہیں کمر میں درد نہیں پرگرن نہیں ہے سپرو 500 دن میں دو بار تین دن پانی زادہ پی ہیں پیشاب کا تیس کروالیں تین دن میں فرق نہ پڑے تو دو بارا آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"urinary frequency\", \"duration\": \"2 days\"},\n    {\"symptom\": \"recurrent episodes\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"back pain\",\n    \"dysuria\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink water\",\n    \"avoid sexual intercourse for 3 days\",\n    \"if symptoms persist for 3 days, return\"\n  ],\n  \"follow_up\": \"in 3 days if no improvement\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "urinary frequency",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "recurrent episodes",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "back pain",
+      "dysuria"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink water",
+      "avoid sexual intercourse for 3 days",
+      "if symptoms persist for 3 days, return"
+    ],
+    "follow_up": "in 3 days if no improvement"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 131,
+    "prompt_ms": 79.055,
+    "prompt_per_token_ms": 0.6034732824427481,
+    "prompt_per_second": 1657.0741888558598,
+    "predicted_n": 201,
+    "predicted_ms": 2417.707,
+    "predicted_per_token_ms": 12.088535,
+    "predicted_per_second": 82.72300986016916
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "transcript": "ہاتھوں 38 سال، صرف follow-up کے لئے آئی ہے پچری دوائی سے کوئی ریش نہیں ہوا کوئی ساید افیت نہیں بھاہر نہیں کھانتی نہیں پینی سیلین سے الیرڈی ہے اس لئے اگوینکن نہیں دینی زرکک آدی گولی رات کو 10 دن ایک مہینے بعد دیکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no pain\",\n    \"no side effects\",\n    \"no rash\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue current medication\",\n    \"review in 1 month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no pain",
+      "no side effects",
+      "no rash"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "continue current medication",
+      "review in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 212,
+    "prompt_ms": 121.082,
+    "prompt_per_token_ms": 0.5711415094339622,
+    "prompt_per_second": 1750.879569217555,
+    "predicted_n": 177,
+    "predicted_ms": 2093.967,
+    "predicted_per_token_ms": 11.897539772727272,
+    "predicted_per_second": 84.05099029736381
+  }
+}

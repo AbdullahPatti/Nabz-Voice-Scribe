@@ -1,0 +1,57 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ponstan\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take at night after food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\",\n    \"Epanutin\",\n    \"Phenytoin\",\n    \"Rosuvastatin\",\n    \"Duphaston\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"follow-up\"\n  ],\n  \"follow_up\": \"pending\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ponstan",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take at night after food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin",
+      "Epanutin",
+      "Phenytoin",
+      "Rosuvastatin",
+      "Duphaston"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "follow-up"
+    ],
+    "follow_up": "pending"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 193,
+    "prompt_ms": 117.036,
+    "prompt_per_token_ms": 0.6064041450777202,
+    "prompt_per_second": 1649.0652448819167,
+    "predicted_n": 264,
+    "predicted_ms": 3384.029,
+    "predicted_per_token_ms": 12.86703041825095,
+    "predicted_per_second": 77.71801009979524
+  }
+}

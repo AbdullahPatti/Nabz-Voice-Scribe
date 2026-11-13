@@ -1,0 +1,47 @@
+{
+  "transcript": "سیارہ سیارہ سیارہ، نیپنے لیے دو منس ورسن سیارہ، نو سوالنگ، نو فیور، پانڈول، دو طیبیٹس، دو دویس دی، لائیت ایک سیارہ سیارہ دیلی کم بہت میں بہت میں بہت میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"2 minutes\"\n    }\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\"duration\": \"2 days\",\"instructions\": \"take with water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"avoid heavy lifting\"\n  ],\"follow_up\": \"in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "2 minutes"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "avoid heavy lifting"
+    ],
+    "follow_up": "in 2 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 194,
+    "prompt_ms": 113.157,
+    "prompt_per_token_ms": 0.5832835051546391,
+    "prompt_per_second": 1714.4321606263863,
+    "predicted_n": 208,
+    "predicted_ms": 2663.115,
+    "predicted_per_token_ms": 12.865289855072463,
+    "predicted_per_second": 77.7285246788066
+  }
+}

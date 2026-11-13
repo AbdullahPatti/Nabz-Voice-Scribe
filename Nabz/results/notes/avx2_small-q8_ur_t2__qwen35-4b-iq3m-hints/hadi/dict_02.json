@@ -1,0 +1,72 @@
+{
+  "transcript": "خاتون چونٹس سال تھی دن سے بخار جس میں دیرد اور رانکوں کے پیچھے درد پلیٹلٹس پچانوے حزار ہیں کہی سے خون نہیں آرہا صرف پر اڑال دوگوڑی دن میں تین بار پروفن بلکل نہیں لینی دیسپنین بھی نہیں پانی زادہ پیئے کل خون کا تیز تبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 day\"},\n    {\"symptom\": \"back pain\", \"duration\": null},\n    {\"symptom\": \"lower back pain\", \"duration\": null},\n    {\"symptom\": \"headache\", \"duration\": null},\n    {\"symptom\": \"chest pain\", \"duration\": null},\n    {\"symptom\": \"abdominal pain\", \"duration\": null},\n    {\"symptom\": \"joint pain\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"no bleeding from gums\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Paracetamol\",\n    \"Disprin\",\n    \"Colchicine\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "back pain",
+        "duration": null
+      },
+      {
+        "symptom": "lower back pain",
+        "duration": null
+      },
+      {
+        "symptom": "headache",
+        "duration": null
+      },
+      {
+        "symptom": "chest pain",
+        "duration": null
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": null
+      },
+      {
+        "symptom": "joint pain",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "no bleeding from gums",
+      "no vomiting",
+      "no diarrhea",
+      "no chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Paracetamol",
+      "Disprin",
+      "Colchicine"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 255,
+    "prompt_ms": 105.827,
+    "prompt_per_token_ms": 0.4150078431372549,
+    "prompt_per_second": 2409.5930150150716,
+    "predicted_n": 293,
+    "predicted_ms": 3455.929,
+    "predicted_per_token_ms": 11.835373287671233,
+    "predicted_per_second": 84.49247655261435
+  }
+}

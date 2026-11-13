@@ -1,0 +1,50 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"20 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Gaviscon\",\n      \"strength\": \"2 tablets\",\n      \"dose\": \"twice daily\",\"frequency\": \"2 times daily\",\"duration\": \"2 weeks\",\"instructions\": \"take after meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce tea and chili intake\",\n    \"rest\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "20 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Gaviscon",
+        "strength": "2 tablets",
+        "dose": "twice daily",
+        "frequency": "2 times daily",
+        "duration": "2 weeks",
+        "instructions": "take after meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce tea and chili intake",
+      "rest"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 58.297,
+    "prompt_per_token_ms": 0.5448317757009346,
+    "prompt_per_second": 1835.4289243014223,
+    "predicted_n": 224,
+    "predicted_ms": 1812.846,
+    "predicted_per_token_ms": 8.129354260089686,
+    "predicted_per_second": 123.01100038282347
+  }
+}

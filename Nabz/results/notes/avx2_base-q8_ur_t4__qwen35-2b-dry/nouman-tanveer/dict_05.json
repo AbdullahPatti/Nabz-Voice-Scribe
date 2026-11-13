@@ -1,0 +1,16 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hyperglycemia\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"weight loss\",\n    \"dizziness\",\n    \"headache\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"palpitations\",\n    \"syncope\",\n    \"confusion\",\n    \"altered mental status\",\n    \"seizures\",\n    \"shock\",\n    \"hypotension\",\n    \"hypoglycemia\",\n    \"hypothermia\",\n    \"hypertension\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalciuria\",\n    \"hypoketotic hypoglycemia\",\n    \"hypoglycemic coma\",\n    \"hypoglycemic seizures\",\n    \"hypoglycemic encephalopathy\",\n    \"hypoglycemic psychosis\",\n    \"hypoglycemic delirium\",\n    \"hypoglycemic stupor\",\n    \"hypoglycemic coma\",\n    \"hypoglycemic death\",\n    \"hypoglycemia\",\n    \"hypoglycemic crisis\",\n    \"hypoglycemic emergency\",\n    \"hypoglycemic attack\",\n    \"hypoglycemic episode\",\n    \"hypoglycemic event\",\n    \"hypoglycemic incident\",\n    \"hypoglycemic occurrence\",\n    \"hypoglycemia\",\n    \"hypoglycemic state\",\n    \"hypoglycemic condition\",\n    \"hypoglycemic disorder\",\n    \"hypoglycemic disease\",\n    \"hypoglycemic illness\",\n    \"hypoglycemic pathology\",\n    \"hypoglycemic anomaly\",\n    \"hypoglycemic aberration\",\n    \"hypoglycemic deviation\",\n    \"hypoglycemic shift\",\n    \"hypoglycemic change\",\n    \"hypoglycemic alteration\",\n    \"hypoglycemic modification\",\n    \"hypoglycemic adjustment\",\n    \"hypoglycemic correction\",\n    \"hypoglycemic treatment\",\n    \"hypoglycemic therapy\",\n    \"hypoglycemic management\",\n    \"hypoglycemic intervention\",\n    \"hypoglycemic action\",\n    \"hypoglycemic effect\",\n    \"hypoglycemic outcome\",\n    \"hypoglycemic result\",\n    \"hypoglycemic consequence\",\n    \"hypoglycemic impact\",\n    \"hypoglycemic influence\",\n    \"hypoglycemic force\",\n    \"hypoglycemic power\",\n    \"hypoglycemic strength\",\n    \"hypoglycemic intensity\",\n    \"hypoglycemic magnitude\",\n    \"hypoglycemic scale\",\n    \"hypoglycemic level\",\n    \"hypoglycemic threshold\",\n    \"hypoglycemic limit\",\n    \"hypoglycemic boundary",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 59.257,
+    "prompt_per_token_ms": 0.5064700854700854,
+    "prompt_per_second": 1974.4502759167694,
+    "predicted_n": 800,
+    "predicted_ms": 4751.658,
+    "predicted_per_token_ms": 5.947006257822278,
+    "predicted_per_second": 168.15183247615883
+  }
+}

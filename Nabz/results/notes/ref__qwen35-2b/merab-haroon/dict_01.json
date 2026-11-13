@@ -1,0 +1,63 @@
+{
+  "transcript": "Mareez mard, 28 saal. Paanch din se tez bukhar hai, sar dard aur kamzori bhi hai. Kehnda ae raat nu bohat thand lagdi ae. Ulti nahi hai, dast bhi nahi. Typhoid ka test positive aaya hai. Azomax 500 rozana ek goli, saat din. Panadol do goli din mein teen baar, jab bukhar ho. Teen din baad dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"5 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no dry mouth\",\n    \"no dry stool\"\n  ],\n  \"findings\": [\n    \"positive typhoid test\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"azomax\",\n      \"strength\": \"500\",\n      \"dose\": \"1 tablet daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take 1 tablet daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"typhoid test\"\n  ],\n  \"advice\": [\n    \"take azomax 500 daily for 5 days\",\n    \"take panadol 2 tablets 3 times daily when fever occurs\",\n    \"consult doctor in 3 days\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "no dry mouth",
+      "no dry stool"
+    ],
+    "findings": [
+      "positive typhoid test"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "azomax",
+        "strength": "500",
+        "dose": "1 tablet daily",
+        "frequency": "daily",
+        "duration": "5 days",
+        "instructions": "take 1 tablet daily"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "typhoid test"
+    ],
+    "advice": [
+      "take azomax 500 daily for 5 days",
+      "take panadol 2 tablets 3 times daily when fever occurs",
+      "consult doctor in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 354,
+    "prompt_n": 4,
+    "prompt_ms": 40.089,
+    "prompt_per_token_ms": 10.02225,
+    "prompt_per_second": 99.77799396343137,
+    "predicted_n": 346,
+    "predicted_ms": 2420.486,
+    "predicted_per_token_ms": 7.015901449275362,
+    "predicted_per_second": 142.5333590031093
+  }
+}

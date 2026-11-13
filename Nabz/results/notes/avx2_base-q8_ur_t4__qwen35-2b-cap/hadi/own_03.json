@@ -1,0 +1,68 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no fever\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no dysuria\",\n    \"no hematuria\",\n    \"no edema\",\n    \"no palpable mass\"\n  ],\n  \"findings\": [\n    \"blood pressure 140/90 mmHg\",\n    \"no cough\",\n    \"no fever\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no dysuria\",\n    \"no hematuria\",\n    \"no edema\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 1 tablet of Bisoprolol 140/90 mg twice daily\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the evening\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the morning\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the afternoon\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the evening\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the morning\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the afternoon\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the evening\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the morning\",\n    \"take 1 tablet of Bisoprolol 140/90 mg once daily in the afternoon\"\n  ],\n  \"follow_up\": \"in 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no fever",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea",
+      "no abdominal pain",
+      "no dysuria",
+      "no hematuria",
+      "no edema",
+      "no palpable mass"
+    ],
+    "findings": [
+      "blood pressure 140/90 mmHg",
+      "no cough",
+      "no fever",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea",
+      "no abdominal pain",
+      "no dysuria",
+      "no hematuria",
+      "no edema"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 1 tablet of Bisoprolol 140/90 mg twice daily",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the evening",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the morning",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the afternoon",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the evening",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the morning",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the afternoon",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the evening",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the morning",
+      "take 1 tablet of Bisoprolol 140/90 mg once daily in the afternoon"
+    ],
+    "follow_up": "in 1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 58.516,
+    "prompt_per_token_ms": 0.6501777777777777,
+    "prompt_per_second": 1538.040877708661,
+    "predicted_n": 540,
+    "predicted_ms": 3430.931,
+    "predicted_per_token_ms": 6.365363636363637,
+    "predicted_per_second": 157.10021565575056
+  }
+}

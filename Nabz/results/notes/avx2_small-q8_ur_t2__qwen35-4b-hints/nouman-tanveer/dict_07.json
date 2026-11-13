@@ -1,0 +1,62 @@
+{
+  "transcript": "مرد 45 سال ایک افتے سے کانسی پیلا بلگم اور حلکہ بخار سانس نہیں پھولتا سیننگ کی دانی طرف اواز آر ہی ہے اوثر میٹن چیسو پنجی دن میں دو بار پانچ دن کانسی کا سیرب دو چمچ دن میں تین بار سیگرٹ بھنٹ کرنی ہے چشٹ ایک سرے کروالے\nبھائی",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"5 days\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"5 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"5 days\"},\n    {\"symptom\": \"difficulty breathing\", \"duration\": \"5 days\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Chesty\",\n      \"strength\": \"2\",\n      \"dose\": \"2 spoons\",\n      \"frequency\": \"3 times daily\",\"duration\": \"5 days\",\"instructions\": \"take after meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"stop smoking\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "difficulty breathing",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Chesty",
+        "strength": "2",
+        "dose": "2 spoons",
+        "frequency": "3 times daily",
+        "duration": "5 days",
+        "instructions": "take after meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 112,
+    "prompt_ms": 96.605,
+    "prompt_per_token_ms": 0.8625446428571429,
+    "prompt_per_second": 1159.3602815589256,
+    "predicted_n": 264,
+    "predicted_ms": 3320.778,
+    "predicted_per_token_ms": 12.626532319391634,
+    "predicted_per_second": 79.19830834822443
+  }
+}

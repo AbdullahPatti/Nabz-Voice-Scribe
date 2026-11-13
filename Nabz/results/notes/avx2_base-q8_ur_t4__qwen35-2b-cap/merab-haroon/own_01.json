@@ -1,0 +1,124 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سکیرز نوز ویلن نو فیور پاندول 2 تبلرٹز 2 ایرز اگی لائی تکسرسیز دیلی کم بیکن 1 منگت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diabetes\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"diabetes\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"nipen\",\n      \"strength\": \"60\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"fr\",\n      \"strength\": \"2\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"versen\",\n      \"strength\": \"s\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"skirz\",\n      \"strength\": \"n\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"nuz\",\n      \"strength\": \"v\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"flor\",\n      \"strength\": \"2\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"tblers\",\n      \"strength\": \"2\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"ag\",\n      \"strength\": \"2\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"ag\",\n      \"strength\": \"2\",\n      \"dose\": \"2\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    },\n    {\n      \"name\": \"l\",\n      \"strength\": \"1\",\n      \"dose\": \"1\",\"frequency\": \"morning\",\n      \"duration\": \"unknown\",\"instructions\": \"take with water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take all medicines with water\",\n    \"do not stop taking medicines without consulting doctor\"\n  ],\"follow_up\": \"unknown\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "diabetes"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "nipen",
+        "strength": "60",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "fr",
+        "strength": "2",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "versen",
+        "strength": "s",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "skirz",
+        "strength": "n",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "nuz",
+        "strength": "v",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "flor",
+        "strength": "2",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "tblers",
+        "strength": "2",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "ag",
+        "strength": "2",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "ag",
+        "strength": "2",
+        "dose": "2",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      },
+      {
+        "name": "l",
+        "strength": "1",
+        "dose": "1",
+        "frequency": "morning",
+        "duration": "unknown",
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take all medicines with water",
+      "do not stop taking medicines without consulting doctor"
+    ],
+    "follow_up": "unknown"
+  },
+  "timings": {
+    "cache_n": 303,
+    "prompt_n": 4,
+    "prompt_ms": 42.653,
+    "prompt_per_token_ms": 10.66325,
+    "prompt_per_second": 93.78003891871616,
+    "predicted_n": 734,
+    "predicted_ms": 4687.027,
+    "predicted_per_token_ms": 6.394306957708049,
+    "predicted_per_second": 156.3891140375338
+  }
+}

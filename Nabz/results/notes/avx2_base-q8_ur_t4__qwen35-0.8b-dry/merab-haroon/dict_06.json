@@ -1,0 +1,16 @@
+{
+  "transcript": "ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 33.919,
+    "prompt_per_token_ms": 0.32931067961165045,
+    "prompt_per_second": 3036.646127539138,
+    "predicted_n": 800,
+    "predicted_ms": 3009.746,
+    "predicted_per_token_ms": 3.7668911138923655,
+    "predicted_per_second": 265.47090684728875
+  }
+}

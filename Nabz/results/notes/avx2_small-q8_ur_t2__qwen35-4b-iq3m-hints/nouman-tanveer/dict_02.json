@@ -1,0 +1,63 @@
+{
+  "transcript": "خطون 34 سال تین دن سے بخوا ہے جس ہم میں درد اور آنکھوں کے پیچھے درد پلیٹلاس پچانوے ہزار ہیں کہی سے خون نہیں آرہا صرف پناڈول دو گولی دن میں تین بار بروفن بلکل نہیں لینا دسپرین بھی نہیں پانی زیادہ پیئے کل خون کا ٹیس دوبارہ کرونا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": \"625\", \"dose\": \"3 times a day\", \"frequency\": \"3 times a day\", \"duration\": null, \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Ibuprofen\",\n    \"Disprin\",\n    \"Ecosprin\",\n    \"Otosporin\",\n    \"Colchicine\",\n    \"Concor\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test\"\n  ],\n  \"advice\": [\n    \"drink more water\",\n    \"follow up for corona\"\n  ],\"follow_up\": \"follow up for corona\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "625",
+        "dose": "3 times a day",
+        "frequency": "3 times a day",
+        "duration": null,
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ibuprofen",
+      "Disprin",
+      "Ecosprin",
+      "Otosporin",
+      "Colchicine",
+      "Concor"
+    ],
+    "investigations_ordered": [
+      "blood test"
+    ],
+    "advice": [
+      "drink more water",
+      "follow up for corona"
+    ],
+    "follow_up": "follow up for corona"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 250,
+    "prompt_ms": 109.906,
+    "prompt_per_token_ms": 0.439624,
+    "prompt_per_second": 2274.6710825614614,
+    "predicted_n": 278,
+    "predicted_ms": 3473.739,
+    "predicted_per_token_ms": 12.540574007220217,
+    "predicted_per_second": 79.74116650675252
+  }
+}

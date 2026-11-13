@@ -1,0 +1,79 @@
+{
+  "transcript": "سیارہ سیارہ سیارہ، نیپنے لیے دو منس ورسن سیارہ، نو سوالنگ، نو فیور، پانڈول، دو طیبیٹس، دو دویس دی، لائیت ایک سیارہ سیارہ دیلی کم بہت میں بہت میں بہت میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 29\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Mens\",\n      \"strength\": \"2\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Novosang\",\n      \"strength\": \"10\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Novofor\",\n      \"strength\": \"10\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Pandol\",\n      \"strength\": \"2\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Tabis\",\n      \"strength\": \"2\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Dewis\",\n      \"strength\": \"2\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 29
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Mens",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Novosang",
+        "strength": "10",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Novofor",
+        "strength": "10",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Pandol",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Tabis",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Dewis",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 88,
+    "prompt_ms": 94.324,
+    "prompt_per_token_ms": 1.0718636363636362,
+    "prompt_per_second": 932.9544972647471,
+    "predicted_n": 466,
+    "predicted_ms": 5520.621,
+    "predicted_per_token_ms": 11.872303225806451,
+    "predicted_per_second": 84.22965459864025
+  }
+}

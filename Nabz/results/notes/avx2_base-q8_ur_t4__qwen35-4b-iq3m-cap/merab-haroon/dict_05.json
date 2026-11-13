@@ -1,0 +1,44 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 day\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glycine Folic Acid\", \"strength\": \"2\", \"dose\": \"twice daily\", \"frequency\": \"with food\", \"duration\": \"1 day\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glycine Folic Acid",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "with food",
+        "duration": "1 day",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 85,
+    "prompt_ms": 75.518,
+    "prompt_per_token_ms": 0.8884470588235294,
+    "prompt_per_second": 1125.5594692656057,
+    "predicted_n": 178,
+    "predicted_ms": 2470.538,
+    "predicted_per_token_ms": 13.957841807909604,
+    "predicted_per_second": 71.64431391057332
+  }
+}

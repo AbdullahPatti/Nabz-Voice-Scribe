@@ -1,0 +1,16 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hyperglycemia\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"weight loss\",\n    \"dizziness\",\n    \"headache\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"palpitations\",\n    \"syncope\",\n    \"confusion\",\n    \"altered mental status\",\n    \"seizures\",\n    \"shock\",\n    \"hypotension\",\n    \"hypoglycemia\",\n    \"hypothermia\",\n    \"hypertension\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"hypophosphatemia\",\n    \"hypocalcemia\",\n    \"hypokalemia\",\n    \"hypomagnesemia\",\n    \"",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 60.41,
+    "prompt_per_token_ms": 0.5163247863247863,
+    "prompt_per_second": 1936.7654361860623,
+    "predicted_n": 800,
+    "predicted_ms": 4607.3,
+    "predicted_per_token_ms": 5.766332916145181,
+    "predicted_per_second": 173.42044147331407
+  }
+}

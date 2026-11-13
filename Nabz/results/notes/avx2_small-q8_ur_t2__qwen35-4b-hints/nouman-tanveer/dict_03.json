@@ -1,0 +1,56 @@
+{
+  "transcript": "مدر چاری سال کال رات سے دست لگے ہیں اٹھنو دفعہ ہو چکے ہیں دست میں خون نہیں ہیں جس میں تھوڑی پانی کی کمی ہیں ہر دست کے بعد اور اس کا ایک گلاست فلیجل چار سو دن میں تین بار پانچ دین دود ہور تلی ہوئی چیزیں بند اگر پیشاب کم ہو جائے تو فرن واپس آن\nآگے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"4 years\"},\n    {\"symptom\": \"bloody stool\", \"duration\": \"4 years\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"dehydration\",\n    \"decreased urine output\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl\",\n      \"strength\": \"400\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"for 5 days\",\"duration\": \"5 days\",\"instructions\": \"take after each episode of diarrhea\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid foods that cause diarrhea\"\n  ],\"follow_up\": \"return if urine output decreases\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "bloody stool",
+        "duration": "4 years"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "dehydration",
+      "decreased urine output"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "for 5 days",
+        "duration": "5 days",
+        "instructions": "take after each episode of diarrhea"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid foods that cause diarrhea"
+    ],
+    "follow_up": "return if urine output decreases"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 161,
+    "prompt_ms": 107.859,
+    "prompt_per_token_ms": 0.6699316770186335,
+    "prompt_per_second": 1492.689529849155,
+    "predicted_n": 258,
+    "predicted_ms": 3232.055,
+    "predicted_per_token_ms": 12.576089494163423,
+    "predicted_per_second": 79.51597358337034
+  }
+}

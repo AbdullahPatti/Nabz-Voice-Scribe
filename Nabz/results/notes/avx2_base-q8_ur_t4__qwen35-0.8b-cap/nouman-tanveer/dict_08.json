@@ -1,0 +1,102 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the neck\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the neck\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no pain in the back\",\n    \"no pain in the neck\",\n    \"no pain in the chest\",\n    \"no pain in the abdomen\",\n    \"no pain in the legs\",\n    \"no pain in the arms\",\n    \"no pain in the head\",\n    \"no pain in the feet\",\n    \"no pain in the back\",\n    \"no pain in the neck\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"3 days\",\n      \"frequency\": \"2 times\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"avoid heavy lifting\",\n    \"avoid strenuous exercise\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the neck",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the chest",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the abdomen",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the legs",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the arms",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the head",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the feet",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the neck",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no pain in the back",
+      "no pain in the neck",
+      "no pain in the chest",
+      "no pain in the abdomen",
+      "no pain in the legs",
+      "no pain in the arms",
+      "no pain in the head",
+      "no pain in the feet",
+      "no pain in the back",
+      "no pain in the neck"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "3 days",
+        "frequency": "2 times",
+        "duration": "3 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "rest",
+      "avoid heavy lifting",
+      "avoid strenuous exercise"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 325,
+    "prompt_n": 4,
+    "prompt_ms": 16.756,
+    "prompt_per_token_ms": 4.189,
+    "prompt_per_second": 238.72045834328003,
+    "predicted_n": 599,
+    "predicted_ms": 2640.837,
+    "predicted_per_token_ms": 4.416115384615384,
+    "predicted_per_second": 226.44335867757079
+  }
+}

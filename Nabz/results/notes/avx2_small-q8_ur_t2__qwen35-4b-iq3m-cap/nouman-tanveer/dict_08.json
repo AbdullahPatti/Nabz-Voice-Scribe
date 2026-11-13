@@ -1,0 +1,57 @@
+{
+  "transcript": "خطون 26 سال دو دن سے پیشا میں جلن ہے اور بار بار آتا ہے بخار نہیں کمر میں درد ہے پرگنٹ نہیں ہے سیپرو 500 دن میں دو بار تین دن پانی زیادہ پییں شاہب کو ٹیشٹ کروالیں تین دن میں فرق نہ پڑے تو دو بارا آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation\", \"duration\": \"2 days\"},\n    {\"symptom\": \"recurrent episodes\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no back pain\",\n    \"no pregnancy\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ciprofloxacin\", \"strength\": \"500\", \"dose\": \"twice daily\", \"frequency\": \"for 3 days\", \"duration\": \"3 days\", \"instructions\": \"drink plenty of water\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Urine test\",\n    \"Follow up in 3 days\"\n  ],\n  \"advice\": [\n    \"Return if no improvement in 3 days\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "recurrent episodes",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no back pain",
+      "no pregnancy"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "for 3 days",
+        "duration": "3 days",
+        "instructions": "drink plenty of water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Urine test",
+      "Follow up in 3 days"
+    ],
+    "advice": [
+      "Return if no improvement in 3 days"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 72.436,
+    "prompt_per_token_ms": 0.7467628865979382,
+    "prompt_per_second": 1339.1131481583743,
+    "predicted_n": 260,
+    "predicted_ms": 3265.279,
+    "predicted_per_token_ms": 12.607254826254826,
+    "predicted_per_second": 79.31940884683974
+  }
+}

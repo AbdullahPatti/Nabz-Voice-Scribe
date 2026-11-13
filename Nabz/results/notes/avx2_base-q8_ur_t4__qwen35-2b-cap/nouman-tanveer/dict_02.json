@@ -1,0 +1,62 @@
+{
+  "transcript": "خطوون چونتی سال، تین دین سے بخوا ہے جسم میں درد، اور آنکھوں کے پیچھے درد، پیٹلس پچانوے ہزار ہے کہ ہی سے خون نہیں آرہا، صرف پنے دول دو گلی، دین میں تین بات، بروفین بلکل نہیں لینہ، دیسپرین بھی نہیں، پانی زیادہ پیئے، کال خون کا ٹنس دبارہ کر مانا ہے،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain behind eyes\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"blood loss\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"cough\",\n    \"sore throat\",\n    \"headache\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [\n    \"anemia\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"ibuprofen\",\n    \"disperin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink more water\",\n    \"recheck blood pressure\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "blood loss",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "cough",
+      "sore throat",
+      "headache",
+      "nausea",
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [
+      "anemia"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "ibuprofen",
+      "disperin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "drink more water",
+      "recheck blood pressure"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 344,
+    "prompt_n": 4,
+    "prompt_ms": 40.725,
+    "prompt_per_token_ms": 10.18125,
+    "prompt_per_second": 98.21976672805401,
+    "predicted_n": 298,
+    "predicted_ms": 1983.683,
+    "predicted_per_token_ms": 6.67906734006734,
+    "predicted_per_second": 149.72150288125673
+  }
+}

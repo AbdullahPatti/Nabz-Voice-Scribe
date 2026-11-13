@@ -1,0 +1,64 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"abdominal mass\",\n    \"abdominal tenderness\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"nystatin\",\n      \"strength\": \"100,000 units\",\n      \"dose\": \"100,000\",\"frequency\": \"twice daily\",\"duration\": \"2 months\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"abdominal ultrasound\"\n  ],\n  \"advice\": [\n    \"take nystatin with food\",\n    \"do not take antibiotics\",\n    \"consult doctor if pain persists\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "abdominal mass",
+      "abdominal tenderness"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "nystatin",
+        "strength": "100,000 units",
+        "dose": "100,000",
+        "frequency": "twice daily",
+        "duration": "2 months",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "abdominal ultrasound"
+    ],
+    "advice": [
+      "take nystatin with food",
+      "do not take antibiotics",
+      "consult doctor if pain persists"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 74,
+    "prompt_ms": 54.254,
+    "prompt_per_token_ms": 0.7331621621621621,
+    "prompt_per_second": 1363.9547314483725,
+    "predicted_n": 327,
+    "predicted_ms": 2260.718,
+    "predicted_per_token_ms": 6.9347177914110425,
+    "predicted_per_second": 144.20197477084716
+  }
+}

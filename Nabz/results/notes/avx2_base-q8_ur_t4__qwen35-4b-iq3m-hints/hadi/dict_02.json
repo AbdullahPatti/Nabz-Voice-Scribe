@@ -1,0 +1,89 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"cough\", \"duration\": \"3 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"3 days\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"3 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no blood coming\",\n    \"no vomiting\",\n    \"no chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Ibuprofen\",\n    \"Disprin\",\n    \"Colchicine\",\n    \"Xylocaine\",\n    \"Brufen\",\n    \"Piriton\",\n    \"Concor\",\n    \"Calcium\",\n    \"Dalacin\",\n    \"Qalsan\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink more water\",\n    \"rest\"\n  ],\n  \"follow_up\": \"chest pain\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no blood coming",
+      "no vomiting",
+      "no chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Ibuprofen",
+      "Disprin",
+      "Colchicine",
+      "Xylocaine",
+      "Brufen",
+      "Piriton",
+      "Concor",
+      "Calcium",
+      "Dalacin",
+      "Qalsan"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "drink more water",
+      "rest"
+    ],
+    "follow_up": "chest pain"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 245,
+    "prompt_ms": 108.781,
+    "prompt_per_token_ms": 0.4440040816326531,
+    "prompt_per_second": 2252.2315477886764,
+    "predicted_n": 390,
+    "predicted_ms": 4492.286,
+    "predicted_per_token_ms": 11.548293059125964,
+    "predicted_per_second": 86.5928838902955
+  }
+}

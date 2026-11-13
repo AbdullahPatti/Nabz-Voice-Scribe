@@ -1,0 +1,81 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"3 days\"},\n    {\"symptom\": \"joint pain\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no chest pain\",\n    \"no diarrhea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"twice daily\",\"duration\": \"7 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Paradol\",\n      \"strength\": \"500\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"twice daily\",\"duration\": \"7 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Carvedilol\",\n      \"strength\": \"10\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\"duration\": \"7 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"drink plenty of water\",\n    \"monitor temperature\"\n  ],\"follow_up\": \"7 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "joint pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no chest pain",
+      "no diarrhea",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Paradol",
+        "strength": "500",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Carvedilol",
+        "strength": "10",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "drink plenty of water",
+      "monitor temperature"
+    ],
+    "follow_up": "7 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 220,
+    "prompt_ms": 124.066,
+    "prompt_per_token_ms": 0.5639363636363637,
+    "prompt_per_second": 1773.2497219222028,
+    "predicted_n": 407,
+    "predicted_ms": 4871.635,
+    "predicted_per_token_ms": 11.999100985221675,
+    "predicted_per_second": 83.33957695927548
+  }
+}

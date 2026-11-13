@@ -1,0 +1,127 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Insulin resistance\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Diabetes\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"Weight loss\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Fatigue\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Vomiting\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Dizziness\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Headache\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Fatigue\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"2 years\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"Insulin resistance\",\n    \"Diabetes\",\n    \"Weight loss\",\n    \"Fatigue\",\n    \"Nausea\",\n    \"Vomiting\",\n    \"Dizziness\",\n    \"Headache\",\n    \"Fatigue\",\n    \"Nausea\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"625\",\n      \"frequency\": \"daily\",\n      \"duration\": \"2 years\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Insulin\",\n    \"Metformin\",\n    \"Glucagon\",\n    \"Insulin\",\n    \"Metformin\",\n    \"Glucagon\",\n    \"Insulin\",\n    \"Metformin\",\n    \"Glucagon\",\n    \"Insulin\"\n  ],\n  \"investigations_ordered\": [\n    \"Blood glucose\",\n    \"Blood sugar\",\n    \"Blood glucose\",\n    \"Blood sugar\",\n    \"Blood glucose\",\n    \"Blood sugar\",\n    \"Blood glucose\",\n    \"Blood sugar\",\n    \"Blood glucose\",\n    \"Blood sugar\"\n  ],\n  \"advice\": [\n    \"Take with food\",\n    \"Take with food\",\n    \"Take with food\",\n    \"Take with food\",\n    \"Take with food\",\n    \"Take with food\",\n    \"Take with food\",\n    \"Take with food\",\n    \"Take with food\",\n    \"Take with food\"\n  ],\n  \"follow_up\": \"2 years\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "Insulin resistance",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "Diabetes",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "Weight loss",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "Fatigue",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "Nausea",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "Vomiting",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "Dizziness",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "Headache",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "Fatigue",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "Nausea",
+        "duration": "2 years"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "Insulin resistance",
+      "Diabetes",
+      "Weight loss",
+      "Fatigue",
+      "Nausea",
+      "Vomiting",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Nausea"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "625",
+        "frequency": "daily",
+        "duration": "2 years",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Insulin",
+      "Metformin",
+      "Glucagon",
+      "Insulin",
+      "Metformin",
+      "Glucagon",
+      "Insulin",
+      "Metformin",
+      "Glucagon",
+      "Insulin"
+    ],
+    "investigations_ordered": [
+      "Blood glucose",
+      "Blood sugar",
+      "Blood glucose",
+      "Blood sugar",
+      "Blood glucose",
+      "Blood sugar",
+      "Blood glucose",
+      "Blood sugar",
+      "Blood glucose",
+      "Blood sugar"
+    ],
+    "advice": [
+      "Take with food",
+      "Take with food",
+      "Take with food",
+      "Take with food",
+      "Take with food",
+      "Take with food",
+      "Take with food",
+      "Take with food",
+      "Take with food",
+      "Take with food"
+    ],
+    "follow_up": "2 years"
+  },
+  "timings": {
+    "cache_n": 344,
+    "prompt_n": 4,
+    "prompt_ms": 17.474,
+    "prompt_per_token_ms": 4.3685,
+    "prompt_per_second": 228.91152569531874,
+    "predicted_n": 722,
+    "predicted_ms": 3119.062,
+    "predicted_per_token_ms": 4.326022191400832,
+    "predicted_per_second": 231.15923954060548
+  }
+}

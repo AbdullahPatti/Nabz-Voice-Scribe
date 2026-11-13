@@ -1,0 +1,43 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"BP 140/90\", \"duration\": \"45 years\"}\n  ],\n  \"negatives\": [\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"check BP again after medication\"\n  ],\n  \"advice\": [\n    \"take BP medication\",\n    \"check BP again after taking medication\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "BP 140/90",
+        "duration": "45 years"
+      }
+    ],
+    "negatives": [
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "check BP again after medication"
+    ],
+    "advice": [
+      "take BP medication",
+      "check BP again after taking medication"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 151,
+    "prompt_ms": 86.97,
+    "prompt_per_token_ms": 0.5759602649006622,
+    "prompt_per_second": 1736.230884212947,
+    "predicted_n": 179,
+    "predicted_ms": 2190.263,
+    "predicted_per_token_ms": 12.30484831460674,
+    "predicted_per_second": 81.26877913748258
+  }
+}

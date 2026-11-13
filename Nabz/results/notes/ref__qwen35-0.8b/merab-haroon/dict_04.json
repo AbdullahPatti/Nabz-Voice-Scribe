@@ -1,0 +1,16 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"BP 160/100\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"High BP\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No chest pain\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No dizziness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No diarrhea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No constipation\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No abdominal pain\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No chills\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No sweating\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No drowsiness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No confusion\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No memory loss\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No weakness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No dizziness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No diarrhea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No constipation\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No abdominal pain\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No chills\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No sweating\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No drowsiness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"No confusion\",\n      \"duration\":",
+  "note": null,
+  "timings": {
+    "cache_n": 330,
+    "prompt_n": 4,
+    "prompt_ms": 18.821,
+    "prompt_per_token_ms": 4.70525,
+    "prompt_per_second": 212.52855852505178,
+    "predicted_n": 800,
+    "predicted_ms": 2929.491,
+    "predicted_per_token_ms": 3.666446808510638,
+    "predicted_per_second": 272.7436267938697
+  }
+}

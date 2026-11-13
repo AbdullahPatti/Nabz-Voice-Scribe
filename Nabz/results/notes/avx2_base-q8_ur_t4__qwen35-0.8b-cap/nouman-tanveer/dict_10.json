@@ -1,0 +1,119 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"sick nahi\",\n    \"sick nahi\",\n    \"sick nahi\",\n    \"sick nahi\",\n    \"sick nahi\",\n    \"sick nahi\",\n    \"sick nahi\",\n    \"sick nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"100 mg\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"1 week\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "sick nahi",
+      "sick nahi",
+      "sick nahi",
+      "sick nahi",
+      "sick nahi",
+      "sick nahi",
+      "sick nahi",
+      "sick nahi"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "100 mg",
+        "frequency": "once daily",
+        "duration": "1 week",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 330,
+    "prompt_n": 4,
+    "prompt_ms": 17.435,
+    "prompt_per_token_ms": 4.35875,
+    "prompt_per_second": 229.42357327215373,
+    "predicted_n": 667,
+    "predicted_ms": 2853.181,
+    "predicted_per_token_ms": 4.284055555555556,
+    "predicted_per_second": 233.42367694163113
+  }
+}

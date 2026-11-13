@@ -1,0 +1,63 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no bleeding\"\n  ],\n  \"findings\": [\n    \"platelets 95,000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": \"3 times a day\", \"frequency\": \"twice a day (implied by 'din mein teen baar')\", \"duration\": null, \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test\"\n  ],\n  \"advice\": [\n    \"drink more water\"\n  ],\n  \"follow_up\": \"tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no bleeding"
+    ],
+    "findings": [
+      "platelets 95,000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "3 times a day",
+        "frequency": "twice a day (implied by 'din mein teen baar')",
+        "duration": null,
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "blood test"
+    ],
+    "advice": [
+      "drink more water"
+    ],
+    "follow_up": "tomorrow"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 114,
+    "prompt_ms": 76.062,
+    "prompt_per_token_ms": 0.6672105263157895,
+    "prompt_per_second": 1498.7773132444586,
+    "predicted_n": 277,
+    "predicted_ms": 3327.991,
+    "predicted_per_token_ms": 12.0579384057971,
+    "predicted_per_second": 82.93291658541145
+  }
+}

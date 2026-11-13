@@ -1,0 +1,51 @@
+{
+  "transcript": "مرد 45 سال ایک افتے سے کانسی پیلا بلگم اور حلکہ بخار سانس نہیں پھولتا سیننگ کی دانی طرف اواز آر ہی ہے اوثر میٹن چیسو پنجی دن میں دو بار پانچ دن کانسی کا سیرب دو چمچ دن میں تین بار سیگرٹ بھنٹ کرنی ہے چشٹ ایک سرے کروالے\nبھائی",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"5 days\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"5 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"5 days\"},\n    {\"symptom\": \"difficulty breathing\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"wheezing heard on auscultation\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "difficulty breathing",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "wheezing heard on auscultation"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 75.672,
+    "prompt_per_token_ms": 0.6756428571428571,
+    "prompt_per_second": 1480.0718892060472,
+    "predicted_n": 199,
+    "predicted_ms": 2386.087,
+    "predicted_per_token_ms": 12.050944444444445,
+    "predicted_per_second": 82.98104805063689
+  }
+}

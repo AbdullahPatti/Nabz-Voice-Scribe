@@ -1,0 +1,113 @@
+{
+  "transcript": "اپنے اپنے اپنے پڑھے سوڑھا اور اپنے اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"runny nose\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"body aches\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"stomach pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"dry mouth\",\n    \"dry eyes\",\n    \"dry nose\",\n    \"dry throat\",\n    \"dry skin\",\n    \"dry mouth\",\n    \"dry eyes\",\n    \"dry nose\"\n  ],\n  \"findings\": [\n    \"no fever\",\n    \"no cough\",\n    \"no sore throat\",\n    \"no runny nose\",\n    \"no headache\",\n    \"no body aches\",\n    \"no stomach pain\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"unknown\",\"frequency\": \"unknown\",\"duration\": \"unknown\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take Augmentin 625 with food\",\n    \"drink plenty of water\",\n    \"rest\",\n    \"monitor symptoms\"\n  ],\"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "runny nose",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "headache",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "body aches",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "stomach pain",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "dry mouth",
+      "dry eyes",
+      "dry nose",
+      "dry throat",
+      "dry skin",
+      "dry mouth",
+      "dry eyes",
+      "dry nose"
+    ],
+    "findings": [
+      "no fever",
+      "no cough",
+      "no sore throat",
+      "no runny nose",
+      "no headache",
+      "no body aches",
+      "no stomach pain",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "unknown",
+        "frequency": "unknown",
+        "duration": "unknown",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take Augmentin 625 with food",
+      "drink plenty of water",
+      "rest",
+      "monitor symptoms"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 59.534,
+    "prompt_per_token_ms": 0.556392523364486,
+    "prompt_per_second": 1797.292303557631,
+    "predicted_n": 604,
+    "predicted_ms": 3940.793,
+    "predicted_per_token_ms": 6.535311774461029,
+    "predicted_per_second": 153.01488812023368
+  }
+}

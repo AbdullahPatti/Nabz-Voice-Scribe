@@ -1,0 +1,97 @@
+{
+  "transcript": "تیفورٹ مرد اٹھائی ساتھ پانچ دن سے تیس بہارے سر دردور کمزوری بھی ہے کندہی راتنوں بہت ہندہ لگ دیا ڈی نہیں ہے دست بھی نہیں ہے تیفورٹ کارٹی اس پوزگی بایا ہے ازو میکس 500 روزانہ ایک گولی ساتھیں پینے دول دولی دن میں تین بار جب ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"500 mg\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take the medicine\",\n    \"take the medicine with food\",\n    \"take the medicine once daily\",\n    \"take the medicine for 5 days\"\n  ],\n  \"follow_up\": \"5 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "500 mg",
+        "frequency": "once daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take the medicine",
+      "take the medicine with food",
+      "take the medicine once daily",
+      "take the medicine for 5 days"
+    ],
+    "follow_up": "5 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 120,
+    "prompt_ms": 33.485,
+    "prompt_per_token_ms": 0.2790416666666667,
+    "prompt_per_second": 3583.6941914289982,
+    "predicted_n": 531,
+    "predicted_ms": 2445.682,
+    "predicted_per_token_ms": 4.614494339622641,
+    "predicted_per_second": 216.70846823094746
+  }
+}

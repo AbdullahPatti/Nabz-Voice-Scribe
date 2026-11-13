@@ -1,0 +1,100 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 35\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"کیلے کا درد\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" }\n    ],\n    \"negatives\": [\"بھوک نہیں\" ],\n    \"findings\": [\"کیلے کا درد\" ],\n    \"allergies\": [\"کھٹے دکھ\" ],\n    \"medications\": [\n        {\n            \"name\": \"گیویس\",\n            \"strength\": \"2\",\n            \"dose\": \"2\",\n            \"frequency\": \"2\",\n            \"duration\": \"2\",\n            \"instructions\": \"کھانے میں\" },\n        {\n            \"name\": \"کون کے\",\n            \"strength\": \"2\",\n            \"dose\": \"2\",\n            \"frequency\": \"2\",\n            \"duration\": \"2\",\n            \"instructions\": \"کھانے میں\" }\n    ],\n    \"drugs_to_avoid\": [\"کھٹے دکھ\"],\n    \"investigations_ordered\": [\"ریسک\"],\n    \"advice\": [\"کم وزن ہونے سے بچنے کے لئے کم کیلے کھائیں\"],\n    \"follow_up\": \"اگلے ہفتے\" }",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "کیلے کا درد",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "زیادہ وقت سے"
+      }
+    ],
+    "negatives": [
+      "بھوک نہیں"
+    ],
+    "findings": [
+      "کیلے کا درد"
+    ],
+    "allergies": [
+      "کھٹے دکھ"
+    ],
+    "medications": [
+      {
+        "name": "گیویس",
+        "strength": "2",
+        "dose": "2",
+        "frequency": "2",
+        "duration": "2",
+        "instructions": "کھانے میں"
+      },
+      {
+        "name": "کون کے",
+        "strength": "2",
+        "dose": "2",
+        "frequency": "2",
+        "duration": "2",
+        "instructions": "کھانے میں"
+      }
+    ],
+    "drugs_to_avoid": [
+      "کھٹے دکھ"
+    ],
+    "investigations_ordered": [
+      "ریسک"
+    ],
+    "advice": [
+      "کم وزن ہونے سے بچنے کے لئے کم کیلے کھائیں"
+    ],
+    "follow_up": "اگلے ہفتے"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 129,
+    "prompt_ms": 42.421,
+    "prompt_per_token_ms": 0.3288449612403101,
+    "prompt_per_second": 3040.9467009264276,
+    "predicted_n": 674,
+    "predicted_ms": 5502.913,
+    "predicted_per_token_ms": 8.176690936106983,
+    "predicted_per_second": 122.2988624388574
+  }
+}

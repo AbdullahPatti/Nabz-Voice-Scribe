@@ -1,0 +1,38 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"hand pain\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink small amounts of water frequently to avoid dehydration.\",\n    \"After each hand movement, drink a glass of Fajjal.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hand pain",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink small amounts of water frequently to avoid dehydration.",
+      "After each hand movement, drink a glass of Fajjal."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 111,
+    "prompt_ms": 77.15,
+    "prompt_per_token_ms": 0.695045045045045,
+    "prompt_per_second": 1438.755670771225,
+    "predicted_n": 153,
+    "predicted_ms": 1887.097,
+    "predicted_per_token_ms": 12.415111842105263,
+    "predicted_per_second": 80.54699890890612
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "transcript": "ٹائفورد مرد ٹائی سار ٹائی دن سے ٹیز بحار ہے سر در در کمزوری بھی ہے کہندائی راتوں کو بہت ٹھنڈلگ دیئے اولٹی نہیں ہے دست بھی نہیں ہے ٹائفورد کا ٹس پوزگی بایا ہے ازو میکس ٹائی بھنڈ روزانہ ایک گولی ساتھ دن پنڈرڈول دو گولی دن میں ٹین بار جب بحاروں ٹین دن بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n   \n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [\n    \"weakness\",\n    \"cold\"\n  ],\n  \"allergies\": [\n    \"unknown\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Amoxil\",\n      \"strength\": \"1\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"twice daily\",\"duration\": \"10 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Vitamin D\",\n      \"strength\": \"2\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"daily\",\"duration\": \"10 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\"\n  ],\"follow_up\": \"in 10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [
+      "weakness",
+      "cold"
+    ],
+    "allergies": [
+      "unknown"
+    ],
+    "medications": [
+      {
+        "name": "Amoxil",
+        "strength": "1",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "10 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Vitamin D",
+        "strength": "2",
+        "dose": "2 tablets",
+        "frequency": "daily",
+        "duration": "10 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids"
+    ],
+    "follow_up": "in 10 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 235,
+    "prompt_ms": 107.354,
+    "prompt_per_token_ms": 0.4568255319148936,
+    "prompt_per_second": 2189.019505561041,
+    "predicted_n": 288,
+    "predicted_ms": 3558.024,
+    "predicted_per_token_ms": 12.397296167247386,
+    "predicted_per_second": 80.66274988589173
+  }
+}

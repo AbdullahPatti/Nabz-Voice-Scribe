@@ -1,0 +1,30 @@
+{
+  "transcript": "اپنے 45 سامنے میں ساکتا ہی جانتا ہے۔ اپنے ہی جانتا ہے۔ اپنے اپنے ہی جانتا ہے۔ اپنے اپنے اپنے اپنے اپنے جانتا ہے۔ اپنے اپنے اپنے اپنے ہی جانتا ہے۔ اپنے اپنے اپنے اپنے ہی جانتا ہے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 78,
+    "prompt_ms": 69.567,
+    "prompt_per_token_ms": 0.8918846153846153,
+    "prompt_per_second": 1121.2212687049896,
+    "predicted_n": 103,
+    "predicted_ms": 1390.611,
+    "predicted_per_token_ms": 13.633441176470589,
+    "predicted_per_second": 73.34905304215198
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "transcript": "خاتون چونٹس سال تھی دن سے بخار جس میں دیرد اور رانکوں کے پیچھے درد پلیٹلٹس پچانوے حزار ہیں کہی سے خون نہیں آرہا صرف پر اڑال دوگوڑی دن میں تین بار پروفن بلکل نہیں لینی دیسپنین بھی نہیں پانی زادہ پیئے کل خون کا تیز تبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"pain\", \"duration\": \"1 day\"}\n  ],\n  \"negatives\": [\n    \"no bleeding\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no dizziness\",\n    \"no headache\",\n    \"no nausea\",\n    \"no abdominal pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": \"625\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"3 times daily\",\"duration\": null,\"instructions\": \"take as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\",\n    \"ESR\",\n    \"CRP\"\n  ],\n  \"advice\": [\n    \"stay hydrated\",\n    \"rest\",\n    \"avoid spicy food\",\n    \"avoid cold drinks\",\n    \"avoid fried food\",\n    \"avoid oily food\",\n    \"avoid sugary food\",\n    \"avoid salty food\",\n    \"avoid caffeine\",\n    \"avoid alcohol\"\n  ],\"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "pain",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "no bleeding",
+      "no vomiting",
+      "no diarrhea",
+      "no cough",
+      "no chest pain",
+      "no shortness of breath",
+      "no dizziness",
+      "no headache",
+      "no nausea",
+      "no abdominal pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "625",
+        "dose": "3 times daily",
+        "frequency": "3 times daily",
+        "duration": null,
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC",
+      "ESR",
+      "CRP"
+    ],
+    "advice": [
+      "stay hydrated",
+      "rest",
+      "avoid spicy food",
+      "avoid cold drinks",
+      "avoid fried food",
+      "avoid oily food",
+      "avoid sugary food",
+      "avoid salty food",
+      "avoid caffeine",
+      "avoid alcohol"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 100.909,
+    "prompt_per_token_ms": 0.9257706422018349,
+    "prompt_per_second": 1080.181153316354,
+    "predicted_n": 485,
+    "predicted_ms": 5819.796,
+    "predicted_per_token_ms": 12.024371900826447,
+    "predicted_per_second": 83.16442706926496
+  }
+}

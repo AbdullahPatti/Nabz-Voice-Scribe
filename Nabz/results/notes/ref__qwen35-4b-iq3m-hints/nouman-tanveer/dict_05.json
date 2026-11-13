@@ -1,0 +1,50 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hyperglycemia\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"joint pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"1000\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"3 months\",\"instructions\": \"with meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood sugar test\"\n  ],\n  \"advice\": [\n    \"blood sugar test in 3 months\"\n  ],\"follow_up\": \"3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "hyperglycemia",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "joint pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "3 months",
+        "instructions": "with meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood sugar test"
+    ],
+    "advice": [
+      "blood sugar test in 3 months"
+    ],
+    "follow_up": "3 months"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 168,
+    "prompt_ms": 90.605,
+    "prompt_per_token_ms": 0.5393154761904763,
+    "prompt_per_second": 1854.2023067159648,
+    "predicted_n": 233,
+    "predicted_ms": 2854.659,
+    "predicted_per_token_ms": 12.304564655172415,
+    "predicted_per_second": 81.27065264187421
+  }
+}

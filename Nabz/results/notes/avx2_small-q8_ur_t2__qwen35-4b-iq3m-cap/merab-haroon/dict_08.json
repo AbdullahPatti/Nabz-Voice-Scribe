@@ -1,0 +1,42 @@
+{
+  "transcript": "ہاتون چھبکسار دو دن سے پیشاب میں جرن ہے اور بار بار آتا ہے بوحار نہیں کمر میں درد نہیں پرگرن نہیں ہے سپرو 500 دن میں دو بار تین دن پانی زادہ پی ہیں پیشاب کا تیس کروالیں تین دن میں فرق نہ پڑے تو دو بارا آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"urinary frequency\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"lower abdominal pain\",\n    \"urgency\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink 3-4 glasses of water\",\n    \"return if symptoms persist for 3 days\"\n  ],\n  \"follow_up\": \"return in 3 days if no improvement\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "urinary frequency",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "lower abdominal pain",
+      "urgency"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink 3-4 glasses of water",
+      "return if symptoms persist for 3 days"
+    ],
+    "follow_up": "return in 3 days if no improvement"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 75.688,
+    "prompt_per_token_ms": 0.7802886597938145,
+    "prompt_per_second": 1281.5770003170912,
+    "predicted_n": 181,
+    "predicted_ms": 2229.461,
+    "predicted_per_token_ms": 12.385894444444443,
+    "predicted_per_second": 80.73700324876731
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 14\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week\",\"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"no\"\n  ],\n  \"follow_up\": \"next week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 14
+    },
+    "complaints": [
+      {
+        "symptom": "one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "no"
+    ],
+    "follow_up": "next week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 53,
+    "prompt_ms": 28.403,
+    "prompt_per_token_ms": 0.5359056603773584,
+    "prompt_per_second": 1866.0000704150973,
+    "predicted_n": 193,
+    "predicted_ms": 1217.88,
+    "predicted_per_token_ms": 6.343125000000001,
+    "predicted_per_second": 157.65100009853185
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 2\n    },\n  \"complaints\": [\n    {\"symptom\": \"burning on urination\", \"duration\": \"2 days\"},\n    {\"symptom\": \"frequency of urination\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no dysuria\",\n    \"no dysuria\",\n    \"no dysuria\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"drink more water\",\n    \"if pain returns in 2 days, repeat urine test\"\n  ],\n  \"follow_up\": \"if pain returns in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 2
+    },
+    "complaints": [
+      {
+        "symptom": "burning on urination",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "frequency of urination",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no dysuria",
+      "no dysuria",
+      "no dysuria"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "drink more water",
+      "if pain returns in 2 days, repeat urine test"
+    ],
+    "follow_up": "if pain returns in 2 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 78.713,
+    "prompt_per_token_ms": 0.8199270833333333,
+    "prompt_per_second": 1219.6206471612059,
+    "predicted_n": 209,
+    "predicted_ms": 2553.638,
+    "predicted_per_token_ms": 12.277105769230769,
+    "predicted_per_second": 81.4524219956
+  }
+}

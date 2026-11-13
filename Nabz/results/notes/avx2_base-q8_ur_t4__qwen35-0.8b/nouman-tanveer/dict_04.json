@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of heaviness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in eyes\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in ears\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in nose\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in throat\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in mouth\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in stomach\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in arms\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in arms\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in arms\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in arms\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in arms\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\":",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 87,
+    "prompt_ms": 33.42,
+    "prompt_per_token_ms": 0.3841379310344828,
+    "prompt_per_second": 2603.2315978456013,
+    "predicted_n": 800,
+    "predicted_ms": 3293.061,
+    "predicted_per_token_ms": 4.1214780976220275,
+    "predicted_per_second": 242.6313997827553
+  }
+}

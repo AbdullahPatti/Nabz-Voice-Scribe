@@ -1,0 +1,78 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"neck stiffness\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"chest pain\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"constipation\",\n    \"itching\",\n    \"rash\",\n    \"sore throat\",\n    \"runny nose\",\n    \"sneezing\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"dizziness\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"constipation\",\n    \"itching\",\n    \"rash\",\n    \"sore throat\",\n    \"runny nose\",\n    \"sneezing\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"dizziness\"\n  ],\n  \"findings\": [\n    \"headache\",\n    \"neck stiffness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take ibuprofen 625 mg twice daily for 2 days\",\n    \"rest\",\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "neck stiffness",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "chest pain",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal pain",
+      "constipation",
+      "itching",
+      "rash",
+      "sore throat",
+      "runny nose",
+      "sneezing",
+      "joint pain",
+      "muscle pain",
+      "fatigue",
+      "dizziness",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal pain",
+      "constipation",
+      "itching",
+      "rash",
+      "sore throat",
+      "runny nose",
+      "sneezing",
+      "joint pain",
+      "muscle pain",
+      "fatigue",
+      "dizziness"
+    ],
+    "findings": [
+      "headache",
+      "neck stiffness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take ibuprofen 625 mg twice daily for 2 days",
+      "rest",
+      "drink plenty of water"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 87,
+    "prompt_ms": 58.911,
+    "prompt_per_token_ms": 0.6771379310344827,
+    "prompt_per_second": 1476.8039924632071,
+    "predicted_n": 409,
+    "predicted_ms": 2751.782,
+    "predicted_per_token_ms": 6.744563725490196,
+    "predicted_per_second": 148.2675589854138
+  }
+}

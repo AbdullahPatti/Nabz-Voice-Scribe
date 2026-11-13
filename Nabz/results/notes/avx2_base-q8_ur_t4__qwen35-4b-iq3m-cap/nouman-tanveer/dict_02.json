@@ -1,0 +1,50 @@
+{
+  "transcript": "خطوون چونتی سال، تین دین سے بخوا ہے جسم میں درد، اور آنکھوں کے پیچھے درد، پیٹلس پچانوے ہزار ہے کہ ہی سے خون نہیں آرہا، صرف پنے دول دو گلی، دین میں تین بات، بروفین بلکل نہیں لینہ، دیسپرین بھی نہیں، پانی زیادہ پیئے، کال خون کا ٹنس دبارہ کر مانا ہے،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fever\",\n    \"no headache\"\n  ],\n  \"findings\": [\n    \"BP 120/80\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Brophin\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fever",
+      "no headache"
+    ],
+    "findings": [
+      "BP 120/80"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Brophin",
+      "Disprin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 78.582,
+    "prompt_per_token_ms": 0.6716410256410256,
+    "prompt_per_second": 1488.8905856302972,
+    "predicted_n": 204,
+    "predicted_ms": 2514.234,
+    "predicted_per_token_ms": 12.385389162561577,
+    "predicted_per_second": 80.74029704474603
+  }
+}

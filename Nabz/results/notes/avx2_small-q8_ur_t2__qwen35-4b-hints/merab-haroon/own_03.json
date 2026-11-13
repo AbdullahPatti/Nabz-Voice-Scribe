@@ -1,0 +1,48 @@
+{
+  "transcript": "45 ساتھ سکتے ہیں۔ ہیڈک میں ایک ساتھ سکتے ہیں۔ بیپی 140 اور 90 ساتھ سکتے ہیں۔ کائسرٹ کو پرسی نہیں ہے۔ پیانڈول جب نیدیت، ایوی کی لسی سالت، بیپی ایک چیک اگر بعد ایک ساتھ سکتے ہیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"140 minutes\"},\n    {\"symptom\": \"blood pressure\", \"duration\": \"90 minutes\"}\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"vomiting\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Check blood pressure after 140 minutes\",\n    \"Monitor blood pressure\"\n  ],\"follow_up\": \"140 minutes\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "140 minutes"
+      },
+      {
+        "symptom": "blood pressure",
+        "duration": "90 minutes"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting",
+      "chest pain"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Check blood pressure after 140 minutes",
+      "Monitor blood pressure"
+    ],
+    "follow_up": "140 minutes"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 124,
+    "prompt_ms": 102.143,
+    "prompt_per_token_ms": 0.823733870967742,
+    "prompt_per_second": 1213.9843161058516,
+    "predicted_n": 208,
+    "predicted_ms": 2656.258,
+    "predicted_per_token_ms": 12.832164251207729,
+    "predicted_per_second": 77.92917706036086
+  }
+}

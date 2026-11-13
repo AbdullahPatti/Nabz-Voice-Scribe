@@ -1,0 +1,63 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 19\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"19 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"19 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"19 days\"},\n    {\"symptom\": \"cough\", \"duration\": \"19 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"19 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Azomax\", \"strength\": \"7 days\", \"dose\": \"3 times a day\", \"frequency\": \"for 7 days\", \"duration\": \"7 days\", \"instructions\": \"take 3 times a day\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\"\n  ],\n  \"follow_up\": \"in 7 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 19
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "19 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Azomax",
+        "strength": "7 days",
+        "dose": "3 times a day",
+        "frequency": "for 7 days",
+        "duration": "7 days",
+        "instructions": "take 3 times a day"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids"
+    ],
+    "follow_up": "in 7 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 168,
+    "prompt_ms": 95.766,
+    "prompt_per_token_ms": 0.5700357142857143,
+    "prompt_per_second": 1754.276047866675,
+    "predicted_n": 270,
+    "predicted_ms": 3231.587,
+    "predicted_per_token_ms": 12.013334572490706,
+    "predicted_per_second": 83.24083492104654
+  }
+}

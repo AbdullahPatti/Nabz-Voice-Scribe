@@ -1,0 +1,70 @@
+{
+  "transcript": "مرد 45 سال ایک افتے سے کانسی پیلا بلگم اور حلکہ بخار سانس نہیں پھولتا سیننگ کی دانی طرف اواز آر ہی ہے اوثر میٹن چیسو پنجی دن میں دو بار پانچ دن کانسی کا سیرب دو چمچ دن میں تین بار سیگرٹ بھنٹ کرنی ہے چشٹ ایک سرے کروالے\nبھائی",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"5 days\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"5 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"5 days\"},\n    {\"symptom\": \"difficulty breathing\", \"duration\": \"5 days\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Chesty\",\n      \"strength\": \"2\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"5 days\",\"duration\": \"5 days\",\"instructions\": \"take 2 tablets twice daily for 5 days\"\n    },\n    {\n      \"name\": \"Chesty\",\n      \"strength\": \"2\",\n      \"dose\": \"three times daily\",\n      \"frequency\": \"5 days\",\"duration\": \"5 days\",\"instructions\": \"take 2 tablets three times daily for 5 days\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"stop smoking\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "difficulty breathing",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Chesty",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take 2 tablets twice daily for 5 days"
+      },
+      {
+        "name": "Chesty",
+        "strength": "2",
+        "dose": "three times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take 2 tablets three times daily for 5 days"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 97.672,
+    "prompt_per_token_ms": 0.8720714285714285,
+    "prompt_per_second": 1146.6950610205586,
+    "predicted_n": 339,
+    "predicted_ms": 4268.513,
+    "predicted_per_token_ms": 12.628736686390532,
+    "predicted_per_second": 79.1844841517409
+  }
+}

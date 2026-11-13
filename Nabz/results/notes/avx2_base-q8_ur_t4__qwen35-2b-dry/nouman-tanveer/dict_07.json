@@ -1,0 +1,16 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cervical lymphadenopathy\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 60.752,
+    "prompt_per_token_ms": 0.4939186991869919,
+    "prompt_per_second": 2024.6247037134578,
+    "predicted_n": 800,
+    "predicted_ms": 4702.161,
+    "predicted_per_token_ms": 5.885057571964956,
+    "predicted_per_second": 169.92187209242726
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"neck stiffness\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"chest pain\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"constipation\",\n    \"itching\",\n    \"rash\"\n  ],\n  \"findings\": [\n    \"neck stiffness\",\n    \"headache\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take ibuprofen 625 mg twice daily for 2 days\",\n    \"rest\",\n    \"avoid heavy lifting\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "neck stiffness",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "chest pain",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal pain",
+      "constipation",
+      "itching",
+      "rash"
+    ],
+    "findings": [
+      "neck stiffness",
+      "headache"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take ibuprofen 625 mg twice daily for 2 days",
+      "rest",
+      "avoid heavy lifting"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 314,
+    "prompt_n": 4,
+    "prompt_ms": 39.904,
+    "prompt_per_token_ms": 9.976,
+    "prompt_per_second": 100.24057738572573,
+    "predicted_n": 272,
+    "predicted_ms": 2025.254,
+    "predicted_per_token_ms": 7.473261992619926,
+    "predicted_per_second": 133.81037637748153
+  }
+}

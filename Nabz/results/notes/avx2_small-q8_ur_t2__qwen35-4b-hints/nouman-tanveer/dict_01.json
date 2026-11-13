@@ -1,0 +1,55 @@
+{
+  "transcript": "مریز مرد اٹھائی شال پانچ دین سے تیس بخور ہے سر درد اور کمزوری بھی ہے کہندہ ایران پورٹ ٹھانٹ لاغ دیئے اولٹی نہیں ہے دست نہیں ہے ٹیفٹ کا ٹس پورٹی بایا ہے ایکزو میکس ٹھائی پھر حنڈ روزانہ ایک گولی سات دین پینڈول دو گولی دین میں تین بھر جب بخور ہو تین دین بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"5 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"5 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Azomax\",\n      \"strength\": \"1\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"daily\",\"duration\": \"5 days\",\"instructions\": \"take after fever subsides for 3 days, then repeat if fever returns\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Azomax",
+        "strength": "1",
+        "dose": "once daily",
+        "frequency": "daily",
+        "duration": "5 days",
+        "instructions": "take after fever subsides for 3 days, then repeat if fever returns"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 233,
+    "prompt_ms": 126.31,
+    "prompt_per_token_ms": 0.5421030042918455,
+    "prompt_per_second": 1844.6678806111947,
+    "predicted_n": 243,
+    "predicted_ms": 3090.889,
+    "predicted_per_token_ms": 12.772268595041323,
+    "predicted_per_second": 78.29462656213147
+  }
+}

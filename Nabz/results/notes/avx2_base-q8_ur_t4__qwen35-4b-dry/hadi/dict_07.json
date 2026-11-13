@@ -1,0 +1,50 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 2 chest inhalers twice daily\",\n    \"take 3 chest inhalers three times daily\"\n  ],\n  \"follow_up\": \"chest X-ray\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 2 chest inhalers twice daily",
+      "take 3 chest inhalers three times daily"
+    ],
+    "follow_up": "chest X-ray"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 94.73,
+    "prompt_per_token_ms": 0.8237391304347826,
+    "prompt_per_second": 1213.9765649741369,
+    "predicted_n": 207,
+    "predicted_ms": 2608.727,
+    "predicted_per_token_ms": 12.663723300970872,
+    "predicted_per_second": 78.96571776195823
+  }
+}

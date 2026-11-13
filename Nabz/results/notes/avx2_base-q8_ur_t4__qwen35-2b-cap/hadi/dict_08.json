@@ -1,0 +1,57 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"itching\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"itching\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no sputum\",\n    \"no dyspnea\",\n    \"no chest pain\",\n    \"no palpitations\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no constipation\"\n  ],\n  \"findings\": [\n    \"itching\",\n    \"itching\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 2 tablets 3 times daily\",\n    \"drink plenty of water 3 times daily\",\n    \"consult a doctor if symptoms persist for 3 days\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "itching",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no sputum",
+      "no dyspnea",
+      "no chest pain",
+      "no palpitations",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea",
+      "no constipation"
+    ],
+    "findings": [
+      "itching",
+      "itching"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 2 tablets 3 times daily",
+      "drink plenty of water 3 times daily",
+      "consult a doctor if symptoms persist for 3 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 60.365,
+    "prompt_per_token_ms": 0.6288020833333333,
+    "prompt_per_second": 1590.3255197548247,
+    "predicted_n": 282,
+    "predicted_ms": 2044.181,
+    "predicted_per_token_ms": 7.274665480427046,
+    "predicted_per_second": 137.4633655238944
+  }
+}

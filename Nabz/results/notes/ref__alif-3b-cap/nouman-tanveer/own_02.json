@@ -1,0 +1,73 @@
+{
+  "transcript": "Man 35 years, sore throat and fever for 2 days. No cough, no breathing problems. Panadol when there is fever. Warm salt water gargles 3 times a day. Come back if not better in 3 days.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 35}, \"complaints\": [{\"symptom\": \"sore throat\", \"duration\": null}, {\"symptom\": \"fever\", \"duration\": \"2 days\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"panadol\", \"warm salt water gargles 3 times a day\", \"come back if not better in 3 days\"],\"findings\": [\"no cough\", \"no breathing problems\"],\"allergies\": [\"allergies nahi\"],\"medications\": [{\"name\": \"Panadol\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": null}, {\"name\": \"warm salt water gargles\", \"strength\": null, \"dose\": null, \"frequency\": \"3 times a day\", \"duration\": null, \"instructions\": null}],\"drugs_to_avoid\": [\"drugs_to_avoid nahi\"],\"investigations_ordered\": [\"inves_tog nahi\"],\"advice\": [\"come back if not better in 3 days\"],\"follow_up\": \"3 days\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "sore throat",
+        "duration": null
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "panadol",
+      "warm salt water gargles 3 times a day",
+      "come back if not better in 3 days"
+    ],
+    "findings": [
+      "no cough",
+      "no breathing problems"
+    ],
+    "allergies": [
+      "allergies nahi"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "warm salt water gargles",
+        "strength": null,
+        "dose": null,
+        "frequency": "3 times a day",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "drugs_to_avoid nahi"
+    ],
+    "investigations_ordered": [
+      "inves_tog nahi"
+    ],
+    "advice": [
+      "come back if not better in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 251,
+    "prompt_n": 52,
+    "prompt_ms": 31.818,
+    "prompt_per_token_ms": 0.6118846153846154,
+    "prompt_per_second": 1634.2950531145893,
+    "predicted_n": 256,
+    "predicted_ms": 2154.616,
+    "predicted_per_token_ms": 8.449474509803922,
+    "predicted_per_second": 118.35055527295816
+  }
+}

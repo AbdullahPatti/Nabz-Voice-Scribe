@@ -1,0 +1,60 @@
+{
+  "transcript": "مرد 50 سال شوگر کا پرانا مریز نیحارمون شوگر 188 اور کھانے کے بعد 260 پہلے گلائیکو فیش 500 دن میں 500 دن میں دو بار لے رہا ہے اب گلائیکو فیش 1000 دن میں دو بار کھانے کے ساتھ\nشوگر کیس کروانا ہے پیروم میں سن ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hyperglycemia\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"polydipsia\",\n    \"polyuria\",\n    \"polyphagia\",\n    \"weight_loss\",\n    \"nausea\",\n    \"vomiting\",\n    \"abdominal_pain\",\n    \"dizziness\",\n    \"headache\",\n    \"fatigue\"\n  ],\n  \"findings\": [\n    \"blood_glucose_fasting_188\",\n    \"blood_glucose_postprandial_260\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"with meals\",\"duration\": \"500 days\",\"instructions\": \"continue current regimen\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"monitor blood glucose levels\"\n  ],\"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "hyperglycemia",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "polydipsia",
+      "polyuria",
+      "polyphagia",
+      "weight_loss",
+      "nausea",
+      "vomiting",
+      "abdominal_pain",
+      "dizziness",
+      "headache",
+      "fatigue"
+    ],
+    "findings": [
+      "blood_glucose_fasting_188",
+      "blood_glucose_postprandial_260"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "with meals",
+        "duration": "500 days",
+        "instructions": "continue current regimen"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "monitor blood glucose levels"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 192,
+    "prompt_ms": 96.461,
+    "prompt_per_token_ms": 0.5024010416666667,
+    "prompt_per_second": 1990.4417329283337,
+    "predicted_n": 312,
+    "predicted_ms": 3857.506,
+    "predicted_per_token_ms": 12.403556270096463,
+    "predicted_per_second": 80.62203921393773
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "transcript": "انہیں 30 سورٹورکہ پر کچھ دوڑیس میں پر کچھ کچھ پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"weight_loss\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"100mg\",\n      \"frequency\": \"daily\",\n      \"duration\": \"30 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take with food\",\n    \"avoid cold weather\",\n    \"avoid heavy lifting\",\n    \"avoid strenuous exercise\",\n    \"avoid alcohol\",\n    \"avoid smoking\",\n    \"avoid stress\",\n    \"avoid dehydration\",\n    \"avoid unnecessary antibiotics\",\n    \"avoid unnecessary vaccinations\"\n  ],\n  \"follow_up\": \"visit doctor in 30 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "weight_loss",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "30 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "100mg",
+        "frequency": "daily",
+        "duration": "30 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take with food",
+      "avoid cold weather",
+      "avoid heavy lifting",
+      "avoid strenuous exercise",
+      "avoid alcohol",
+      "avoid smoking",
+      "avoid stress",
+      "avoid dehydration",
+      "avoid unnecessary antibiotics",
+      "avoid unnecessary vaccinations"
+    ],
+    "follow_up": "visit doctor in 30 days"
+  },
+  "timings": {
+    "cache_n": 360,
+    "prompt_n": 4,
+    "prompt_ms": 19.84,
+    "prompt_per_token_ms": 4.96,
+    "prompt_per_second": 201.61290322580646,
+    "predicted_n": 616,
+    "predicted_ms": 2806.784,
+    "predicted_per_token_ms": 4.563876422764228,
+    "predicted_per_second": 219.11198011674568
+  }
+}

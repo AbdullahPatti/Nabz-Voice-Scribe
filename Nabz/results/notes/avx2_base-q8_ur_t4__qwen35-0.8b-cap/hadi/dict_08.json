@@ -1,0 +1,119 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"625 mg\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"2 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"hydration\",\n    \"avoid heavy lifting\",\n    \"avoid strenuous exercise\",\n    \"avoid alcohol\",\n    \"avoid spicy food\",\n    \"avoid cold weather\",\n    \"avoid sudden temperature changes\",\n    \"avoid dehydration\",\n    \"avoid dehydration\"\n  ],\n  \"follow_up\": \"2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "625 mg",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "rest",
+      "hydration",
+      "avoid heavy lifting",
+      "avoid strenuous exercise",
+      "avoid alcohol",
+      "avoid spicy food",
+      "avoid cold weather",
+      "avoid sudden temperature changes",
+      "avoid dehydration",
+      "avoid dehydration"
+    ],
+    "follow_up": "2 days"
+  },
+  "timings": {
+    "cache_n": 323,
+    "prompt_n": 4,
+    "prompt_ms": 18.617,
+    "prompt_per_token_ms": 4.65425,
+    "prompt_per_second": 214.85738840844388,
+    "predicted_n": 662,
+    "predicted_ms": 2973.845,
+    "predicted_per_token_ms": 4.499009077155824,
+    "predicted_per_second": 222.2711674616532
+  }
+}

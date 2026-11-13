@@ -1,0 +1,41 @@
+{
+  "transcript": "میں 35 سوٹ روٹ روٹ روٹ for 2 دیز خانسی نہیں ہے اور کوئی سانس کا مسئلہ نہیں ہے پہنڈ اور جب بھی فیوڈ ہو وام سوٹ روٹر کتین دن میں تین بارگر آرے کریں اگر تھیک نہیں ہوتا تو تین دن میں واپس آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"breathing difficulty\",\n    \"cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Vastarel 625 three times a day for 2 days.\",\n    \"If not better, return in 3 days.\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "breathing difficulty",
+      "cough"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Vastarel 625 three times a day for 2 days.",
+      "If not better, return in 3 days."
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 250,
+    "prompt_ms": 107.781,
+    "prompt_per_token_ms": 0.431124,
+    "prompt_per_second": 2319.518282443102,
+    "predicted_n": 187,
+    "predicted_ms": 2250.52,
+    "predicted_per_token_ms": 12.099569892473118,
+    "predicted_per_second": 82.64756589588184
+  }
+}

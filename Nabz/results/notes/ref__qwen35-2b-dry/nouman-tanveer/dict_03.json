@@ -1,0 +1,55 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dast\",\n      \"duration\": \"kal raat se\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"khoon nahi hai\"\n  ],\n  \"findings\": [\n    \"paani ki kami hai\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl\",\n      \"strength\": \"400\",\n      \"dose\": \"teen baar, paanch din\",\"frequency\": \"daily\",\n      \"duration\": \"5 days\",\"instructions\": \"din mein teen baar\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"doodh aur tali hui cheezein\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"ORS ka ek glass har dast ke baad\",\n    \"agar peshab kam ho jaye to foran wapas aayein\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "dast",
+        "duration": "kal raat se"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "khoon nahi hai"
+    ],
+    "findings": [
+      "paani ki kami hai"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "teen baar, paanch din",
+        "frequency": "daily",
+        "duration": "5 days",
+        "instructions": "din mein teen baar"
+      }
+    ],
+    "drugs_to_avoid": [
+      "doodh aur tali hui cheezein"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "ORS ka ek glass har dast ke baad",
+      "agar peshab kam ho jaye to foran wapas aayein"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 350,
+    "prompt_n": 4,
+    "prompt_ms": 40.562,
+    "prompt_per_token_ms": 10.1405,
+    "prompt_per_second": 98.61446674227109,
+    "predicted_n": 294,
+    "predicted_ms": 2257.369,
+    "predicted_per_token_ms": 7.704331058020478,
+    "predicted_per_second": 129.79712222503275
+  }
+}

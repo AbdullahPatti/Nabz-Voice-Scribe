@@ -1,0 +1,64 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"45 days\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"45 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Cefixime\",\n      \"strength\": \"250\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2 times/day\",\"duration\": \"10 days\",\"instructions\": \"take after food\"\n    },\n    {\n      \"name\": \"Cetirizine\",\n      \"strength\": \"10\",\n      \"dose\": \"three times daily\",\n      \"frequency\": \"3 times/day\",\"duration\": \"10 days\",\"instructions\": \"take after food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\"advice\": [\n    \"Stop smoking\"\n  ],\"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "45 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Cefixime",
+        "strength": "250",
+        "dose": "twice daily",
+        "frequency": "2 times/day",
+        "duration": "10 days",
+        "instructions": "take after food"
+      },
+      {
+        "name": "Cetirizine",
+        "strength": "10",
+        "dose": "three times daily",
+        "frequency": "3 times/day",
+        "duration": "10 days",
+        "instructions": "take after food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Stop smoking"
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 124,
+    "prompt_ms": 101.28,
+    "prompt_per_token_ms": 0.8167741935483871,
+    "prompt_per_second": 1224.3285939968403,
+    "predicted_n": 310,
+    "predicted_ms": 3950.436,
+    "predicted_per_token_ms": 12.784582524271846,
+    "predicted_per_second": 78.21921428419546
+  }
+}

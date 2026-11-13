@@ -1,0 +1,46 @@
+{
+  "transcript": "سیارہ سیارہ سیارہ، نیپنے لیے دو منس ورسن سیارہ، نو سوالنگ، نو فیور، پانڈول، دو طیبیٹس، دو دویس دی، لائیت ایک سیارہ سیارہ دیلی کم بہت میں بہت میں بہت میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": null\n    }\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nevirapine\",\n      \"strength\": \"200\",\n      \"dose\": \"twice daily\",\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take care of yourself.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": null
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nevirapine",
+        "strength": "200",
+        "dose": "twice daily",
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take care of yourself."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 88,
+    "prompt_ms": 72.288,
+    "prompt_per_token_ms": 0.8214545454545454,
+    "prompt_per_second": 1217.352810978309,
+    "predicted_n": 200,
+    "predicted_ms": 2702.963,
+    "predicted_per_token_ms": 13.58272864321608,
+    "predicted_per_second": 73.62290937759785
+  }
+}

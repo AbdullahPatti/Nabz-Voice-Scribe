@@ -1,0 +1,16 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 31.352,
+    "prompt_per_token_ms": 0.30737254901960787,
+    "prompt_per_second": 3253.3809645317683,
+    "predicted_n": 800,
+    "predicted_ms": 2958.688,
+    "predicted_per_token_ms": 3.7029887359199,
+    "predicted_per_second": 270.05213121491687
+  }
+}

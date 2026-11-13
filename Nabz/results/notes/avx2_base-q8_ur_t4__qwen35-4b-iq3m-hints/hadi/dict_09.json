@@ -1,0 +1,41 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 night\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest at night\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest at night"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 137,
+    "prompt_ms": 88.16,
+    "prompt_per_token_ms": 0.6435036496350365,
+    "prompt_per_second": 1553.9927404718694,
+    "predicted_n": 151,
+    "predicted_ms": 1866.464,
+    "predicted_per_token_ms": 12.443093333333334,
+    "predicted_per_second": 80.36586829427196
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "transcript": "مارض بائیس آل رات کو ساتھ کی تقلیف اور سیننے سے سیٹی کی آس آتی ہے کہ براہد ہون دیگے بخار نہیں ویلنٹولی انہیلر ضرورت پر دو پف دین میں چارد فاصر زیادہ نہیں رات کو رٹک ایک گولی دول ہور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cervical pain\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"cervical pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 1 tablet twice daily\",\n    \"avoid cough syrup\",\n    \"avoid cough syrup\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cervical pain",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "cervical pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 1 tablet twice daily",
+      "avoid cough syrup",
+      "avoid cough syrup"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 58.631,
+    "prompt_per_token_ms": 0.6107395833333333,
+    "prompt_per_second": 1637.3590762565877,
+    "predicted_n": 230,
+    "predicted_ms": 1739.954,
+    "predicted_per_token_ms": 7.598052401746725,
+    "predicted_per_second": 131.61267481784
+  }
+}

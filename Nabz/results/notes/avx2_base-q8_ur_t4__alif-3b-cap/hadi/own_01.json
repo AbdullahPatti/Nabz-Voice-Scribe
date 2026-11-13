@@ -1,0 +1,92 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 60\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"snipening\",\n            \"duration\": \"months\"\n        },\n        {\n            \"symptom\": \"pain\",\n            \"duration\": \"weeks\"\n        },\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"days\"\n        },\n        {\n            \"symptom\": \"vomiting\",\n            \"duration\": \"days\"\n        },\n        {\n            \"symptom\": \"diarrhea\",\n            \"duration\": \"days\"\n        },\n        {\n            \"symptom\": \"abdominal_pain\",\n            \"duration\": \"days\"\n        },\n        {\n            \"symptom\": \"pain_in_the_back\",\n            \"duration\": \"days\"\n        },\n        {\n            \"symptom\": \"pain_in_the_legs\",\n            \"duration\": \"days\"\n        },\n        {\n            \"symptom\": \"pain_in_the_arm\",\n            \"duration\": \"days\"\n        },\n        {\n            \"symptom\": \"pain_in_the_head\",\n            \"duration\": \"days\"\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"ulty nahi\"\n    ],\n    \"allergies\": [\n        \"no\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"1 time/day\",\n            \"frequency\": \"daily\",\n            \"duration\": \"1 month\",\n            \"instructions\": \"take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"no\"\n    ],\n    \"investigations_ordered\": [\n        \"no\"\n    ],\n    \"advice\": [\n        \"no\"\n    ],\n    \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "snipening",
+        "duration": "months"
+      },
+      {
+        "symptom": "pain",
+        "duration": "weeks"
+      },
+      {
+        "symptom": "fever",
+        "duration": "days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "days"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "days"
+      },
+      {
+        "symptom": "abdominal_pain",
+        "duration": "days"
+      },
+      {
+        "symptom": "pain_in_the_back",
+        "duration": "days"
+      },
+      {
+        "symptom": "pain_in_the_legs",
+        "duration": "days"
+      },
+      {
+        "symptom": "pain_in_the_arm",
+        "duration": "days"
+      },
+      {
+        "symptom": "pain_in_the_head",
+        "duration": "days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "ulty nahi"
+    ],
+    "allergies": [
+      "no"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "1 time/day",
+        "frequency": "daily",
+        "duration": "1 month",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no"
+    ],
+    "investigations_ordered": [
+      "no"
+    ],
+    "advice": [
+      "no"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 96,
+    "prompt_ms": 36.139,
+    "prompt_per_token_ms": 0.3764479166666667,
+    "prompt_per_second": 2656.409972605772,
+    "predicted_n": 425,
+    "predicted_ms": 3453.978,
+    "predicted_per_token_ms": 8.146174528301888,
+    "predicted_per_second": 122.75700655881423
+  }
+}

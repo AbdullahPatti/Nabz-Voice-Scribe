@@ -1,0 +1,52 @@
+{
+  "transcript": "Woman 45 years, headache in the evening for one week. BP 140 over 90. No problem with eyesight, no vomiting. Panadol when needed, eat less salt. BP check again after one week.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"one week\"\n    }\n  ],\n  \"negatives\": [\n    \"no problem with eyesight\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"panadol\",\n      \"strength\": \"as spoken\",\n      \"dose\": \"as spoken\",\"frequency\": \"when needed\",\"duration\": \"as spoken\",\"instructions\": \"take as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"eat less salt\",\n    \"check BP after one week\"\n  ],\"follow_up\": \"BP check after one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "no problem with eyesight",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "panadol",
+        "strength": "as spoken",
+        "dose": "as spoken",
+        "frequency": "when needed",
+        "duration": "as spoken",
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "eat less salt",
+      "check BP after one week"
+    ],
+    "follow_up": "BP check after one week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 65,
+    "prompt_ms": 59.039,
+    "prompt_per_token_ms": 0.9082923076923077,
+    "prompt_per_second": 1100.9671573028,
+    "predicted_n": 246,
+    "predicted_ms": 1881.368,
+    "predicted_per_token_ms": 7.679053061224489,
+    "predicted_per_second": 130.22438991202148
+  }
+}

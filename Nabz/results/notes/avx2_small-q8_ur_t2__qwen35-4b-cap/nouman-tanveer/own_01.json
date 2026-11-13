@@ -1,0 +1,35 @@
+{
+  "transcript": "سیارہ سیارہ سیارہ نیپنے لیے لیکن ایک دلی لیکن ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": null}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": null
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 37,
+    "prompt_ms": 97.473,
+    "prompt_per_token_ms": 2.6344054054054054,
+    "prompt_per_second": 379.59229735413913,
+    "predicted_n": 118,
+    "predicted_ms": 1614.184,
+    "predicted_per_token_ms": 13.796444444444445,
+    "predicted_per_second": 72.48244314155015
+  }
+}

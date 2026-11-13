@@ -1,0 +1,16 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 132\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"132 years\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"132 years\"\n    },\n    {\n      \"symptom\": \"coldness\",\n      \"duration\": \"132 years\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"132 years\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"dryness\",\n    \"cough\",\n    \"post-nasal drip\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nas",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 58.405,
+    "prompt_per_token_ms": 0.5214732142857142,
+    "prompt_per_second": 1917.6440373255714,
+    "predicted_n": 800,
+    "predicted_ms": 4625.064,
+    "predicted_per_token_ms": 5.788565707133918,
+    "predicted_per_second": 172.75436620985136
+  }
+}

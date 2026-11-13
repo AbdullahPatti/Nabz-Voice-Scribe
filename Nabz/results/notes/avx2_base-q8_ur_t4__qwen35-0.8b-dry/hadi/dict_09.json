@@ -1,0 +1,16 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 30.189,
+    "prompt_per_token_ms": 0.32461290322580644,
+    "prompt_per_second": 3080.5922687071447,
+    "predicted_n": 800,
+    "predicted_ms": 3047.73,
+    "predicted_per_token_ms": 3.814430538172716,
+    "predicted_per_second": 262.1623306526497
+  }
+}

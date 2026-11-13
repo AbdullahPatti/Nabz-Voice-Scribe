@@ -1,0 +1,42 @@
+{
+  "transcript": "45 ساتھ سکتے ہیں۔ ہیڈک میں ایک ساتھ سکتے ہیں۔ بیپی 140 اور 90 ساتھ سکتے ہیں۔ کائسرٹ کو پرسی نہیں ہے۔ پیانڈول جب نیدیت، ایوی کی لسی سالت، بیپی ایک چیک اگر بعد ایک ساتھ سکتے ہیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"headache\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"cough\",\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Check BP again after 1 hour\",\n    \"Take medication together\"\n  ],\"follow_up\": \"1 hour\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [
+      "headache",
+      "chest pain",
+      "shortness of breath",
+      "cough",
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Check BP again after 1 hour",
+      "Take medication together"
+    ],
+    "follow_up": "1 hour"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 92,
+    "prompt_ms": 91.835,
+    "prompt_per_token_ms": 0.9982065217391304,
+    "prompt_per_second": 1001.7967006043449,
+    "predicted_n": 180,
+    "predicted_ms": 2143.32,
+    "predicted_per_token_ms": 11.973854748603353,
+    "predicted_per_second": 83.51529402982288
+  }
+}

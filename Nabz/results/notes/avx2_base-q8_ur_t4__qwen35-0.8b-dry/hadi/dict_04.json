@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of heaviness in the chest\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"difficulty breathing\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the neck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of heaviness in the abdomen\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the back\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both arms\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the hands\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in both feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the legs\",\n      \"duration\": \"1",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 30.418,
+    "prompt_per_token_ms": 0.33797777777777777,
+    "prompt_per_second": 2958.7744098888816,
+    "predicted_n": 800,
+    "predicted_ms": 3050.35,
+    "predicted_per_token_ms": 3.817709637046308,
+    "predicted_per_second": 261.9371547527333
+  }
+}

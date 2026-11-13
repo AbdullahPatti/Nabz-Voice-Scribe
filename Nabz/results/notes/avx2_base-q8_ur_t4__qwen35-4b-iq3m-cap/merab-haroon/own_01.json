@@ -1,0 +1,54 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سکیرز نوز ویلن نو فیور پاندول 2 تبلرٹز 2 ایرز اگی لائی تکسرسیز دیلی کم بیکن 1 منگت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain\", \"duration\": \"2 months\"},\n    {\"symptom\": \"swelling\", \"duration\": \"2 months\"},\n    {\"symptom\": \"stiffness\", \"duration\": \"2 months\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Naproxen\", \"strength\": \"500\", \"dose\": \"2\", \"frequency\": \"twice daily\", \"duration\": \"2 months\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"daily exercises\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "swelling",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "stiffness",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Naproxen",
+        "strength": "500",
+        "dose": "2",
+        "frequency": "twice daily",
+        "duration": "2 months",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "daily exercises"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 76,
+    "prompt_ms": 71.968,
+    "prompt_per_token_ms": 0.9469473684210526,
+    "prompt_per_second": 1056.0248999555356,
+    "predicted_n": 221,
+    "predicted_ms": 2905.132,
+    "predicted_per_token_ms": 13.205145454545455,
+    "predicted_per_second": 75.7280564187789
+  }
+}

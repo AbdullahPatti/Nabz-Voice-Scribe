@@ -1,0 +1,16 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"rash\",\n    \"side effects\",\n    \"bloating\",\n    \"nausea\",\n    \"diarrhea\",\n    \"vomiting\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"dizziness\",\n    \"headache\",\n    \"muscle pain\",\n    \"joint pain\",\n    \"swelling\",\n    \"redness\",\n    \"itching\",\n    \"runny nose\",\n    \"sore throat\",\n    \"chest pain\",\n    \"shortness",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 57.357,
+    "prompt_per_token_ms": 0.5121160714285714,
+    "prompt_per_second": 1952.6823229945778,
+    "predicted_n": 800,
+    "predicted_ms": 4614.551,
+    "predicted_per_token_ms": 5.775408010012516,
+    "predicted_per_second": 173.1479400704424
+  }
+}

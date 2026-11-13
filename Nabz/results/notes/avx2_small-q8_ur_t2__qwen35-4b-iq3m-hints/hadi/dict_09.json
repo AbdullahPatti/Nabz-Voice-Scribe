@@ -1,0 +1,44 @@
+{
+  "transcript": "امبرد 22 سال رادکو سانسی تقریف اور سینیس سیٹی کی اواز آتی ہے کبرات ہندی ہے وہ خار نہیں وینٹولین انہلہ رضورت پر دو پف دن میں چار دوہ سی جاتا نہیں رادکو زیٹک ایک گولی دول اور دویں سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"22 years\"},\n    {\"symptom\": \"wheezing in chest\", \"duration\": \"22 years\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take one tablet twice a day\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "22 years"
+      },
+      {
+        "symptom": "wheezing in chest",
+        "duration": "22 years"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take one tablet twice a day"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 151,
+    "prompt_ms": 86.932,
+    "prompt_per_token_ms": 0.5757086092715232,
+    "prompt_per_second": 1736.9898311323793,
+    "predicted_n": 174,
+    "predicted_ms": 2145.023,
+    "predicted_per_token_ms": 12.398976878612718,
+    "predicted_per_second": 80.65181585465517
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cervical lymphadenopathy\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\",\n    \"dry nose\",\n    \"dry eyes\",\n    \"dry mouth\",\n    \"dry throat\"\n  ],\n  \"findings\": [\n    \"cervical lymphadenopathy\",\n    \"sore throat\",\n    \"fever\",\n    \"cough\",\n    \"cervical lymphadenopathy\",\n    \"sore throat\",\n    \"fever\",\n    \"cough\",\n    \"cervical lymphadenopathy\",\n    \"sore throat\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"paracetamol\",\n      \"strength\": \"500 mg\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"3 times daily\",\n      \"duration\": \"unknown\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take paracetamol 500 mg 2 tablets 3 times daily with food\",\n    \"avoid paracetamol 500 mg 2 tablets 3 times daily with food\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cervical lymphadenopathy",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "dry mouth",
+      "dry throat",
+      "dry nose",
+      "dry eyes",
+      "dry mouth",
+      "dry throat",
+      "dry nose",
+      "dry eyes",
+      "dry mouth",
+      "dry throat"
+    ],
+    "findings": [
+      "cervical lymphadenopathy",
+      "sore throat",
+      "fever",
+      "cough",
+      "cervical lymphadenopathy",
+      "sore throat",
+      "fever",
+      "cough",
+      "cervical lymphadenopathy",
+      "sore throat"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "paracetamol",
+        "strength": "500 mg",
+        "dose": "2 tablets",
+        "frequency": "3 times daily",
+        "duration": "unknown",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take paracetamol 500 mg 2 tablets 3 times daily with food",
+      "avoid paracetamol 500 mg 2 tablets 3 times daily with food"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 63.366,
+    "prompt_per_token_ms": 0.5151707317073171,
+    "prompt_per_second": 1941.10406211533,
+    "predicted_n": 462,
+    "predicted_ms": 3138.436,
+    "predicted_per_token_ms": 6.807887201735358,
+    "predicted_per_second": 146.88845017072197
+  }
+}

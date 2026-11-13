@@ -1,0 +1,16 @@
+{
+  "transcript": "مرضہ چاریس آر کال رات سے 10 تلکہ ہیں 8 نو دفا ہو چکے ہیں 10 تلکہ ہون نہیں ہیں جس میں تھوڑا تھوڑی پانی کی کمی ہیں ہر 10 کے بات اور از کا ایک گلاثت فلجل 400 دین میں 3 بار 5 دین دوڑ ہوڑ تلی ہوئی چیزے بان اگر پیشہ آپ کام ہو جائے تو فورن باکس اپنے\nاگئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"10 days\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"8 days\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"10 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"weight loss\",\n    \"blood in stool\",\n    \"rectal bleeding\",\n    \"abdominal mass\",\n    \"abdominal tenderness\",\n    \"abdominal rigidity\",\n    \"abdominal rebound\",\n    \"abdominal guarding\",\n    \"abdominal distension\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n   ",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 129,
+    "prompt_ms": 61.317,
+    "prompt_per_token_ms": 0.47532558139534886,
+    "prompt_per_second": 2103.821126278194,
+    "predicted_n": 800,
+    "predicted_ms": 4700.347,
+    "predicted_per_token_ms": 5.882787234042553,
+    "predicted_per_second": 169.9874498627442
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"one week\"\n    }\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"bukhar\",\n    \"ulti\"\n  ],\n  \"findings\": [\n    \"abdominal pain\",\n    \"abdominal tenderness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"angin\",\n      \"strength\": \"one week\",\n      \"dose\": \"one forty over ninety\",\n      \"frequency\": \"every one week\",\"duration\": \"one week\",\"instructions\": \"take as prescribed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue angin as prescribed\",\n    \"monitor for abdominal pain\"\n  ],\"follow_up\": \"one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "bukhar",
+      "ulti"
+    ],
+    "findings": [
+      "abdominal pain",
+      "abdominal tenderness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "angin",
+        "strength": "one week",
+        "dose": "one forty over ninety",
+        "frequency": "every one week",
+        "duration": "one week",
+        "instructions": "take as prescribed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue angin as prescribed",
+      "monitor for abdominal pain"
+    ],
+    "follow_up": "one week"
+  },
+  "timings": {
+    "cache_n": 280,
+    "prompt_n": 4,
+    "prompt_ms": 40.551,
+    "prompt_per_token_ms": 10.13775,
+    "prompt_per_second": 98.64121723262065,
+    "predicted_n": 259,
+    "predicted_ms": 1981.855,
+    "predicted_per_token_ms": 7.681608527131783,
+    "predicted_per_second": 130.18106773704434
+  }
+}

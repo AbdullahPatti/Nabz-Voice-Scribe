@@ -1,0 +1,35 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain in the back\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "pain in the back",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 82,
+    "prompt_ms": 74.84,
+    "prompt_per_token_ms": 0.9126829268292683,
+    "prompt_per_second": 1095.6707642971671,
+    "predicted_n": 121,
+    "predicted_ms": 1641.532,
+    "predicted_per_token_ms": 13.679433333333332,
+    "predicted_per_second": 73.10244332733082
+  }
+}

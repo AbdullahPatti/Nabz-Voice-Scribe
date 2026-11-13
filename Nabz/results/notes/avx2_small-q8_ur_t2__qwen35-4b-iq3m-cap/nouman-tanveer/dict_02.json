@@ -1,0 +1,59 @@
+{
+  "transcript": "خطون 34 سال تین دن سے بخوا ہے جس ہم میں درد اور آنکھوں کے پیچھے درد پلیٹلاس پچانوے ہزار ہیں کہی سے خون نہیں آرہا صرف پناڈول دو گولی دن میں تین بار بروفن بلکل نہیں لینا دسپرین بھی نہیں پانی زیادہ پیئے کل خون کا ٹیس دوبارہ کرونا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": \"2 tablets\", \"frequency\": \"3 times a day\", \"duration\": null, \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Ibuprofen\",\n    \"Dipyrone\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC (blood test)\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\",\n    \"follow up for Corona\"\n  ],\n  \"follow_up\": \"return for blood test\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "3 times a day",
+        "duration": null,
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ibuprofen",
+      "Dipyrone"
+    ],
+    "investigations_ordered": [
+      "CBC (blood test)"
+    ],
+    "advice": [
+      "drink plenty of water",
+      "follow up for Corona"
+    ],
+    "follow_up": "return for blood test"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 104,
+    "prompt_ms": 77.412,
+    "prompt_per_token_ms": 0.7443461538461539,
+    "prompt_per_second": 1343.460962124735,
+    "predicted_n": 253,
+    "predicted_ms": 3081.545,
+    "predicted_per_token_ms": 12.228353174603175,
+    "predicted_per_second": 81.77716048280976
+  }
+}

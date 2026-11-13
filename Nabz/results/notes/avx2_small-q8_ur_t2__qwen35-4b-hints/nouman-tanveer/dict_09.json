@@ -1,0 +1,53 @@
+{
+  "transcript": "مرد بائیسہ رات کو سانچ کی تقریف اور سینے سے سیٹی کی آتی ہے گبراد ہوندی یہ بخار نہیں ویلنٹولی انہلر ضرورت پر دو پف دین میں چار دفاسے زیادہ نہیں رات کو رٹک ایک گولی دول اور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"night\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": \"not specified\",\n      \"dose\": \"as needed\",\n      \"frequency\": \"not specified\",\"duration\": \"not specified\",\"instructions\": \"inhaler\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"do not take more than 4 doses in a day\",\n    \"take one tablet at night\"\n  ],\"follow_up\": \"not specified\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "not specified",
+        "dose": "as needed",
+        "frequency": "not specified",
+        "duration": "not specified",
+        "instructions": "inhaler"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "do not take more than 4 doses in a day",
+      "take one tablet at night"
+    ],
+    "follow_up": "not specified"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 152,
+    "prompt_ms": 107.779,
+    "prompt_per_token_ms": 0.7090723684210526,
+    "prompt_per_second": 1410.2932853338777,
+    "predicted_n": 239,
+    "predicted_ms": 3033.477,
+    "predicted_per_token_ms": 12.74570168067227,
+    "predicted_per_second": 78.4578224921435
+  }
+}

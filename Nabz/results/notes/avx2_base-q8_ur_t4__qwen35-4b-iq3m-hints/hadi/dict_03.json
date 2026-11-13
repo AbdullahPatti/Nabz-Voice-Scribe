@@ -1,0 +1,74 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"itching\", \"duration\": \"4 years\"},\n    {\"symptom\": \"worse at night\", \"duration\": \"last night\"},\n    {\"symptom\": \"scratching\", \"duration\": \"multiple times\"},\n    {\"symptom\": \"no pain in hands\", \"duration\": \"current episode\"},\n    {\"symptom\": \"swelling in hands\", \"duration\": \"current episode\"},\n    {\"symptom\": \"worse after water contact\", \"duration\": \"current episode\"},\n    {\"symptom\": \"itching after scratching\", \"duration\": \"current episode\"},\n    {\"symptom\": \"itching in 3 areas\", \"duration\": \"current episode\"},\n    {\"symptom\": \"itching for 5 days\", \"duration\": \"current episode\"}\n  ],\n  \"negatives\": [\n    \"pain in hands\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid water contact\",\n    \"avoid scratching\",\n    \"avoid scratching in 3 areas\",\n    \"stop for 5 days\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "worse at night",
+        "duration": "last night"
+      },
+      {
+        "symptom": "scratching",
+        "duration": "multiple times"
+      },
+      {
+        "symptom": "no pain in hands",
+        "duration": "current episode"
+      },
+      {
+        "symptom": "swelling in hands",
+        "duration": "current episode"
+      },
+      {
+        "symptom": "worse after water contact",
+        "duration": "current episode"
+      },
+      {
+        "symptom": "itching after scratching",
+        "duration": "current episode"
+      },
+      {
+        "symptom": "itching in 3 areas",
+        "duration": "current episode"
+      },
+      {
+        "symptom": "itching for 5 days",
+        "duration": "current episode"
+      }
+    ],
+    "negatives": [
+      "pain in hands"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid water contact",
+      "avoid scratching",
+      "avoid scratching in 3 areas",
+      "stop for 5 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 150,
+    "prompt_ms": 95.145,
+    "prompt_per_token_ms": 0.6343,
+    "prompt_per_second": 1576.5410688948448,
+    "predicted_n": 322,
+    "predicted_ms": 3750.666,
+    "predicted_per_token_ms": 11.684317757009346,
+    "predicted_per_second": 85.58480013949521
+  }
+}

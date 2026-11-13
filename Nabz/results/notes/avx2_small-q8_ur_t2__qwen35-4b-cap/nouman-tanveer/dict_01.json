@@ -1,0 +1,55 @@
+{
+  "transcript": "مریز مرد اٹھائی شال پانچ دین سے تیس بخور ہے سر درد اور کمزوری بھی ہے کہندہ ایران پورٹ ٹھانٹ لاغ دیئے اولٹی نہیں ہے دست نہیں ہے ٹیفٹ کا ٹس پورٹی بایا ہے ایکزو میکس ٹھائی پھر حنڈ روزانہ ایک گولی سات دین پینڈول دو گولی دین میں تین بھر جب بخور ہو تین دین بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"5 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"5 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"5 days\",\"instructions\": \"take after fever subsides for 3 days, then repeat if fever returns\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": \"return if fever returns after 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet twice daily",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take after fever subsides for 3 days, then repeat if fever returns"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "return if fever returns after 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 128,
+    "prompt_ms": 98.87,
+    "prompt_per_token_ms": 0.772421875,
+    "prompt_per_second": 1294.629311216749,
+    "predicted_n": 257,
+    "predicted_ms": 3269.261,
+    "predicted_per_token_ms": 12.77055078125,
+    "predicted_per_second": 78.30515826053656
+  }
+}

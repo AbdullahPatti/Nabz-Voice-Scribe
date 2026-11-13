@@ -1,0 +1,16 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 98,
+    "prompt_ms": 58.251,
+    "prompt_per_token_ms": 0.5943979591836734,
+    "prompt_per_second": 1682.3745515098453,
+    "predicted_n": 800,
+    "predicted_ms": 4616.265,
+    "predicted_per_token_ms": 5.777553191489362,
+    "predicted_per_second": 173.083650960246
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "transcript": "مرد 45 سال 1 ہفتے سے خواہنسی پیلا بلگو مرحل کا بہار سان سے ہی پھولتا سینے کے دائی طرح پواد آرہی ہے اگر میں انڈن چیسو پچھس دن میں دو بار پانچ دن خواہنسی کا صرف دو چمجھ دن میں تین بار سیگرٹ بند کرنی ہے چیسٹ ٹیکسٹرے کروالیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"smoking\", \"duration\": \"1 week\"},\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Chest X-Ray\"\n  ],\n  \"advice\": [\n    \"Stop smoking for 2 days\",\n    \"Stop smoking for 5 days\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "smoking",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Chest X-Ray"
+    ],
+    "advice": [
+      "Stop smoking for 2 days",
+      "Stop smoking for 5 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 78.384,
+    "prompt_per_token_ms": 0.6936637168141593,
+    "prompt_per_second": 1441.6207389263116,
+    "predicted_n": 191,
+    "predicted_ms": 2304.517,
+    "predicted_per_token_ms": 12.129036842105263,
+    "predicted_per_second": 82.44677735074205
+  }
+}

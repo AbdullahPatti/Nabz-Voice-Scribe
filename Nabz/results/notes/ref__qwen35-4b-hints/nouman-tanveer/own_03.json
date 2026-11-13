@@ -1,0 +1,52 @@
+{
+  "transcript": "Woman 45 years, headache in the evening for one week. BP 140 over 90. No problem with eyesight, no vomiting. Panadol when needed, eat less salt. BP check again after one week.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"eyesight\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": null,\n      \"dose\": \"as needed\",\"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"recheck BP in 1 week\"\n  ],\"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "eyesight"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "as needed",
+        "frequency": null,
+        "duration": null,
+        "instructions": "as needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake",
+      "recheck BP in 1 week"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 476,
+    "prompt_n": 4,
+    "prompt_ms": 58.974,
+    "prompt_per_token_ms": 14.7435,
+    "prompt_per_second": 67.82649981347713,
+    "predicted_n": 237,
+    "predicted_ms": 2956.303,
+    "predicted_per_token_ms": 12.526707627118643,
+    "predicted_per_second": 79.82943561603801
+  }
+}

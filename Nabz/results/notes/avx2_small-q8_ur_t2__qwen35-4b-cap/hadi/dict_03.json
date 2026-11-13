@@ -1,0 +1,47 @@
+{
+  "transcript": "مر چارے سال کل راتلے دست لگے ہیں، 8 نون دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جیسے میں تھوڑے پانی کی کمی ہے ہر دست کے بعد ہوا رہا ہے اس کا ایک گلاس فلیجل چارس دن میں تین بار پانچ دن دوس اور تلیوی چیزیں بند اگر بشاہب کم ہو جاتا تو فوراً واپس نائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"4 years\"},\n    {\"symptom\": \"dehydration\", \"duration\": \"after each episode\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink one glass of oral rehydration salts (ORS) four times a day\",\n    \"avoid solid foods for 3 days\",\n    \"avoid other foods for 5 days\",\n    \"return immediately if symptoms improve\"\n  ],\n  \"follow_up\": \"return if symptoms improve\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "after each episode"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink one glass of oral rehydration salts (ORS) four times a day",
+      "avoid solid foods for 3 days",
+      "avoid other foods for 5 days",
+      "return immediately if symptoms improve"
+    ],
+    "follow_up": "return if symptoms improve"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 118,
+    "prompt_ms": 115.813,
+    "prompt_per_token_ms": 0.9814661016949153,
+    "prompt_per_second": 1018.8838904095395,
+    "predicted_n": 214,
+    "predicted_ms": 2626.909,
+    "predicted_per_token_ms": 12.332906103286385,
+    "predicted_per_second": 81.08388984924868
+  }
+}

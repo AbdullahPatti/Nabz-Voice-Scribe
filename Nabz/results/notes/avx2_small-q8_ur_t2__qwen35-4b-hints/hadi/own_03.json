@@ -1,0 +1,56 @@
+{
+  "transcript": "اورت 45 سال شام کا طائم ہیٹیک اک ہفتے سے بیپی 140 over 90 آئیسرٹ میں کوئی مسئلہ نہیں اور نو اولٹی پیناڈال جب ضرورت پڑے اور نمک کام کھائیں بیپی ایک ہفتے بعد پھر چیک کروائے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no palpitations\",\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Tritace\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take at night\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check in 1 week\"\n  ],\n  \"advice\": [\n    \"take Panadol if needed\",\n    \"reduce salt intake\"\n  ],\"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no palpitations",
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Tritace",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check in 1 week"
+    ],
+    "advice": [
+      "take Panadol if needed",
+      "reduce salt intake"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 152,
+    "prompt_ms": 106.7,
+    "prompt_per_token_ms": 0.7019736842105263,
+    "prompt_per_second": 1424.554826616682,
+    "predicted_n": 265,
+    "predicted_ms": 3262.074,
+    "predicted_per_token_ms": 12.356340909090909,
+    "predicted_per_second": 80.93010765543637
+  }
+}

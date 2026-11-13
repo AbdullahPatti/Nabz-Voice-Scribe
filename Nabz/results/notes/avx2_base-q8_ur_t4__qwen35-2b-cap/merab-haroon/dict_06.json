@@ -1,0 +1,72 @@
+{
+  "transcript": "ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"itching\",\n    \"dry mouth\",\n    \"cough\",\n    \"runny nose\",\n    \"sore throat\"\n  ],\n  \"findings\": [\n    \"abdominal tenderness\",\n    \"abdominal distension\",\n    \"abdominal pain\",\n    \"abdominal mass\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy food\",\n    \"avoid fatty foods\",\n    \"avoid fried foods\",\n    \"avoid alcohol\",\n    \"avoid caffeine\",\n    \"avoid dairy products\",\n    \"avoid gas\",\n    \"avoid gas\",\n    \"avoid gas\",\n    \"avoid gas\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "constipation",
+      "itching",
+      "dry mouth",
+      "cough",
+      "runny nose",
+      "sore throat"
+    ],
+    "findings": [
+      "abdominal tenderness",
+      "abdominal distension",
+      "abdominal pain",
+      "abdominal mass",
+      "abdominal pain",
+      "abdominal pain",
+      "abdominal pain",
+      "abdominal pain",
+      "abdominal pain",
+      "abdominal pain"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy food",
+      "avoid fatty foods",
+      "avoid fried foods",
+      "avoid alcohol",
+      "avoid caffeine",
+      "avoid dairy products",
+      "avoid gas",
+      "avoid gas",
+      "avoid gas",
+      "avoid gas"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 59.622,
+    "prompt_per_token_ms": 0.5788543689320388,
+    "prompt_per_second": 1727.5502331354196,
+    "predicted_n": 372,
+    "predicted_ms": 2521.638,
+    "predicted_per_token_ms": 6.796867924528302,
+    "predicted_per_second": 147.12658993876204
+  }
+}

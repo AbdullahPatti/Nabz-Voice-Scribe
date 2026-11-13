@@ -1,0 +1,56 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Pait ke upar jalan hoti hai, khane ke baad zyada\",\n      \"duration\": \"20 subah khali pait, do hafte\"\n    },\n    {\n      \"symptom\": \"Risek 20 subah khali, do hafte\",\n      \"duration\": \"Raat ko Gaviscon ke do chamach\"\n    },\n    {\n      \"symptom\": \"Chai aur mirch kam karein\",\n      \"duration\": \"20 subah\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"wazan kam nahi hua\"\n  ],\n  \"findings\": [\n    \"Pait ke upar jalan hoti hai, khane ke baad zyada\",\n    \"Risek 20 subah khali, do hafte\",\n    \"Raat ko Gaviscon ke do chamach\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Pait ke upar jalan hoti hai, khane ke baad zyada\",\n    \"Risek 20 subah khali, do hafte\",\n    \"Raat ko Gaviscon ke do chamach\",\n    \"Chai aur mirch kam karein\"\n  ],\n  \"follow_up\": \"20 subah\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "Pait ke upar jalan hoti hai, khane ke baad zyada",
+        "duration": "20 subah khali pait, do hafte"
+      },
+      {
+        "symptom": "Risek 20 subah khali, do hafte",
+        "duration": "Raat ko Gaviscon ke do chamach"
+      },
+      {
+        "symptom": "Chai aur mirch kam karein",
+        "duration": "20 subah"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "wazan kam nahi hua"
+    ],
+    "findings": [
+      "Pait ke upar jalan hoti hai, khane ke baad zyada",
+      "Risek 20 subah khali, do hafte",
+      "Raat ko Gaviscon ke do chamach"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Pait ke upar jalan hoti hai, khane ke baad zyada",
+      "Risek 20 subah khali, do hafte",
+      "Raat ko Gaviscon ke do chamach",
+      "Chai aur mirch kam karein"
+    ],
+    "follow_up": "20 subah"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 32.961,
+    "prompt_per_token_ms": 0.3080467289719626,
+    "prompt_per_second": 3246.2607323806924,
+    "predicted_n": 395,
+    "predicted_ms": 1900.482,
+    "predicted_per_token_ms": 4.8235583756345175,
+    "predicted_per_second": 207.3158283003996
+  }
+}

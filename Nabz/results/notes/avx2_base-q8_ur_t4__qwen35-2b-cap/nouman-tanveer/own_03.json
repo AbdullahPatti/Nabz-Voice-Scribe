@@ -1,0 +1,41 @@
+{
+  "transcript": "ویمان ویمان ویمان ویمان ویمان ویمان",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"multiple days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue vomiting\",\n    \"seek medical attention\"\n  ],\n  \"follow_up\": \"immediate\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "vomiting",
+        "duration": "multiple days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue vomiting",
+      "seek medical attention"
+    ],
+    "follow_up": "immediate"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 28,
+    "prompt_ms": 56.457,
+    "prompt_per_token_ms": 2.0163214285714286,
+    "prompt_per_second": 495.95267194502014,
+    "predicted_n": 166,
+    "predicted_ms": 1307.03,
+    "predicted_per_token_ms": 7.92139393939394,
+    "predicted_per_second": 126.24040764175268
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no nausea\",\n    \"no vomiting\",\n    \"no chest pain\"\n  ],\n  \"findings\": [\n    \"BP 100/60\",\n    \"dizziness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take BP medication twice daily\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no nausea",
+      "no vomiting",
+      "no chest pain"
+    ],
+    "findings": [
+      "BP 100/60",
+      "dizziness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take BP medication twice daily"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 87,
+    "prompt_ms": 93.889,
+    "prompt_per_token_ms": 1.0791839080459769,
+    "prompt_per_second": 926.62612233595,
+    "predicted_n": 183,
+    "predicted_ms": 2325.788,
+    "predicted_per_token_ms": 12.779054945054945,
+    "predicted_per_second": 78.25304799921575
+  }
+}

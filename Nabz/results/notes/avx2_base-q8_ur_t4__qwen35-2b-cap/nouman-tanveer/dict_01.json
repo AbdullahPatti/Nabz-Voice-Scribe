@@ -1,0 +1,113 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"chest tightness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"shortness of breath\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"dyspnea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"chest tightness\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no dyspnea\",\n    \"no chest tightness\",\n    \"no headache\",\n    \"no weakness\",\n    \"no fatigue\",\n    \"no nausea\"\n  ],\n  \"findings\": [\n    \"fever\",\n    \"headache\",\n    \"weakness\",\n    \"fatigue\",\n    \"cough\",\n    \"chest tightness\",\n    \"shortness of breath\",\n    \"dyspnea\",\n    \"chest pain\",\n    \"chest tightness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625 mg\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"daily\",\n      \"duration\": \"1 day\",\n      \"instructions\": \"take 1 tablet daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\",\n    \"take 1 tablet of Augmentin 625 mg daily\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "dyspnea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no chest pain",
+      "no shortness of breath",
+      "no dyspnea",
+      "no chest tightness",
+      "no headache",
+      "no weakness",
+      "no fatigue",
+      "no nausea"
+    ],
+    "findings": [
+      "fever",
+      "headache",
+      "weakness",
+      "fatigue",
+      "cough",
+      "chest tightness",
+      "shortness of breath",
+      "dyspnea",
+      "chest pain",
+      "chest tightness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625 mg",
+        "dose": "1 tablet",
+        "frequency": "daily",
+        "duration": "1 day",
+        "instructions": "take 1 tablet daily"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily",
+      "take 1 tablet of Augmentin 625 mg daily"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 134,
+    "prompt_ms": 64.579,
+    "prompt_per_token_ms": 0.48193283582089547,
+    "prompt_per_second": 2074.9779340033137,
+    "predicted_n": 754,
+    "predicted_ms": 4594.333,
+    "predicted_per_token_ms": 6.101371845949535,
+    "predicted_per_second": 163.89756685029144
+  }
+}

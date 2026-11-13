@@ -1,0 +1,41 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 37\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no dizziness\",\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take paracetamol at night\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 37
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no dizziness",
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take paracetamol at night"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 94.576,
+    "prompt_per_token_ms": 1.0508444444444445,
+    "prompt_per_second": 951.6156318727797,
+    "predicted_n": 156,
+    "predicted_ms": 2012.334,
+    "predicted_per_token_ms": 12.982800000000001,
+    "predicted_per_second": 77.02498690575221
+  }
+}

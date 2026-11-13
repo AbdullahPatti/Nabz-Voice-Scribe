@@ -1,0 +1,16 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"swelling\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"dry hands\",\n    \"no pus\",\n    \"no fever\",\n    \"no cough\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no nausea\",\n    \"no headache\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no confusion\",\n    \"no weakness\",\n    \"no fatigue\",\n    \"no loss of appetite\",\n    \"no weight loss\",\n    \"no night sweats\",\n    \"no joint pain\",\n    \"no rash\",\n    \"no skin lesions\",\n    \"no lymphadenopathy\",\n    \"no hepatosplenomegaly\",\n    \"no abdominal pain\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",\n    \"no hematochezia\",\n    \"no melena\",\n    \"no hematemesis\",",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 57.752,
+    "prompt_per_token_ms": 0.5661960784313725,
+    "prompt_per_second": 1766.1726000831138,
+    "predicted_n": 800,
+    "predicted_ms": 4671.75,
+    "predicted_per_token_ms": 5.8469962453066335,
+    "predicted_per_second": 171.02798737089955
+  }
+}

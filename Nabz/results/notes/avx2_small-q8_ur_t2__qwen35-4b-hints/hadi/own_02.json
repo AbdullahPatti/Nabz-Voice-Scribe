@@ -1,0 +1,42 @@
+{
+  "transcript": "میں 35 سوٹ روٹ روٹ روٹ for 2 دیز خانسی نہیں ہے اور کوئی سانس کا مسئلہ نہیں ہے پہنڈ اور جب بھی فیوڈ ہو وام سوٹ روٹر کتین دن میں تین بارگر آرے کریں اگر تھیک نہیں ہوتا تو تین دن میں واپس آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"breathing difficulty\",\n    \"runny nose\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take 3 tablets of Vastarel 3 times a day for 3 days.\",\n    \"Return in 3 days if symptoms do not improve.\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "breathing difficulty",
+      "runny nose"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take 3 tablets of Vastarel 3 times a day for 3 days.",
+      "Return in 3 days if symptoms do not improve."
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 250,
+    "prompt_ms": 131.018,
+    "prompt_per_token_ms": 0.524072,
+    "prompt_per_second": 1908.134760109298,
+    "predicted_n": 185,
+    "predicted_ms": 2326.114,
+    "predicted_per_token_ms": 12.64192391304348,
+    "predicted_per_second": 79.1018840865065
+  }
+}

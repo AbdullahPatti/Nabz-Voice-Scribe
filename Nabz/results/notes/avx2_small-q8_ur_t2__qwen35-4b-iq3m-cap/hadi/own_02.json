@@ -1,0 +1,41 @@
+{
+  "transcript": "میں 35 سوٹ روٹ روٹ روٹ for 2 دیز خانسی نہیں ہے اور کوئی سانس کا مسئلہ نہیں ہے پہنڈ اور جب بھی فیوڈ ہو وام سوٹ روٹر کتین دن میں تین بارگر آرے کریں اگر تھیک نہیں ہوتا تو تین دن میں واپس آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"dysuria\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no dysuria\",\n    \"no respiratory symptoms\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 3 tablets 3 times a day\",\n    \"return in 3 days if not improved\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no dysuria",
+      "no respiratory symptoms"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 3 tablets 3 times a day",
+      "return in 3 days if not improved"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 74.765,
+    "prompt_per_token_ms": 0.795372340425532,
+    "prompt_per_second": 1257.2727880692837,
+    "predicted_n": 173,
+    "predicted_ms": 2134.821,
+    "predicted_per_token_ms": 12.41175,
+    "predicted_per_second": 80.5688158398292
+  }
+}

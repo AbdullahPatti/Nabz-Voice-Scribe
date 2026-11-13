@@ -1,0 +1,67 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"shortness of breath\",\n      \"duration\": \"nighttime\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"nighttime\"\n    },\n    {\n      \"symptom\": \"chills\",\n      \"duration\": \"nighttime\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": \"625\",\n      \"dose\": \"4 times daily\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"as needed\",\n      \"instructions\": \"avoid dust and smoke\"\n    },\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"1\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"nighttime\",\n      \"duration\": \"as needed\",\n      \"instructions\": \"avoid dust and smoke\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"dust\",\n    \"smoke\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid dust and smoke\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "cough",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "chills",
+        "duration": "nighttime"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "625",
+        "dose": "4 times daily",
+        "frequency": "as needed",
+        "duration": "as needed",
+        "instructions": "avoid dust and smoke"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": "1",
+        "dose": "1 tablet",
+        "frequency": "nighttime",
+        "duration": "as needed",
+        "instructions": "avoid dust and smoke"
+      }
+    ],
+    "drugs_to_avoid": [
+      "dust",
+      "smoke"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid dust and smoke"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 331,
+    "prompt_n": 4,
+    "prompt_ms": 42.148,
+    "prompt_per_token_ms": 10.537,
+    "prompt_per_second": 94.90367277213628,
+    "predicted_n": 358,
+    "predicted_ms": 2640.694,
+    "predicted_per_token_ms": 7.396901960784314,
+    "predicted_per_second": 135.19173368818954
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 31\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"runny nose\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"dry mouth\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"itchy throat\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"sore ear\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"earache\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"ear pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"ear infection\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"runny nose\",\n    \"dry mouth\",\n    \"itchy throat\",\n    \"sore throat\",\n    \"sore ear\",\n    \"earache\",\n    \"ear pain\",\n    \"ear infection\"\n  ],\n  \"findings\": [\n    \"no fever\",\n    \"no cough\",\n    \"no runny nose\",\n    \"no dry mouth\",\n    \"no itchy throat\",\n    \"no sore throat\",\n    \"no sore ear\",\n    \"no earache\",\n    \"no ear pain\",\n    \"no ear infection\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"not taken\",\"frequency\": \"not taken\",\"duration\": \"not taken\",\"instructions\": \"not taken\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take medicine as prescribed\",\n    \"avoid taking Augmentin 625\",\n    \"consult doctor if symptoms persist\"\n  ],\"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 31
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "runny nose",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "dry mouth",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "itchy throat",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "sore ear",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "earache",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "ear pain",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "ear infection",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "runny nose",
+      "dry mouth",
+      "itchy throat",
+      "sore throat",
+      "sore ear",
+      "earache",
+      "ear pain",
+      "ear infection"
+    ],
+    "findings": [
+      "no fever",
+      "no cough",
+      "no runny nose",
+      "no dry mouth",
+      "no itchy throat",
+      "no sore throat",
+      "no sore ear",
+      "no earache",
+      "no ear pain",
+      "no ear infection"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "not taken",
+        "frequency": "not taken",
+        "duration": "not taken",
+        "instructions": "not taken"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take medicine as prescribed",
+      "avoid taking Augmentin 625",
+      "consult doctor if symptoms persist"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 61.831,
+    "prompt_per_token_ms": 0.6003009708737864,
+    "prompt_per_second": 1665.8310556193494,
+    "predicted_n": 609,
+    "predicted_ms": 3992.413,
+    "predicted_per_token_ms": 6.56646875,
+    "predicted_per_second": 152.28885388360374
+  }
+}

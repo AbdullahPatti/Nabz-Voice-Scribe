@@ -1,0 +1,16 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"2 weeks\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"2 weeks\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal tenderness\",\n    \"abdominal distension\",\n    \"abdominal mass\",\n    \"jaundice\",\n    \"anorexia\",\n    \"fatigue\",\n    \"dizziness\",\n    \"headache\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"palpitations\",\n    \"syncope\",\n    \"altered mental status\",\n    \"confusion\",\n    \"hallucinations\",\n    \"seizures\",\n    \"shock\",\n    \"hypotension\",\n    \"hypertension\",\n    \"tachycardia\",\n    \"bradycardia\",\n    \"hypoxia\",\n    \"hypercapnia\",\n    \"hypoglycemia\",\n    \"hyperglycemia\",\n    \"hyperlipidemia\",\n    \"hypocalcemia\",\n    \"hyponatremia\",\n    \"hyperkalemia\",\n    \"hypocalciuria\",\n    \"hypercalcemia\",\n    \"hypophosphatemia\",\n    \"hypomagnesemia\",\n    \"hypochloremia\",\n    \"hyperchloremia\",\n    \"metabolic acidosis\",\n    \"metabolic alkalosis\",\n    \"respiratory acidosis\",\n    \"respiratory alkalosis\",\n    \"renal failure\",\n    \"hepatic failure\",\n    \"cardiac failure\",\n    \"pulmonary failure\",\n    \"neurological deficit\",\n    \"sensory deficit\",\n    \"motor deficit\",\n    \"cognitive deficit\",\n    \"psychiatric disorder\",\n    \"psychotic disorder\",\n    \"depression\",\n    \"anxiety\",\n    \"insomnia\",\n    \"sleep disturbance\",\n    \"fatigue\",\n    \"dizziness\",\n    \"headache\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"palpitations\",\n    \"syncope\",\n    \"altered mental status\",\n    \"confusion\",\n    \"hallucinations\",\n    \"seizures\",\n    \"shock\",\n    \"hypotension\",\n    \"hypertension\",\n    \"tachycardia\",\n    \"bradycardia\",\n    \"hypoxia\",\n    \"hypercapnia\",\n    \"hypoglycemia\",\n    \"hyperglycemia\",\n    \"hyperlipidemia\",\n    \"hypocalcemia\",\n    \"hyponatremia\",\n    \"hyperkalemia\",\n    \"hypocalciuria\",\n    \"hypercalcemia\",\n    \"hypophosphatemia\",\n    \"hypomagnesemia\",\n    \"hypochloremia\",\n    \"hyperchloremia\",\n    \"metabolic acidosis\",\n    \"metabolic alkalosis\",\n    \"respiratory acidosis\",\n    \"respiratory alkalosis\",\n    \"renal failure\",\n    \"hepatic failure\",\n    \"cardiac failure\",\n    \"pulmonary failure\",\n    \"neuro",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 99,
+    "prompt_ms": 56.734,
+    "prompt_per_token_ms": 0.5730707070707071,
+    "prompt_per_second": 1744.985370324673,
+    "predicted_n": 800,
+    "predicted_ms": 4597.213,
+    "predicted_per_token_ms": 5.753708385481852,
+    "predicted_per_second": 173.80095288166984
+  }
+}

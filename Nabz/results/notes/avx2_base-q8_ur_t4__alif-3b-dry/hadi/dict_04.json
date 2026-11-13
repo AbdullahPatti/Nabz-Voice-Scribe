@@ -1,0 +1,60 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": null\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\"بُخار نہیں\"],\n    \"findings\": [\"چکر نہیں آتے سینی میں ترد نہیں ہے\"],\n    \"allergies\": [\"نہیں\"],\n    \"medications\": [\n        {\n            \"name\": \"بیپی دوارہ چکھا ہے\",\n            \"strength\": null,\n            \"dose\": null,\n            \"frequency\": null,\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\"نورویس کپانچ\"],\n    \"investigations_ordered\": [\"نہیں\"],\n    \"advice\": [\"نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے\"],\n    \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے",
+        "duration": null
+      },
+      {
+        "symptom": "نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "بُخار نہیں"
+    ],
+    "findings": [
+      "چکر نہیں آتے سینی میں ترد نہیں ہے"
+    ],
+    "allergies": [
+      "نہیں"
+    ],
+    "medications": [
+      {
+        "name": "بیپی دوارہ چکھا ہے",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "نورویس کپانچ"
+    ],
+    "investigations_ordered": [
+      "نہیں"
+    ],
+    "advice": [
+      "نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 125,
+    "prompt_ms": 41.807,
+    "prompt_per_token_ms": 0.33445600000000003,
+    "prompt_per_second": 2989.929916042768,
+    "predicted_n": 395,
+    "predicted_ms": 3351.698,
+    "predicted_per_token_ms": 8.50684771573604,
+    "predicted_per_second": 117.55235704410123
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "transcript": "مرد چالے سال کل راد سے دست لگی ہیں آتنو دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جسہ میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اور اس ایک گلاس فلیجل چارسو دن میں تین بار پانچ دن دود اور تلی ہوئی چیزیں بند اگر پشاب کم ہو جے تو فورن واپس آئیں\nایسا بہت سوچی ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 day\"},\n    {\"symptom\": \"diarrhea\", \"duration\": \"5 episodes\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"dehydration\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue taking Flagyl 3 times a day for 5 days\",\n    \"avoid oily foods\",\n    \"return if diarrhea worsens\"\n  ],\n  \"follow_up\": \"return if diarrhea worsens\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "5 episodes"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "dehydration"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue taking Flagyl 3 times a day for 5 days",
+      "avoid oily foods",
+      "return if diarrhea worsens"
+    ],
+    "follow_up": "return if diarrhea worsens"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 200,
+    "prompt_ms": 103.671,
+    "prompt_per_token_ms": 0.518355,
+    "prompt_per_second": 1929.1798092041165,
+    "predicted_n": 194,
+    "predicted_ms": 2311.78,
+    "predicted_per_token_ms": 11.978134715025908,
+    "predicted_per_second": 83.48545276799695
+  }
+}

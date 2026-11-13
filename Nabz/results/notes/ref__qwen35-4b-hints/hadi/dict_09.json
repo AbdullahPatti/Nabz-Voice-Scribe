@@ -1,0 +1,60 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"nighttime\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"chest\"},\n    {\"symptom\": \"anxiety\", \"duration\": \"nighttime\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": \"not specified\",\n      \"dose\": \"2 puffs\",\n      \"frequency\": \"as needed, max 4 times daily\",\n      \"duration\": \"not specified\",\"instructions\": \"take only when needed\"}\n    ],\n    \"drugs_to_avoid\": [\n      \"dust\",\n      \"smoke\"\n    ],\"investigations_ordered\": [],\n    \"advice\": [\n      \"avoid dust\",\n      \"avoid smoke\"\n    ],\"follow_up\": \"not specified\"\n  }",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "chest"
+      },
+      {
+        "symptom": "anxiety",
+        "duration": "nighttime"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "not specified",
+        "dose": "2 puffs",
+        "frequency": "as needed, max 4 times daily",
+        "duration": "not specified",
+        "instructions": "take only when needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "dust",
+      "smoke"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid dust",
+      "avoid smoke"
+    ],
+    "follow_up": "not specified"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 179,
+    "prompt_ms": 114.168,
+    "prompt_per_token_ms": 0.6378100558659219,
+    "prompt_per_second": 1567.8649008478733,
+    "predicted_n": 268,
+    "predicted_ms": 3362.178,
+    "predicted_per_token_ms": 12.592426966292134,
+    "predicted_per_second": 79.41280919689558
+  }
+}

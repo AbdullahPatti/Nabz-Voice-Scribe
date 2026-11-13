@@ -1,0 +1,58 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تقریب اور سینے سے سیٹی کی اہواز آتی ہے گبرار ٹوندی ہے وہ حار نہیں مینٹونین انہیلر ضرورت پر دو پاف دن میں چار دفعہ سے زاد آنے رات کو زرٹک ایک گولی دوڑ اور دومے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"overnight\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"overnight\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Mantionin\", \"strength\": null, \"dose\": \"2 puffs\", \"frequency\": \"4 times a day\", \"duration\": \"as needed\", \"instructions\": \"take at night\"},\n    {\"name\": \"Zartek\", \"strength\": null, \"dose\": \"1 tablet\", \"frequency\": \"2 times a day\", \"duration\": null, \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Use inhaler as needed for symptoms.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "overnight"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "overnight"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Mantionin",
+        "strength": null,
+        "dose": "2 puffs",
+        "frequency": "4 times a day",
+        "duration": "as needed",
+        "instructions": "take at night"
+      },
+      {
+        "name": "Zartek",
+        "strength": null,
+        "dose": "1 tablet",
+        "frequency": "2 times a day",
+        "duration": null,
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Use inhaler as needed for symptoms."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 77.731,
+    "prompt_per_token_ms": 0.8096979166666666,
+    "prompt_per_second": 1235.0284957095625,
+    "predicted_n": 250,
+    "predicted_ms": 3079.97,
+    "predicted_per_token_ms": 12.369357429718875,
+    "predicted_per_second": 80.84494329490224
+  }
+}

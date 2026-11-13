@@ -1,0 +1,103 @@
+{
+  "transcript": "میں این این این این این این این این این این این این این",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of being trapped\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1000mg\",\n      \"frequency\": \"daily\",\n      \"duration\": \"1 week\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take the medicine\",\n    \"take the medicine with food\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of being trapped",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1000mg",
+        "frequency": "daily",
+        "duration": "1 week",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take the medicine",
+      "take the medicine with food"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 31,
+    "prompt_ms": 35.68,
+    "prompt_per_token_ms": 1.1509677419354838,
+    "prompt_per_second": 868.8340807174887,
+    "predicted_n": 574,
+    "predicted_ms": 2535.91,
+    "predicted_per_token_ms": 4.4256719022687605,
+    "predicted_per_second": 225.95439112586803
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "transcript": "اپنے اپنے اپنے پڑھے سوڑھا اور اپنے اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of being watched\",\n      \"duration\": \"10 minutes\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no physical signs\",\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no wheezing\",\n    \"no wheezing history\",\n    \"no asthma history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n    \"no wheezing history\",\n   ",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 30.835,
+    "prompt_per_token_ms": 0.28817757009345796,
+    "prompt_per_second": 3470.0826982325275,
+    "predicted_n": 800,
+    "predicted_ms": 3067.675,
+    "predicted_per_token_ms": 3.839392991239049,
+    "predicted_per_second": 260.45783859111543
+  }
+}

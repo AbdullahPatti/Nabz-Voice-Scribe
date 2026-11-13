@@ -1,0 +1,66 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no bleeding\",\n    \"no brufen\",\n    \"no disprin\"\n  ],\n  \"findings\": [\n    \"platelets 95,000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"3 times daily\",\n      \"dose\": \"2 pills\",\"frequency\": \"3 times daily\",\"duration\": \"2 days\",\"instructions\": \"take 2 pills 3 times daily for 2 days\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"brufen\",\n    \"disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\",\n    \"repeat blood test tomorrow\"\n  ],\"follow_up\": \"tomorrow\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no bleeding",
+      "no brufen",
+      "no disprin"
+    ],
+    "findings": [
+      "platelets 95,000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "3 times daily",
+        "dose": "2 pills",
+        "frequency": "3 times daily",
+        "duration": "2 days",
+        "instructions": "take 2 pills 3 times daily for 2 days"
+      }
+    ],
+    "drugs_to_avoid": [
+      "brufen",
+      "disprin"
+    ],
+    "investigations_ordered": [
+      "blood test"
+    ],
+    "advice": [
+      "drink plenty of water",
+      "repeat blood test tomorrow"
+    ],
+    "follow_up": "tomorrow"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 114,
+    "prompt_ms": 97.972,
+    "prompt_per_token_ms": 0.8594035087719297,
+    "prompt_per_second": 1163.5977626260565,
+    "predicted_n": 306,
+    "predicted_ms": 3790.117,
+    "predicted_per_token_ms": 12.4266131147541,
+    "predicted_per_second": 80.47244979508548
+  }
+}

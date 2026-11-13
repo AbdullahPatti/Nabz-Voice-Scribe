@@ -1,0 +1,110 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"present\"\n    }\n  ],\n  \"negatives\": [\n    \"headache\",\n    \"dizziness\",\n    \"nausea\",\n    \"vomiting\",\n    \"fever\",\n    \"cough\",\n    \"diarrhea\",\n    \"constipation\",\n    \"abdominal pain\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"palpitations\",\n    \"syncope\",\n    \"orthostatic hypotension\",\n    \"edema\",\n    \"weight loss\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"depression\",\n    \"headache\",\n    \"dizziness\",\n    \"nausea\",\n    \"vomiting\",\n    \"fever\",\n    \"cough\",\n    \"diarrhea\",\n    \"constipation\",\n    \"abdominal pain\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"palpitations\",\n    \"syncope\",\n    \"orthostatic hypotension\",\n    \"edema\",\n    \"weight loss\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"depression\"\n  ],\n  \"findings\": [\n    \"blood pressure: 160/100 mmHg\",\n    \"headache: present\",\n    \"dizziness: absent\",\n    \"nausea: absent\",\n    \"vomiting: absent\",\n    \"fever: absent\",\n    \"cough: absent\",\n    \"diarrhea: absent\",\n    \"constipation: absent\",\n    \"abdominal pain: absent\",\n    \"chest pain: absent\",\n    \"shortness of breath: absent\",\n    \"palpitations: absent\",\n    \"syncope: absent\",\n    \"orthostatic hypotension: absent\",\n    \"edema: absent\",\n    \"weight loss: absent\",\n    \"fatigue: absent\",\n    \"anxiety: absent\",\n    \"insomnia: absent\",\n    \"depression: absent\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Norvasc\",\n      \"strength\": \"5 mg\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"starting from night\",\n      \"duration\": \"for 5 days\",\"instructions\": \"take once daily starting from night\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"repeat blood pressure check in two weeks\"\n  ],\"follow_up\": \"repeat blood pressure check in two weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "headache",
+      "dizziness",
+      "nausea",
+      "vomiting",
+      "fever",
+      "cough",
+      "diarrhea",
+      "constipation",
+      "abdominal pain",
+      "chest pain",
+      "shortness of breath",
+      "palpitations",
+      "syncope",
+      "orthostatic hypotension",
+      "edema",
+      "weight loss",
+      "fatigue",
+      "anxiety",
+      "insomnia",
+      "depression",
+      "headache",
+      "dizziness",
+      "nausea",
+      "vomiting",
+      "fever",
+      "cough",
+      "diarrhea",
+      "constipation",
+      "abdominal pain",
+      "chest pain",
+      "shortness of breath",
+      "palpitations",
+      "syncope",
+      "orthostatic hypotension",
+      "edema",
+      "weight loss",
+      "fatigue",
+      "anxiety",
+      "insomnia",
+      "depression"
+    ],
+    "findings": [
+      "blood pressure: 160/100 mmHg",
+      "headache: present",
+      "dizziness: absent",
+      "nausea: absent",
+      "vomiting: absent",
+      "fever: absent",
+      "cough: absent",
+      "diarrhea: absent",
+      "constipation: absent",
+      "abdominal pain: absent",
+      "chest pain: absent",
+      "shortness of breath: absent",
+      "palpitations: absent",
+      "syncope: absent",
+      "orthostatic hypotension: absent",
+      "edema: absent",
+      "weight loss: absent",
+      "fatigue: absent",
+      "anxiety: absent",
+      "insomnia: absent",
+      "depression: absent"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5 mg",
+        "dose": "once daily",
+        "frequency": "starting from night",
+        "duration": "for 5 days",
+        "instructions": "take once daily starting from night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake",
+      "repeat blood pressure check in two weeks"
+    ],
+    "follow_up": "repeat blood pressure check in two weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 57.952,
+    "prompt_per_token_ms": 0.5626407766990291,
+    "prompt_per_second": 1777.3329652125897,
+    "predicted_n": 686,
+    "predicted_ms": 4357.564,
+    "predicted_per_token_ms": 6.361407299270073,
+    "predicted_per_second": 157.19792067311002
+  }
+}

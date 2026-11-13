@@ -1,0 +1,61 @@
+{
+  "transcript": "حطون تی سال پیٹ کے اوپر جلن ہوتی ہے کھانے کے بعد سیاتا کہن دیئے کھٹٹکار ہوں دے نے اوٹی نہیں وزن کم نہیں ہوا رائیسٹیک بھی صبا خالی پیٹ دو ہفتے رات کو گیویس ہون کے دو چمچے چائے اور میٹچ کم کڑیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation in epigastric region\", \"duration\": \"2 years\"},\n    {\"symptom\": \"heartburn\", \"duration\": \"after meals\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no nausea\"\n  ],\n  \"findings\": [\n    \"pain relieved by eating\",\n    \"pain relieved by drinking tea on empty stomach\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Diacarboxyl\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": null}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take 2 teaspoons of tea at night on empty stomach\",\n    \"Take 2 teaspoons of tea in the morning on empty stomach\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation in epigastric region",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "heartburn",
+        "duration": "after meals"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no nausea"
+    ],
+    "findings": [
+      "pain relieved by eating",
+      "pain relieved by drinking tea on empty stomach"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Diacarboxyl",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take 2 teaspoons of tea at night on empty stomach",
+      "Take 2 teaspoons of tea in the morning on empty stomach"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 233,
+    "prompt_ms": 106.51,
+    "prompt_per_token_ms": 0.45712446351931335,
+    "prompt_per_second": 2187.5880199042344,
+    "predicted_n": 279,
+    "predicted_ms": 3529.501,
+    "predicted_per_token_ms": 12.696046762589928,
+    "predicted_per_second": 78.76467523312785
+  }
+}

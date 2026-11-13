@@ -1,0 +1,53 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"sugar control\",\"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"joint pain\"\n  ],\n  \"findings\": [\n    \"random blood sugar: 180 mg/dL\",\n    \"postprandial blood sugar: 260 mg/dL\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"1000 mg\",\n      \"dose\": \"twice daily with meals\",\"frequency\": \"twice daily\",\"duration\": \"3 months\",\"instructions\": \"sugar test required\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"sugar test\"\n  ],\n  \"advice\": [\n    \"sugar test in 3 months\"\n  ],\"follow_up\": \"3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sugar control",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "joint pain"
+    ],
+    "findings": [
+      "random blood sugar: 180 mg/dL",
+      "postprandial blood sugar: 260 mg/dL"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "1000 mg",
+        "dose": "twice daily with meals",
+        "frequency": "twice daily",
+        "duration": "3 months",
+        "instructions": "sugar test required"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "sugar test"
+    ],
+    "advice": [
+      "sugar test in 3 months"
+    ],
+    "follow_up": "3 months"
+  },
+  "timings": {
+    "cache_n": 339,
+    "prompt_n": 4,
+    "prompt_ms": 36.782,
+    "prompt_per_token_ms": 9.1955,
+    "prompt_per_second": 108.74884454352673,
+    "predicted_n": 267,
+    "predicted_ms": 3588.318,
+    "predicted_per_token_ms": 13.489917293233084,
+    "predicted_per_second": 74.12943891817837
+  }
+}

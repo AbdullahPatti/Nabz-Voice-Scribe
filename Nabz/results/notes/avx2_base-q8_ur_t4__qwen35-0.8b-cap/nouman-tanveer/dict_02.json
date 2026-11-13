@@ -1,0 +1,115 @@
+{
+  "transcript": "خطوون چونتی سال، تین دین سے بخوا ہے جسم میں درد، اور آنکھوں کے پیچھے درد، پیٹلس پچانوے ہزار ہے کہ ہی سے خون نہیں آرہا، صرف پنے دول دو گلی، دین میں تین بات، بروفین بلکل نہیں لینہ، دیسپرین بھی نہیں، پانی زیادہ پیئے، کال خون کا ٹنس دبارہ کر مانا ہے،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back of the eyes\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"blood not flowing\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"pain in the throat\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"pain in the stomach\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"pain in the back of the head\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"dard nahi\",\n    \"dard nahi\",\n    \"dard nahi\",\n    \"dard nahi\",\n    \"dard nahi\",\n    \"dard nahi\",\n    \"dard nahi\",\n    \"dard nahi\"\n  ],\n  \"findings\": [\n    \"blood not flowing\",\n    \"pain in the back of the eyes\",\n    \"pain in the legs\",\n    \"pain in the throat\",\n    \"pain in the chest\",\n    \"pain in the stomach\",\n    \"pain in the abdomen\",\n    \"pain in the back\",\n    \"pain in the legs\",\n    \"pain in the back of the head\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood test\",\n    \"blood test\",\n    \"blood test\",\n    \"blood test\",\n    \"blood test\",\n    \"blood test\",\n    \"blood test\",\n    \"blood test\",\n    \"blood test\",\n    \"blood test\"\n  ],\n  \"advice\": [\n    \"avoid blood\",\n    \"avoid blood\",\n    \"avoid blood\",\n    \"avoid blood\",\n    \"avoid blood\",\n    \"avoid blood\",\n    \"avoid blood\",\n    \"avoid blood\",\n    \"avoid blood\",\n    \"avoid blood\"\n  ],\n  \"follow_up\": \"unknown\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pain in the back of the eyes",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "pain in the legs",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "blood not flowing",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "pain in the throat",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "pain in the chest",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "pain in the stomach",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "pain in the abdomen",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "pain in the legs",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "pain in the back of the head",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "dard nahi",
+      "dard nahi",
+      "dard nahi",
+      "dard nahi",
+      "dard nahi",
+      "dard nahi",
+      "dard nahi",
+      "dard nahi"
+    ],
+    "findings": [
+      "blood not flowing",
+      "pain in the back of the eyes",
+      "pain in the legs",
+      "pain in the throat",
+      "pain in the chest",
+      "pain in the stomach",
+      "pain in the abdomen",
+      "pain in the back",
+      "pain in the legs",
+      "pain in the back of the head"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood test",
+      "blood test",
+      "blood test",
+      "blood test",
+      "blood test",
+      "blood test",
+      "blood test",
+      "blood test",
+      "blood test",
+      "blood test"
+    ],
+    "advice": [
+      "avoid blood",
+      "avoid blood",
+      "avoid blood",
+      "avoid blood",
+      "avoid blood",
+      "avoid blood",
+      "avoid blood",
+      "avoid blood",
+      "avoid blood",
+      "avoid blood"
+    ],
+    "follow_up": "unknown"
+  },
+  "timings": {
+    "cache_n": 344,
+    "prompt_n": 4,
+    "prompt_ms": 16.591,
+    "prompt_per_token_ms": 4.14775,
+    "prompt_per_second": 241.0945693448255,
+    "predicted_n": 669,
+    "predicted_ms": 2819.363,
+    "predicted_per_token_ms": 4.220603293413173,
+    "predicted_per_second": 236.93295258538896
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"shoore\",\n      \"duration\": \"short\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\"\n  ],\n  \"advice\": [\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\",\n    \"shoore\"\n  ],\n  \"follow_up\": \"short\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      },
+      {
+        "symptom": "shoore",
+        "duration": "short"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore"
+    ],
+    "advice": [
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore",
+      "shoore"
+    ],
+    "follow_up": "short"
+  },
+  "timings": {
+    "cache_n": 345,
+    "prompt_n": 4,
+    "prompt_ms": 17.511,
+    "prompt_per_token_ms": 4.37775,
+    "prompt_per_second": 228.4278453543487,
+    "predicted_n": 593,
+    "predicted_ms": 2514.527,
+    "predicted_per_token_ms": 4.247511824324325,
+    "predicted_per_second": 235.43195201324144
+  }
+}

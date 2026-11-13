@@ -1,0 +1,51 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 29\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no rash\",\n    \"no side effects\",\n    \"no allergy to penicillin\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"1 month\",\"instructions\": \"show after 1 month\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"show after 1 month\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 29
+    },
+    "complaints": [],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no rash",
+      "no side effects",
+      "no allergy to penicillin"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "once daily",
+        "duration": "1 month",
+        "instructions": "show after 1 month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "show after 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 263,
+    "prompt_ms": 130.758,
+    "prompt_per_token_ms": 0.49717870722433466,
+    "prompt_per_second": 2011.3492099909756,
+    "predicted_n": 240,
+    "predicted_ms": 2853.563,
+    "predicted_per_token_ms": 11.939594142259415,
+    "predicted_per_second": 83.7549407530165
+  }
+}

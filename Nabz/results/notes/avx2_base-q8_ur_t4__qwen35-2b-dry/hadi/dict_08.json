@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"itching\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"itching\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no sputum\",\n    \"no dyspnea\",\n    \"no chest pain\",\n    \"no palpitations\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no abdominal pain\",\n    \"no headache\",\n    \"no dizziness\",\n    \"no fatigue\",\n    \"no weight loss\",\n    \"no night sweats\",\n    \"no joint pain\",\n    \"no skin rash\",\n    \"no urinary frequency\",\n    \"no urinary urgency\",\n    \"no urinary incontinence\",\n    \"no hematuria\",\n    \"no melena\",\n    \"no hematochezia\",\n    \"no anorexia\",\n    \"no loss of appetite\",\n    \"no dyspepsia\",\n    \"no bloating\",\n    \"no flatulence\",\n    \"no abdominal distension\",\n    \"no abdominal pain\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no abdominal mass\",\n    \"no lymphadenopathy\",\n    \"no hepatomegaly\",\n    \"no splenomegaly\",\n    \"no ascites\",\n    \"no edema\",\n    \"no jaundice\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n    \"no pruritus\",\n   ",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 57.763,
+    "prompt_per_token_ms": 0.6016979166666666,
+    "prompt_per_second": 1661.9635406748264,
+    "predicted_n": 800,
+    "predicted_ms": 4734.059,
+    "predicted_per_token_ms": 5.9249799749687115,
+    "predicted_per_second": 168.77694173224288
+  }
+}

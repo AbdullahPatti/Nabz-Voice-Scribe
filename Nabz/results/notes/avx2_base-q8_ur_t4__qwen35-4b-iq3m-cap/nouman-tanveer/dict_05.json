@@ -1,0 +1,62 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"},\n    {\"symptom\": \"cough\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"twice daily\", \"frequency\": \"2 days\", \"duration\": \"2 weeks\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood sugar test\",\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\",\n    \"get plenty of rest\",\n    \"avoid spicy and oily food\",\n    \"avoid cold drinks\",\n    \"avoid cold food\",\n    \"avoid cold water\",\n    \"avoid cold air\",\n    \"avoid cold wind\",\n    \"avoid cold rain\",\n    \"avoid cold snow\"\n  ],\n  \"follow_up\": \"in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "2 days",
+        "duration": "2 weeks",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood sugar test",
+      "urine test"
+    ],
+    "advice": [
+      "drink plenty of water",
+      "get plenty of rest",
+      "avoid spicy and oily food",
+      "avoid cold drinks",
+      "avoid cold food",
+      "avoid cold water",
+      "avoid cold air",
+      "avoid cold wind",
+      "avoid cold rain",
+      "avoid cold snow"
+    ],
+    "follow_up": "in 2 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 77.664,
+    "prompt_per_token_ms": 0.6637948717948718,
+    "prompt_per_second": 1506.4894932014834,
+    "predicted_n": 289,
+    "predicted_ms": 3528.111,
+    "predicted_per_token_ms": 12.250385416666667,
+    "predicted_per_second": 81.63008476774115
+  }
+}

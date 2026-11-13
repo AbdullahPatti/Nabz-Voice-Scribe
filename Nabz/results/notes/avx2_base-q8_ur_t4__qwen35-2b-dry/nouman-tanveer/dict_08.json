@@ -1,0 +1,84 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"abdominal pain\",\n    \"abdominal tenderness\",\n    \"abdominal mass\",\n    \"abdominal rigidity\",\n    \"abdominal rebound\",\n    \"abdominal guarding\",\n    \"abdominal distension\",\n    \"abdominal bruit\",\n    \"abdominal pulsation\",\n    \"abdominal hernia\",\n    \"abdominal mass\",\n    \"abdominal tenderness\",\n    \"abdominal rigidity\",\n    \"abdominal rebound\",\n    \"abdominal guarding\",\n    \"abdominal distension\",\n    \"abdominal bruit\",\n    \"abdominal pulsation\",\n    \"abdominal hernia\"\n  ],\n  \"findings\": [\n    \"abdominal pain\",\n    \"fever\",\n    \"abdominal tenderness\",\n    \"abdominal mass\",\n    \"abdominal rigidity\",\n    \"abdominal rebound\",\n    \"abdominal guarding\",\n    \"abdominal distension\",\n    \"abdominal bruit\",\n    \"abdominal pulsation\",\n    \"abdominal hernia\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"ciprofloxacin\",\n      \"strength\": \"250 mg\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"3 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take ciprofloxacin twice daily for 3 days\",\n    \"take with food\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "fever",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "abdominal pain",
+      "abdominal tenderness",
+      "abdominal mass",
+      "abdominal rigidity",
+      "abdominal rebound",
+      "abdominal guarding",
+      "abdominal distension",
+      "abdominal bruit",
+      "abdominal pulsation",
+      "abdominal hernia",
+      "abdominal mass",
+      "abdominal tenderness",
+      "abdominal rigidity",
+      "abdominal rebound",
+      "abdominal guarding",
+      "abdominal distension",
+      "abdominal bruit",
+      "abdominal pulsation",
+      "abdominal hernia"
+    ],
+    "findings": [
+      "abdominal pain",
+      "fever",
+      "abdominal tenderness",
+      "abdominal mass",
+      "abdominal rigidity",
+      "abdominal rebound",
+      "abdominal guarding",
+      "abdominal distension",
+      "abdominal bruit",
+      "abdominal pulsation",
+      "abdominal hernia"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "ciprofloxacin",
+        "strength": "250 mg",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take ciprofloxacin twice daily for 3 days",
+      "take with food"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 98,
+    "prompt_ms": 55.253,
+    "prompt_per_token_ms": 0.5638061224489795,
+    "prompt_per_second": 1773.659348813639,
+    "predicted_n": 515,
+    "predicted_ms": 3456.105,
+    "predicted_per_token_ms": 6.723939688715953,
+    "predicted_per_second": 148.7223333781815
+  }
+}

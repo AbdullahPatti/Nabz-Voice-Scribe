@@ -1,0 +1,39 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"check BP again after 140/90\"\n  ],\n  \"advice\": [\n    \"take BP check if needed\"\n  ],\n  \"follow_up\": \"after 140/90\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "check BP again after 140/90"
+    ],
+    "advice": [
+      "take BP check if needed"
+    ],
+    "follow_up": "after 140/90"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 71.798,
+    "prompt_per_token_ms": 0.7977555555555556,
+    "prompt_per_second": 1253.5168110532327,
+    "predicted_n": 171,
+    "predicted_ms": 2064.156,
+    "predicted_per_token_ms": 12.142094117647058,
+    "predicted_per_second": 82.35811634391975
+  }
+}

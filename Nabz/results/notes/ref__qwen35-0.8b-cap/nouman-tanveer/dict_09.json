@@ -1,0 +1,112 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"night sweats\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar\",\n    \"ventolin\",\n    \"zyrtec\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"daily\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"hydration\",\n    \"avoid cold foods\",\n    \"avoid spicy foods\",\n    \"avoid alcohol\",\n    \"avoid smoking\",\n    \"avoid stress\",\n    \"avoid extreme temperatures\",\n    \"avoid sudden changes in weather\",\n    \"avoid sudden changes in altitude\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "night sweats",
+        "duration": "night"
+      },
+      {
+        "symptom": "fever",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "night"
+      },
+      {
+        "symptom": "headache",
+        "duration": "night"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "night"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "night"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "night"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "night"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "bukhar",
+      "ventolin",
+      "zyrtec"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "daily",
+        "frequency": "daily",
+        "duration": "daily",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "rest",
+      "hydration",
+      "avoid cold foods",
+      "avoid spicy foods",
+      "avoid alcohol",
+      "avoid smoking",
+      "avoid stress",
+      "avoid extreme temperatures",
+      "avoid sudden changes in weather",
+      "avoid sudden changes in altitude"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 331,
+    "prompt_n": 4,
+    "prompt_ms": 16.262,
+    "prompt_per_token_ms": 4.0655,
+    "prompt_per_second": 245.97220514081909,
+    "predicted_n": 587,
+    "predicted_ms": 2591.051,
+    "predicted_per_token_ms": 4.421588737201365,
+    "predicted_per_second": 226.16305120972146
+  }
+}

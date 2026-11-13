@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 8\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"diarrhea\",\n    \"constipation\",\n    \"cough\",\n    \"headache\",\n    \"dizziness\",\n    \"weight loss\",\n    \"itching\",\n    \"rash\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"dyspepsia\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"cough\",\n    \"headache\",\n    \"dizziness\",\n    \"weight loss\",\n    \"itching\",\n    \"rash\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"dyspepsia\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"cough\",\n    \"headache\",\n    \"dizziness\",\n    \"weight loss\",\n    \"itching\",\n    \"rash\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"dyspepsia\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"cough\",\n    \"headache\",\n    \"dizziness\",\n    \"weight loss\",\n    \"itching\",\n    \"rash\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"dyspepsia\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"cough\",\n    \"headache\",\n    \"dizziness\",\n    \"weight loss\",\n    \"itching\",\n    \"rash\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"dyspepsia\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"cough\",\n    \"headache\",\n    \"dizziness\",\n    \"weight loss\",\n    \"itching\",\n    \"rash\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"dyspepsia\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"cough\",\n    \"headache\",\n    \"dizziness\",\n    \"weight loss\",\n    \"itching\",\n    \"rash\",\n    \"joint pain\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"anxiety\",\n    \"insomnia\",\n    \"dyspepsia\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n   ",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 71.552,
+    "prompt_per_token_ms": 0.6946796116504855,
+    "prompt_per_second": 1439.5125223613595,
+    "predicted_n": 800,
+    "predicted_ms": 4567.183,
+    "predicted_per_token_ms": 5.716123904881101,
+    "predicted_per_second": 174.94372351622434
+  }
+}

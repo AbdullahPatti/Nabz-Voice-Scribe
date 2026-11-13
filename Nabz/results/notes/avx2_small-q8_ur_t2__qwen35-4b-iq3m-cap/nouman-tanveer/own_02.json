@@ -1,0 +1,39 @@
+{
+  "transcript": "مانا 35 سوٹر اپنے دنانا اور اپنے دنانا لیکن مانا کاف نہیں ہے پرکنے پرکنے پرکنے پرکنے دنانا جب وہ مانا کاف ہے گرلے گرلس 3 سوٹر دنانا لیکن اپنے دنانا لیکن 3 دنانا لیکن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"cough\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 89,
+    "prompt_ms": 71.878,
+    "prompt_per_token_ms": 0.8076179775280898,
+    "prompt_per_second": 1238.2091877904227,
+    "predicted_n": 135,
+    "predicted_ms": 1676.95,
+    "predicted_per_token_ms": 12.51455223880597,
+    "predicted_per_second": 79.90697397060138
+  }
+}

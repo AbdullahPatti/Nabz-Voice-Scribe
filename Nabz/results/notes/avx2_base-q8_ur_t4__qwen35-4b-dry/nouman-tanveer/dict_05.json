@@ -1,0 +1,55 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"diabetes\", \"duration\": \"5 years\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"joint pain\"\n  ],\n  \"findings\": [\n    \"diabetes test done\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Gliclazide\",\n      \"strength\": \"80\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"5 years\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"diabetes test\"\n  ],\n  \"advice\": [\n    \"continue current medication\",\n    \"monitor blood sugar levels\"\n  ],\"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "5 years"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "joint pain"
+    ],
+    "findings": [
+      "diabetes test done"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Gliclazide",
+        "strength": "80",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "5 years",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "diabetes test"
+    ],
+    "advice": [
+      "continue current medication",
+      "monitor blood sugar levels"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 97.939,
+    "prompt_per_token_ms": 0.8370854700854701,
+    "prompt_per_second": 1194.6211417310776,
+    "predicted_n": 248,
+    "predicted_ms": 3057.325,
+    "predicted_per_token_ms": 12.377834008097166,
+    "predicted_per_second": 80.78957912554276
+  }
+}

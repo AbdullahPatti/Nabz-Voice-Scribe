@@ -1,0 +1,16 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"yellow sputum\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n   ",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 124,
+    "prompt_ms": 61.942,
+    "prompt_per_token_ms": 0.4995322580645161,
+    "prompt_per_second": 2001.8727196409545,
+    "predicted_n": 800,
+    "predicted_ms": 4637.993,
+    "predicted_per_token_ms": 5.804747183979975,
+    "predicted_per_second": 172.2727912698445
+  }
+}

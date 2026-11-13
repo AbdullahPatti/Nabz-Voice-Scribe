@@ -1,0 +1,50 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"2 years\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"2 years\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Nurovisk\", \"strength\": \"5\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "2 years"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurovisk",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 73.909,
+    "prompt_per_token_ms": 0.7862659574468086,
+    "prompt_per_second": 1271.8342826989947,
+    "predicted_n": 202,
+    "predicted_ms": 2655.045,
+    "predicted_per_token_ms": 13.209179104477613,
+    "predicted_per_second": 75.7049315548324
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"blood_pressure_sitting_mmhg_160\",\n    \"blood_pressure_standing_mmhg_100\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Norvasc\", \"strength\": \"5\", \"dose\": \"once at night\", \"frequency\": \"once daily\", \"duration\": \"started today\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood_pressure_check\",\n    \"follow_up_in_two_weeks\"\n  ],\n  \"advice\": [\n    \"reduce_sodium_intake\"\n  ],\n  \"follow_up\": \"in_two_weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain"
+    ],
+    "findings": [
+      "blood_pressure_sitting_mmhg_160",
+      "blood_pressure_standing_mmhg_100"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5",
+        "dose": "once at night",
+        "frequency": "once daily",
+        "duration": "started today",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood_pressure_check",
+      "follow_up_in_two_weeks"
+    ],
+    "advice": [
+      "reduce_sodium_intake"
+    ],
+    "follow_up": "in_two_weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 82.91,
+    "prompt_per_token_ms": 0.8049514563106795,
+    "prompt_per_second": 1242.310939573031,
+    "predicted_n": 254,
+    "predicted_ms": 3557.661,
+    "predicted_per_token_ms": 14.06190118577075,
+    "predicted_per_second": 71.1141393179395
+  }
+}

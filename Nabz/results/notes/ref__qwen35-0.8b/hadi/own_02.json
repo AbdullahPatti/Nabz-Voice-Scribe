@@ -1,0 +1,79 @@
+{
+  "transcript": "Man 35 years, sore throat aur fever for two days. Khansi nahi hai aur koi saans ka masla nahi hai. Panadol jab bhi fever ho. Warm salt water ke din mein teen baar gharare karein. Agar theek nahi hota to teen dinon mein wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"two days\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"two days\"\n    },\n    {\n      \"symptom\": \"no cough\",\n      \"duration\": \"two days\"\n    },\n    {\n      \"symptom\": \"no sleep\",\n      \"duration\": \"two days\"\n    },\n    {\n      \"symptom\": \"pain with cold\",\n      \"duration\": \"two days\"\n    },\n    {\n      \"symptom\": \"warm salt water\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"frequency\",\n      \"duration\": \"10 times\"\n    },\n    {\n      \"symptom\": \"location\",\n      \"duration\": \"home\"\n    },\n    {\n      \"symptom\": \"condition\",\n      \"duration\": \"if okay\"\n    },\n    {\n      \"symptom\": \"return\",\n      \"duration\": \"10 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take painkillers when fever is present\",\n    \"warm salt water daily\",\n    \"return home if okay\",\n    \"stay for 10 days if not okay\"\n  ],\n  \"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "sore throat",
+        "duration": "two days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "two days"
+      },
+      {
+        "symptom": "no cough",
+        "duration": "two days"
+      },
+      {
+        "symptom": "no sleep",
+        "duration": "two days"
+      },
+      {
+        "symptom": "pain with cold",
+        "duration": "two days"
+      },
+      {
+        "symptom": "warm salt water",
+        "duration": "daily"
+      },
+      {
+        "symptom": "frequency",
+        "duration": "10 times"
+      },
+      {
+        "symptom": "location",
+        "duration": "home"
+      },
+      {
+        "symptom": "condition",
+        "duration": "if okay"
+      },
+      {
+        "symptom": "return",
+        "duration": "10 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take painkillers when fever is present",
+      "warm salt water daily",
+      "return home if okay",
+      "stay for 10 days if not okay"
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 89,
+    "prompt_ms": 29.906,
+    "prompt_per_token_ms": 0.33602247191011236,
+    "prompt_per_second": 2975.9914398448473,
+    "predicted_n": 421,
+    "predicted_ms": 1831.122,
+    "predicted_per_token_ms": 4.359814285714286,
+    "predicted_per_second": 229.3675680812092
+  }
+}

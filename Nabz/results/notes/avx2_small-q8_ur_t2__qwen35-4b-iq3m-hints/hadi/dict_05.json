@@ -1,0 +1,55 @@
+{
+  "transcript": "مرت 50 سار شگر کا پرانہ مریز نحار موش شگر 180 اور کھانےگا بعد 260 پہلے گلوکو فیج 500 دن میں دو بار لے رہا تھا بلوکو فیج ہزار دن میں دو بار کھانےگا تھا تین مہینے والا شگر ٹیست کروان ہے پیرو میں سون ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diabetes\",\n      \"duration\": \"3 months\"\n    }\n  ],\n  \"negatives\": [\n    \"prednisolone\"\n  ],\n  \"findings\": [\n    \"glucose 180\",\n    \"glucose 260\",\n    \"glucose 500\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\"frequency\": \"for 3 months\",\"duration\": \"3 months\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"prednisolone test\"\n  ],\n  \"advice\": [\n    \"continue current medication\",\n    \"monitor blood sugar levels\"\n  ],\"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "3 months"
+      }
+    ],
+    "negatives": [
+      "prednisolone"
+    ],
+    "findings": [
+      "glucose 180",
+      "glucose 260",
+      "glucose 500"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "for 3 months",
+        "duration": "3 months",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "prednisolone test"
+    ],
+    "advice": [
+      "continue current medication",
+      "monitor blood sugar levels"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 163,
+    "prompt_ms": 94.715,
+    "prompt_per_token_ms": 0.5810736196319018,
+    "prompt_per_second": 1720.9523306762392,
+    "predicted_n": 269,
+    "predicted_ms": 3331.252,
+    "predicted_per_token_ms": 12.430044776119402,
+    "predicted_per_second": 80.4502331255636
+  }
+}

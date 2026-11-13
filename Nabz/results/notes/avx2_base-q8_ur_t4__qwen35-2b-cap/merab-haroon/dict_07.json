@@ -1,0 +1,68 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"yellow sputum\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\",\n    \"no cough\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"yellow sputum\",\n    \"fever\",\n    \"chest pain\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"cough\",\n    \"yellow sputum\",\n    \"fever\",\n    \"chest pain\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no chest pain",
+      "no cough",
+      "no cough",
+      "no cough",
+      "no cough",
+      "no cough",
+      "no cough",
+      "no cough"
+    ],
+    "findings": [
+      "cough",
+      "yellow sputum",
+      "fever",
+      "chest pain"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "cough",
+      "yellow sputum",
+      "fever",
+      "chest pain"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 124,
+    "prompt_ms": 64.243,
+    "prompt_per_token_ms": 0.5180887096774193,
+    "prompt_per_second": 1930.1713805395143,
+    "predicted_n": 327,
+    "predicted_ms": 2254.537,
+    "predicted_per_token_ms": 6.915757668711656,
+    "predicted_per_second": 144.59731643348502
+  }
+}

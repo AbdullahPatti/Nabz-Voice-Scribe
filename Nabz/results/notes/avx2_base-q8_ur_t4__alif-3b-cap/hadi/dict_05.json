@@ -1,0 +1,92 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 50\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"sathe shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"mirs nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"shugar ka prana nahi\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"shugar ka prana nahi\"\n    ],\n    \"allergies\": [\n        \"nahi\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"khanay gey\",\n            \"frequency\": \"pans din mein\",\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"nahi\"\n    ],\n    \"investigations_ordered\": [\n        \"shugar ka prana nahi\"\n    ],\n    \"advice\": [\n        \"shugar ka prana nahi\"\n    ],\n    \"follow_up\": \"shugar ka prana nahi\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sathe shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "mirs nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      },
+      {
+        "symptom": "shugar ka prana nahi",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "shugar ka prana nahi"
+    ],
+    "allergies": [
+      "nahi"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "khanay gey",
+        "frequency": "pans din mein",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "nahi"
+    ],
+    "investigations_ordered": [
+      "shugar ka prana nahi"
+    ],
+    "advice": [
+      "shugar ka prana nahi"
+    ],
+    "follow_up": "shugar ka prana nahi"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 169,
+    "prompt_ms": 50.606,
+    "prompt_per_token_ms": 0.29944378698224855,
+    "prompt_per_second": 3339.524957514919,
+    "predicted_n": 472,
+    "predicted_ms": 3809.117,
+    "predicted_per_token_ms": 8.087297239915074,
+    "predicted_per_second": 123.65070434959073
+  }
+}

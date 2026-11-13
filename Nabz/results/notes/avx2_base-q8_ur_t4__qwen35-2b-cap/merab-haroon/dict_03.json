@@ -1,0 +1,56 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 62\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dry hands\",\n      \"duration\": \"since childhood\"\n    },\n    {\n      \"symptom\": \"dry palms\",\n      \"duration\": \"since childhood\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no urticaria\"\n  ],\n  \"findings\": [\n    \"low fluid intake\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink water frequently\",\n    \"avoid excessive water intake\",\n    \"close windows\",\n    \"avoid bright lights\",\n    \"avoid bright colors\",\n    \"avoid bright objects\",\n    \"avoid bright objects\",\n    \"avoid bright objects\",\n    \"avoid bright objects\",\n    \"avoid bright objects\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 62
+    },
+    "complaints": [
+      {
+        "symptom": "dry hands",
+        "duration": "since childhood"
+      },
+      {
+        "symptom": "dry palms",
+        "duration": "since childhood"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no urticaria"
+    ],
+    "findings": [
+      "low fluid intake"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink water frequently",
+      "avoid excessive water intake",
+      "close windows",
+      "avoid bright lights",
+      "avoid bright colors",
+      "avoid bright objects",
+      "avoid bright objects",
+      "avoid bright objects",
+      "avoid bright objects",
+      "avoid bright objects"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 111,
+    "prompt_ms": 61.177,
+    "prompt_per_token_ms": 0.5511441441441441,
+    "prompt_per_second": 1814.4073753207904,
+    "predicted_n": 261,
+    "predicted_ms": 1797.216,
+    "predicted_per_token_ms": 6.91236923076923,
+    "predicted_per_second": 144.6681979239001
+  }
+}

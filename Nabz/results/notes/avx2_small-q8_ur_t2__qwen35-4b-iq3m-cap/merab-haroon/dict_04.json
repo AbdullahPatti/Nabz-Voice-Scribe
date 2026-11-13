@@ -1,0 +1,48 @@
+{
+  "transcript": "ہاتون پچھپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نورویسک پانچ رات کو ایک گولی شروع کرتی ہے نمک کم کرنا ہے دو ہفتے بعد بیپی دبارہ چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 58\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nurovisk\",\n      \"strength\": \"5\",\n      \"dose\": \"1 tablet at night\",\"frequency\": \"once\",\"duration\": \"2 weeks\",\"instructions\": \"reduce salt intake\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check in 2 weeks\"\n  ],\n  \"advice\": [\n    \"Reduce salt intake\"\n  ],\"follow_up\": \"BP check in 2 weeks\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 58
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurovisk",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once",
+        "duration": "2 weeks",
+        "instructions": "reduce salt intake"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check in 2 weeks"
+    ],
+    "advice": [
+      "Reduce salt intake"
+    ],
+    "follow_up": "BP check in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 92,
+    "prompt_ms": 73.812,
+    "prompt_per_token_ms": 0.802304347826087,
+    "prompt_per_second": 1246.4097978648458,
+    "predicted_n": 207,
+    "predicted_ms": 2635.287,
+    "predicted_per_token_ms": 12.792655339805824,
+    "predicted_per_second": 78.16985398554314
+  }
+}

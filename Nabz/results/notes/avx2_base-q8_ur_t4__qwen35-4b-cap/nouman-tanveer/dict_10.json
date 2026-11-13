@@ -1,0 +1,48 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 48\n  },\n  \"complaints\": [\n    {\"symptom\": \"fatigue\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no dyspnea\",\n    \"no palpitations\",\n    \"no chest tightness\",\n    \"no chest congestion\",\n    \"no chest infection\",\n    \"no chest cold\",\n    \"no chest flu\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"see doctor in 1 month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 48
+    },
+    "complaints": [
+      {
+        "symptom": "fatigue",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no chest pain",
+      "no dyspnea",
+      "no palpitations",
+      "no chest tightness",
+      "no chest congestion",
+      "no chest infection",
+      "no chest cold",
+      "no chest flu"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "see doctor in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 96.12,
+    "prompt_per_token_ms": 0.9332038834951457,
+    "prompt_per_second": 1071.5771951727006,
+    "predicted_n": 211,
+    "predicted_ms": 2592.449,
+    "predicted_per_token_ms": 12.344995238095239,
+    "predicted_per_second": 81.00448649134466
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "transcript": "مارض بائیس آل رات کو ساتھ کی تقلیف اور سیننے سے سیٹی کی آس آتی ہے کہ براہد ہون دیگے بخار نہیں ویلنٹولی انہیلر ضرورت پر دو پف دین میں چارد فاصر زیادہ نہیں رات کو رٹک ایک گولی دول ہور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"nightly\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"nightly\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Lantus\",\n      \"strength\": null,\n      \"dose\": \"as needed\",\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy food\",\n    \"avoid smoking\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "nightly"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Lantus",
+        "strength": null,
+        "dose": "as needed",
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy food",
+      "avoid smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 168,
+    "prompt_ms": 110.903,
+    "prompt_per_token_ms": 0.6601369047619048,
+    "prompt_per_second": 1514.837290244628,
+    "predicted_n": 229,
+    "predicted_ms": 2895.056,
+    "predicted_per_token_ms": 12.69761403508772,
+    "predicted_per_second": 78.75495327206106
+  }
+}

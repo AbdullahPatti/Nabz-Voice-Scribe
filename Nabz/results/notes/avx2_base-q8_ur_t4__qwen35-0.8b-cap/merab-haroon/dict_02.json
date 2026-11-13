@@ -1,0 +1,82 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back of the eyes\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the head\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the neck\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the shoulder\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the hip\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the knee\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the ankle\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the foot\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the leg\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the back of the arm\",\n      \"duration\": \"nightly\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no findings\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"no drugs to avoid\"\n  ],\n  \"investigations_ordered\": [\n    \"no investigation ordered\"\n  ],\n  \"advice\": [\n    \"no advice\"\n  ],\n  \"follow_up\": \"no follow up\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "pain in the back of the eyes",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the head",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the neck",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the shoulder",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the hip",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the knee",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the ankle",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the foot",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the leg",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "pain in the back of the arm",
+        "duration": "nightly"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no findings"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "no drugs to avoid"
+    ],
+    "investigations_ordered": [
+      "no investigation ordered"
+    ],
+    "advice": [
+      "no advice"
+    ],
+    "follow_up": "no follow up"
+  },
+  "timings": {
+    "cache_n": 340,
+    "prompt_n": 4,
+    "prompt_ms": 19.079,
+    "prompt_per_token_ms": 4.76975,
+    "prompt_per_second": 209.65459405629224,
+    "predicted_n": 468,
+    "predicted_ms": 2150.409,
+    "predicted_per_token_ms": 4.604730192719487,
+    "predicted_per_second": 217.16798990331606
+  }
+}

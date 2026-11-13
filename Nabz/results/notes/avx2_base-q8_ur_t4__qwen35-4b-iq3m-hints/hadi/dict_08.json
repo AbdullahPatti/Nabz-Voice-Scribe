@@ -1,0 +1,45 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 2\n    },\n  \"complaints\": [\n    {\n      \"symptom\": \"dysuria\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no dysuria\",\n    \"no frequency\",\n    \"no urgency\",\n    \"no pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"drink more water\",\n    \"repeat urine test in 3 days\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 2
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no dysuria",
+      "no frequency",
+      "no urgency",
+      "no pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "drink more water",
+      "repeat urine test in 3 days"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 129,
+    "prompt_ms": 86.489,
+    "prompt_per_token_ms": 0.6704573643410853,
+    "prompt_per_second": 1491.519152724624,
+    "predicted_n": 194,
+    "predicted_ms": 2302.484,
+    "predicted_per_token_ms": 11.929968911917099,
+    "predicted_per_second": 83.82251516188603
+  }
+}

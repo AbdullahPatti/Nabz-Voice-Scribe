@@ -1,0 +1,96 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\"\n  ],\n  \"follow_up\": \"next day\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine"
+    ],
+    "follow_up": "next day"
+  },
+  "timings": {
+    "cache_n": 329,
+    "prompt_n": 4,
+    "prompt_ms": 16.2,
+    "prompt_per_token_ms": 4.05,
+    "prompt_per_second": 246.9135802469136,
+    "predicted_n": 503,
+    "predicted_ms": 2286.256,
+    "predicted_per_token_ms": 4.554294820717131,
+    "predicted_per_second": 219.57296120819368
+  }
+}

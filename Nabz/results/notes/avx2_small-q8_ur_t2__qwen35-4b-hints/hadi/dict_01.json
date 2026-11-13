@@ -1,0 +1,61 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پانچن سے تیز بخار ہے سردتر کمزوری بھی ہے کہ اندائی راتنو بہت ڈھان لگ دی ہے اولٹی نہیں ہے دست بھی نہیں ٹائی فیٹ کو ٹائی فیٹ پولٹی بایا ہے ازم ایک سبان سرزان ایک گولی ساتھ دن پر اندال دو گولی دن میں تین بار جب بخار ہو تین دن بعد بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 19\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"5 days\"},\n    {\"symptom\": \"chills\", \"duration\": \"5 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"5 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Epanutin\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"3 times daily\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return after 3 days if fever persists\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 19
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "chills",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Epanutin",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "return after 3 days if fever persists"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 146,
+    "prompt_ms": 106.458,
+    "prompt_per_token_ms": 0.7291643835616438,
+    "prompt_per_second": 1371.432865543219,
+    "predicted_n": 272,
+    "predicted_ms": 3303.896,
+    "predicted_per_token_ms": 12.19149815498155,
+    "predicted_per_second": 82.0243736485652
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "transcript": "ویمان ویمان ویمان ویمان ویمان ویمان",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"fatigue\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"nasal_congestion\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"cough\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"sore throat\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"runny_nose\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"chills\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"muscle_pain\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"nausea\",\n            \"duration\": \"1 day\"\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"nasal_congestion\"\n    ],\n    \"allergies\": [\n        \"bee sting\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"2 times a day\",\n            \"frequency\": \"1 day\",\n            \"duration\": \"1 day\",\n            \"instructions\": \"take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"aspirin\"\n    ],\n    \"investigations_ordered\": [\n        \"blood_test\"\n    ],\n    \"advice\": [\n        \"take rest\"\n    ],\n    \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nasal_congestion",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "runny_nose",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "chills",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "muscle_pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "nasal_congestion"
+    ],
+    "allergies": [
+      "bee sting"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "2 times a day",
+        "frequency": "1 day",
+        "duration": "1 day",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "aspirin"
+    ],
+    "investigations_ordered": [
+      "blood_test"
+    ],
+    "advice": [
+      "take rest"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 26,
+    "prompt_ms": 28.034,
+    "prompt_per_token_ms": 1.078230769230769,
+    "prompt_per_second": 927.4452450595707,
+    "predicted_n": 440,
+    "predicted_ms": 3574.08,
+    "predicted_per_token_ms": 8.14141230068337,
+    "predicted_per_second": 122.82881189005283
+  }
+}

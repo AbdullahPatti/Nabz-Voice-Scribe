@@ -1,0 +1,72 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no palpitations\",\n    \"no chest tightness\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no constipation\"\n  ],\n  \"findings\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no palpitations\",\n    \"no chest tightness\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no constipation\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 1000 mg of sodium bicarbonate at night\",\n    \"take 1000 mg of sodium bicarbonate twice daily\",\n    \"take 1000 mg of sodium bicarbonate three times daily\",\n    \"take 1000 mg of sodium bicarbonate four times daily\",\n    \"take 1000 mg of sodium bicarbonate five times daily\",\n    \"take 1000 mg of sodium bicarbonate six times daily\",\n    \"take 1000 mg of sodium bicarbonate seven times daily\",\n    \"take 1000 mg of sodium bicarbonate eight times daily\",\n    \"take 1000 mg of sodium bicarbonate nine times daily\",\n    \"take 1000 mg of sodium bicarbonate ten times daily\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fatigue",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no chest pain",
+      "no shortness of breath",
+      "no palpitations",
+      "no chest tightness",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea",
+      "no constipation"
+    ],
+    "findings": [
+      "no fever",
+      "no cough",
+      "no chest pain",
+      "no shortness of breath",
+      "no palpitations",
+      "no chest tightness",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea",
+      "no constipation"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 1000 mg of sodium bicarbonate at night",
+      "take 1000 mg of sodium bicarbonate twice daily",
+      "take 1000 mg of sodium bicarbonate three times daily",
+      "take 1000 mg of sodium bicarbonate four times daily",
+      "take 1000 mg of sodium bicarbonate five times daily",
+      "take 1000 mg of sodium bicarbonate six times daily",
+      "take 1000 mg of sodium bicarbonate seven times daily",
+      "take 1000 mg of sodium bicarbonate eight times daily",
+      "take 1000 mg of sodium bicarbonate nine times daily",
+      "take 1000 mg of sodium bicarbonate ten times daily"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 59.367,
+    "prompt_per_token_ms": 0.6596333333333333,
+    "prompt_per_second": 1515.9937338925668,
+    "predicted_n": 475,
+    "predicted_ms": 3025.539,
+    "predicted_per_token_ms": 6.382993670886076,
+    "predicted_per_second": 156.66629978988865
+  }
+}

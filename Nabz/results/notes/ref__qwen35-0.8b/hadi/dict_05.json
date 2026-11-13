@@ -1,0 +1,16 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"180 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"260 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 31.457,
+    "prompt_per_token_ms": 0.28086607142857145,
+    "prompt_per_second": 3560.415805703023,
+    "predicted_n": 800,
+    "predicted_ms": 2803.063,
+    "predicted_per_token_ms": 3.5082140175219023,
+    "predicted_per_second": 285.0453236334681
+  }
+}

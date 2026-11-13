@@ -1,0 +1,56 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 week\"},\n    {\"symptom\": \"vomiting\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Sangobion\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take after 1 week\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check\"\n  ],\n  \"advice\": [\n    \"BP check again after 1 week\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Sangobion",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take after 1 week"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check"
+    ],
+    "advice": [
+      "BP check again after 1 week"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 173,
+    "prompt_ms": 92.45,
+    "prompt_per_token_ms": 0.534393063583815,
+    "prompt_per_second": 1871.2817739318548,
+    "predicted_n": 230,
+    "predicted_ms": 2942.574,
+    "predicted_per_token_ms": 12.849668122270742,
+    "predicted_per_second": 77.82302161305034
+  }
+}

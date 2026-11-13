@@ -1,0 +1,113 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\",\n    \"sahi nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"100 mg\",\n      \"frequency\": \"daily\",\n      \"duration\": \"1 day\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take the medicine\",\n    \"take the medicine with food\",\n    \"take the medicine daily\",\n    \"take the medicine for 1 day\"\n  ],\n  \"follow_up\": \"1 day\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi",
+      "sahi nahi"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "100 mg",
+        "frequency": "daily",
+        "duration": "1 day",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take the medicine",
+      "take the medicine with food",
+      "take the medicine daily",
+      "take the medicine for 1 day"
+    ],
+    "follow_up": "1 day"
+  },
+  "timings": {
+    "cache_n": 330,
+    "prompt_n": 4,
+    "prompt_ms": 17.205,
+    "prompt_per_token_ms": 4.30125,
+    "prompt_per_second": 232.49055507120025,
+    "predicted_n": 634,
+    "predicted_ms": 2785.175,
+    "predicted_per_token_ms": 4.399960505529227,
+    "predicted_per_second": 227.2747672946942
+  }
+}

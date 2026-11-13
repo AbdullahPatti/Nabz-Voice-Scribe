@@ -1,0 +1,60 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"blood in stool\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diabetes\",\n    \"high blood pressure\",\n    \"increased thirst\",\n    \"increased urination\"\n  ],\n  \"findings\": [\n    \"abdominal pain\",\n    \"diarrhea\",\n    \"hematochezia\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"stop taking profen\",\n    \"stop taking dispen\",\n    \"drink more water\",\n    \"monitor blood loss\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "blood in stool",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "vomiting",
+      "diabetes",
+      "high blood pressure",
+      "increased thirst",
+      "increased urination"
+    ],
+    "findings": [
+      "abdominal pain",
+      "diarrhea",
+      "hematochezia"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "stop taking profen",
+      "stop taking dispen",
+      "drink more water",
+      "monitor blood loss"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 58.242,
+    "prompt_per_token_ms": 0.5200178571428571,
+    "prompt_per_second": 1923.0108856151917,
+    "predicted_n": 292,
+    "predicted_ms": 2038.586,
+    "predicted_per_token_ms": 7.005450171821306,
+    "predicted_per_second": 142.74600139508465
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"mild fever\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"dyspnea\"\n  ],\n  \"findings\": [\n    \"breath sounds with crackles on the right side of the chest\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"2 times daily\", \"frequency\": \"5 days\", \"duration\": \"5 days\", \"instructions\": \"take\"},\n    {\"name\": \"cough syrup\", \"strength\": \"\", \"dose\": \"2 teaspoons\", \"frequency\": \"3 times daily\", \"duration\": \"\", \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"cigarettes\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\"advice\": [\n    \"stop smoking\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "mild fever",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "dyspnea"
+    ],
+    "findings": [
+      "breath sounds with crackles on the right side of the chest"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take"
+      },
+      {
+        "name": "cough syrup",
+        "strength": "",
+        "dose": "2 teaspoons",
+        "frequency": "3 times daily",
+        "duration": "",
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "cigarettes"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 159,
+    "prompt_ms": 90.48,
+    "prompt_per_token_ms": 0.5690566037735849,
+    "prompt_per_second": 1757.2944297082227,
+    "predicted_n": 304,
+    "predicted_ms": 3687.393,
+    "predicted_per_token_ms": 12.16961386138614,
+    "predicted_per_second": 82.17187590256856
+  }
+}

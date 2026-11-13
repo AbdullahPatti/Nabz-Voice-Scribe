@@ -1,0 +1,72 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"since yesterday\"\n        },\n        {\n            \"symptom\": \"dizziness\",\n            \"duration\": \"not specified\"\n        },\n        {\n            \"symptom\": \"chest pain\",\n            \"duration\": \"not specified\"\n        },\n        {\n            \"symptom\": \"fatigue\",\n            \"duration\": \"not specified\"\n        },\n        {\n            \"symptom\": \"night sweats\",\n            \"duration\": \"since last 2 weeks\"\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"serum albumin 3.5\"\n    ],\n    \"allergies\": [\n        \"not specified\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"1 tablet/day\",\n            \"frequency\": \"once daily\",\n            \"duration\": \"2 weeks\",\n            \"instructions\": \"نمکم کرنا ہے\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"not specified\"\n    ],\n    \"investigations_ordered\": [\n        \"not specified\"\n    ],\n    \"advice\": [\n        \"not specified\"\n    ],\n    \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "since yesterday"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "not specified"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "not specified"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "not specified"
+      },
+      {
+        "symptom": "night sweats",
+        "duration": "since last 2 weeks"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "serum albumin 3.5"
+    ],
+    "allergies": [
+      "not specified"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "1 tablet/day",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "نمکم کرنا ہے"
+      }
+    ],
+    "drugs_to_avoid": [
+      "not specified"
+    ],
+    "investigations_ordered": [
+      "not specified"
+    ],
+    "advice": [
+      "not specified"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 129,
+    "prompt_ms": 41.857,
+    "prompt_per_token_ms": 0.32447286821705423,
+    "prompt_per_second": 3081.9217813030077,
+    "predicted_n": 327,
+    "predicted_ms": 2692.353,
+    "predicted_per_token_ms": 8.258751533742332,
+    "predicted_per_second": 121.08367662041344
+  }
+}

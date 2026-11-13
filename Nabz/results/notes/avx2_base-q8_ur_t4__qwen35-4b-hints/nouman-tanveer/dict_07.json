@@ -1,0 +1,80 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"yellowish discoloration\", \"duration\": \"1 month\"},\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"},\n    {\"symptom\": \"sweating\", \"duration\": \"2 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"2 days\"},\n    {\"symptom\": \"breathlessness\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no chest infection\"\n  ],\n  \"findings\": [\n    \"yellowish discoloration\",\n    \"fever\",\n    \"sweating\",\n    \"chest pain\",\n    \"breathlessness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\"duration\": \"5 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Cefixime\",\n      \"strength\": \"200\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"drink plenty of water\"\n  ],\"follow_up\": \"in 5 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "yellowish discoloration",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "sweating",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "breathlessness",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no chest infection"
+    ],
+    "findings": [
+      "yellowish discoloration",
+      "fever",
+      "sweating",
+      "chest pain",
+      "breathlessness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Cefixime",
+        "strength": "200",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "drink plenty of water"
+    ],
+    "follow_up": "in 5 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 276,
+    "prompt_ms": 145.705,
+    "prompt_per_token_ms": 0.5279166666666667,
+    "prompt_per_second": 1894.238358326756,
+    "predicted_n": 397,
+    "predicted_ms": 4621.549,
+    "predicted_per_token_ms": 11.670578282828282,
+    "predicted_per_second": 85.68555694205557
+  }
+}

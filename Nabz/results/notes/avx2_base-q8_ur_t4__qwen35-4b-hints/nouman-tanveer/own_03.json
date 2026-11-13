@@ -1,0 +1,30 @@
+{
+  "transcript": "ویمان ویمان ویمان ویمان ویمان ویمان",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 28,
+    "prompt_ms": 81.892,
+    "prompt_per_token_ms": 2.9247142857142854,
+    "prompt_per_second": 341.9137400478679,
+    "predicted_n": 103,
+    "predicted_ms": 1489.871,
+    "predicted_per_token_ms": 14.606578431372549,
+    "predicted_per_second": 68.46230311214863
+  }
+}

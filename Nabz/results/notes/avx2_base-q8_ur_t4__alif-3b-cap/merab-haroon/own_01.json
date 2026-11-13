@@ -1,0 +1,92 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سکیرز نوز ویلن نو فیور پاندول 2 تبلرٹز 2 ایرز اگی لائی تکسرسیز دیلی کم بیکن 1 منگت",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": null\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھٹکنے کا درد نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\n        \"بھوک نہیں\"\n    ],\n    \"findings\": [\n        \"بھوک نہیں\"\n    ],\n    \"allergies\": [\n        \"نہیں\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"2 تبلٹس 2 گھنٹے بعد\",\n            \"frequency\": \"2 تبلٹس 2 گھنٹے بعد\",\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"نہیں\"\n    ],\n    \"investigations_ordered\": [\n        \"نہیں\"\n    ],\n    \"advice\": [\n        \"نہیں\"\n    ],\n    \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھٹکنے کا درد نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "بھوک نہیں"
+    ],
+    "findings": [
+      "بھوک نہیں"
+    ],
+    "allergies": [
+      "نہیں"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "2 تبلٹس 2 گھنٹے بعد",
+        "frequency": "2 تبلٹس 2 گھنٹے بعد",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "نہیں"
+    ],
+    "investigations_ordered": [
+      "نہیں"
+    ],
+    "advice": [
+      "نہیں"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 77,
+    "prompt_ms": 34.662,
+    "prompt_per_token_ms": 0.45015584415584414,
+    "prompt_per_second": 2221.4528878887545,
+    "predicted_n": 530,
+    "predicted_ms": 4288.527,
+    "predicted_per_token_ms": 8.106856332703213,
+    "predicted_per_second": 123.35237716819783
+  }
+}

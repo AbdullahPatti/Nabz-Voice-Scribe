@@ -1,0 +1,46 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 day\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"coughing up sputum\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"headache\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "coughing up sputum",
+      "chest pain",
+      "shortness of breath",
+      "vomiting",
+      "diarrhea",
+      "headache"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 79.075,
+    "prompt_per_token_ms": 0.7677184466019418,
+    "prompt_per_second": 1302.5608599430918,
+    "predicted_n": 191,
+    "predicted_ms": 2306.497,
+    "predicted_per_token_ms": 12.139457894736841,
+    "predicted_per_second": 82.37600135616913
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "transcript": "ہا تو ان تیس ساتھ پیٹ کے اوپر جلال ہوتی ہے کھانے کے بعد جادا کہ ان دیے کھٹڑی کار ہوں دے لے اولٹی نہیں وزن کم نہیں ہوا رائزک پیٹ سبھا حالی پیٹ دو ہفتے رات کو گیبس کو ان کے دو چمچ شایر میرچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"abdominal pain\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"pain location\", \"duration\": \"upper abdomen\"},\n    {\"symptom\": \"pain timing\", \"duration\": \"after meals\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"abdominal tenderness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 2 teaspoons of Gaviscon at night\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "pain location",
+        "duration": "upper abdomen"
+      },
+      {
+        "symptom": "pain timing",
+        "duration": "after meals"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fever"
+    ],
+    "findings": [
+      "abdominal tenderness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 2 teaspoons of Gaviscon at night"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 222,
+    "prompt_ms": 102.573,
+    "prompt_per_token_ms": 0.4620405405405405,
+    "prompt_per_second": 2164.312245912667,
+    "predicted_n": 223,
+    "predicted_ms": 2778.188,
+    "predicted_per_token_ms": 12.51436036036036,
+    "predicted_per_second": 79.90819915714847
+  }
+}

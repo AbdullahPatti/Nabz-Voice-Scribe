@@ -1,0 +1,55 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"diabetes\", \"duration\": \"unknown\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"foot pain\"\n  ],\n  \"findings\": [\n    \"glucose test done\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glucophage\", \"strength\": null, \"dose\": null, \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"glucose test\"\n  ],\n  \"advice\": [\n    \"continue current medication\",\n    \"monitor blood sugar\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "foot pain"
+    ],
+    "findings": [
+      "glucose test done"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": null,
+        "dose": null,
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "glucose test"
+    ],
+    "advice": [
+      "continue current medication",
+      "monitor blood sugar"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 164,
+    "prompt_ms": 90.793,
+    "prompt_per_token_ms": 0.5536158536585366,
+    "prompt_per_second": 1806.3066535966427,
+    "predicted_n": 225,
+    "predicted_ms": 2858.26,
+    "predicted_per_token_ms": 12.760089285714287,
+    "predicted_per_second": 78.36935758118575
+  }
+}

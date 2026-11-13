@@ -1,0 +1,65 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"night\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"chest\"},\n    {\"symptom\": \"anxiety\", \"duration\": \"general\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ventolin\", \"strength\": \"not specified\", \"dose\": \"2 puffs\", \"frequency\": \"4 times a day\", \"duration\": \"as needed\", \"instructions\": \"not more than 4 times a day\"},\n    {\"name\": \"Zyrtec\", \"strength\": \"not specified\", \"dose\": \"1 tablet\", \"frequency\": \"night\", \"duration\": \"not specified\", \"instructions\": \"take at night\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid dust\",\n    \"avoid smoke\"\n  ],\"follow_up\": \"not specified\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "night"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "chest"
+      },
+      {
+        "symptom": "anxiety",
+        "duration": "general"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "not specified",
+        "dose": "2 puffs",
+        "frequency": "4 times a day",
+        "duration": "as needed",
+        "instructions": "not more than 4 times a day"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": "not specified",
+        "dose": "1 tablet",
+        "frequency": "night",
+        "duration": "not specified",
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid dust",
+      "avoid smoke"
+    ],
+    "follow_up": "not specified"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 179,
+    "prompt_ms": 93.094,
+    "prompt_per_token_ms": 0.5200782122905028,
+    "prompt_per_second": 1922.7877199389864,
+    "predicted_n": 283,
+    "predicted_ms": 3416.472,
+    "predicted_per_token_ms": 12.115148936170213,
+    "predicted_per_second": 82.54128820607924
+  }
+}

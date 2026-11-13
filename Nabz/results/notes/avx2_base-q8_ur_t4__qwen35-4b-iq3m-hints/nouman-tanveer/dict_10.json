@@ -1,0 +1,50 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 8\n    },\n    \"complaints\": [\n     \n    ],\n    \"negatives\": [\n      \"no fever\",\n      \"no cough\",\n      \"no chest pain\",\n      \"no vomiting\",\n      \"no diarrhea\",\n      \"no headache\"\n    ],\n    \"findings\": [\n      \"patient brought by father\",\n      \"no family history of seizures mentioned\"\n    ],\n    \"allergies\": [\n      \"no known drug allergies\"\n    ],\n    \"medications\": [\n     \n    ],\n    \"drugs_to_avoid\": [\n      \"Zyrtec\",\n      \"Duphalac\",\n      \"Panadol\"\n    ],\n    \"investigations_ordered\": [\n      \"EEG\"\n    ],\n    \"advice\": [\n      \"bring child for examination in one month\"\n    ],\"follow_up\": \"1 month\"\n  }",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 8
+    },
+    "complaints": [],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no chest pain",
+      "no vomiting",
+      "no diarrhea",
+      "no headache"
+    ],
+    "findings": [
+      "patient brought by father",
+      "no family history of seizures mentioned"
+    ],
+    "allergies": [
+      "no known drug allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Zyrtec",
+      "Duphalac",
+      "Panadol"
+    ],
+    "investigations_ordered": [
+      "EEG"
+    ],
+    "advice": [
+      "bring child for examination in one month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 185,
+    "prompt_ms": 93.832,
+    "prompt_per_token_ms": 0.5072,
+    "prompt_per_second": 1971.608832807571,
+    "predicted_n": 230,
+    "predicted_ms": 2790.011,
+    "predicted_per_token_ms": 12.183454148471615,
+    "predicted_per_second": 82.07852943948967
+  }
+}

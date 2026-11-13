@@ -1,0 +1,51 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Norvasc\", \"strength\": \"5\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"reduce salt intake\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Reduce salt intake\",\n    \"Continue current medication for 2 weeks\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "reduce salt intake"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Reduce salt intake",
+      "Continue current medication for 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 194,
+    "prompt_ms": 100.947,
+    "prompt_per_token_ms": 0.5203453608247423,
+    "prompt_per_second": 1921.800548802837,
+    "predicted_n": 216,
+    "predicted_ms": 2816.268,
+    "predicted_per_token_ms": 13.098920930232559,
+    "predicted_per_second": 76.34216629951412
+  }
+}

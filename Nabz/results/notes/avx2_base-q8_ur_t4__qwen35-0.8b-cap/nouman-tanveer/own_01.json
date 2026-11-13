@@ -1,0 +1,120 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"100 mg\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"1 week\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"advice\": [\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "100 mg",
+        "frequency": "once daily",
+        "duration": "1 week",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "advice": [
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 301,
+    "prompt_n": 4,
+    "prompt_ms": 19.677,
+    "prompt_per_token_ms": 4.91925,
+    "prompt_per_second": 203.28302078568888,
+    "predicted_n": 650,
+    "predicted_ms": 2922.094,
+    "predicted_per_token_ms": 4.502456086286595,
+    "predicted_per_second": 222.1010001731635
+  }
+}

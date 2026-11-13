@@ -1,0 +1,65 @@
+{
+  "transcript": "Woman 60 years, knee pain for 2 months, worse on stairs. No swelling, no fever. Panadol 2 tablets twice a day. Light exercise daily. Come back in 1 month.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"knee pain\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"worse on stairs\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"no swelling\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"no fever\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"no pain on rest\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"light exercise daily\",\n      \"duration\": \"2 months\"\n    },\n    {\n      \"symptom\": \"come back in 1 month\",\n      \"duration\": \"1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue light exercise daily\",\n    \"come back in 1 month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "worse on stairs",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "no swelling",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "no fever",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "no pain on rest",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "light exercise daily",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "come back in 1 month",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue light exercise daily",
+      "come back in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 59,
+    "prompt_ms": 27.889,
+    "prompt_per_token_ms": 0.4726949152542373,
+    "prompt_per_second": 2115.529420201513,
+    "predicted_n": 333,
+    "predicted_ms": 1539.333,
+    "predicted_per_token_ms": 4.636545180722892,
+    "predicted_per_second": 215.67782929359666
+  }
+}

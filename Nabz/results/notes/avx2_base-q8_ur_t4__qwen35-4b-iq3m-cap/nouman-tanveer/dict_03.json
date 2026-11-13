@@ -1,0 +1,51 @@
+{
+  "transcript": "مرضہ چاریس آر کال رات سے 10 تلکہ ہیں 8 نو دفا ہو چکے ہیں 10 تلکہ ہون نہیں ہیں جس میں تھوڑا تھوڑی پانی کی کمی ہیں ہر 10 کے بات اور از کا ایک گلاثت فلجل 400 دین میں 3 بار 5 دین دوڑ ہوڑ تلی ہوئی چیزے بان اگر پیشہ آپ کام ہو جائے تو فورن باکس اپنے\nاگئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 43\n  },\n  \"complaints\": [\n    {\"symptom\": \"vomiting\", \"duration\": \"10 hours\"},\n    {\"symptom\": \"dehydration\", \"duration\": \"10 hours\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Rifampicin\", \"strength\": \"400\", \"dose\": \"3 times daily\", \"frequency\": \"3 times/day\", \"duration\": \"5 days\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue medication\",\n    \"ensure hydration\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 43
+    },
+    "complaints": [
+      {
+        "symptom": "vomiting",
+        "duration": "10 hours"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "10 hours"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Rifampicin",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "3 times/day",
+        "duration": "5 days",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue medication",
+      "ensure hydration"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 129,
+    "prompt_ms": 82.25,
+    "prompt_per_token_ms": 0.6375968992248062,
+    "prompt_per_second": 1568.38905775076,
+    "predicted_n": 210,
+    "predicted_ms": 2761.586,
+    "predicted_per_token_ms": 13.213330143540668,
+    "predicted_per_second": 75.68114844151151
+  }
+}

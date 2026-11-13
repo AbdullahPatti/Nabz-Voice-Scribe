@@ -1,0 +1,16 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 62\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 35.356,
+    "prompt_per_token_ms": 0.28744715447154473,
+    "prompt_per_second": 3478.900328091413,
+    "predicted_n": 800,
+    "predicted_ms": 2997.753,
+    "predicted_per_token_ms": 3.7518811013767213,
+    "predicted_per_second": 266.53296652526075
+  }
+}

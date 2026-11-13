@@ -1,0 +1,16 @@
+{
+  "transcript": "اپنے اپنے اپنے پڑھے سوڑھا اور اپنے اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of being watched\",\n      \"duration\": \"10 minutes\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no physical signs\",\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no wheezing\",\n    \"no wheal and flare\",\n    \"no rash\",\n    \"no itching\",\n    \"no swelling\",\n    \"no redness\",\n    \"no blisters\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",\n    \"no blistering\",",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 32.293,
+    "prompt_per_token_ms": 0.301803738317757,
+    "prompt_per_second": 3313.411575263989,
+    "predicted_n": 800,
+    "predicted_ms": 3059.667,
+    "predicted_per_token_ms": 3.8293704630788485,
+    "predicted_per_second": 261.13952923635156
+  }
+}

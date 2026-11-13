@@ -1,0 +1,55 @@
+{
+  "transcript": "خطور 38 سال صرف فولو اپ کے لیے آئی ہیں پشلی دفعہ سے کوئی جیاش نہیں ہوا کوئی سائرڈیفک نہیں بخار نہیں خانسی نہیں پینس لیلی سے علیرجی ہے اس لیے اکھتھا میٹین نہیں دینی زرٹیک آدیگولی رات کو دس دن ایک مہینے بعد دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no vomiting\",\n    \"no chest pain\",\n    \"no chest tightness\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"10 days\",\"instructions\": \"take after food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Zyrtec\",\n    \"Panadol\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return in 1 month\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no vomiting",
+      "no chest pain",
+      "no chest tightness"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "10 days",
+        "instructions": "take after food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Zyrtec",
+      "Panadol"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 173,
+    "prompt_ms": 111.868,
+    "prompt_per_token_ms": 0.646635838150289,
+    "prompt_per_second": 1546.4654771695214,
+    "predicted_n": 253,
+    "predicted_ms": 3041.422,
+    "predicted_per_token_ms": 12.069134920634921,
+    "predicted_per_second": 82.85597986731206
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"cough\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"chest tightness\",\n    \"sweating\",\n    \"sweat\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweatiness\",\n    \"sweat",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 58.424,
+    "prompt_per_token_ms": 0.621531914893617,
+    "prompt_per_second": 1608.9278378748459,
+    "predicted_n": 800,
+    "predicted_ms": 4643.882,
+    "predicted_per_token_ms": 5.812117647058823,
+    "predicted_per_second": 172.05432868449287
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"nausea\",\n    \"vomiting\",\n    \"nausea\",\n    \"vomiting\",\n    \"nausea\",\n    \"vomiting\",\n    \"nausea\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"weakness\",\n    \"fatigue\",\n    \"headache\",\n    \"nausea\",\n    \"vomiting\",\n    \"dizziness\",\n    \"nausea\",\n    \"vomiting\",\n    \"nausea\",\n    \"vomiting\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood test\",\n    \"urine test\",\n    \"blood test\",\n    \"urine test\",\n    \"blood test\",\n    \"urine test\",\n    \"blood test\",\n    \"urine test\",\n    \"blood test\",\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\"\n  ],\n  \"follow_up\": \"next appointment\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "weakness",
+        "duration": "short"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "short"
+      },
+      {
+        "symptom": "headache",
+        "duration": "short"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "short"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "short"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "short"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "short"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "short"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "short"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "short"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "nausea",
+      "vomiting",
+      "nausea",
+      "vomiting",
+      "nausea",
+      "vomiting",
+      "nausea",
+      "vomiting"
+    ],
+    "findings": [
+      "weakness",
+      "fatigue",
+      "headache",
+      "nausea",
+      "vomiting",
+      "dizziness",
+      "nausea",
+      "vomiting",
+      "nausea",
+      "vomiting"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood test",
+      "urine test",
+      "blood test",
+      "urine test",
+      "blood test",
+      "urine test",
+      "blood test",
+      "urine test",
+      "blood test",
+      "urine test"
+    ],
+    "advice": [
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine"
+    ],
+    "follow_up": "next appointment"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 134,
+    "prompt_ms": 32.169,
+    "prompt_per_token_ms": 0.24006716417910445,
+    "prompt_per_second": 4165.500948117753,
+    "predicted_n": 619,
+    "predicted_ms": 2635.383,
+    "predicted_per_token_ms": 4.264373786407766,
+    "predicted_per_second": 234.5010193964217
+  }
+}

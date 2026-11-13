@@ -1,0 +1,38 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Panadol for pain.\",\n    \"Take Lasix.\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Panadol for pain.",
+      "Take Lasix."
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 182,
+    "prompt_ms": 119.641,
+    "prompt_per_token_ms": 0.6573681318681319,
+    "prompt_per_second": 1521.2176427813206,
+    "predicted_n": 142,
+    "predicted_ms": 1827.299,
+    "predicted_per_token_ms": 12.959567375886525,
+    "predicted_per_second": 77.16306964541654
+  }
+}

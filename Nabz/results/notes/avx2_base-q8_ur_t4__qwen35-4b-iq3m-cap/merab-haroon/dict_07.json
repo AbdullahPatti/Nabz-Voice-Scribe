@@ -1,0 +1,57 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"45 days\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest wheeze\", \"duration\": \"45 days\"},\n    {\"symptom\": \"smoking\", \"duration\": \"45 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest wheeze",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "smoking",
+        "duration": "45 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 124,
+    "prompt_ms": 83.278,
+    "prompt_per_token_ms": 0.6715967741935485,
+    "prompt_per_second": 1488.9886884891566,
+    "predicted_n": 227,
+    "predicted_ms": 2874.323,
+    "predicted_per_token_ms": 12.718243362831858,
+    "predicted_per_second": 78.62721065099504
+  }
+}

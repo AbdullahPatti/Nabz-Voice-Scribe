@@ -1,0 +1,62 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"burning on urination\",\n      \"duration\": \"since 2 days ago\"\n    },\n    {\n      \"symptom\": \"pain in the lower abdomen\",\n      \"duration\": \"since 2 days ago\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"hematuria\",\n    \"leukocyturia\"\n  ],\n  \"findings\": [\n    \"dysuria\",\n    \"abdominal pain\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"supro\",\n      \"strength\": \"500 mg\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"take with water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take the prescribed medication as directed\",\n    \"drink plenty of water\",\n    \"monitor symptoms for improvement\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "burning on urination",
+        "duration": "since 2 days ago"
+      },
+      {
+        "symptom": "pain in the lower abdomen",
+        "duration": "since 2 days ago"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "hematuria",
+      "leukocyturia"
+    ],
+    "findings": [
+      "dysuria",
+      "abdominal pain"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "supro",
+        "strength": "500 mg",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take the prescribed medication as directed",
+      "drink plenty of water",
+      "monitor symptoms for improvement"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 98,
+    "prompt_ms": 57.32,
+    "prompt_per_token_ms": 0.5848979591836735,
+    "prompt_per_second": 1709.6999302163292,
+    "predicted_n": 328,
+    "predicted_ms": 2326.843,
+    "predicted_per_token_ms": 7.115727828746177,
+    "predicted_per_second": 140.53376183953966
+  }
+}

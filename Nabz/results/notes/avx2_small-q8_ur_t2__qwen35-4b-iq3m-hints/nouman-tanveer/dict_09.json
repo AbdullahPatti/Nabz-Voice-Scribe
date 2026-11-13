@@ -1,0 +1,43 @@
+{
+  "transcript": "مرد بائیسہ رات کو سانچ کی تقریف اور سینے سے سیٹی کی آتی ہے گبراد ہوندی یہ بخار نہیں ویلنٹولی انہلر ضرورت پر دو پف دین میں چار دفاسے زیادہ نہیں رات کو رٹک ایک گولی دول اور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"night\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"use Ventolin inhaler only when needed\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "use Ventolin inhaler only when needed"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 152,
+    "prompt_ms": 88.788,
+    "prompt_per_token_ms": 0.5841315789473684,
+    "prompt_per_second": 1711.9430553678424,
+    "predicted_n": 161,
+    "predicted_ms": 2000.131,
+    "predicted_per_token_ms": 12.50081875,
+    "predicted_per_second": 79.99476034319753
+  }
+}

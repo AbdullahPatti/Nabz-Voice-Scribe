@@ -1,0 +1,74 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"chest pain on the right side\",\n    \"chest tightness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Epanutin\",\n      \"strength\": \"625\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2 times/day\",\"duration\": \"1 week\",\"instructions\": \"take after meals\"\n    },\n    {\n      \"name\": \"Sertraline\",\n      \"strength\": \"50\",\n      \"dose\": \"three times daily\",\n      \"frequency\": \"3 times/day\",\"duration\": \"1 week\",\"instructions\": \"take after meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"drink plenty of water\",\n    \"avoid smoking\"\n  ],\"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "chest pain on the right side",
+      "chest tightness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Epanutin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "2 times/day",
+        "duration": "1 week",
+        "instructions": "take after meals"
+      },
+      {
+        "name": "Sertraline",
+        "strength": "50",
+        "dose": "three times daily",
+        "frequency": "3 times/day",
+        "duration": "1 week",
+        "instructions": "take after meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "drink plenty of water",
+      "avoid smoking"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 216,
+    "prompt_ms": 123.92,
+    "prompt_per_token_ms": 0.5737037037037037,
+    "prompt_per_second": 1743.0600387346674,
+    "predicted_n": 361,
+    "predicted_ms": 4442.78,
+    "predicted_per_token_ms": 12.341055555555554,
+    "predicted_per_second": 81.03034586452627
+  }
+}

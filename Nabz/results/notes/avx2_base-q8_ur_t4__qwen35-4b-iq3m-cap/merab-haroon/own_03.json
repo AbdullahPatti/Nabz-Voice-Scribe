@@ -1,0 +1,55 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [\n    \"kard\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"one tablet\",\n      \"frequency\": \"twice daily\",\"duration\": \"one week\",\"instructions\": \"take after one week\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\"advice\": [\n    \"rest\",\n    \"fluids\"\n  ],\"follow_up\": \"one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [
+      "kard"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "one tablet",
+        "frequency": "twice daily",
+        "duration": "one week",
+        "instructions": "take after one week"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "rest",
+      "fluids"
+    ],
+    "follow_up": "one week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 53,
+    "prompt_ms": 68.148,
+    "prompt_per_token_ms": 1.2858113207547168,
+    "prompt_per_second": 777.7190819980044,
+    "predicted_n": 246,
+    "predicted_ms": 3088.898,
+    "predicted_per_token_ms": 12.607746938775511,
+    "predicted_per_second": 79.31631280799819
+  }
+}

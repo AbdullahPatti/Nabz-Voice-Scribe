@@ -1,0 +1,16 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"painful urination\",\n      \"duration\": \"daily\"\n    },\n    {\n      \"symptom\": \"",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 31.346,
+    "prompt_per_token_ms": 0.28757798165137616,
+    "prompt_per_second": 3477.3176800867736,
+    "predicted_n": 800,
+    "predicted_ms": 2870.374,
+    "predicted_per_token_ms": 3.592458072590738,
+    "predicted_per_second": 278.36093833068446
+  }
+}

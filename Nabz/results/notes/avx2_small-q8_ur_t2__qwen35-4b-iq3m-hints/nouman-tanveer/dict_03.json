@@ -1,0 +1,49 @@
+{
+  "transcript": "مدر چاری سال کال رات سے دست لگے ہیں اٹھنو دفعہ ہو چکے ہیں دست میں خون نہیں ہیں جس میں تھوڑی پانی کی کمی ہیں ہر دست کے بعد اور اس کا ایک گلاست فلیجل چار سو دن میں تین بار پانچ دین دود ہور تلی ہوئی چیزیں بند اگر پیشاب کم ہو جائے تو فرن واپس آن\nآگے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 42\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"4 years\"},\n    {\"symptom\": \"bloody stool\", \"duration\": \"4 years\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"dehydration\",\n    \"stool frequency 5 times/day\",\n    \"stool consistency: liquid\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"increase fluid intake\",\n    \"avoid irritating foods\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 42
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "bloody stool",
+        "duration": "4 years"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fever"
+    ],
+    "findings": [
+      "dehydration",
+      "stool frequency 5 times/day",
+      "stool consistency: liquid"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "increase fluid intake",
+      "avoid irritating foods"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 161,
+    "prompt_ms": 93.515,
+    "prompt_per_token_ms": 0.5808385093167702,
+    "prompt_per_second": 1721.6489333262045,
+    "predicted_n": 205,
+    "predicted_ms": 2482.13,
+    "predicted_per_token_ms": 12.167303921568628,
+    "predicted_per_second": 82.18747607901278
+  }
+}

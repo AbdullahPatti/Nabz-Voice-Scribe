@@ -1,0 +1,75 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"35 days\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"35 days\"},\n    {\"symptom\": \"fever\", \"duration\": \"35 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"35 days\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"35 days\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"35 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets twice daily for 5 days\",\n      \"frequency\": \"twice daily\",\"duration\": \"5 days\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"Cefixime\",\n      \"strength\": \"400\",\n      \"dose\": \"1 tablet three times daily\",\n      \"frequency\": \"three times daily\",\"duration\": \"5 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"drink plenty of water\"\n  ],\"follow_up\": \"return if symptoms worsen\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "35 days"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "35 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "35 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "35 days"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "35 days"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "35 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 tablets twice daily for 5 days",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Cefixime",
+        "strength": "400",
+        "dose": "1 tablet three times daily",
+        "frequency": "three times daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "drink plenty of water"
+    ],
+    "follow_up": "return if symptoms worsen"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 98.784,
+    "prompt_per_token_ms": 0.8031219512195122,
+    "prompt_per_second": 1245.1409135082604,
+    "predicted_n": 373,
+    "predicted_ms": 4491.616,
+    "predicted_per_token_ms": 12.074236559139784,
+    "predicted_per_second": 82.82097133860063
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 22}, \"complaints\": [{\"symptom\": \"raat ko saans ki takleef\", \"duration\": \"ae\"}, {\"symptom\": \"seene se seeti ki awaaz aati hai\", \"duration\": \"hundi ae\"}], \"negatives\": [\"bukhar nahi\", \"ventolin inhaler\", \"zyrtec\", \"raat ko zyrtec\", \"dhen\", \"dhen\", \"bachein\", \"ventolin\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"raat ko\", \"ra",
+  "note": null,
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 102,
+    "prompt_ms": 37.655,
+    "prompt_per_token_ms": 0.3691666666666667,
+    "prompt_per_second": 2708.803611738149,
+    "predicted_n": 800,
+    "predicted_ms": 6024.817,
+    "predicted_per_token_ms": 7.540446808510638,
+    "predicted_per_second": 132.618135953341
+  }
+}

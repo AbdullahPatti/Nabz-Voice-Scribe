@@ -1,0 +1,70 @@
+{
+  "transcript": "مرضہ چاریس آر کال رات سے 10 تلکہ ہیں 8 نو دفا ہو چکے ہیں 10 تلکہ ہون نہیں ہیں جس میں تھوڑا تھوڑی پانی کی کمی ہیں ہر 10 کے بات اور از کا ایک گلاثت فلجل 400 دین میں 3 بار 5 دین دوڑ ہوڑ تلی ہوئی چیزے بان اگر پیشہ آپ کام ہو جائے تو فورن باکس اپنے\nاگئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"10 days\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"8 days\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"10 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"weight loss\",\n    \"blood in stool\",\n    \"rectal bleeding\",\n    \"abdominal mass\",\n    \"abdominal tenderness\"\n  ],\n  \"findings\": [\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625 mg\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"5 days\",\"duration\": \"10 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Augmentin 625 mg 3 times daily for 5 days\",\n    \"take with food\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "10 days"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "8 days"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "10 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "constipation",
+      "weight loss",
+      "blood in stool",
+      "rectal bleeding",
+      "abdominal mass",
+      "abdominal tenderness"
+    ],
+    "findings": [
+      "abdominal pain",
+      "abdominal pain",
+      "abdominal pain"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625 mg",
+        "dose": "3 times daily",
+        "frequency": "5 days",
+        "duration": "10 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take Augmentin 625 mg 3 times daily for 5 days",
+      "take with food"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 129,
+    "prompt_ms": 62.231,
+    "prompt_per_token_ms": 0.4824108527131783,
+    "prompt_per_second": 2072.9218556667897,
+    "predicted_n": 380,
+    "predicted_ms": 2729.637,
+    "predicted_per_token_ms": 7.202208443271768,
+    "predicted_per_second": 138.84630080849578
+  }
+}

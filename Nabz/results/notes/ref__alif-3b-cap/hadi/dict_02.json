@@ -1,0 +1,67 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 34}, \"complaints\": [{\"symptom\": \"bukhar\", \"duration\": \"teen din\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"panadol nahi\", \"brufen nahi\", \"disprin nahi\", \"khoon nahi\", \"khoon nahi aa raha\", \"sirf panadol do goli din mein teen baar\", \"brufen bilkul nahi leni\", \"disprin bhi nahi\"],\"findings\": [\"platelets 95 hazaar hain\"],\"allergies\": [\"khoon nahi\"],\"medications\": [{\"name\": \"panadol\", \"strength\": \"do goli din mein teen baar\", \"dose\": \"din mein teen baar\", \"frequency\": \"din mein teen baar\", \"duration\": \"din mein teen baar\", \"instructions\": \"din mein teen baar\"}], \"drugs_to_avoid\": [\"brufen\", \"disprin\"],\"investigations_ordered\": [\"khoon ka test dobara karwana hai\"],\"advice\": [\"paani zyada piyein\", \"kal khoon ka test dobara karwana hai\"],\"follow_up\": \"kal\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "bukhar",
+        "duration": "teen din"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "panadol nahi",
+      "brufen nahi",
+      "disprin nahi",
+      "khoon nahi",
+      "khoon nahi aa raha",
+      "sirf panadol do goli din mein teen baar",
+      "brufen bilkul nahi leni",
+      "disprin bhi nahi"
+    ],
+    "findings": [
+      "platelets 95 hazaar hain"
+    ],
+    "allergies": [
+      "khoon nahi"
+    ],
+    "medications": [
+      {
+        "name": "panadol",
+        "strength": "do goli din mein teen baar",
+        "dose": "din mein teen baar",
+        "frequency": "din mein teen baar",
+        "duration": "din mein teen baar",
+        "instructions": "din mein teen baar"
+      }
+    ],
+    "drugs_to_avoid": [
+      "brufen",
+      "disprin"
+    ],
+    "investigations_ordered": [
+      "khoon ka test dobara karwana hai"
+    ],
+    "advice": [
+      "paani zyada piyein",
+      "kal khoon ka test dobara karwana hai"
+    ],
+    "follow_up": "kal"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 115,
+    "prompt_ms": 40.55,
+    "prompt_per_token_ms": 0.3526086956521739,
+    "prompt_per_second": 2836.004932182491,
+    "predicted_n": 292,
+    "predicted_ms": 2451.681,
+    "predicted_per_token_ms": 8.425020618556701,
+    "predicted_per_second": 118.69407153703928
+  }
+}

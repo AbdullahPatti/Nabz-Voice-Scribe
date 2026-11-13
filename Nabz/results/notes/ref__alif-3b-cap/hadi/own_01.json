@@ -1,0 +1,67 @@
+{
+  "transcript": "Aurat sixty years, do mahine se knee pain, seerhiyon pe zyada buri. No swelling, no fever. Din mein Panadol ke do tablet. Halki exercise daily, aur ek mahine baad wapas aayein.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 60}, \"complaints\": [{\"symptom\": \"knee pain\", \"duration\": \"do mahine\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"seerhiyon pe zyada buri nahi\", \"no swelling\", \"no fever\", \"din mein panadol ke do tablet\", \"halki exercise daily\", \"ek mahine baad wapas aayein\"],\"findings\": [\"no swelling\", \"no fever\", \"halki exercise daily\", \"ek mahine baad wapas aayein\"],\"allergies\": [\"no allergies\"],\"medications\": [{\"name\": \"Panadol\", \"strength\": \"do tablet\", \"dose\": \"daily\", \"frequency\": \"din mein\", \"duration\": \"do mahine\", \"instructions\": \"ek mahine baad wapas aayein\"}], \"drugs_to_avoid\": [\"no drugs to avoid\"],\"investigations_ordered\": [\"no investigations ordered\"],\"advice\": [\"halki exercise daily\", \"ek mahine baad wapas aayein\"],\"follow_up\": \"wapas ayein\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "do mahine"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "seerhiyon pe zyada buri nahi",
+      "no swelling",
+      "no fever",
+      "din mein panadol ke do tablet",
+      "halki exercise daily",
+      "ek mahine baad wapas aayein"
+    ],
+    "findings": [
+      "no swelling",
+      "no fever",
+      "halki exercise daily",
+      "ek mahine baad wapas aayein"
+    ],
+    "allergies": [
+      "no allergies"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "do tablet",
+        "dose": "daily",
+        "frequency": "din mein",
+        "duration": "do mahine",
+        "instructions": "ek mahine baad wapas aayein"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no drugs to avoid"
+    ],
+    "investigations_ordered": [
+      "no investigations ordered"
+    ],
+    "advice": [
+      "halki exercise daily",
+      "ek mahine baad wapas aayein"
+    ],
+    "follow_up": "wapas ayein"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 67,
+    "prompt_ms": 34.981,
+    "prompt_per_token_ms": 0.5221044776119403,
+    "prompt_per_second": 1915.325462393871,
+    "predicted_n": 267,
+    "predicted_ms": 2240.219,
+    "predicted_per_token_ms": 8.421875939849624,
+    "predicted_per_second": 118.73839120193159
+  }
+}

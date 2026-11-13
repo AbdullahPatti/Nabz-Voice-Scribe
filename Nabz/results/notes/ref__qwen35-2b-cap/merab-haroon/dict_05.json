@@ -1,0 +1,64 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hyperglycemia\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no abdominal pain\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no polyuria\",\n    \"no polydipsia\",\n    \"no polyphagia\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"fasting plasma glucose: 180 mg/dL\",\n    \"postprandial plasma glucose: 260 mg/dL\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"glucophage\",\n      \"strength\": \"500 mg\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"unknown\",\n      \"duration\": \"unknown\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"fasting plasma glucose\",\n    \"postprandial plasma glucose\"\n  ],\n  \"advice\": [\n    \"perform a 3-month fasting plasma glucose test\",\n    \"avoid smoking\"\n  ],\"follow_up\": \"3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "hyperglycemia",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no abdominal pain",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea",
+      "no polyuria",
+      "no polydipsia",
+      "no polyphagia",
+      "no weight loss"
+    ],
+    "findings": [
+      "fasting plasma glucose: 180 mg/dL",
+      "postprandial plasma glucose: 260 mg/dL"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "glucophage",
+        "strength": "500 mg",
+        "dose": "twice daily",
+        "frequency": "unknown",
+        "duration": "unknown",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "fasting plasma glucose",
+      "postprandial plasma glucose"
+    ],
+    "advice": [
+      "perform a 3-month fasting plasma glucose test",
+      "avoid smoking"
+    ],
+    "follow_up": "3 months"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 60.952,
+    "prompt_per_token_ms": 0.5442142857142857,
+    "prompt_per_second": 1837.5114844467778,
+    "predicted_n": 351,
+    "predicted_ms": 2513.264,
+    "predicted_per_token_ms": 7.180754285714286,
+    "predicted_per_second": 139.26113611622176
+  }
+}

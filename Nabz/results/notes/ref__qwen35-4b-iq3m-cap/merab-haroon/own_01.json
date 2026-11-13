@@ -1,0 +1,50 @@
+{
+  "transcript": "Woman 60 years, knee pain for two months, worse on stairs. No swelling, no fever. Panadol two tablets twice a day. Light exercise daily. Come back in one month.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"knee pain\",\n      \"duration\": \"2 months\"\n    }\n  ],\n  \"negatives\": [\n    \"swelling\",\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2\",\n      \"dose\": \"twice a day\",\"frequency\": \"twice a day\",\"duration\": null,\"instructions\": \"twice a day\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"light exercise daily\",\n    \"return in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [
+      "swelling",
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2",
+        "dose": "twice a day",
+        "frequency": "twice a day",
+        "duration": null,
+        "instructions": "twice a day"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "light exercise daily",
+      "return in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 56,
+    "prompt_ms": 72.589,
+    "prompt_per_token_ms": 1.2962321428571428,
+    "prompt_per_second": 771.4667511606442,
+    "predicted_n": 225,
+    "predicted_ms": 2925.991,
+    "predicted_per_token_ms": 13.062459821428572,
+    "predicted_per_second": 76.5552593975853
+  }
+}

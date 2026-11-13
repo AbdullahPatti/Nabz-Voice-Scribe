@@ -1,0 +1,54 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"chest pain on right side\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Take 2 puffs of inhaler 3 times a day\",\n    \"Take 1 puff of inhaler 3 times a day\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "chest pain on right side"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Take 2 puffs of inhaler 3 times a day",
+      "Take 1 puff of inhaler 3 times a day"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 74.8,
+    "prompt_per_token_ms": 0.6504347826086956,
+    "prompt_per_second": 1537.433155080214,
+    "predicted_n": 239,
+    "predicted_ms": 2944.766,
+    "predicted_per_token_ms": 12.372966386554623,
+    "predicted_per_second": 80.82136237650123
+  }
+}

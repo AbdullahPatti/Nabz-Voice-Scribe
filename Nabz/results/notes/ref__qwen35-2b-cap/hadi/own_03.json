@@ -1,0 +1,44 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 31\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no ulti\",\n    \"no eyesight problem\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Panadol only if necessary\",\n    \"Reduce salt intake\",\n    \"Recheck BP in 1 week\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 31
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no ulti",
+      "no eyesight problem"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Panadol only if necessary",
+      "Reduce salt intake",
+      "Recheck BP in 1 week"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 83,
+    "prompt_ms": 55.325,
+    "prompt_per_token_ms": 0.666566265060241,
+    "prompt_per_second": 1500.225937641211,
+    "predicted_n": 200,
+    "predicted_ms": 1545.347,
+    "predicted_per_token_ms": 7.765562814070352,
+    "predicted_per_second": 128.77366701459283
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "transcript": "مدر چاری سال کال رات سے دست لگے ہیں اٹھنو دفعہ ہو چکے ہیں دست میں خون نہیں ہیں جس میں تھوڑی پانی کی کمی ہیں ہر دست کے بعد اور اس کا ایک گلاست فلیجل چار سو دن میں تین بار پانچ دین دود ہور تلی ہوئی چیزیں بند اگر پیشاب کم ہو جائے تو فرن واپس آن\nآگے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 42\n  },\n  \"complaints\": [\n    {\"symptom\": \"hematuria\", \"duration\": \"4 years\"},\n    {\"symptom\": \"frequency of urination\", \"duration\": \"4 years\"}\n  ],\n  \"negatives\": [\n    \"no pain with urination\",\n    \"no dysuria\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy and oily foods\",\n    \"avoid alcohol\",\n    \"avoid tea and coffee\",\n    \"avoid cold drinks\",\n    \"avoid smoking\",\n    \"avoid stress\",\n    \"drink plenty of water\",\n    \"avoid holding urine\",\n    \"avoid constipation\",\n    \"avoid heavy lifting\"\n  ],\n  \"follow_up\": \"return if symptoms worsen\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 42
+    },
+    "complaints": [
+      {
+        "symptom": "hematuria",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "frequency of urination",
+        "duration": "4 years"
+      }
+    ],
+    "negatives": [
+      "no pain with urination",
+      "no dysuria"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy and oily foods",
+      "avoid alcohol",
+      "avoid tea and coffee",
+      "avoid cold drinks",
+      "avoid smoking",
+      "avoid stress",
+      "drink plenty of water",
+      "avoid holding urine",
+      "avoid constipation",
+      "avoid heavy lifting"
+    ],
+    "follow_up": "return if symptoms worsen"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 77.844,
+    "prompt_per_token_ms": 0.6769043478260869,
+    "prompt_per_second": 1477.3136015620987,
+    "predicted_n": 240,
+    "predicted_ms": 2843.766,
+    "predicted_per_token_ms": 11.898602510460252,
+    "predicted_per_second": 84.04348318391878
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 26}, \"complaints\": [{\"symptom\": \"peshab mein jalan hai\", \"duration\": \"do din\"}], \"negatives\": [\"bukhar nahi\", \"kamar mein dard nahi\", \"pregnant nahi hain\"],\"findings\": [\"peshab ka test karwa lein\", \"paani zyada piyein\", \"teen din mein farq na pare to dobara aayein\"],\"allergies\": [\"\"],\"medications\": [{\"name\": \"Cipro\", \"strength\": \"500\", \"dose\": \"din mein do baar\", \"frequency\": \"teen din\", \"duration\": \"ten din\", \"instructions\": \"\"}], \"drugs_to_avoid\": [\"\"],\"investigations_ordered\": [\"peshab ka test karwa lein\"],\"advice\": [\"paani zyada piyein\"],\"follow_up\": \"dobara aayein\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "peshab mein jalan hai",
+        "duration": "do din"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "kamar mein dard nahi",
+      "pregnant nahi hain"
+    ],
+    "findings": [
+      "peshab ka test karwa lein",
+      "paani zyada piyein",
+      "teen din mein farq na pare to dobara aayein"
+    ],
+    "allergies": [
+      ""
+    ],
+    "medications": [
+      {
+        "name": "Cipro",
+        "strength": "500",
+        "dose": "din mein do baar",
+        "frequency": "teen din",
+        "duration": "ten din",
+        "instructions": ""
+      }
+    ],
+    "drugs_to_avoid": [
+      ""
+    ],
+    "investigations_ordered": [
+      "peshab ka test karwa lein"
+    ],
+    "advice": [
+      "paani zyada piyein"
+    ],
+    "follow_up": "dobara aayein"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 106,
+    "prompt_ms": 40.705,
+    "prompt_per_token_ms": 0.3840094339622641,
+    "prompt_per_second": 2604.102690087213,
+    "predicted_n": 222,
+    "predicted_ms": 1931.176,
+    "predicted_per_token_ms": 8.73835294117647,
+    "predicted_per_second": 114.43804189778665
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high blood pressure\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"low blood pressure\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short term\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"sardar kamzori\",\n    \"kandeh ratan\",\n    \"bounthanl\",\n    \"bounthanl\",\n    \"dosti\",\n    \"teffat\",\n    \"poust\",\n    \"baya hai\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"625 mg\",\n      \"frequency\": \"daily\",\n      \"duration\": \"short term\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"no\"\n  ],\n  \"investigations_ordered\": [\n    \"no\"\n  ],\n  \"advice\": [\n    \"no\"\n  ],\n  \"follow_up\": \"short term\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "high blood pressure",
+        "duration": "short term"
+      },
+      {
+        "symptom": "low blood pressure",
+        "duration": "short term"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "short term"
+      },
+      {
+        "symptom": "headache",
+        "duration": "short term"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "short term"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "short term"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "short term"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "short term"
+      },
+      {
+        "symptom": "headache",
+        "duration": "short term"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "short term"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "sardar kamzori",
+      "kandeh ratan",
+      "bounthanl",
+      "bounthanl",
+      "dosti",
+      "teffat",
+      "poust",
+      "baya hai"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "625 mg",
+        "frequency": "daily",
+        "duration": "short term",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no"
+    ],
+    "investigations_ordered": [
+      "no"
+    ],
+    "advice": [
+      "no"
+    ],
+    "follow_up": "short term"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 31.536,
+    "prompt_per_token_ms": 0.2815714285714286,
+    "prompt_per_second": 3551.4967021816337,
+    "predicted_n": 590,
+    "predicted_ms": 2718.717,
+    "predicted_per_token_ms": 4.615818336162988,
+    "predicted_per_second": 216.64630779886247
+  }
+}

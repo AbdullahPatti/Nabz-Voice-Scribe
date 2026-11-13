@@ -1,0 +1,32 @@
+{
+  "transcript": "اپنے 45 سامنے میں ساکتا ہی جانتا ہے۔ اپنے ہی جانتا ہے۔ اپنے اپنے ہی جانتا ہے۔ اپنے اپنے اپنے اپنے اپنے جانتا ہے۔ اپنے اپنے اپنے اپنے ہی جانتا ہے۔ اپنے اپنے اپنے اپنے ہی جانتا ہے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Patient is aware of his own condition.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Patient is aware of his own condition."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 122,
+    "prompt_ms": 98.806,
+    "prompt_per_token_ms": 0.8098852459016394,
+    "prompt_per_second": 1234.7428293828311,
+    "predicted_n": 120,
+    "predicted_ms": 1614.748,
+    "predicted_per_token_ms": 13.569310924369749,
+    "predicted_per_second": 73.69570979496491
+  }
+}

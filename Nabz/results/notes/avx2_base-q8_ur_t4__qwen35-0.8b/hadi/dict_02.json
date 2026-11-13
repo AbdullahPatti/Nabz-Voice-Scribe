@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 32.427,
+    "prompt_per_token_ms": 0.2895267857142857,
+    "prompt_per_second": 3453.9118635704813,
+    "predicted_n": 800,
+    "predicted_ms": 3011.827,
+    "predicted_per_token_ms": 3.7694956195244056,
+    "predicted_per_second": 265.28748165150256
+  }
+}

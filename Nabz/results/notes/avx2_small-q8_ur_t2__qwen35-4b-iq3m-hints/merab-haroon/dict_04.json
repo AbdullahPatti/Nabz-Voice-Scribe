@@ -1,0 +1,55 @@
+{
+  "transcript": "ہاتون پچھپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نورویسک پانچ رات کو ایک گولی شروع کرتی ہے نمک کم کرنا ہے دو ہفتے بعد بیپی دبارہ چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"50 years\"},\n    {\"symptom\": \"heavy head\", \"duration\": \"50 years\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Norvasc\", \"strength\": \"5\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"reduce salt intake\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check in 2 weeks\"\n  ],\n  \"advice\": [\n    \"Reduce salt intake\"\n  ],\n  \"follow_up\": \"BP check in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "50 years"
+      },
+      {
+        "symptom": "heavy head",
+        "duration": "50 years"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "reduce salt intake"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check in 2 weeks"
+    ],
+    "advice": [
+      "Reduce salt intake"
+    ],
+    "follow_up": "BP check in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 138,
+    "prompt_ms": 85.966,
+    "prompt_per_token_ms": 0.6229420289855072,
+    "prompt_per_second": 1605.2858106693345,
+    "predicted_n": 239,
+    "predicted_ms": 3040.814,
+    "predicted_per_token_ms": 12.776529411764706,
+    "predicted_per_second": 78.26851625913325
+  }
+}

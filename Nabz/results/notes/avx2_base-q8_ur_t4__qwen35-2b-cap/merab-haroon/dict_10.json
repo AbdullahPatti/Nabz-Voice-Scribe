@@ -1,0 +1,124 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"sweating\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 year\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"nausea nahi\",\n    \"vomiting nahi\",\n    \"diarrhea nahi\",\n    \"abdominal pain nahi\",\n    \"fever nahi\",\n    \"sweating nahi\",\n    \"fatigue nahi\",\n    \"weight loss nahi\"\n  ],\n  \"findings\": [\n    \"headache\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"fever\",\n    \"sweating\",\n    \"fatigue\",\n    \"weight loss\",\n    \"loss of appetite\"\n  ],\n  \"allergies\": [\n    \"penicillin\",\n    \"aspirin\",\n    \"ibuprofen\",\n    \"acetaminophen\",\n    \"amoxicillin\",\n    \"ciprofloxacin\",\n    \"metronidazole\",\n    \"cephalexin\",\n    \"amoxicillin\",\n    \"ciprofloxacin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625 mg\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"1 tablet daily\",\n      \"duration\": \"1 year\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"ibuprofen\",\n    \"acetaminophen\",\n    \"amoxicillin\",\n    \"ciprofloxacin\",\n    \"metronidazole\",\n    \"cephalexin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Augmentin with food\",\n    \"avoid ibuprofen, acetaminophen, amoxicillin, ciprofloxacin, metronidazole, and cephalixin\",\n    \"consult doctor if symptoms persist\"\n  ],\n  \"follow_up\": \"consult doctor if symptoms persist\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "fever",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "sweating",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 year"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "nausea nahi",
+      "vomiting nahi",
+      "diarrhea nahi",
+      "abdominal pain nahi",
+      "fever nahi",
+      "sweating nahi",
+      "fatigue nahi",
+      "weight loss nahi"
+    ],
+    "findings": [
+      "headache",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal pain",
+      "fever",
+      "sweating",
+      "fatigue",
+      "weight loss",
+      "loss of appetite"
+    ],
+    "allergies": [
+      "penicillin",
+      "aspirin",
+      "ibuprofen",
+      "acetaminophen",
+      "amoxicillin",
+      "ciprofloxacin",
+      "metronidazole",
+      "cephalexin",
+      "amoxicillin",
+      "ciprofloxacin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625 mg",
+        "dose": "1 tablet",
+        "frequency": "1 tablet daily",
+        "duration": "1 year",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "ibuprofen",
+      "acetaminophen",
+      "amoxicillin",
+      "ciprofloxacin",
+      "metronidazole",
+      "cephalexin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "take Augmentin with food",
+      "avoid ibuprofen, acetaminophen, amoxicillin, ciprofloxacin, metronidazole, and cephalixin",
+      "consult doctor if symptoms persist"
+    ],
+    "follow_up": "consult doctor if symptoms persist"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 60.579,
+    "prompt_per_token_ms": 0.5769428571428572,
+    "prompt_per_second": 1733.273906799386,
+    "predicted_n": 778,
+    "predicted_ms": 4815.085,
+    "predicted_per_token_ms": 6.197020592020592,
+    "predicted_per_second": 161.36786785695372
+  }
+}

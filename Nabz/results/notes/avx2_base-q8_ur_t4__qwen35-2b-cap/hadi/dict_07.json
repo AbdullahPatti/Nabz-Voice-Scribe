@@ -1,0 +1,49 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"breast pain\",\n      \"duration\": \"one week\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"one week\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no chest pain\",\n    \"no cough\"\n  ],\n  \"findings\": [\n    \"breast tenderness\",\n    \"cough\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"stop coughing\",\n    \"rest\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "breast pain",
+        "duration": "one week"
+      },
+      {
+        "symptom": "cough",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no chest pain",
+      "no cough"
+    ],
+    "findings": [
+      "breast tenderness",
+      "cough"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "stop coughing",
+      "rest"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 62.988,
+    "prompt_per_token_ms": 0.5477217391304348,
+    "prompt_per_second": 1825.7445862704008,
+    "predicted_n": 209,
+    "predicted_ms": 1556.566,
+    "predicted_per_token_ms": 7.483490384615385,
+    "predicted_per_second": 133.62748511788126
+  }
+}

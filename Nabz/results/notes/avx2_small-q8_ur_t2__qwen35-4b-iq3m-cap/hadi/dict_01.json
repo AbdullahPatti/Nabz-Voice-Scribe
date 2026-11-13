@@ -1,0 +1,55 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پانچن سے تیز بخار ہے سردتر کمزوری بھی ہے کہ اندائی راتنو بہت ڈھان لگ دی ہے اولٹی نہیں ہے دست بھی نہیں ٹائی فیٹ کو ٹائی فیٹ پولٹی بایا ہے ازم ایک سبان سرزان ایک گولی ساتھ دن پر اندال دو گولی دن میں تین بار جب بخار ہو تین دن بعد بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 19\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"15 days\"},\n    {\"symptom\": \"chills\", \"duration\": \"15 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"15 days\"},\n    {\"symptom\": \"fatigue\", \"duration\": \"15 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take one tablet with food in the morning\",\n    \"take two tablets with food in the evening\",\n    \"take two tablets with food at night\",\n    \"continue for 3 days\"\n  ],\n  \"follow_up\": \"after 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 19
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "15 days"
+      },
+      {
+        "symptom": "chills",
+        "duration": "15 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "15 days"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "15 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take one tablet with food in the morning",
+      "take two tablets with food in the evening",
+      "take two tablets with food at night",
+      "continue for 3 days"
+    ],
+    "follow_up": "after 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 78.8,
+    "prompt_per_token_ms": 0.6973451327433628,
+    "prompt_per_second": 1434.010152284264,
+    "predicted_n": 243,
+    "predicted_ms": 2896.153,
+    "predicted_per_token_ms": 11.967574380165289,
+    "predicted_per_second": 83.55912135857464
+  }
+}

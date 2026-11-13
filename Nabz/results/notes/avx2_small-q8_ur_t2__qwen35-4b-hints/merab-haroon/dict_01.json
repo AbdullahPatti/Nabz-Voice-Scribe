@@ -1,0 +1,55 @@
+{
+  "transcript": "ٹائفورد مرد ٹائی سار ٹائی دن سے ٹیز بحار ہے سر در در کمزوری بھی ہے کہندائی راتوں کو بہت ٹھنڈلگ دیئے اولٹی نہیں ہے دست بھی نہیں ہے ٹائفورد کا ٹس پوزگی بایا ہے ازو میکس ٹائی بھنڈ روزانہ ایک گولی ساتھ دن پنڈرڈول دو گولی دن میں ٹین بار جب بحاروں ٹین دن بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 day\"},\n    {\"symptom\": \"weakness\", \"duration\": \"1 day\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [\n    \"fever\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets daily\",\"frequency\": \"twice daily\",\"duration\": \"10 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return if symptoms recur after 10 days\"\n  ],\"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [
+      "fever"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 tablets daily",
+        "frequency": "twice daily",
+        "duration": "10 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "return if symptoms recur after 10 days"
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 235,
+    "prompt_ms": 125.426,
+    "prompt_per_token_ms": 0.5337276595744681,
+    "prompt_per_second": 1873.6147210307274,
+    "predicted_n": 245,
+    "predicted_ms": 3089.369,
+    "predicted_per_token_ms": 12.661348360655738,
+    "predicted_per_second": 78.98052968098015
+  }
+}

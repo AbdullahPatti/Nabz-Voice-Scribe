@@ -1,0 +1,46 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"fever started at night\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take medicine twice a day\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [
+      "fever started at night"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take medicine twice a day"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 78.179,
+    "prompt_per_token_ms": 0.8686555555555556,
+    "prompt_per_second": 1151.2042875964135,
+    "predicted_n": 178,
+    "predicted_ms": 2198.593,
+    "predicted_per_token_ms": 12.421429378531073,
+    "predicted_per_second": 80.50603272183619
+  }
+}

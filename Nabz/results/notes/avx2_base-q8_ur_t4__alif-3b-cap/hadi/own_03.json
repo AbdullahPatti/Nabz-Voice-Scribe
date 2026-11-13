@@ -1,0 +1,60 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 55\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"sham kai nahi hain\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"alti nahi hain\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"بی پی آئی 140/90\"\n    ],\n    \"allergies\": [\n        \"نامعلوم\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"جیسے ہی ضرورت ہو۔ نمگ کام کائیں۔ کفتے بعد چیک کرو۔\",\n            \"frequency\": \"جیسے ہی ضرورت ہو۔ نمگ کام کائیں۔ کفتے بعد چیک کرو۔\",\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"نامعلوم\"\n    ],\n    \"investigations_ordered\": [\n        \"نامعلوم\"\n    ],\n    \"advice\": [\n        \"جیسے ہی ضرورت ہو۔ نمگ کام کائیں۔ کفتے بعد چیک کرو۔\"\n    ],\n    \"follow_up\": \"پانچ سال بعد\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "sham kai nahi hain",
+        "duration": null
+      },
+      {
+        "symptom": "alti nahi hain",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "بی پی آئی 140/90"
+    ],
+    "allergies": [
+      "نامعلوم"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "جیسے ہی ضرورت ہو۔ نمگ کام کائیں۔ کفتے بعد چیک کرو۔",
+        "frequency": "جیسے ہی ضرورت ہو۔ نمگ کام کائیں۔ کفتے بعد چیک کرو۔",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "نامعلوم"
+    ],
+    "investigations_ordered": [
+      "نامعلوم"
+    ],
+    "advice": [
+      "جیسے ہی ضرورت ہو۔ نمگ کام کائیں۔ کفتے بعد چیک کرو۔"
+    ],
+    "follow_up": "پانچ سال بعد"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 119,
+    "prompt_ms": 44.923,
+    "prompt_per_token_ms": 0.3775042016806723,
+    "prompt_per_second": 2648.977138659484,
+    "predicted_n": 363,
+    "predicted_ms": 3104.777,
+    "predicted_per_token_ms": 8.576732044198895,
+    "predicted_per_second": 116.59452514625045
+  }
+}

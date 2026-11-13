@@ -1,0 +1,51 @@
+{
+  "transcript": "خاتون پچھپن سار آج وی پی 160 اور سو آیا سار بھری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نور ویس پانچ رات کو ایک گولی شروع کر دی ہے نمہ کام کرنا ہے دو افتبات بی پی دوارہ چکر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"fatigue\", \"duration\": \"160 days\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nurofen\",\n      \"strength\": \"500\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"as needed\",\"duration\": \"2 days\",\"instructions\": \"take for pain\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"monitor blood pressure\",\n    \"monitor blood sugar\"\n  ],\"follow_up\": \"dizziness\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "fatigue",
+        "duration": "160 days"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurofen",
+        "strength": "500",
+        "dose": "1 tablet at night",
+        "frequency": "as needed",
+        "duration": "2 days",
+        "instructions": "take for pain"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "monitor blood pressure",
+      "monitor blood sugar"
+    ],
+    "follow_up": "dizziness"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 89,
+    "prompt_ms": 90.515,
+    "prompt_per_token_ms": 1.0170224719101124,
+    "prompt_per_second": 983.2624426890571,
+    "predicted_n": 229,
+    "predicted_ms": 2886.601,
+    "predicted_per_token_ms": 12.660530701754386,
+    "predicted_per_second": 78.98563050452765
+  }
+}

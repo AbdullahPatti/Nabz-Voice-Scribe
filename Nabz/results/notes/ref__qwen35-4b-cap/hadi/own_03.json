@@ -1,0 +1,54 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no nausea\",\n    \"no vomiting\",\n    \"no visual disturbance\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": null,\n      \"dose\": \"as needed\",\"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take only when needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"excessive salt\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"recheck BP in 1 week\"\n  ],\"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no nausea",
+      "no vomiting",
+      "no visual disturbance"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "as needed",
+        "frequency": null,
+        "duration": null,
+        "instructions": "take only when needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "excessive salt"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "recheck BP in 1 week"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 83,
+    "prompt_ms": 91.414,
+    "prompt_per_token_ms": 1.1013734939759037,
+    "prompt_per_second": 907.9572056796552,
+    "predicted_n": 241,
+    "predicted_ms": 3031.905,
+    "predicted_per_token_ms": 12.6329375,
+    "predicted_per_second": 79.15815304239413
+  }
+}

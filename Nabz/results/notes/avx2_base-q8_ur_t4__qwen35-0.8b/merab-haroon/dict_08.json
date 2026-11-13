@@ -1,0 +1,16 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 98,
+    "prompt_ms": 35.926,
+    "prompt_per_token_ms": 0.3665918367346939,
+    "prompt_per_second": 2727.82942715582,
+    "predicted_n": 800,
+    "predicted_ms": 3050.771,
+    "predicted_per_token_ms": 3.818236545682103,
+    "predicted_per_second": 261.9010079747054
+  }
+}

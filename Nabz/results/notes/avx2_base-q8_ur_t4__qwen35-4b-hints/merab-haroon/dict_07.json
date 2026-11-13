@@ -1,0 +1,69 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"45 days\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"45 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"45 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"chest X-ray pending\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Cefixime\",\n      \"strength\": \"200\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2 times/day\",\"duration\": \"10 days\",\"instructions\": \"take after food\"\n    },\n    {\n      \"name\": \"Cetirizine\",\n      \"strength\": \"10\",\n      \"dose\": \"three times daily\",\n      \"frequency\": \"3 times/day\",\"duration\": \"10 days\",\"instructions\": \"take after food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"chest X-ray\"\n  ],\n  \"advice\": [\n    \"stop smoking\"\n  ],\"follow_up\": \"pending chest X-ray results\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "45 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "chest X-ray pending"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Cefixime",
+        "strength": "200",
+        "dose": "twice daily",
+        "frequency": "2 times/day",
+        "duration": "10 days",
+        "instructions": "take after food"
+      },
+      {
+        "name": "Cetirizine",
+        "strength": "10",
+        "dose": "three times daily",
+        "frequency": "3 times/day",
+        "duration": "10 days",
+        "instructions": "take after food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "chest X-ray"
+    ],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": "pending chest X-ray results"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 181,
+    "prompt_ms": 115.955,
+    "prompt_per_token_ms": 0.6406353591160221,
+    "prompt_per_second": 1560.950368677504,
+    "predicted_n": 339,
+    "predicted_ms": 4170.9,
+    "predicted_per_token_ms": 12.339940828402366,
+    "predicted_per_second": 81.03766573161668
+  }
+}

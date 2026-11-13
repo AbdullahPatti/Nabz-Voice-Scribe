@@ -1,0 +1,65 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 40\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"ek hafte se\"\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\",\n        \"ulti nahi\"\n    ],\n    \"findings\": [\n        \"BP one forty aur ninety\"\n    ],\n    \"allergies\": [\n        \"panadol\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"panadol\",\n            \"strength\": \"zaroorat pare\",\n            \"dose\": \"ek time per day\",\n            \"frequency\": \"as needed\",\n            \"duration\": \"ek week\",\n            \"instructions\": \"jab zaroorat pare\"\n        },\n        {\n            \"name\": \"namak\",\n            \"strength\": \"kam khayein\",\n            \"dose\": \"one time per day\",\n            \"frequency\": \"as needed\",\n            \"duration\": \"ek week\",\n            \"instructions\": \"kam khayein\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Augmentin 625\"\n    ],\n    \"investigations_ordered\": [\n        \"BP\"\n    ],\n    \"advice\": [\n        \"ek hafte baad phir check karwayein\"\n    ],\n    \"follow_up\": \"ek week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "ek hafte se"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "BP one forty aur ninety"
+    ],
+    "allergies": [
+      "panadol"
+    ],
+    "medications": [
+      {
+        "name": "panadol",
+        "strength": "zaroorat pare",
+        "dose": "ek time per day",
+        "frequency": "as needed",
+        "duration": "ek week",
+        "instructions": "jab zaroorat pare"
+      },
+      {
+        "name": "namak",
+        "strength": "kam khayein",
+        "dose": "one time per day",
+        "frequency": "as needed",
+        "duration": "ek week",
+        "instructions": "kam khayein"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "BP"
+    ],
+    "advice": [
+      "ek hafte baad phir check karwayein"
+    ],
+    "follow_up": "ek week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 80,
+    "prompt_ms": 36.05,
+    "prompt_per_token_ms": 0.45062499999999994,
+    "prompt_per_second": 2219.1400832177533,
+    "predicted_n": 313,
+    "predicted_ms": 2692.189,
+    "predicted_per_token_ms": 8.628810897435898,
+    "predicted_per_second": 115.89082341544372
+  }
+}

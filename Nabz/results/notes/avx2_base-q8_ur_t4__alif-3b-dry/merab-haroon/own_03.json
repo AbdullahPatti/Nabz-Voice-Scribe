@@ -1,0 +1,60 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"bukhar nahi\",\n            \"duration\": \"one week\"\n        },\n        {\n            \"symptom\": \"ulti nahi\",\n            \"duration\": \"one week\"\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"no problem with kaisard\"\n    ],\n    \"allergies\": [\n        \"no allergies\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"one time daily\",\n            \"frequency\": \"once a day\",\n            \"duration\": \"one week\",\n            \"instructions\": \"take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"no drugs to avoid\"\n    ],\n    \"investigations_ordered\": [\n        \"no investigations ordered\"\n    ],\n    \"advice\": [\n        \"no advice\"\n    ],\n    \"follow_up\": \"one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "bukhar nahi",
+        "duration": "one week"
+      },
+      {
+        "symptom": "ulti nahi",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "no problem with kaisard"
+    ],
+    "allergies": [
+      "no allergies"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "one time daily",
+        "frequency": "once a day",
+        "duration": "one week",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no drugs to avoid"
+    ],
+    "investigations_ordered": [
+      "no investigations ordered"
+    ],
+    "advice": [
+      "no advice"
+    ],
+    "follow_up": "one week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 51,
+    "prompt_ms": 32.605,
+    "prompt_per_token_ms": 0.639313725490196,
+    "prompt_per_second": 1564.1772734243216,
+    "predicted_n": 260,
+    "predicted_ms": 2265.439,
+    "predicted_per_token_ms": 8.746868725868726,
+    "predicted_per_second": 114.32662720117382
+  }
+}

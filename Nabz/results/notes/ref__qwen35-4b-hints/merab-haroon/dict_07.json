@@ -1,0 +1,77 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"mild fever\", \"duration\": \"1 week\"},\n    {\"symptom\": \"dyspnea\", \"duration\": \"1 week\"},\n    {\"symptom\": \"bronchial breath sounds on right side\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"bronchial breath sounds on right side\",\n    \"dyspnea\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"5 days\",\"duration\": \"5 days\",\"instructions\": \"take for 5 days\"\n    },\n    {\n      \"name\": \"cough syrup\",\n      \"strength\": \"2 teaspoons\",\n      \"dose\": \"three times daily\",\n      \"frequency\": \"3 times daily\",\"duration\": \"not specified\",\"instructions\": \"take 2 teaspoons 3 times daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"cigarettes\"\n  ],\n  \"investigations_ordered\": [\n    \"chest X-ray\"\n  ],\"advice\": [\n    \"stop smoking\"\n  ],\"follow_up\": \"not specified\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "mild fever",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "dyspnea",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "bronchial breath sounds on right side",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "bronchial breath sounds on right side",
+      "dyspnea"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take for 5 days"
+      },
+      {
+        "name": "cough syrup",
+        "strength": "2 teaspoons",
+        "dose": "three times daily",
+        "frequency": "3 times daily",
+        "duration": "not specified",
+        "instructions": "take 2 teaspoons 3 times daily"
+      }
+    ],
+    "drugs_to_avoid": [
+      "cigarettes"
+    ],
+    "investigations_ordered": [
+      "chest X-ray"
+    ],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": "not specified"
+  },
+  "timings": {
+    "cache_n": 483,
+    "prompt_n": 4,
+    "prompt_ms": 57.428,
+    "prompt_per_token_ms": 14.357,
+    "prompt_per_second": 69.65243435258063,
+    "predicted_n": 384,
+    "predicted_ms": 4618.381,
+    "predicted_per_token_ms": 12.058436031331594,
+    "predicted_per_second": 82.92949412359006
+  }
+}

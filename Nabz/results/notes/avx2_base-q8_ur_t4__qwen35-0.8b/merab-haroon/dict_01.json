@@ -1,0 +1,16 @@
+{
+  "transcript": "تیفورٹ مرد اٹھائی ساتھ پانچ دن سے تیس بہارے سر دردور کمزوری بھی ہے کندہی راتنوں بہت ہندہ لگ دیا ڈی نہیں ہے دست بھی نہیں ہے تیفورٹ کارٹی اس پوزگی بایا ہے ازو میکس 500 روزانہ ایک گولی ساتھیں پینے دول دولی دن میں تین بار جب ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"nausea",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 120,
+    "prompt_ms": 33.022,
+    "prompt_per_token_ms": 0.27518333333333334,
+    "prompt_per_second": 3633.9410090242873,
+    "predicted_n": 800,
+    "predicted_ms": 2951.686,
+    "predicted_per_token_ms": 3.6942252816020025,
+    "predicted_per_second": 270.69274983856684
+  }
+}

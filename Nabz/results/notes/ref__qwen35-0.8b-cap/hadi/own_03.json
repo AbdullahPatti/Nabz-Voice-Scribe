@@ -1,0 +1,74 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"BP\",\n      \"duration\": \"140/90\"\n    },\n    {\n      \"symptom\": \"eyesight\",\n      \"duration\": \"no problem\"\n    },\n    {\n      \"symptom\": \"panadol\",\n      \"duration\": \"when needed\"\n    },\n    {\n      \"symptom\": \"namak\",\n      \"duration\": \"less\"\n    },\n    {\n      \"symptom\": \"BP\",\n      \"duration\": \"after 1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"BP 140/90\",\n    \"eyesight no problem\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"625\",\n      \"dose\": \"when needed\",\n      \"frequency\": \"daily\",\n      \"duration\": \"1 month\",\n      \"instructions\": \"take when needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check after 1 month\"\n  ],\n  \"advice\": [\n    \"BP check after 1 month\"\n  ],\n  \"follow_up\": \"BP check after 1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "BP",
+        "duration": "140/90"
+      },
+      {
+        "symptom": "eyesight",
+        "duration": "no problem"
+      },
+      {
+        "symptom": "panadol",
+        "duration": "when needed"
+      },
+      {
+        "symptom": "namak",
+        "duration": "less"
+      },
+      {
+        "symptom": "BP",
+        "duration": "after 1 month"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "BP 140/90",
+      "eyesight no problem"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "625",
+        "dose": "when needed",
+        "frequency": "daily",
+        "duration": "1 month",
+        "instructions": "take when needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check after 1 month"
+    ],
+    "advice": [
+      "BP check after 1 month"
+    ],
+    "follow_up": "BP check after 1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 83,
+    "prompt_ms": 31.656,
+    "prompt_per_token_ms": 0.38139759036144577,
+    "prompt_per_second": 2621.935809957038,
+    "predicted_n": 415,
+    "predicted_ms": 2334.043,
+    "predicted_per_token_ms": 5.6377850241545895,
+    "predicted_per_second": 177.3746242035815
+  }
+}

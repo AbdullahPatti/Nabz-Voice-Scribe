@@ -1,0 +1,49 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 2\n  },\n  \"complaints\": [\n    {\"symptom\": \"urinary burning\", \"duration\": \"2 days\"},\n    {\"symptom\": \"urinary frequency\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no cough\",\n    \"no chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"drink more water\",\n    \"if urine test is positive in 3 days, repeat urine test\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 2
+    },
+    "complaints": [
+      {
+        "symptom": "urinary burning",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "urinary frequency",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no cough",
+      "no chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "drink more water",
+      "if urine test is positive in 3 days, repeat urine test"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 92.46,
+    "prompt_per_token_ms": 0.9631249999999999,
+    "prompt_per_second": 1038.2868267358858,
+    "predicted_n": 208,
+    "predicted_ms": 2559.951,
+    "predicted_per_token_ms": 12.366913043478261,
+    "predicted_per_second": 80.8609227285991
+  }
+}

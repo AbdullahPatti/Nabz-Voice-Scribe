@@ -1,0 +1,16 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short\"\n    },\n    {\n      \"sym",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 134,
+    "prompt_ms": 31.778,
+    "prompt_per_token_ms": 0.23714925373134327,
+    "prompt_per_second": 4216.753728994902,
+    "predicted_n": 800,
+    "predicted_ms": 2967.92,
+    "predicted_per_token_ms": 3.714543178973717,
+    "predicted_per_second": 269.21210814307665
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "transcript": "ہاتون چونٹی سالت تین دن سے بہار جسم میں درد اور آنکھوں کے پیچھے درد پلیٹ لیڈز 95000 ہے کہیں سے ہم نہیں آرہا صرف پیناڈول دو گولی دن میں تین بار بروفن نے لینے دیسپرن بھی نہیں پانی زادہ پی ہیں کل ہم کا تیس دوبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"joint pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"platelets 95000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"625\",\n      \"dose\": \"3 times daily\",\"frequency\": \"3 times daily\",\"duration\": null,\"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"return in 3 days\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "joint pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "platelets 95000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "625",
+        "dose": "3 times daily",
+        "frequency": "3 times daily",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "return in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 224,
+    "prompt_ms": 119.573,
+    "prompt_per_token_ms": 0.5338080357142857,
+    "prompt_per_second": 1873.3326085320266,
+    "predicted_n": 281,
+    "predicted_ms": 3495.475,
+    "predicted_per_token_ms": 12.483839285714286,
+    "predicted_per_second": 80.10356246289845
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of heaviness\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in eyes\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in ears\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in nose\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in throat\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in mouth\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in stomach\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"no pain in feet\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no pain in eyes\",\n    \"no pain in ears\",\n    \"no pain in nose\",\n    \"no pain in throat\",\n    \"no pain in mouth\",\n    \"no pain in stomach\",\n    \"no pain in legs\",\n    \"no pain in feet\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"do not take aspirin\",\n    \"do not take ibuprofen\",\n    \"do not take paracetamol\",\n    \"do not take acetaminophen\",\n    \"do not take amoxicillin\",\n    \"do not take penicillin\",\n    \"do not take cephalosporin\",\n    \"do not take erythromycin\",\n    \"do not take macrolides\",\n    \"do not take fluoroquinolones\"\n  ],\n  \"follow_up\": \"next appointment in 1 day\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of heaviness",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "no pain in eyes",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "no pain in ears",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "no pain in nose",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "no pain in throat",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "no pain in mouth",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "no pain in stomach",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "no pain in legs",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "no pain in feet",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no pain in eyes",
+      "no pain in ears",
+      "no pain in nose",
+      "no pain in throat",
+      "no pain in mouth",
+      "no pain in stomach",
+      "no pain in legs",
+      "no pain in feet"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "do not take aspirin",
+      "do not take ibuprofen",
+      "do not take paracetamol",
+      "do not take acetaminophen",
+      "do not take amoxicillin",
+      "do not take penicillin",
+      "do not take cephalosporin",
+      "do not take erythromycin",
+      "do not take macrolides",
+      "do not take fluoroquinolones"
+    ],
+    "follow_up": "next appointment in 1 day"
+  },
+  "timings": {
+    "cache_n": 314,
+    "prompt_n": 4,
+    "prompt_ms": 17.101,
+    "prompt_per_token_ms": 4.27525,
+    "prompt_per_second": 233.90445003216186,
+    "predicted_n": 575,
+    "predicted_ms": 2417.365,
+    "predicted_per_token_ms": 4.211437282229965,
+    "predicted_per_second": 237.4486269140159
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 60}, \"complaints\": [{\"symptom\": \"shugar\", \"duration\": \"1 month\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"shugar nahi\"],\"findings\": [\"shugar\", \"shugar test kruai hai\", \"piroon me sen hona nahi hai\"],\"allergies\": [\"\"],\"medications\": [{\"name\": \"glico\", \"strength\": \"1000\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"glico\", \"strength\": \"2000\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"gliclazide\", \"strength\": \"625\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"gliclazide\", \"strength\": \"625\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"gliclazide\", \"strength\": \"625\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"gliclazide\", \"strength\": \"625\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"gliclazide\", \"strength\": \"625\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"gliclazide\", \"strength\": \"625\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"gliclazide\", \"strength\": \"625\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}, {\"name\": \"gliclazide\", \"strength\": \"625\", \"dose\": \"2 times/day\", \"frequency\": \"2 times/day\", \"duration\": \"1 month\", \"instructions\": \"\"}],\"drugs_to_avoid\": [\"\"],\"investigations_ordered\": [\"shugar test kruai hai\"],\"advice\": [\"shugar test kruai hai\"],\"follow_up\": \"1 month\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "shugar",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "shugar nahi"
+    ],
+    "findings": [
+      "shugar",
+      "shugar test kruai hai",
+      "piroon me sen hona nahi hai"
+    ],
+    "allergies": [
+      ""
+    ],
+    "medications": [
+      {
+        "name": "glico",
+        "strength": "1000",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "glico",
+        "strength": "2000",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "gliclazide",
+        "strength": "625",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "gliclazide",
+        "strength": "625",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "gliclazide",
+        "strength": "625",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "gliclazide",
+        "strength": "625",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "gliclazide",
+        "strength": "625",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "gliclazide",
+        "strength": "625",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "gliclazide",
+        "strength": "625",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      },
+      {
+        "name": "gliclazide",
+        "strength": "625",
+        "dose": "2 times/day",
+        "frequency": "2 times/day",
+        "duration": "1 month",
+        "instructions": ""
+      }
+    ],
+    "drugs_to_avoid": [
+      ""
+    ],
+    "investigations_ordered": [
+      "shugar test kruai hai"
+    ],
+    "advice": [
+      "shugar test kruai hai"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 167,
+    "prompt_ms": 49.838,
+    "prompt_per_token_ms": 0.2984311377245509,
+    "prompt_per_second": 3350.856775954091,
+    "predicted_n": 599,
+    "predicted_ms": 4674.895,
+    "predicted_per_token_ms": 7.817550167224081,
+    "predicted_per_second": 127.91731151180934
+  }
+}

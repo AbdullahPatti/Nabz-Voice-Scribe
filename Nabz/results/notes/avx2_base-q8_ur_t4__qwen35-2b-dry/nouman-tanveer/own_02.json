@@ -1,0 +1,16 @@
+{
+  "transcript": "اپنے اپنے اپنے پڑھے سوڑھا اور اپنے اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"runny nose\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"body aches\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"stomach pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"constipation\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal distension\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal swelling\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    },\n",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 56.815,
+    "prompt_per_token_ms": 0.5309813084112149,
+    "prompt_per_second": 1883.3054651060459,
+    "predicted_n": 800,
+    "predicted_ms": 4577.692,
+    "predicted_per_token_ms": 5.729276595744681,
+    "predicted_per_second": 174.54210549770497
+  }
+}

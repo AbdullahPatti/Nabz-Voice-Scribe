@@ -1,0 +1,55 @@
+{
+  "transcript": "مریز مرد اٹھائی شال پانچ دین سے تیس بخور ہے سر درد اور کمزوری بھی ہے کہندہ ایران پورٹ ٹھانٹ لاغ دیئے اولٹی نہیں ہے دست نہیں ہے ٹیفٹ کا ٹس پورٹی بایا ہے ایکزو میکس ٹھائی پھر حنڈ روزانہ ایک گولی سات دین پینڈول دو گولی دین میں تین بھر جب بخور ہو تین دین بعد دوبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"5 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Paracetamol\", \"strength\": \"625\", \"dose\": \"1 tablet\", \"frequency\": \"twice daily\", \"duration\": \"5 days\", \"instructions\": \"continue for 5 days, if fever persists return\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"X-ray\"\n  ],\n  \"advice\": [\n    \"Take Paracetamol 625 mg twice daily for 5 days.\"\n  ],\n  \"follow_up\": \"return if fever persists\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "continue for 5 days, if fever persists return"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "X-ray"
+    ],
+    "advice": [
+      "Take Paracetamol 625 mg twice daily for 5 days."
+    ],
+    "follow_up": "return if fever persists"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 128,
+    "prompt_ms": 82.467,
+    "prompt_per_token_ms": 0.6442734375,
+    "prompt_per_second": 1552.1360059175186,
+    "predicted_n": 249,
+    "predicted_ms": 3036.259,
+    "predicted_per_token_ms": 12.242979838709678,
+    "predicted_per_second": 81.67946146886679
+  }
+}

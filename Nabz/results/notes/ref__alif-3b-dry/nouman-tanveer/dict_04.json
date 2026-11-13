@@ -1,0 +1,77 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 55\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"Bp 160 aur 100 aaya hai\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"Sar bhaari rehta hai, chakkar nahi aate\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"Seene mein dard nahi hai\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"Norvasc 5 raat ko ek goli shuru kar di hai\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"Namak kam karna hai\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"Do hafte baad BP dobara check karwayein\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\",\n        \"ulti nahi\"\n    ],\n    \"findings\": [\n        \"norvasc\"\n    ],\n    \"allergies\": [\n        \"null\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"norvasc\",\n            \"strength\": \"5 raat ko ek goli shuru kar di hai\",\n            \"dose\": null,\n            \"frequency\": null,\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"null\"\n    ],\n    \"investigations_ordered\": [\n        \"null\"\n    ],\n    \"advice\": [\n        \"namak kam karna hai\"\n    ],\n    \"follow_up\": \"do hafte baad BP dobara check karwayein\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "Bp 160 aur 100 aaya hai",
+        "duration": null
+      },
+      {
+        "symptom": "Sar bhaari rehta hai, chakkar nahi aate",
+        "duration": null
+      },
+      {
+        "symptom": "Seene mein dard nahi hai",
+        "duration": null
+      },
+      {
+        "symptom": "Norvasc 5 raat ko ek goli shuru kar di hai",
+        "duration": null
+      },
+      {
+        "symptom": "Namak kam karna hai",
+        "duration": null
+      },
+      {
+        "symptom": "Do hafte baad BP dobara check karwayein",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "norvasc"
+    ],
+    "allergies": [
+      "null"
+    ],
+    "medications": [
+      {
+        "name": "norvasc",
+        "strength": "5 raat ko ek goli shuru kar di hai",
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "null"
+    ],
+    "investigations_ordered": [
+      "null"
+    ],
+    "advice": [
+      "namak kam karna hai"
+    ],
+    "follow_up": "do hafte baad BP dobara check karwayein"
+  },
+  "timings": {
+    "cache_n": 335,
+    "prompt_n": 1,
+    "prompt_ms": 22.113,
+    "prompt_per_token_ms": 22.113,
+    "prompt_per_second": 45.22226744448967,
+    "predicted_n": 397,
+    "predicted_ms": 3303.135,
+    "predicted_per_token_ms": 8.34125,
+    "predicted_per_second": 119.88610819721265
+  }
+}

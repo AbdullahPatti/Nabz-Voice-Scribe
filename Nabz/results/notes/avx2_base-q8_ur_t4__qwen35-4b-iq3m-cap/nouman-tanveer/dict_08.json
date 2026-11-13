@@ -1,0 +1,56 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation in the penis\", \"duration\": \"2 days\"},\n    {\"symptom\": \"recurrent episodes\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no urinary retention\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ciprofloxacin\",\n      \"strength\": \"500\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\"duration\": \"3 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Urine test\",\n    \"Urine culture and sensitivity\"\n  ],\n  \"advice\": [\n    \"Return if symptoms recur\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation in the penis",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "recurrent episodes",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no urinary retention"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Urine test",
+      "Urine culture and sensitivity"
+    ],
+    "advice": [
+      "Return if symptoms recur"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 98,
+    "prompt_ms": 75.808,
+    "prompt_per_token_ms": 0.7735510204081634,
+    "prompt_per_second": 1292.73955255382,
+    "predicted_n": 256,
+    "predicted_ms": 3168.382,
+    "predicted_per_token_ms": 12.425027450980393,
+    "predicted_per_second": 80.48271957106182
+  }
+}

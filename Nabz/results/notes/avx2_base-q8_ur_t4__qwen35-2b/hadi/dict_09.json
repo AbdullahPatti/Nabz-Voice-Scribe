@@ -1,0 +1,16 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"itching\",\n    \"rash\",\n    \"headache\",\n    \"back pain\",\n    \"joint pain\",\n    \"cough\",\n    \"runny nose\",\n    \"sore throat\",\n    \"muscle pain\",\n    \"fatigue\",\n    \"weight loss\",\n    \"abdominal distension\",\n    \"abdominal tenderness\",\n    \"abdominal mass\",\n    \"abdominal pain radiating to back\",\n    \"abdominal pain radiating to groin\",\n    \"abdominal pain radiating to shoulder\",\n    \"abdominal pain radiating to neck\",\n    \"abdominal pain radiating to chest\",\n    \"abdominal pain radiating to arm\",\n    \"abdominal pain radiating to leg\",\n    \"abdominal pain radiating to hip\",\n    \"abdominal pain radiating to knee\",\n    \"abdominal pain radiating to ankle\",\n    \"abdominal pain radiating to toe\",\n    \"abdominal pain radiating to groin\",\n    \"abdominal pain radiating to back\",\n    \"abdominal pain radiating to shoulder\",\n    \"abdominal pain radiating to neck\",\n    \"abdominal pain radiating to chest\",\n    \"abdominal pain radiating to arm\",\n    \"abdominal pain radiating to leg\",\n    \"abdominal pain radiating to hip\",\n    \"abdominal pain radiating to knee\",\n    \"abdominal pain radiating to ankle\",\n    \"abdominal pain radiating to toe\",\n    \"abdominal pain radiating to groin\",\n    \"abdominal pain radiating to back\",\n    \"abdominal pain radiating to shoulder\",\n    \"abdominal pain radiating to neck\",\n    \"abdominal pain radiating to chest\",\n    \"abdominal pain radiating to arm\",\n    \"abdominal pain radiating to leg\",\n    \"abdominal pain radiating to hip\",\n    \"abdominal pain radiating to knee\",\n    \"abdominal pain radiating to ankle\",\n    \"abdominal pain radiating to toe\",\n    \"abdominal pain radiating to groin\",\n    \"abdominal pain radiating to back\",\n    \"abdominal pain radiating to shoulder\",\n    \"abdominal pain radiating to neck\",\n    \"abdominal pain radiating to chest\",\n    \"abdominal pain radiating to arm\",\n    \"abdominal pain radiating to leg\",\n    \"abdominal pain radiating to hip\",\n    \"abdominal pain radiating to knee\",\n    \"abdominal pain radiating to ankle\",\n    \"abdominal pain radiating to toe\",\n    \"abdominal pain radiating to groin\",\n    \"abdominal pain radiating to back\",\n    \"abdominal pain radiating to shoulder\",\n    \"abdominal pain radiating to neck\",\n    \"abdominal pain radiating to chest\",\n    \"abdominal pain radiating to arm\",\n    \"",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 60.426,
+    "prompt_per_token_ms": 0.6497419354838709,
+    "prompt_per_second": 1539.072584648992,
+    "predicted_n": 800,
+    "predicted_ms": 4676.012,
+    "predicted_per_token_ms": 5.85233041301627,
+    "predicted_per_second": 170.872102124631
+  }
+}

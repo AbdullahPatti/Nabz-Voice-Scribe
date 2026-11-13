@@ -1,0 +1,56 @@
+{
+  "transcript": "مرت 45 ساتھ ایک ہفتے سے خانسی پیلا بلگم اور حلکہ بحار سانس نہیں بھولتا سینی کی دیان کی دائیں طرف حواز آ رہی ہے اگمینٹن 625 دن میں دو بات پانچ دیں خانسی کا سیرب دو چمش دن میں تین بار سیگرٹ بند کرنی ہے چیسٹ xy کروالیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"chest pain on right side\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"2 tablets\", \"frequency\": \"twice daily\", \"duration\": \"5 days\", \"instructions\": \"stop smoking\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"chest x-ray\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "chest pain on right side"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "stop smoking"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "chest x-ray"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 106,
+    "prompt_ms": 75.849,
+    "prompt_per_token_ms": 0.715556603773585,
+    "prompt_per_second": 1397.5134807314532,
+    "predicted_n": 231,
+    "predicted_ms": 2953.439,
+    "predicted_per_token_ms": 12.841039130434782,
+    "predicted_per_second": 77.87531755353675
+  }
+}

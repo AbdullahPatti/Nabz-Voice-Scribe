@@ -1,0 +1,52 @@
+{
+  "transcript": "مرت 50 سار شگر کا پرانہ مریز نحار موش شگر 180 اور کھانےگا بعد 260 پہلے گلوکو فیج 500 دن میں دو بار لے رہا تھا بلوکو فیج ہزار دن میں دو بار کھانےگا تھا تین مہینے والا شگر ٹیست کروان ہے پیرو میں سون ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diabetes\",\n      \"duration\": \"180 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"for 3 months\",\"duration\": \"180 days\",\"instructions\": \"continue\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"HbA1c\"\n  ],\n  \"advice\": [\n    \"continue current medication\",\n    \"get HbA1c test done\"\n  ],\"follow_up\": \"3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "180 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "for 3 months",
+        "duration": "180 days",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "HbA1c"
+    ],
+    "advice": [
+      "continue current medication",
+      "get HbA1c test done"
+    ],
+    "follow_up": "3 months"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 163,
+    "prompt_ms": 110.977,
+    "prompt_per_token_ms": 0.680840490797546,
+    "prompt_per_second": 1468.7728087801977,
+    "predicted_n": 249,
+    "predicted_ms": 3182.827,
+    "predicted_per_token_ms": 12.833979838709679,
+    "predicted_per_second": 77.91815263600566
+  }
+}

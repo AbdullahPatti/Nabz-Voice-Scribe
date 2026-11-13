@@ -1,0 +1,46 @@
+{
+  "transcript": "خاتون پچھ پل سال آج بیپی 168 اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نورک فائیف رات کو ایک گولی شروع کر دی ہے نمہ کم کرنا ہے دو ہفتے بعد بیپی دوبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 168\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Nurofief\", \"strength\": \"1000mg\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"continue for 2 weeks\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Continue Nurofief 1000mg at night for 2 weeks.\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 168
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurofief",
+        "strength": "1000mg",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "continue for 2 weeks"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Continue Nurofief 1000mg at night for 2 weeks."
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 77.371,
+    "prompt_per_token_ms": 0.8596777777777778,
+    "prompt_per_second": 1163.226531904719,
+    "predicted_n": 208,
+    "predicted_ms": 2649.606,
+    "predicted_per_token_ms": 12.800028985507247,
+    "predicted_per_second": 78.12482308690424
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "transcript": "خاتون چونٹس سال تھی دن سے بخار جس میں دیرد اور رانکوں کے پیچھے درد پلیٹلٹس پچانوے حزار ہیں کہی سے خون نہیں آرہا صرف پر اڑال دوگوڑی دن میں تین بار پروفن بلکل نہیں لینی دیسپنین بھی نہیں پانی زادہ پیئے کل خون کا تیز تبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 day\"},\n    {\"symptom\": \"back pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"headache\", \"duration\": \"1 day\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"abdominal pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"nausea\", \"duration\": \"1 day\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"1 day\"},\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 day\"},\n    {\"symptom\": \"loss of appetite\", \"duration\": \"1 day\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"1 day\"}\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no abdominal pain\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"fever\",\n    \"back pain\",\n    \"headache\",\n    \"chest pain\",\n    \"abdominal pain\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"loss of appetite\",\n    \"weight loss\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Paracetamol\", \"strength\": \"625\", \"dose\": \"3 times a day\", \"frequency\": \"3 times a day\", \"duration\": \"1 day\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Ibuprofen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\",\n    \"Blood culture\"\n  ],\n  \"advice\": [\n    \"Rest\",\n    \"Hydration\",\n    \"Avoid spicy food\",\n    \"Avoid cold food\",\n    \"Avoid oily food\",\n    \"Avoid fried food\",\n    \"Avoid processed food\",\n    \"Avoid junk food\",\n    \"Avoid fast food\",\n    \"Avoid street food\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "back pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no abdominal pain",
+      "no nausea",
+      "no vomiting",
+      "no diarrhea",
+      "no weight loss"
+    ],
+    "findings": [
+      "fever",
+      "back pain",
+      "headache",
+      "chest pain",
+      "abdominal pain",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "loss of appetite",
+      "weight loss"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "625",
+        "dose": "3 times a day",
+        "frequency": "3 times a day",
+        "duration": "1 day",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ibuprofen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "CBC",
+      "Blood culture"
+    ],
+    "advice": [
+      "Rest",
+      "Hydration",
+      "Avoid spicy food",
+      "Avoid cold food",
+      "Avoid oily food",
+      "Avoid fried food",
+      "Avoid processed food",
+      "Avoid junk food",
+      "Avoid fast food",
+      "Avoid street food"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 78.615,
+    "prompt_per_token_ms": 0.7212385321100917,
+    "prompt_per_second": 1386.5038478661834,
+    "predicted_n": 547,
+    "predicted_ms": 6348.317,
+    "predicted_per_token_ms": 11.626954212454212,
+    "predicted_per_second": 86.00704722212203
+  }
+}

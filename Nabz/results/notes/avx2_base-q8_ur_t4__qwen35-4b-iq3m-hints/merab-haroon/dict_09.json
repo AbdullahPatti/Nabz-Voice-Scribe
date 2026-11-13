@@ -1,0 +1,42 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"overnight\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"overnight\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid exertion\",\n    \"avoid cold air\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "overnight"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "overnight"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid exertion",
+      "avoid cold air"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 191,
+    "prompt_ms": 97.287,
+    "prompt_per_token_ms": 0.5093560209424084,
+    "prompt_per_second": 1963.263334258431,
+    "predicted_n": 155,
+    "predicted_ms": 1964.964,
+    "predicted_per_token_ms": 12.759506493506493,
+    "predicted_per_second": 78.37293711233387
+  }
+}

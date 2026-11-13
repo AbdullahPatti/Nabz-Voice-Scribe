@@ -1,0 +1,58 @@
+{
+  "transcript": "حطون تی سال پیٹ کے اوپر جلن ہوتی ہے کھانے کے بعد سیاتا کہن دیئے کھٹٹکار ہوں دے نے اوٹی نہیں وزن کم نہیں ہوا رائیسٹیک بھی صبا خالی پیٹ دو ہفتے رات کو گیویس ہون کے دو چمچے چائے اور میٹچ کم کڑیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 32\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation in epigastric region\", \"duration\": \"2 years\"},\n    {\"symptom\": \"heartburn\", \"duration\": \"after meals\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no nausea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ranitidine\",\n      \"strength\": \"150\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"at night\",\n      \"duration\": \"2 weeks\",\"instructions\": \"take on empty stomach\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy food\",\n    \"avoid tea and coffee\"\n  ],\"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 32
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation in epigastric region",
+        "duration": "2 years"
+      },
+      {
+        "symptom": "heartburn",
+        "duration": "after meals"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no nausea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ranitidine",
+        "strength": "150",
+        "dose": "2 tablets",
+        "frequency": "at night",
+        "duration": "2 weeks",
+        "instructions": "take on empty stomach"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy food",
+      "avoid tea and coffee"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 105.134,
+    "prompt_per_token_ms": 1.0307254901960785,
+    "prompt_per_second": 970.1904236498183,
+    "predicted_n": 264,
+    "predicted_ms": 3263.952,
+    "predicted_per_token_ms": 12.410463878326997,
+    "predicted_per_second": 80.57716535047084
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"rash\",\n    \"side effects\",\n    \"fever\",\n    \"cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"half\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"for 10 days\",\"duration\": \"10 days\",\"instructions\": \"review in 1 month\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"review in 1 month\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [
+      "rash",
+      "side effects",
+      "fever",
+      "cough"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half",
+        "dose": "1 tablet at night",
+        "frequency": "for 10 days",
+        "duration": "10 days",
+        "instructions": "review in 1 month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "review in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 190,
+    "prompt_ms": 114.334,
+    "prompt_per_token_ms": 0.6017578947368422,
+    "prompt_per_second": 1661.7978903913097,
+    "predicted_n": 230,
+    "predicted_ms": 2859.837,
+    "predicted_per_token_ms": 12.488371179039301,
+    "predicted_per_second": 80.07449375611267
+  }
+}

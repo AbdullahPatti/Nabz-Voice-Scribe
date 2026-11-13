@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 3\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"weight loss\",\n    \"diarrhea\",\n    \"nausea\",\n    \"vomiting\",\n    \"bloating\",\n    \"buck fever\",\n    \"ulcers\",\n    \"weight gain\",\n    \"diabetes\",\n    \"hypertension\",\n    \"hypothyroidism\",\n    \"anemia\",\n    \"jaundice\",\n    \"abdominal mass\",\n    \"abdominal tenderness\",\n    \"abdominal distension\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdominal pain\",\n    \"abdom",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 58.883,
+    "prompt_per_token_ms": 0.6070412371134021,
+    "prompt_per_second": 1647.3345447752322,
+    "predicted_n": 800,
+    "predicted_ms": 4669.987,
+    "predicted_per_token_ms": 5.844789737171465,
+    "predicted_per_second": 171.09255336256822
+  }
+}

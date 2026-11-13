@@ -1,0 +1,16 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 22}, \"complaints\": [{\"symptom\": \"raat ko saans ki takleef\", \"duration\": \"ae\"}, {\"symptom\": \"seene se seeti ki awaaz aati hai\", \"duration\": \"hundi ae\"}], \"negatives\": [\"bukhar nahi\", \"ventolin inhaler\", \"zyrtec\", \"raat ko zyrtec\", \"dhen\", \"dhen\", \"bachein\", \"ventolin inhaler\", \"raat ko zyrtec\", \"dhen\"],\"findings\": [\"raat ko saans ki takleef\", \"seene se seeti ki awaaz aati hai\", \"ventolin inhaler\", \"raat ko zyrtec\", \"dhen\", \"dhen\", \"bachein\", \"ventolin inhaler\", \"raat ko zyrtec\", \"dhen\"],\"allergies\": [\"raat ko zyrtec\", \"dhen\", \"bachein\", \"ventolin inhaler\", \"raat ko zyrtec\", \"dhen\"],\"medications\": [{\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"zaroorat par do\", \"duration\": \"din mein chaar dafa se zyada nahi\", \"instructions\": \"\"}, {\"name\": \"zyrtec\", \"strength\": \"1\", \"dose\": \"goli\", \"frequency\": \"raat ko\", \"duration\": \"ek goli\", \"instructions\": \"\"}, {\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"raat ko\", \"duration\": \"zaroorat par do\", \"instructions\": \"\"}, {\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"raat ko\", \"duration\": \"zaroorat par do\", \"instructions\": \"\"}, {\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"raat ko\", \"duration\": \"zaroorat par do\", \"instructions\": \"\"}, {\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"raat ko\", \"duration\": \"zaroorat par do\", \"instructions\": \"\"}, {\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"raat ko\", \"duration\": \"zaroorat par do\", \"instructions\": \"\"}, {\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"raat ko\", \"duration\": \"zaroorat par do\", \"instructions\": \"\"}, {\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"raat ko\", \"duration\": \"zaroorat par do\", \"instructions\": \"\"}, {\"name\": \"ventolin inhaler\", \"strength\": \"625\", \"dose\": \"puff\", \"frequency\": \"raat ko\", \"duration\": \"zaroorat par do\", \"instructions\": \"\"}],\"drugs_to_avoid\": [\"raat ko zyrtec\", \"dhen\", \"bachein\", \"ventolin inhaler\", \"raat ko zyrtec\", \"dhen\"],\"investigations_ordered\": [\"raat ko saans ki takleef\", \"se",
+  "note": null,
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 102,
+    "prompt_ms": 39.161,
+    "prompt_per_token_ms": 0.3839313725490196,
+    "prompt_per_second": 2604.6321595464874,
+    "predicted_n": 800,
+    "predicted_ms": 6127.763,
+    "predicted_per_token_ms": 7.669290362953692,
+    "predicted_per_second": 130.39016032441202
+  }
+}

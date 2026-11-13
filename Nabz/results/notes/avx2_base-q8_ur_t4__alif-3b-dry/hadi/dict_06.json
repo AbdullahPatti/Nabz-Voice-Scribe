@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": null\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں\",\n\n    \"duration\": null\n    },\n    {\n        \"symptom\": \"بھی سبہ\",\n\n    \"duration\": null\n    },\n    {\n        \"symptom\": \"خری پیٹ دو\",\n\n    \"duration\": null\n    },\n    {\n        \"symptom\": \"تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں\",\n\n    \"duration\": null\n    }\n],\n    \"negatives\": [\n        \"ولن نہیں ہوا\",\n\n    \"duration_of_symptom_duration_of_symptom_1_duration_of_symptom_2_duration_of_symptom_3_duration_of_symptom_4_duration_of_symptom_5_duration_of_symptom_6_duration_of_symptom_7_duration_of_symptom_8_duration_of_symptom_9_duration_of_symptom_10_duration_of_symptom_11_duration_of_symptom_12_duration_of_symptom_13_duration_of_symptom_14_duration_of_symptom_15_duration_of_symptom_16_duration_of_symptom_17_duration_of_symptom_18_duration_of_symptom_19_duration_of_symptom_20_duration_of_symptom_21_duration_of_symptom_22_duration_of_symptom_23_duration_of_symptom_24_duration_of_symptom_25_duration_of_symptom_26_duration_of_symptom_27_duration_of_symptom_28_duration_of_symptom_29_duration_of_symptom_30_duration_of_symptom_31_duration_of_symptom_32_duration_of_symptom_33_duration_of_symptom_34_duration_of_symptom_35_duration_of_symptom_36_duration_of_symptom_37_duration_of_symptom_38_duration_of_symptom_39_duration_of_symptom_40_duration_of_symptom_41_duration_of_symptom_42_duration_of_symptom_43_duration_of_symptom_44_duration_of_symptom_45_duration_of_symptom_46_duration_of_symptom_47_duration_of_symptom_48_duration_of_symptom_49_duration_of_symptom_50_duration_of_symptom_51_duration_of_symptom_52_duration_of_symptom_53_duration_of_symptom_54_duration_of_symptom_55_duration_of_symptom_56_duration_of_symptom_57_duration_of_symptom_58_duration_of_symptom_59_duration_of_symptom_60_duration_of_symptom_61_duration_of_symptom_62_duration_of_symptom_63_duration_of_symptom_64_duration_of_symptom_65_duration_of_symptom_66_duration_of_symptom_67_duration_of_symptom_68_duration_of_symptom_69_duration_of_symptom_70_duration_of_symptom_71_duration_of_symptom_72_duration_of_symptom_73_duration_of_symptom_74_duration_of_symptom_75_duration_of_symptom_76_duration_of_symptom_77_duration_of_symptom_78_duration_of_symptom_79_duration_of_symptom_80_duration_of_symptom_81_duration_of_symptom_82_duration_of_symptom_83_duration_of_symptom_84_duration_of_symptom_85",
+  "note": null,
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 132,
+    "prompt_ms": 42.036,
+    "prompt_per_token_ms": 0.3184545454545455,
+    "prompt_per_second": 3140.1655723665426,
+    "predicted_n": 800,
+    "predicted_ms": 6274.549,
+    "predicted_per_token_ms": 7.853002503128911,
+    "predicted_per_second": 127.33982952400244
+  }
+}

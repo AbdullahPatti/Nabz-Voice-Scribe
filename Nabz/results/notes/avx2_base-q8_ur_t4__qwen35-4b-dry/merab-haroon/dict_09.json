@@ -1,0 +1,46 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"night\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take paracetamol\",\n    \"take 4 tablets of Dofexin\",\n    \"avoid spicy food\",\n    \"avoid cold food\",\n    \"avoid running\",\n    \"avoid dust\"\n  ],\"follow_up\": \"next day\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take paracetamol",
+      "take 4 tablets of Dofexin",
+      "avoid spicy food",
+      "avoid cold food",
+      "avoid running",
+      "avoid dust"
+    ],
+    "follow_up": "next day"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 94.658,
+    "prompt_per_token_ms": 1.0070000000000001,
+    "prompt_per_second": 993.0486593843098,
+    "predicted_n": 185,
+    "predicted_ms": 2288.913,
+    "predicted_per_token_ms": 12.439744565217392,
+    "predicted_per_second": 80.38750271417044
+  }
+}

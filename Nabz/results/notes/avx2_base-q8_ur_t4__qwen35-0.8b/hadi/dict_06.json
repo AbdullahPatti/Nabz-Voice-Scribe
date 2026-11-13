@@ -1,0 +1,72 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"foot swelling\",\n      \"duration\": \"weeks\"\n    },\n    {\n      \"symptom\": \"increased appetite\",\n      \"duration\": \"weeks\"\n    },\n    {\n      \"symptom\": \"loss of weight\",\n      \"duration\": \"weeks\"\n    },\n    {\n      \"symptom\": \"increased risk of heart disease\",\n      \"duration\": \"weeks\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"625 mg\",\n      \"frequency\": \"daily\",\n      \"duration\": \"3 months\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"no\"\n  ],\n  \"advice\": [\n    \"do not exercise\",\n    \"do not eat more\",\n    \"do not exercise\"\n  ],\n  \"follow_up\": \"next visit in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "foot swelling",
+        "duration": "weeks"
+      },
+      {
+        "symptom": "increased appetite",
+        "duration": "weeks"
+      },
+      {
+        "symptom": "loss of weight",
+        "duration": "weeks"
+      },
+      {
+        "symptom": "increased risk of heart disease",
+        "duration": "weeks"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "625 mg",
+        "frequency": "daily",
+        "duration": "3 months",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "no"
+    ],
+    "advice": [
+      "do not exercise",
+      "do not eat more",
+      "do not exercise"
+    ],
+    "follow_up": "next visit in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 32.263,
+    "prompt_per_token_ms": 0.3326082474226804,
+    "prompt_per_second": 3006.5399993800947,
+    "predicted_n": 364,
+    "predicted_ms": 1903.116,
+    "predicted_per_token_ms": 5.242743801652892,
+    "predicted_per_second": 190.73981827697312
+  }
+}

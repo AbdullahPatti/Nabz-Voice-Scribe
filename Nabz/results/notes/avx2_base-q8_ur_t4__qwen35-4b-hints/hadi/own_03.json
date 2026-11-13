@@ -1,0 +1,44 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"45 years\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"check BP again after 1 hour\"\n  ],\n  \"advice\": [\n    \"take medication if needed\"\n  ],\n  \"follow_up\": \"check BP after 1 hour\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "45 years"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "check BP again after 1 hour"
+    ],
+    "advice": [
+      "take medication if needed"
+    ],
+    "follow_up": "check BP after 1 hour"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 151,
+    "prompt_ms": 108.182,
+    "prompt_per_token_ms": 0.7164370860927153,
+    "prompt_per_second": 1395.7959734521455,
+    "predicted_n": 194,
+    "predicted_ms": 2372.81,
+    "predicted_per_token_ms": 12.294352331606218,
+    "predicted_per_second": 81.3381602403901
+  }
+}

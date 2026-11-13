@@ -1,0 +1,16 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"sleeplessness\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"insomnia\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nighttime cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 35.111,
+    "prompt_per_token_ms": 0.37352127659574463,
+    "prompt_per_second": 2677.2236621001966,
+    "predicted_n": 800,
+    "predicted_ms": 2965.056,
+    "predicted_per_token_ms": 3.7109586983729663,
+    "predicted_per_second": 269.472144876859
+  }
+}

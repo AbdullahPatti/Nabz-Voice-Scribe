@@ -1,0 +1,99 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 34}, \"complaints\": [{\"symptom\": \"bukhar\", \"duration\": \"teen din\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"panadol nahi\", \"brufen nahi\", \"disprin nahi\", \"khoon nahi\", \"khoon nahi aa raha\", \"sirf panadol do goli din mein teen baar\", \"brufen bilkul nahi leni\", \"disprin bhi nahi\", \"paani zyada piyein\", \"khoon ka test dobara karwana hai\"],\"findings\": [\"platelets 95 hazaar hain\"],\"allergies\": [\"\"],\"medications\": [{\"name\": \"panadol\", \"strength\": \"do goli din mein teen baar\", \"dose\": \"1 goli\", \"frequency\": \"din mein teen baar\", \"duration\": \"dose ka\", \"instructions\": \"\"}, {\"name\": \"brufen\", \"strength\": \"625\", \"dose\": \"1 goli\", \"frequency\": \"din mein teen baar\", \"duration\": \"dose ka\", \"instructions\": \"\"}, {\"name\": \"disprin\", \"strength\": \"625\", \"dose\": \"1 goli\", \"frequency\": \"din mein teen baar\", \"duration\": \"dose ka\", \"instructions\": \"\"}, {\"name\": \"paani\", \"strength\": \"zyada piyein\", \"dose\": \"1 goli\", \"frequency\": \"din mein teen baar\", \"duration\": \"dose ka\", \"instructions\": \"\"}, {\"name\": \"khoon ka test\", \"strength\": \"dobara karwana hai\", \"dose\": \"1 goli\", \"frequency\": \"kal\", \"duration\": \"dose ka\", \"instructions\": \"\"}],\"drugs_to_avoid\": [\"\"],\"investigations_ordered\": [\"\"],\"advice\": [\"\"],\"follow_up\": \"kal\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "bukhar",
+        "duration": "teen din"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "panadol nahi",
+      "brufen nahi",
+      "disprin nahi",
+      "khoon nahi",
+      "khoon nahi aa raha",
+      "sirf panadol do goli din mein teen baar",
+      "brufen bilkul nahi leni",
+      "disprin bhi nahi",
+      "paani zyada piyein",
+      "khoon ka test dobara karwana hai"
+    ],
+    "findings": [
+      "platelets 95 hazaar hain"
+    ],
+    "allergies": [
+      ""
+    ],
+    "medications": [
+      {
+        "name": "panadol",
+        "strength": "do goli din mein teen baar",
+        "dose": "1 goli",
+        "frequency": "din mein teen baar",
+        "duration": "dose ka",
+        "instructions": ""
+      },
+      {
+        "name": "brufen",
+        "strength": "625",
+        "dose": "1 goli",
+        "frequency": "din mein teen baar",
+        "duration": "dose ka",
+        "instructions": ""
+      },
+      {
+        "name": "disprin",
+        "strength": "625",
+        "dose": "1 goli",
+        "frequency": "din mein teen baar",
+        "duration": "dose ka",
+        "instructions": ""
+      },
+      {
+        "name": "paani",
+        "strength": "zyada piyein",
+        "dose": "1 goli",
+        "frequency": "din mein teen baar",
+        "duration": "dose ka",
+        "instructions": ""
+      },
+      {
+        "name": "khoon ka test",
+        "strength": "dobara karwana hai",
+        "dose": "1 goli",
+        "frequency": "kal",
+        "duration": "dose ka",
+        "instructions": ""
+      }
+    ],
+    "drugs_to_avoid": [
+      ""
+    ],
+    "investigations_ordered": [
+      ""
+    ],
+    "advice": [
+      ""
+    ],
+    "follow_up": "kal"
+  },
+  "timings": {
+    "cache_n": 355,
+    "prompt_n": 1,
+    "prompt_ms": 23.555,
+    "prompt_per_token_ms": 23.555,
+    "prompt_per_second": 42.45383145828911,
+    "predicted_n": 456,
+    "predicted_ms": 3711.486,
+    "predicted_per_token_ms": 8.157112087912088,
+    "predicted_per_second": 122.5924063838581
+  }
+}

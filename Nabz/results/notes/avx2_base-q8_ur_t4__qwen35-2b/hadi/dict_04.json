@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"unknown\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no palpitations\",\n    \"no chest tightness\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no headache\",\n    \"no neck pain\",\n    \"no back pain\",\n    \"no joint pain\",\n    \"no muscle pain\",\n    \"no rash\",\n    \"no skin lesions\",\n    \"no lymphadenopathy\",\n    \"no hepatosplenomegaly\",\n    \"no abdominal pain\",\n    \"no abdominal distension\",\n    \"no abdominal tenderness\",\n    \"no abdominal mass\",\n    \"no jaundice\",\n    \"no edema\",\n    \"no pitting edema\",\n    \"no ascites\",\n    \"no pleural effusion\",\n    \"no pericardial effusion\",\n    \"no hemoptysis\",\n    \"no hematemesis\",\n    \"no melena\",\n    \"no hematochezia\",\n    \"no anorexia\",\n    \"no dyspepsia\",\n    \"no dysphagia\",\n    \"no dysuria\",\n    \"no dyspareunia\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorrhea\",\n    \"no dysmenorr",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 57.576,
+    "prompt_per_token_ms": 0.6397333333333334,
+    "prompt_per_second": 1563.151313047103,
+    "predicted_n": 800,
+    "predicted_ms": 4703.762,
+    "predicted_per_token_ms": 5.887061326658323,
+    "predicted_per_second": 169.86403648824069
+  }
+}

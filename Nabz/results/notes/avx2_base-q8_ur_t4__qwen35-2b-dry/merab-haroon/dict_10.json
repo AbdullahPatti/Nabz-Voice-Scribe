@@ -1,0 +1,16 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"sweating\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"anorexia\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"sweating\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"anorexia\",\n      \"duration\": \"1 year\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"headache\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"fever\",\n    \"sweating\",\n    \"fatigue\",\n    \"weight loss\",\n    \"loss of appetite\",\n    \"anorexia\"\n  ],\n  \"allergies\": [\n    \"penicillin\",\n    \"amoxicillin\",\n    \"azithromycin\",\n    \"ciprofloxacin\",\n    \"metronidazole\",\n    \"tetracycline\",\n    \"cephalexin\",\n    \"erythromycin\",\n    \"clindamycin\",\n    \"vancomycin\",\n    \"daptomycin\",\n    \"linezolid\",\n    \"tigecycline\",\n    \"doxycycl",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 58.449,
+    "prompt_per_token_ms": 0.5566571428571429,
+    "prompt_per_second": 1796.4379202381563,
+    "predicted_n": 800,
+    "predicted_ms": 4667.821,
+    "predicted_per_token_ms": 5.842078848560701,
+    "predicted_per_second": 171.17194511100575
+  }
+}

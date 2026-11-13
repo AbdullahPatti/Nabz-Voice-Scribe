@@ -1,0 +1,61 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"Hatom chonti saad tain days saa bhaa har jism mein dard per ankhoon ke pechhe dard\",\n            \"duration\": \"3\"\n        },\n        {\n            \"symptom\": \"Litteras tainity faiyf tounzen he khein saa raahar seraf pinaadol do goli day mein tain bar brafol nain lenne diisperin bhi nain pani zyadah pihin kala hoon ka khein dubarrah kruanah he\",\n            \"duration\": \"1\"\n        }\n    ],\n    \"negatives\": [\"bukhar nahi\", \"ulti nahi\"],\n    \"findings\": [\"Litteras tainity faiyf tounzen\"],\n    \"allergies\": [\"Nain\"],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"day\",\n            \"frequency\": \"tain bar\",\n            \"duration\": \"1\",\n            \"instructions\": \"lenne diisperin bhi nain\"\n        }\n    ],\n    \"drugs_to_avoid\": [\"Seraf pinaadol\"],\n    \"investigations_ordered\": [\"Litteras tainity faiyf tounzen\"],\n    \"advice\": [\"Pani zyadah pihin kala hoon ka khein dubarrah kruanah he\"],\n    \"follow_up\": \" دوبارہ کروانہ ہے\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "Hatom chonti saad tain days saa bhaa har jism mein dard per ankhoon ke pechhe dard",
+        "duration": "3"
+      },
+      {
+        "symptom": "Litteras tainity faiyf tounzen he khein saa raahar seraf pinaadol do goli day mein tain bar brafol nain lenne diisperin bhi nain pani zyadah pihin kala hoon ka khein dubarrah kruanah he",
+        "duration": "1"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "Litteras tainity faiyf tounzen"
+    ],
+    "allergies": [
+      "Nain"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "day",
+        "frequency": "tain bar",
+        "duration": "1",
+        "instructions": "lenne diisperin bhi nain"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Seraf pinaadol"
+    ],
+    "investigations_ordered": [
+      "Litteras tainity faiyf tounzen"
+    ],
+    "advice": [
+      "Pani zyadah pihin kala hoon ka khein dubarrah kruanah he"
+    ],
+    "follow_up": " دوبارہ کروانہ ہے"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 179,
+    "prompt_ms": 50.275,
+    "prompt_per_token_ms": 0.28086592178770947,
+    "prompt_per_second": 3560.4177026355046,
+    "predicted_n": 398,
+    "predicted_ms": 3317.507,
+    "predicted_per_token_ms": 8.35644080604534,
+    "predicted_per_second": 119.6681725162901
+  }
+}

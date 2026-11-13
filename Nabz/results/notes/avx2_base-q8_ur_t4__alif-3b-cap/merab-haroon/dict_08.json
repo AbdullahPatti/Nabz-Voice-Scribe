@@ -1,0 +1,57 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 45}, \"complaints\": [{\"symptom\": \"premature ejaculation\", \"duration\": \"3\"}], \"negatives\": [\"بُخار نہیں\", \"ulti نہیں\"],\"findings\": [\"کمر میں درد\"],\"allergies\": [\"نہیں\"],\"medications\": [{\"name\": \"Supro 500\", \"strength\": \"3\", \"dose\": \"2 times/day\", \"frequency\": \"3 days\", \"duration\": \"3 days\", \"instructions\": \"اگر نہیں تو 3 days میں فرقنا پڑھیں\"}], \"drugs_to_avoid\": [\"نہیں\"],\"investigations_ordered\": [\"نہیں\"],\"advice\": [\"نہیں\"],\"follow_up\": \"نہیں\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "premature ejaculation",
+        "duration": "3"
+      }
+    ],
+    "negatives": [
+      "بُخار نہیں",
+      "ulti نہیں"
+    ],
+    "findings": [
+      "کمر میں درد"
+    ],
+    "allergies": [
+      "نہیں"
+    ],
+    "medications": [
+      {
+        "name": "Supro 500",
+        "strength": "3",
+        "dose": "2 times/day",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "اگر نہیں تو 3 days میں فرقنا پڑھیں"
+      }
+    ],
+    "drugs_to_avoid": [
+      "نہیں"
+    ],
+    "investigations_ordered": [
+      "نہیں"
+    ],
+    "advice": [
+      "نہیں"
+    ],
+    "follow_up": "نہیں"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 143,
+    "prompt_ms": 43.88,
+    "prompt_per_token_ms": 0.30685314685314685,
+    "prompt_per_second": 3258.887876025524,
+    "predicted_n": 220,
+    "predicted_ms": 1944.311,
+    "predicted_per_token_ms": 8.878132420091324,
+    "predicted_per_second": 112.63630149703417
+  }
+}

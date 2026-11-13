@@ -1,0 +1,66 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"swelling\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"dry hands\",\n    \"no pus\",\n    \"no fever\",\n    \"no cough\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no nausea\",\n    \"no headache\",\n    \"no chest pain\",\n    \"no shortness of breath\"\n  ],\n  \"findings\": [\n    \"swelling of hands\",\n    \"pain in hands\",\n    \"no pus\",\n    \"no fever\",\n    \"no cough\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no nausea\",\n    \"no headache\",\n    \"no chest pain\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"apply cold compress\",\n    \"rest\",\n    \"avoid heavy lifting\",\n    \"apply warm compress after 2 days\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "swelling",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "dry hands",
+      "no pus",
+      "no fever",
+      "no cough",
+      "no vomiting",
+      "no diarrhea",
+      "no nausea",
+      "no headache",
+      "no chest pain",
+      "no shortness of breath"
+    ],
+    "findings": [
+      "swelling of hands",
+      "pain in hands",
+      "no pus",
+      "no fever",
+      "no cough",
+      "no vomiting",
+      "no diarrhea",
+      "no nausea",
+      "no headache",
+      "no chest pain"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "apply cold compress",
+      "rest",
+      "avoid heavy lifting",
+      "apply warm compress after 2 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 61.365,
+    "prompt_per_token_ms": 0.6016176470588236,
+    "prompt_per_second": 1662.1852847714495,
+    "predicted_n": 320,
+    "predicted_ms": 2233.739,
+    "predicted_per_token_ms": 7.002316614420063,
+    "predicted_per_second": 142.80988065302168
+  }
+}

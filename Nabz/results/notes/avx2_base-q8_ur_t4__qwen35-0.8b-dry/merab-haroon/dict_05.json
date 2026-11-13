@@ -1,0 +1,16 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"weight_loss\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"weight_loss\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"weight_loss\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"weight_loss\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"weight_loss\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 day\"\n    },\n   ",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 85,
+    "prompt_ms": 29.051,
+    "prompt_per_token_ms": 0.3417764705882353,
+    "prompt_per_second": 2925.888953908643,
+    "predicted_n": 800,
+    "predicted_ms": 3064.325,
+    "predicted_per_token_ms": 3.835200250312891,
+    "predicted_per_second": 260.74257789235804
+  }
+}

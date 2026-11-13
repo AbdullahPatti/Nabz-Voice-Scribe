@@ -1,0 +1,109 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain in the back\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"pain in the back\",\n    \"pain in the back\",\n    \"pain in the back\",\n    \"pain in the back\",\n    \"pain in the back\",\n    \"pain in the back\",\n    \"pain in the back\",\n    \"pain in the back\",\n    \"pain in the back\",\n    \"pain in the back\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"3 days\",\n      \"frequency\": \"2 times\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"take 3 days\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take 3 days\",\n    \"take 3 days\",\n    \"take 3 days\",\n    \"take 3 days\",\n    \"take 3 days\",\n    \"take 3 days\",\n    \"take 3 days\",\n    \"take 3 days\",\n    \"take 3 days\",\n    \"take 3 days\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain in the back",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "pain in the back",
+      "pain in the back",
+      "pain in the back",
+      "pain in the back",
+      "pain in the back",
+      "pain in the back",
+      "pain in the back",
+      "pain in the back",
+      "pain in the back",
+      "pain in the back"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "3 days",
+        "frequency": "2 times",
+        "duration": "3 days",
+        "instructions": "take 3 days"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take 3 days",
+      "take 3 days",
+      "take 3 days",
+      "take 3 days",
+      "take 3 days",
+      "take 3 days",
+      "take 3 days",
+      "take 3 days",
+      "take 3 days",
+      "take 3 days"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 325,
+    "prompt_n": 4,
+    "prompt_ms": 19.858,
+    "prompt_per_token_ms": 4.9645,
+    "prompt_per_second": 201.4301540940679,
+    "predicted_n": 649,
+    "predicted_ms": 2935.186,
+    "predicted_per_token_ms": 4.529608024691358,
+    "predicted_per_second": 220.76965480211476
+  }
+}

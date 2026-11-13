@@ -1,0 +1,48 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"abdominal pain\",\n    \"fever\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"consult doctor\",\n    \"take prescribed medicine\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "fever",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "abdominal pain",
+      "fever"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "consult doctor",
+      "take prescribed medicine"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 309,
+    "prompt_n": 4,
+    "prompt_ms": 40.972,
+    "prompt_per_token_ms": 10.243,
+    "prompt_per_second": 97.62764814995606,
+    "predicted_n": 212,
+    "predicted_ms": 1526.959,
+    "predicted_per_token_ms": 7.236772511848342,
+    "predicted_per_second": 138.18314702621353
+  }
+}

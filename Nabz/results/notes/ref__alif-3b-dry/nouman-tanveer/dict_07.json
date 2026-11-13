@@ -1,0 +1,63 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 45}, \"complaints\": [{\"symptom\": \"khansi\", \"duration\": \"ek hafte\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"saans phoolta nahi\"],\"findings\": [\"peela balgham\", \"halka bukhar\", \"seene ki daayin taraf awaaz aa rahi hai\", \"cigarette band karni hai\", \"chest x-ray karwa lein\"],\"allergies\": [\"nahi\"],\"medications\": [{\"name\": \"Augmentin 625\", \"strength\": \"625\", \"dose\": \"din mein do baar, paanch din\", \"frequency\": \"teen baar\", \"duration\": \"din mein\", \"instructions\": \"paanch din\"}], \"drugs_to_avoid\": [\"nahi\"],\"investigations_ordered\": [\"nahi\"],\"advice\": [\"cigarette band karni hai\", \"chest x-ray karwa lein\"],\"follow_up\": \"nahi\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "khansi",
+        "duration": "ek hafte"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "saans phoolta nahi"
+    ],
+    "findings": [
+      "peela balgham",
+      "halka bukhar",
+      "seene ki daayin taraf awaaz aa rahi hai",
+      "cigarette band karni hai",
+      "chest x-ray karwa lein"
+    ],
+    "allergies": [
+      "nahi"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "din mein do baar, paanch din",
+        "frequency": "teen baar",
+        "duration": "din mein",
+        "instructions": "paanch din"
+      }
+    ],
+    "drugs_to_avoid": [
+      "nahi"
+    ],
+    "investigations_ordered": [
+      "nahi"
+    ],
+    "advice": [
+      "cigarette band karni hai",
+      "chest x-ray karwa lein"
+    ],
+    "follow_up": "nahi"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 105,
+    "prompt_ms": 39.889,
+    "prompt_per_token_ms": 0.3798952380952381,
+    "prompt_per_second": 2632.3046453909596,
+    "predicted_n": 246,
+    "predicted_ms": 2099.156,
+    "predicted_per_token_ms": 8.567983673469387,
+    "predicted_per_second": 116.71357440800017
+  }
+}

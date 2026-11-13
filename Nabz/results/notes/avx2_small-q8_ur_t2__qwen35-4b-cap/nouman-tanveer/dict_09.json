@@ -1,0 +1,58 @@
+{
+  "transcript": "مرد بائیسہ رات کو سانچ کی تقریف اور سینے سے سیٹی کی آتی ہے گبراد ہوندی یہ بخار نہیں ویلنٹولی انہلر ضرورت پر دو پف دین میں چار دفاسے زیادہ نہیں رات کو رٹک ایک گولی دول اور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"night\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": \"as needed\",\n      \"dose\": \"inhaler\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"4 days\",\"instructions\": \"do not exceed 4 days\"\n    },\n    {\n      \"name\": \"Retic\",\n      \"strength\": \"10\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"at night\",\n      \"duration\": \"2 days\",\"instructions\": \"take at night\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "as needed",
+        "dose": "inhaler",
+        "frequency": "as needed",
+        "duration": "4 days",
+        "instructions": "do not exceed 4 days"
+      },
+      {
+        "name": "Retic",
+        "strength": "10",
+        "dose": "1 tablet",
+        "frequency": "at night",
+        "duration": "2 days",
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 96.847,
+    "prompt_per_token_ms": 1.0413655913978495,
+    "prompt_per_second": 960.2775511889889,
+    "predicted_n": 275,
+    "predicted_ms": 3449.961,
+    "predicted_per_token_ms": 12.591098540145985,
+    "predicted_per_second": 79.42118765980254
+  }
+}

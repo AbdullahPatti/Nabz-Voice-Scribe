@@ -1,0 +1,52 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dysuria\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"abdominal pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ciprofloxacin\",\n      \"strength\": \"500 mg\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"3 days\",\"duration\": \"3 days\",\"instructions\": \"drink plenty of water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"wait 3 days\",\n    \"return if no improvement\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "abdominal pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500 mg",
+        "dose": "twice daily",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "drink plenty of water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "wait 3 days",
+      "return if no improvement"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 62.841,
+    "prompt_per_token_ms": 0.5765229357798165,
+    "prompt_per_second": 1734.536369567639,
+    "predicted_n": 245,
+    "predicted_ms": 2028.239,
+    "predicted_per_token_ms": 8.312454918032786,
+    "predicted_per_second": 120.30140432168004
+  }
+}

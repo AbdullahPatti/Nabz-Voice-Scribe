@@ -1,0 +1,80 @@
+{
+  "transcript": "مرت 45 ساتھ ایک ہفتے سے خانسی پیلا بلگم اور حلکہ بحار سانس نہیں بھولتا سینی کی دیان کی دائیں طرف حواز آ رہی ہے اگمینٹن 625 دن میں دو بات پانچ دیں خانسی کا سیرب دو چمش دن میں تین بار سیگرٹ بند کرنی ہے چیسٹ xy کروالیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"chest pain on the right side\",\n    \"chest tightness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\"duration\": \"5 days\",\"instructions\": \"take for cough\"\n    },\n    {\n      \"name\": \"Chest syrup\",\n      \"strength\": null,\n      \"dose\": \"3\",\n      \"frequency\": \"three times daily\",\"duration\": null,\"instructions\": \"take for cough\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"smoking\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Stop smoking\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "chest pain on the right side",
+      "chest tightness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take for cough"
+      },
+      {
+        "name": "Chest syrup",
+        "strength": null,
+        "dose": "3",
+        "frequency": "three times daily",
+        "duration": null,
+        "instructions": "take for cough"
+      }
+    ],
+    "drugs_to_avoid": [
+      "smoking"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 169,
+    "prompt_ms": 109.646,
+    "prompt_per_token_ms": 0.648792899408284,
+    "prompt_per_second": 1541.323896904584,
+    "predicted_n": 375,
+    "predicted_ms": 4552.167,
+    "predicted_per_token_ms": 12.171569518716579,
+    "predicted_per_second": 82.15867300123215
+  }
+}

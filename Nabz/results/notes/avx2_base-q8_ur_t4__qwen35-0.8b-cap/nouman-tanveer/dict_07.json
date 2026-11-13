@@ -1,0 +1,96 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 62\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\",\n    \"cough\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take antacids\",\n    \"take antacids\",\n    \"take antacids\",\n    \"take antacids\",\n    \"take antacids\",\n    \"take antacids\",\n    \"take antacids\",\n    \"take antacids\",\n    \"take antacids\",\n    \"take antacids\"\n  ],\n  \"follow_up\": \"1 day\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 62
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough",
+      "cough"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take antacids",
+      "take antacids",
+      "take antacids",
+      "take antacids",
+      "take antacids",
+      "take antacids",
+      "take antacids",
+      "take antacids",
+      "take antacids",
+      "take antacids"
+    ],
+    "follow_up": "1 day"
+  },
+  "timings": {
+    "cache_n": 350,
+    "prompt_n": 4,
+    "prompt_ms": 17.008,
+    "prompt_per_token_ms": 4.252,
+    "prompt_per_second": 235.1834430856068,
+    "predicted_n": 523,
+    "predicted_ms": 2273.752,
+    "predicted_per_token_ms": 4.355846743295019,
+    "predicted_per_second": 229.57648855284128
+  }
+}

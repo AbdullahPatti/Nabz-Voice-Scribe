@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of heaviness in the chest\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"difficulty breathing\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the neck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the abdomen\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the arms\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the back\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the head\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the stomach\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the joints\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the muscles\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the bones\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the skin\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the hair\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the eyes\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the ears\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the nose\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the throat\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the lungs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the heart\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the liver\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the kidneys\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the gallbladder\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the pancreas\",\n      \"duration",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 35.797,
+    "prompt_per_token_ms": 0.3977444444444444,
+    "prompt_per_second": 2514.177165684275,
+    "predicted_n": 800,
+    "predicted_ms": 2953.94,
+    "predicted_per_token_ms": 3.697046307884856,
+    "predicted_per_second": 270.48619809474803
+  }
+}

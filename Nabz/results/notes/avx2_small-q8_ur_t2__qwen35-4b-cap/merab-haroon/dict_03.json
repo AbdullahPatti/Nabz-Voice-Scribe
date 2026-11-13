@@ -1,0 +1,56 @@
+{
+  "transcript": "مرد چالے سال کل راد سے دست لگی ہیں آتنو دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جسہ میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اور اس ایک گلاس فلیجل چارسو دن میں تین بار پانچ دن دود اور تلی ہوئی چیزیں بند اگر پشاب کم ہو جے تو فورن واپس آئیں\nایسا بہت سوچی ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"mild dehydration\"\n  ],\n  \"allergies\": [\n    \"no known drug allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Flajil\",\n      \"strength\": \"3\",\n      \"dose\": \"1 glass after each episode of diarrhea\",\n      \"frequency\": \"3 times a day for 4 days\",\"duration\": \"4 days\",\"instructions\": \"continue for 5 days\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"fried foods\",\n    \"curd\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return immediately if diarrhea worsens\"\n  ],\"follow_up\": \"return if symptoms worsen\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "mild dehydration"
+    ],
+    "allergies": [
+      "no known drug allergies"
+    ],
+    "medications": [
+      {
+        "name": "Flajil",
+        "strength": "3",
+        "dose": "1 glass after each episode of diarrhea",
+        "frequency": "3 times a day for 4 days",
+        "duration": "4 days",
+        "instructions": "continue for 5 days"
+      }
+    ],
+    "drugs_to_avoid": [
+      "fried foods",
+      "curd"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return immediately if diarrhea worsens"
+    ],
+    "follow_up": "return if symptoms worsen"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 119,
+    "prompt_ms": 113.88,
+    "prompt_per_token_ms": 0.9569747899159663,
+    "prompt_per_second": 1044.9596066034424,
+    "predicted_n": 264,
+    "predicted_ms": 3322.011,
+    "predicted_per_token_ms": 12.631220532319391,
+    "predicted_per_second": 79.16891304694656
+  }
+}

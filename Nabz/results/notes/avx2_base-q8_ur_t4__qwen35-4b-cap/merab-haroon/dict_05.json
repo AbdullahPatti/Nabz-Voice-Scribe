@@ -1,0 +1,39 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glycine Phosphate\",\n      \"strength\": \"200\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"ongoing\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glycine Phosphate",
+        "strength": "200",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "ongoing",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 85,
+    "prompt_ms": 92.508,
+    "prompt_per_token_ms": 1.0883294117647058,
+    "prompt_per_second": 918.8394517230943,
+    "predicted_n": 172,
+    "predicted_ms": 2264.546,
+    "predicted_per_token_ms": 13.242959064327485,
+    "predicted_per_second": 75.51182444516473
+  }
+}

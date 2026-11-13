@@ -1,0 +1,60 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"day\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no dry cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no wheezing\",\n    \"no sputum\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"cough\",\n    \"no fever\",\n    \"no dry cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no wheezing\",\n    \"no sputum\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take cough syrup at night\",\n    \"take cough syrup in the morning\",\n    \"avoid cough syrup in the evening\",\n    \"avoid cough syrup in the day\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "day"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no dry cough",
+      "no chest pain",
+      "no shortness of breath",
+      "no wheezing",
+      "no sputum"
+    ],
+    "findings": [
+      "cough",
+      "cough",
+      "no fever",
+      "no dry cough",
+      "no chest pain",
+      "no shortness of breath",
+      "no wheezing",
+      "no sputum"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take cough syrup at night",
+      "take cough syrup in the morning",
+      "avoid cough syrup in the evening",
+      "avoid cough syrup in the day"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 59.713,
+    "prompt_per_token_ms": 0.6352446808510639,
+    "prompt_per_second": 1574.1965736104364,
+    "predicted_n": 302,
+    "predicted_ms": 2074.636,
+    "predicted_per_token_ms": 6.8924784053156145,
+    "predicted_per_second": 145.0856921406936
+  }
+}

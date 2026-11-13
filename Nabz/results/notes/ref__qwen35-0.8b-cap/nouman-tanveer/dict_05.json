@@ -1,0 +1,87 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"180 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"260 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    },\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"1000 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"pairon mein sun hona nahi hai\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\",\n    \"sugar ka purana mareez\"\n  ],\n  \"follow_up\": \"teen mahine wala sugar test karwana hai\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "high blood sugar",
+        "duration": "180 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "260 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "1000 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "1000 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "1000 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "1000 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "1000 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "1000 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "1000 days"
+      },
+      {
+        "symptom": "high blood sugar",
+        "duration": "1000 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "pairon mein sun hona nahi hai"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "sugar ka purana mareez",
+      "sugar ka purana mareez",
+      "sugar ka purana mareez",
+      "sugar ka purana mareez",
+      "sugar ka purana mareez",
+      "sugar ka purana mareez",
+      "sugar ka purana mareez",
+      "sugar ka purana mareez",
+      "sugar ka purana mareez",
+      "sugar ka purana mareez"
+    ],
+    "follow_up": "teen mahine wala sugar test karwana hai"
+  },
+  "timings": {
+    "cache_n": 339,
+    "prompt_n": 4,
+    "prompt_ms": 16.934,
+    "prompt_per_token_ms": 4.2335,
+    "prompt_per_second": 236.21117278847288,
+    "predicted_n": 553,
+    "predicted_ms": 2471.039,
+    "predicted_per_token_ms": 4.476519927536232,
+    "predicted_per_second": 223.38781379006966
+  }
+}

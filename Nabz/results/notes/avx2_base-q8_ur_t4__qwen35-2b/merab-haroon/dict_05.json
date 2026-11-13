@@ -1,0 +1,51 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diabetes\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"glucose 6.0\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"glucose 6.0\",\n      \"strength\": \"6.0\",\"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"unknown\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take glucose 6.0 twice daily with food\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "glucose 6.0"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "glucose 6.0",
+        "strength": "6.0",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "unknown",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take glucose 6.0 twice daily with food"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 85,
+    "prompt_ms": 57.579,
+    "prompt_per_token_ms": 0.6774,
+    "prompt_per_second": 1476.2326542663125,
+    "predicted_n": 241,
+    "predicted_ms": 1914.784,
+    "predicted_per_token_ms": 7.978266666666667,
+    "predicted_per_second": 125.34050838110198
+  }
+}

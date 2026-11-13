@@ -1,0 +1,56 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"2 months\"},\n    {\"symptom\": \"yellowish sputum\", \"duration\": \"2 months\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"2 months\"},\n    {\"symptom\": \"wheezing on the right side\", \"duration\": \"2 months\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Chyath\", \"strength\": \"1/2\", \"dose\": \"2 times a day\", \"frequency\": \"3 times a day\", \"duration\": \"2 months\", \"instructions\": \"take half a spoon\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "yellowish sputum",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "2 months"
+      },
+      {
+        "symptom": "wheezing on the right side",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Chyath",
+        "strength": "1/2",
+        "dose": "2 times a day",
+        "frequency": "3 times a day",
+        "duration": "2 months",
+        "instructions": "take half a spoon"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 80.372,
+    "prompt_per_token_ms": 0.6534308943089431,
+    "prompt_per_second": 1530.3837157218932,
+    "predicted_n": 237,
+    "predicted_ms": 3028.718,
+    "predicted_per_token_ms": 12.833550847457627,
+    "predicted_per_second": 77.9207572312774
+  }
+}

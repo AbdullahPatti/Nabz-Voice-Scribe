@@ -1,0 +1,30 @@
+{
+  "transcript": "امام 35 سال میں ایسا دیکھتا ہوں اور ایسا سال میں دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور ایسا دیکھتا ہوں اور",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 78.185,
+    "prompt_per_token_ms": 0.6798695652173913,
+    "prompt_per_second": 1470.870371554646,
+    "predicted_n": 102,
+    "predicted_ms": 1390.386,
+    "predicted_per_token_ms": 13.76619801980198,
+    "predicted_per_second": 72.64169806082629
+  }
+}

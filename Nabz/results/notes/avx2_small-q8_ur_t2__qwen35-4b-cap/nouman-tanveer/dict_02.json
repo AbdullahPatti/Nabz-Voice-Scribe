@@ -1,0 +1,67 @@
+{
+  "transcript": "خطون 34 سال تین دن سے بخوا ہے جس ہم میں درد اور آنکھوں کے پیچھے درد پلیٹلاس پچانوے ہزار ہیں کہی سے خون نہیں آرہا صرف پناڈول دو گولی دن میں تین بار بروفن بلکل نہیں لینا دسپرین بھی نہیں پانی زیادہ پیئے کل خون کا ٹیس دوبارہ کرونا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fever\",\n    \"no nosebleed\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets 3 times daily\",\"frequency\": \"3 times daily\",\"duration\": \"3 days\",\"instructions\": \"take only if necessary\"\n    },\n    {\n      \"name\": \"Ibuprofen\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets 3 times daily\",\"frequency\": \"3 times daily\",\"duration\": \"3 days\",\"instructions\": \"take only if necessary\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Dipyrin\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\",\n    \"follow up for COVID-19\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fever",
+      "no nosebleed"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "625",
+        "dose": "2 tablets 3 times daily",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take only if necessary"
+      },
+      {
+        "name": "Ibuprofen",
+        "strength": "625",
+        "dose": "2 tablets 3 times daily",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take only if necessary"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Dipyrin"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "drink plenty of water",
+      "follow up for COVID-19"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 104,
+    "prompt_ms": 94.679,
+    "prompt_per_token_ms": 0.910375,
+    "prompt_per_second": 1098.4484415762736,
+    "predicted_n": 334,
+    "predicted_ms": 4083.928,
+    "predicted_per_token_ms": 12.264048048048048,
+    "predicted_per_second": 81.53914564605448
+  }
+}

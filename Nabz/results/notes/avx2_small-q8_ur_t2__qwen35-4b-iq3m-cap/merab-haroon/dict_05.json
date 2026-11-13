@@ -1,0 +1,52 @@
+{
+  "transcript": "مرد 50 سال شوگر کا پرانا مریز نیحارمون شوگر 188 اور کھانے کے بعد 260 پہلے گلائیکو فیش 500 دن میں 500 دن میں دو بار لے رہا ہے اب گلائیکو فیش 1000 دن میں دو بار کھانے کے ساتھ\nشوگر کیس کروانا ہے پیروم میں سن ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"high blood sugar\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"blood sugar fasting 188\",\n    \"blood sugar post-prandial 260\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glycoph 1000\", \"strength\": \"1000\", \"dose\": \"twice daily\", \"frequency\": \"with meals\", \"duration\": \"500 days (typo in source, context implies current regimen change or specific instruction)\",\"instructions\": \"increase dose to 1000 twice daily\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"monitor blood sugar\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "high blood sugar",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "fever"
+    ],
+    "findings": [
+      "blood sugar fasting 188",
+      "blood sugar post-prandial 260"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glycoph 1000",
+        "strength": "1000",
+        "dose": "twice daily",
+        "frequency": "with meals",
+        "duration": "500 days (typo in source, context implies current regimen change or specific instruction)",
+        "instructions": "increase dose to 1000 twice daily"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "monitor blood sugar"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 118,
+    "prompt_ms": 81.481,
+    "prompt_per_token_ms": 0.6905169491525424,
+    "prompt_per_second": 1448.1903756704019,
+    "predicted_n": 264,
+    "predicted_ms": 3425.988,
+    "predicted_per_token_ms": 13.026570342205323,
+    "predicted_per_second": 76.76617664743719
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Bukhar nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom\": \"Punjab nahi\",\n      \"duration\": \"1 hour\"\n    },\n    {\n      \"symptom",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 33.405,
+    "prompt_per_token_ms": 0.29047826086956524,
+    "prompt_per_second": 3442.598413411166,
+    "predicted_n": 800,
+    "predicted_ms": 3042.071,
+    "predicted_per_token_ms": 3.8073479349186483,
+    "predicted_per_second": 262.6500170443096
+  }
+}

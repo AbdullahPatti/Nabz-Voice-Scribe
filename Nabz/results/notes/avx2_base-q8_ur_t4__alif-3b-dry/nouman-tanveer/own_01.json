@@ -1,0 +1,16 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"تھکاوٹ نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھیڑ نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیڈیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں ہے\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہ ہے\",\n            \"duration\": \"1 دن",
+  "note": null,
+  "timings": {
+    "cache_n": 242,
+    "prompt_n": 77,
+    "prompt_ms": 34.974,
+    "prompt_per_token_ms": 0.45420779220779217,
+    "prompt_per_second": 2201.6355006576314,
+    "predicted_n": 800,
+    "predicted_ms": 5987.954,
+    "predicted_per_token_ms": 7.494310387984981,
+    "predicted_per_second": 133.43455878251572
+  }
+}

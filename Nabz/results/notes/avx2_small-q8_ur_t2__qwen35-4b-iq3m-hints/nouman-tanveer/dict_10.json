@@ -1,0 +1,47 @@
+{
+  "transcript": "خطور 38 سال صرف فولو اپ کے لیے آئی ہیں پشلی دفعہ سے کوئی جیاش نہیں ہوا کوئی سائرڈیفک نہیں بخار نہیں خانسی نہیں پینس لیلی سے علیرجی ہے اس لیے اکھتھا میٹین نہیں دینی زرٹیک آدیگولی رات کو دس دن ایک مہینے بعد دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 month\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"sneezing\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Zyrtec at night.\",\n    \"Show up in 10 days.\",\n    \"Show up in 1 month.\"\n  ],\"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "sneezing"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Zyrtec at night.",
+      "Show up in 10 days.",
+      "Show up in 1 month."
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 173,
+    "prompt_ms": 92.138,
+    "prompt_per_token_ms": 0.5325895953757226,
+    "prompt_per_second": 1877.6183550760813,
+    "predicted_n": 196,
+    "predicted_ms": 2302.605,
+    "predicted_per_token_ms": 11.80823076923077,
+    "predicted_per_second": 84.68669181209977
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"weight gain\",\n    \"weight loss\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\",\n    \"loss of appetite\"\n  ],\n  \"findings\": [\n    \"weight loss\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood test\",\n    \"urine test\",\n    \"blood test\",\n    \"urine test\",\n    \"blood test\",\n    \"urine test\",\n    \"blood test\",\n    \"urine test\",\n    \"blood test\",\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\",\n    \"take medicine\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "weight loss",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "weight gain",
+      "weight loss",
+      "fatigue",
+      "loss of appetite",
+      "fatigue",
+      "loss of appetite",
+      "fatigue",
+      "loss of appetite"
+    ],
+    "findings": [
+      "weight loss",
+      "fatigue",
+      "loss of appetite",
+      "fatigue",
+      "loss of appetite",
+      "fatigue",
+      "loss of appetite",
+      "fatigue",
+      "loss of appetite",
+      "fatigue"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood test",
+      "urine test",
+      "blood test",
+      "urine test",
+      "blood test",
+      "urine test",
+      "blood test",
+      "urine test",
+      "blood test",
+      "urine test"
+    ],
+    "advice": [
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine",
+      "take medicine"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 326,
+    "prompt_n": 4,
+    "prompt_ms": 17.931,
+    "prompt_per_token_ms": 4.48275,
+    "prompt_per_second": 223.0773520718309,
+    "predicted_n": 631,
+    "predicted_ms": 2785.311,
+    "predicted_per_token_ms": 4.4211285714285715,
+    "predicted_per_second": 226.18659101263734
+  }
+}

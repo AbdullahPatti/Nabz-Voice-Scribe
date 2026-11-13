@@ -1,0 +1,52 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"BP 160/100\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Norvasc\",\n      \"strength\": \"5\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"once at night\",\"duration\": \"started today\",\"instructions\": \"start taking\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"recheck BP in 2 weeks\"\n  ],\"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain"
+    ],
+    "findings": [
+      "BP 160/100"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5",
+        "dose": "1 tablet",
+        "frequency": "once at night",
+        "duration": "started today",
+        "instructions": "start taking"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake",
+      "recheck BP in 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 135,
+    "prompt_ms": 111.222,
+    "prompt_per_token_ms": 0.8238666666666666,
+    "prompt_per_second": 1213.7886389383395,
+    "predicted_n": 235,
+    "predicted_ms": 2993.375,
+    "predicted_per_token_ms": 12.792200854700855,
+    "predicted_per_second": 78.1726312272936
+  }
+}

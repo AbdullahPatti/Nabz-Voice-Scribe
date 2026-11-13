@@ -1,0 +1,50 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Pait ke upar jalan hoti hai, khane ke baad zyada\",\n      \"duration\": \"20 subah khali pait, do hafte\"\n    },\n    {\n      \"symptom\": \"Risek 20 subah khali pait, do hafte\",\n      \"duration\": \"Raat ko Gaviscon ke do chamach\"\n    },\n    {\n      \"symptom\": \"Chai aur mirch kam karein\",\n      \"duration\": \"20 subah khali pait, do hafte\"\n    }\n  ],\n  \"negatives\": [\n    \"Ulti nahi\",\n    \"Wazan kam nahi hua\"\n  ],\n  \"findings\": [\n    \"Pait ke upar jalan hoti hai, khane ke baad zyada\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Pait ke upar jalan hoti hai, khane ke baad zyada\"\n  ],\n  \"follow_up\": \"20 subah khali pait, do hafte\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "Pait ke upar jalan hoti hai, khane ke baad zyada",
+        "duration": "20 subah khali pait, do hafte"
+      },
+      {
+        "symptom": "Risek 20 subah khali pait, do hafte",
+        "duration": "Raat ko Gaviscon ke do chamach"
+      },
+      {
+        "symptom": "Chai aur mirch kam karein",
+        "duration": "20 subah khali pait, do hafte"
+      }
+    ],
+    "negatives": [
+      "Ulti nahi",
+      "Wazan kam nahi hua"
+    ],
+    "findings": [
+      "Pait ke upar jalan hoti hai, khane ke baad zyada"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Pait ke upar jalan hoti hai, khane ke baad zyada"
+    ],
+    "follow_up": "20 subah khali pait, do hafte"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 30.678,
+    "prompt_per_token_ms": 0.2867102803738318,
+    "prompt_per_second": 3487.84144989895,
+    "predicted_n": 329,
+    "predicted_ms": 1533.785,
+    "predicted_per_token_ms": 4.676173780487805,
+    "predicted_per_second": 213.85005069158976
+  }
+}

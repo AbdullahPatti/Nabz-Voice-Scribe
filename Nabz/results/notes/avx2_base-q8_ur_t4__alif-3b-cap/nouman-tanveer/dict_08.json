@@ -1,0 +1,16 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 30\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"جَلن ہے\",\n            \"duration\": \"دو دین سے\"\n        },\n        {\n            \"symptom\": \"بوخار نہیں ہے\",\n            \"duration\": \"کمر میں درد ہے\"\n        },\n        {\n            \"symptom\": \"پرگنن نہیں ہے\",\n            \"duration\": \"سیپرو پانسو\"\n        },\n        {\n            \"symptom\": \"آتا ہے بار بار\",\n            \"duration\": \"3 دین پانیز یادا پیئے\"\n        },\n        {\n            \"symptom\": \"شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے\",\n            \"duration\": \"دین پانیز یادا پیئے\"\n        }\n    ],\n    \"negatives\": [\"بُخار نہیں ہے\"],\n    \"findings\": [\"کمر میں درد ہے\"],\n    \"allergies\": [\"سیپرو پانسو\"],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"3 دین پانیز یادا پیئے\",\n            \"dose\": \"دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے\",\n            \"frequency\": \"بار بار آتا ہے\",\n            \"duration\": \"دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے<|im_end|>user<|im_end|>assistant<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|im_end|>system<|",
+  "note": null,
+  "timings": {
+    "cache_n": 242,
+    "prompt_n": 137,
+    "prompt_ms": 45.946,
+    "prompt_per_token_ms": 0.3353722627737226,
+    "prompt_per_second": 2981.7611979280023,
+    "predicted_n": 800,
+    "predicted_ms": 6349.69,
+    "predicted_per_token_ms": 7.947046307884856,
+    "predicted_per_second": 125.83291467772443
+  }
+}

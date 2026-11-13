@@ -1,0 +1,107 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 61\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\"\n  ],\n  \"advice\": [\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\",\n    \"hands\"\n  ],\n  \"follow_up\": \"hands\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 61
+    },
+    "complaints": [
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      },
+      {
+        "symptom": "hands",
+        "duration": "10 minutes"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands"
+    ],
+    "advice": [
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands",
+      "hands"
+    ],
+    "follow_up": "hands"
+  },
+  "timings": {
+    "cache_n": 338,
+    "prompt_n": 4,
+    "prompt_ms": 17.053,
+    "prompt_per_token_ms": 4.26325,
+    "prompt_per_second": 234.56283351902889,
+    "predicted_n": 536,
+    "predicted_ms": 2481.312,
+    "predicted_per_token_ms": 4.637966355140187,
+    "predicted_per_second": 215.61174088546707
+  }
+}

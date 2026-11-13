@@ -1,0 +1,59 @@
+{
+  "transcript": "امبرد 22 سال رادکو سانسی تقریف اور سینیس سیٹی کی اواز آتی ہے کبرات ہندی ہے وہ خار نہیں وینٹولین انہلہ رضورت پر دو پف دن میں چار دوہ سی جاتا نہیں رادکو زیٹک ایک گولی دول اور دویں سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"2 days\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"2 days\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": \"not specified\",\n      \"dose\": \"2 puffs\",\n      \"frequency\": \"4 times daily\",\"duration\": \"2 days\",\"instructions\": \"take as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Zitrek\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Zitrek one tablet and two tablets from the second day\"\n  ],\"follow_up\": \"not specified\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "not specified",
+        "dose": "2 puffs",
+        "frequency": "4 times daily",
+        "duration": "2 days",
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Zitrek"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "take Zitrek one tablet and two tablets from the second day"
+    ],
+    "follow_up": "not specified"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 91.83,
+    "prompt_per_token_ms": 0.9874193548387097,
+    "prompt_per_second": 1012.7409343351846,
+    "predicted_n": 270,
+    "predicted_ms": 3406.671,
+    "predicted_per_token_ms": 12.664204460966543,
+    "predicted_per_second": 78.96271756210096
+  }
+}

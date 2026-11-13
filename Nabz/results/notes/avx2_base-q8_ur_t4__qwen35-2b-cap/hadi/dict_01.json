@@ -1,0 +1,61 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 132\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"132 years\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"132 years\"\n    },\n    {\n      \"symptom\": \"coldness\",\n      \"duration\": \"132 years\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"132 years\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"dryness\",\n    \"cough\",\n    \"post-nasal drip\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\",\n    \"nasal polyps\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 3 tablets daily for 7 days\",\n    \"take 3 tablets daily for 3 days\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 132
+    },
+    "complaints": [
+      {
+        "symptom": "fatigue",
+        "duration": "132 years"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "132 years"
+      },
+      {
+        "symptom": "coldness",
+        "duration": "132 years"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "132 years"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "dryness",
+      "cough",
+      "post-nasal drip",
+      "nasal polyps",
+      "nasal polyps",
+      "nasal polyps",
+      "nasal polyps",
+      "nasal polyps",
+      "nasal polyps"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 3 tablets daily for 7 days",
+      "take 3 tablets daily for 3 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 58.003,
+    "prompt_per_token_ms": 0.5178839285714286,
+    "prompt_per_second": 1930.934606830681,
+    "predicted_n": 322,
+    "predicted_ms": 2240.693,
+    "predicted_per_token_ms": 6.980352024922119,
+    "predicted_per_second": 143.25925059791768
+  }
+}

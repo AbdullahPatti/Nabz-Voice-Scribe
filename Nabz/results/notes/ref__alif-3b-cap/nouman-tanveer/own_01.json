@@ -1,0 +1,64 @@
+{
+  "transcript": "Woman 60 years, knee pain for 2 months, worse on stairs. No swelling, no fever. Panadol 2 tablets twice a day. Light exercise daily. Come back in 1 month.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 60}, \"complaints\": [{\"symptom\": \"knee pain\", \"duration\": \"2 months\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"panadol nahi\", \"light exercise nahi\", \"come back nahi\"],\"findings\": [\"no swelling\", \"no fever\", \"light exercise daily\", \"come back in 1 month\"],\"allergies\": [\"nahi\"], \"medications\": [{\"name\": \"Panadol\", \"strength\": \"2 tablets twice a day\", \"dose\": \"2 tablets twice a day\", \"frequency\": \"twice a day\", \"duration\": \"2 months\", \"instructions\": \"twice a day\"}], \"drugs_to_avoid\": [\"nahi\"],\"investigations_ordered\": [\"nahi\"],\"advice\": [\"light exercise daily\", \"come back in 1 month\"],\"follow_up\": \"1 month\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "panadol nahi",
+      "light exercise nahi",
+      "come back nahi"
+    ],
+    "findings": [
+      "no swelling",
+      "no fever",
+      "light exercise daily",
+      "come back in 1 month"
+    ],
+    "allergies": [
+      "nahi"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2 tablets twice a day",
+        "dose": "2 tablets twice a day",
+        "frequency": "twice a day",
+        "duration": "2 months",
+        "instructions": "twice a day"
+      }
+    ],
+    "drugs_to_avoid": [
+      "nahi"
+    ],
+    "investigations_ordered": [
+      "nahi"
+    ],
+    "advice": [
+      "light exercise daily",
+      "come back in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 55,
+    "prompt_ms": 31.562,
+    "prompt_per_token_ms": 0.5738545454545455,
+    "prompt_per_second": 1742.6018629998098,
+    "predicted_n": 220,
+    "predicted_ms": 1938.116,
+    "predicted_per_token_ms": 8.849844748858448,
+    "predicted_per_second": 112.99633252086048
+  }
+}

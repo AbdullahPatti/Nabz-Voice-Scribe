@@ -1,0 +1,52 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"constipation\",\n    \"itching\",\n    \"rash\",\n    \"headache\",\n    \"back pain\",\n    \"joint pain\"\n  ],\n  \"findings\": [\n    \"abdominal tenderness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 1 tablet of Valium 20mg twice daily for 3 days\",\n    \"avoid spicy food\",\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "constipation",
+      "itching",
+      "rash",
+      "headache",
+      "back pain",
+      "joint pain"
+    ],
+    "findings": [
+      "abdominal tenderness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 1 tablet of Valium 20mg twice daily for 3 days",
+      "avoid spicy food",
+      "drink plenty of water"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 60.777,
+    "prompt_per_token_ms": 0.6535161290322581,
+    "prompt_per_second": 1530.1841157016636,
+    "predicted_n": 246,
+    "predicted_ms": 1820.21,
+    "predicted_per_token_ms": 7.429428571428572,
+    "predicted_per_second": 134.59985386301582
+  }
+}

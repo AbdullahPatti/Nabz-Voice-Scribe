@@ -1,0 +1,16 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Insulin resistance\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Diabetes\",\n      \"duration\": \"1 year\"\n    },\n    {\n      \"symptom\": \"Weight loss\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Fatigue\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Vomiting\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Dizziness\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Headache\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Fatigue\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Vomiting\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Dizziness\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Headache\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Fatigue\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Vomiting\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Dizziness\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Headache\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Fatigue\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Vomiting\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Dizziness\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Headache\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Fatigue\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Vomiting\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Dizziness\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Headache\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Fatigue\",\n      \"duration\": \"2 years\"\n    },\n    {\n      \"symptom\": \"Nausea\",\n      \"duration\": \"2 years\"\n    },\n    {",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 36.678,
+    "prompt_per_token_ms": 0.31348717948717947,
+    "prompt_per_second": 3189.9231146736465,
+    "predicted_n": 800,
+    "predicted_ms": 3020.534,
+    "predicted_per_token_ms": 3.780392991239049,
+    "predicted_per_second": 264.522763193528
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "transcript": "تیفورٹ مرد اٹھائی ساتھ پانچ دن سے تیس بہارے سر دردور کمزوری بھی ہے کندہی راتنوں بہت ہندہ لگ دیا ڈی نہیں ہے دست بھی نہیں ہے تیفورٹ کارٹی اس پوزگی بایا ہے ازو میکس 500 روزانہ ایک گولی ساتھیں پینے دول دولی دن میں تین بار جب ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"5 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"dry throat\"\n  ],\n  \"findings\": [\n    \"no fever\",\n    \"no cough\",\n    \"no dry throat\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Typhose\",\n      \"strength\": \"500 mg\",\n      \"dose\": \"1 tablet daily\",\n      \"frequency\": \"3 times daily\",\"duration\": \"3 days\",\"instructions\": \"take with water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Typhose with water\",\n    \"continue for 3 days\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "dry throat"
+    ],
+    "findings": [
+      "no fever",
+      "no cough",
+      "no dry throat"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Typhose",
+        "strength": "500 mg",
+        "dose": "1 tablet daily",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take Typhose with water",
+      "continue for 3 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 120,
+    "prompt_ms": 60.209,
+    "prompt_per_token_ms": 0.5017416666666666,
+    "prompt_per_second": 1993.0575163181582,
+    "predicted_n": 282,
+    "predicted_ms": 2245.913,
+    "predicted_per_token_ms": 7.992572953736655,
+    "predicted_per_second": 125.11615543433784
+  }
+}

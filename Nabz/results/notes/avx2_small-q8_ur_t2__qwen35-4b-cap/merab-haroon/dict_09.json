@@ -1,0 +1,61 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تقریب اور سینے سے سیٹی کی اہواز آتی ہے گبرار ٹوندی ہے وہ حار نہیں مینٹونین انہیلر ضرورت پر دو پاف دن میں چار دفعہ سے زاد آنے رات کو زرٹک ایک گولی دوڑ اور دومے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"night\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Montevan\",\n      \"strength\": null,\n      \"dose\": \"2 puffs\",\n      \"frequency\": \"4 times daily\",\n      \"duration\": \"as needed\",\"instructions\": \"use for shortness of breath and chest tightness\"\n    },\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": null,\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"as needed\",\"instructions\": \"take at night\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid cold air\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Montevan",
+        "strength": null,
+        "dose": "2 puffs",
+        "frequency": "4 times daily",
+        "duration": "as needed",
+        "instructions": "use for shortness of breath and chest tightness"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": null,
+        "dose": "1 tablet",
+        "frequency": "once daily",
+        "duration": "as needed",
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid cold air"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 94.663,
+    "prompt_per_token_ms": 0.9860729166666666,
+    "prompt_per_second": 1014.1237864846878,
+    "predicted_n": 294,
+    "predicted_ms": 3595.366,
+    "predicted_per_token_ms": 12.27087372013652,
+    "predicted_per_second": 81.49378950571375
+  }
+}

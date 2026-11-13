@@ -1,0 +1,60 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"absent\"}\n  ],\n  \"negatives\": [\n    \"chest pain\",\n    \"dizziness\"\n  ],\n  \"findings\": [\n    \"blood_pressure_sitting_mmhg_160\",\n    \"blood_pressure_standing_mmhg_100\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Norvasc\", \"strength\": \"5\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily at night\", \"duration\": \"started today\", \"instructions\": \"sodium restriction\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood_pressure_check\",\n    \"follow_up_in_two_weeks\"\n  ],\n  \"advice\": [\n    \"reduce sodium intake\",\n    \"monitor blood pressure in two weeks\"\n  ],\n  \"follow_up\": \"in two weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "absent"
+      }
+    ],
+    "negatives": [
+      "chest pain",
+      "dizziness"
+    ],
+    "findings": [
+      "blood_pressure_sitting_mmhg_160",
+      "blood_pressure_standing_mmhg_100"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once daily at night",
+        "duration": "started today",
+        "instructions": "sodium restriction"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood_pressure_check",
+      "follow_up_in_two_weeks"
+    ],
+    "advice": [
+      "reduce sodium intake",
+      "monitor blood pressure in two weeks"
+    ],
+    "follow_up": "in two weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 135,
+    "prompt_ms": 85.893,
+    "prompt_per_token_ms": 0.6362444444444445,
+    "prompt_per_second": 1571.7229576333343,
+    "predicted_n": 283,
+    "predicted_ms": 3790.419,
+    "predicted_per_token_ms": 13.441202127659574,
+    "predicted_per_second": 74.39810743878184
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "transcript": "مرد چالے سال کل راد سے دست لگی ہیں آتنو دفعہ ہو چکے ہیں دست میں ہون نہیں ہے جسہ میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اور اس ایک گلاس فلیجل چارسو دن میں تین بار پانچ دن دود اور تلی ہوئی چیزیں بند اگر پشاب کم ہو جے تو فورن واپس آئیں\nایسا بہت سوچی ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"hand pain\", \"duration\": \"since yesterday\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take 1 glass of Fajjal every 4 hours, 3 times a day for 5 days.\",\n    \"Avoid oily foods.\",\n    \"If stool becomes less, return immediately.\"\n  ],\n  \"follow_up\": \"if stool becomes less\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "hand pain",
+        "duration": "since yesterday"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take 1 glass of Fajjal every 4 hours, 3 times a day for 5 days.",
+      "Avoid oily foods.",
+      "If stool becomes less, return immediately."
+    ],
+    "follow_up": "if stool becomes less"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 119,
+    "prompt_ms": 80.024,
+    "prompt_per_token_ms": 0.6724705882352942,
+    "prompt_per_second": 1487.0538838348496,
+    "predicted_n": 171,
+    "predicted_ms": 2064.784,
+    "predicted_per_token_ms": 12.145788235294118,
+    "predicted_per_second": 82.33306728451983
+  }
+}

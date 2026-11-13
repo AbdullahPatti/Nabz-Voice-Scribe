@@ -1,0 +1,57 @@
+{
+  "transcript": "تیفورٹ مرد اٹھائی ساتھ پانچ دن سے تیس بہارے سر دردور کمزوری بھی ہے کندہی راتنوں بہت ہندہ لگ دیا ڈی نہیں ہے دست بھی نہیں ہے تیفورٹ کارٹی اس پوزگی بایا ہے ازو میکس 500 روزانہ ایک گولی ساتھیں پینے دول دولی دن میں تین بار جب ہارو تین دن بات دبار آئے",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 35}, \"complaints\": [{\"symptom\": \"fever\", \"duration\": \"5 days\"}], \"negatives\": [\"بُکھار نہیں\", \"ulti نہیں\"],\"findings\": [\"کمزوری\"],\"allergies\": [\"\"],\"medications\": [{\"name\": \"Tiforin\", \"strength\": \"500 mg\", \"dose\": \"once daily\", \"frequency\": \"3 times a day\", \"duration\": \"3 days\", \"instructions\": \"دول دولی دن میں تین بار\"}], \"drugs_to_avoid\": [\"\"],\"investigations_ordered\": [\"\"],\"advice\": [\"\"],\"follow_up\": \"3 days\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "بُکھار نہیں",
+      "ulti نہیں"
+    ],
+    "findings": [
+      "کمزوری"
+    ],
+    "allergies": [
+      ""
+    ],
+    "medications": [
+      {
+        "name": "Tiforin",
+        "strength": "500 mg",
+        "dose": "once daily",
+        "frequency": "3 times a day",
+        "duration": "3 days",
+        "instructions": "دول دولی دن میں تین بار"
+      }
+    ],
+    "drugs_to_avoid": [
+      ""
+    ],
+    "investigations_ordered": [
+      ""
+    ],
+    "advice": [
+      ""
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 178,
+    "prompt_ms": 49.538,
+    "prompt_per_token_ms": 0.27830337078651685,
+    "prompt_per_second": 3593.2011788929713,
+    "predicted_n": 180,
+    "predicted_ms": 1595.807,
+    "predicted_per_token_ms": 8.915122905027934,
+    "predicted_per_second": 112.16895276183148
+  }
+}

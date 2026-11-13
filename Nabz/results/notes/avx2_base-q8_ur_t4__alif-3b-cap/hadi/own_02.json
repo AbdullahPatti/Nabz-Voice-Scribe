@@ -1,0 +1,56 @@
+{
+  "transcript": "میں این این این این این این این این این این این این این",
+  "raw": "{ \"patient\": { \"sex\": \"male\", \"age_years\": 45 }, \"complaints\": [ { \"symptom\": \"headache\",\"duration\": \"1 day\" } ],\"negatives\": [ \"bukhar nahi\" ],\"findings\": [ \"ultrasonography\" ],\"allergies\": [ \"allergy to penicillin\" ],\"medications\": [ { \"name\": \"Augmentin 625\",\"strength\": \"625\",\"dose\": \"1 time/day\",\"frequency\": \"every 8 hours\",\"duration\": \"1 day\",\"instructions\": \"take with food\" } ],\"drugs_to_avoid\": [ \"allergy to penicillin\" ],\"investigations_ordered\": [ \"ultrasonography\" ],\"advice\": [ \"take rest\" ],\"follow_up\": \"1 week later\" }",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "ultrasonography"
+    ],
+    "allergies": [
+      "allergy to penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "1 time/day",
+        "frequency": "every 8 hours",
+        "duration": "1 day",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "allergy to penicillin"
+    ],
+    "investigations_ordered": [
+      "ultrasonography"
+    ],
+    "advice": [
+      "take rest"
+    ],
+    "follow_up": "1 week later"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 30,
+    "prompt_ms": 29.628,
+    "prompt_per_token_ms": 0.9876,
+    "prompt_per_second": 1012.555690562981,
+    "predicted_n": 196,
+    "predicted_ms": 1742.387,
+    "predicted_per_token_ms": 8.935317948717948,
+    "predicted_per_second": 111.91543554904852
+  }
+}

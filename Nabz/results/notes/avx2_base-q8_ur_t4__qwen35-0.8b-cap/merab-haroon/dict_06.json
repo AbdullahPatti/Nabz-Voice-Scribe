@@ -1,0 +1,126 @@
+{
+  "transcript": "ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"nawaz nahi\",\n    \"nawaz nahi\",\n    \"nawaz nahi\",\n    \"nawaz nahi\",\n    \"nawaz nahi\",\n    \"nawaz nahi\",\n    \"nawaz nahi\",\n    \"nawaz nahi\"\n  ],\n  \"findings\": [\n    \"weight loss\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\",\n    \"loss of appetite\",\n    \"fatigue\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"100 mg\",\n      \"frequency\": \"daily\",\n      \"duration\": \"1 month\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"urine culture\",\n    \"urine culture\",\n    \"urine culture\",\n    \"urine culture\",\n    \"urine culture\",\n    \"urine culture\",\n    \"urine culture\",\n    \"urine culture\",\n    \"urine culture\",\n    \"urine culture\"\n  ],\n  \"advice\": [\n    \"take with food\",\n    \"take with food\",\n    \"take with food\",\n    \"take with food\",\n    \"take with food\",\n    \"take with food\",\n    \"take with food\",\n    \"take with food\",\n    \"take with food\",\n    \"take with food\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "weight loss",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "nawaz nahi",
+      "nawaz nahi",
+      "nawaz nahi",
+      "nawaz nahi",
+      "nawaz nahi",
+      "nawaz nahi",
+      "nawaz nahi",
+      "nawaz nahi"
+    ],
+    "findings": [
+      "weight loss",
+      "fatigue",
+      "loss of appetite",
+      "fatigue",
+      "loss of appetite",
+      "fatigue",
+      "loss of appetite",
+      "fatigue",
+      "loss of appetite",
+      "fatigue"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "100 mg",
+        "frequency": "daily",
+        "duration": "1 month",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "urine culture",
+      "urine culture",
+      "urine culture",
+      "urine culture",
+      "urine culture",
+      "urine culture",
+      "urine culture",
+      "urine culture",
+      "urine culture",
+      "urine culture"
+    ],
+    "advice": [
+      "take with food",
+      "take with food",
+      "take with food",
+      "take with food",
+      "take with food",
+      "take with food",
+      "take with food",
+      "take with food",
+      "take with food",
+      "take with food"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 330,
+    "prompt_n": 4,
+    "prompt_ms": 17.013,
+    "prompt_per_token_ms": 4.25325,
+    "prompt_per_second": 235.1143243402104,
+    "predicted_n": 745,
+    "predicted_ms": 3249.289,
+    "predicted_per_token_ms": 4.367323924731183,
+    "predicted_per_second": 228.97316920717117
+  }
+}

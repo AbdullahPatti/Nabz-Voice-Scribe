@@ -1,0 +1,92 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"تھکاوٹ نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھیڑ نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"1 دن\"\n        }\n    ],\n    \"negatives\": [\n        \"بھوک نہیں\"\n    ],\n    \"findings\": [\n        \"بھوک نہیں\"\n    ],\n    \"allergies\": [\n        \"بھوک نہیں\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"1 بار فی دن\",\n            \"frequency\": \"1 بار فی دن\",\n            \"duration\": \"1 دن\",\n            \"instructions\": \"بھوک نہیں\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"بھوک نہیں\"\n    ],\n    \"investigations_ordered\": [\n        \"بھوک نہیں\"\n    ],\n    \"advice\": [\n        \"بھوک نہیں\"\n    ],\n    \"follow_up\": \"1 دن\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "تھکاوٹ نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "بھیڑ نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "1 دن"
+      },
+      {
+        "symptom": "بھوک نہیں",
+        "duration": "1 دن"
+      }
+    ],
+    "negatives": [
+      "بھوک نہیں"
+    ],
+    "findings": [
+      "بھوک نہیں"
+    ],
+    "allergies": [
+      "بھوک نہیں"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "1 بار فی دن",
+        "frequency": "1 بار فی دن",
+        "duration": "1 دن",
+        "instructions": "بھوک نہیں"
+      }
+    ],
+    "drugs_to_avoid": [
+      "بھوک نہیں"
+    ],
+    "investigations_ordered": [
+      "بھوک نہیں"
+    ],
+    "advice": [
+      "بھوک نہیں"
+    ],
+    "follow_up": "1 دن"
+  },
+  "timings": {
+    "cache_n": 242,
+    "prompt_n": 77,
+    "prompt_ms": 37.377,
+    "prompt_per_token_ms": 0.48541558441558447,
+    "prompt_per_second": 2060.090429943548,
+    "predicted_n": 545,
+    "predicted_ms": 4326.663,
+    "predicted_per_token_ms": 7.953424632352941,
+    "predicted_per_second": 125.73200177596453
+  }
+}

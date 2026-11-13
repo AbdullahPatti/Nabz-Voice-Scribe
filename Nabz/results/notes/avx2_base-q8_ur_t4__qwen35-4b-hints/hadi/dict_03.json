@@ -1,0 +1,60 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"itching\", \"duration\": \"4 years\"},\n    {\"symptom\": \"hives\", \"duration\": \"4 years\"},\n    {\"symptom\": \"itching\", \"duration\": \"4 years\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"itching present\",\n    \"hives present\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy food\",\n    \"avoid hot weather\",\n    \"avoid stress\",\n    \"avoid alcohol\",\n    \"avoid smoking\",\n    \"avoid tea\",\n    \"avoid coffee\",\n    \"avoid cold drinks\",\n    \"avoid spicy food\",\n    \"avoid hot weather\"\n  ],\"follow_up\": \"in 5 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "hives",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "itching",
+        "duration": "4 years"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "itching present",
+      "hives present"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy food",
+      "avoid hot weather",
+      "avoid stress",
+      "avoid alcohol",
+      "avoid smoking",
+      "avoid tea",
+      "avoid coffee",
+      "avoid cold drinks",
+      "avoid spicy food",
+      "avoid hot weather"
+    ],
+    "follow_up": "in 5 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 150,
+    "prompt_ms": 117.066,
+    "prompt_per_token_ms": 0.78044,
+    "prompt_per_second": 1281.3284813694838,
+    "predicted_n": 257,
+    "predicted_ms": 3056.327,
+    "predicted_per_token_ms": 11.93877734375,
+    "predicted_per_second": 83.76067089679867
+  }
+}

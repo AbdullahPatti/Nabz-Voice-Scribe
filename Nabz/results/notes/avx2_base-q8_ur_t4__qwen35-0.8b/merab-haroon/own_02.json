@@ -1,0 +1,16 @@
+{
+  "transcript": "انہیں 30 سورٹورکہ پر کچھ دوڑیس میں پر کچھ کچھ پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"weight_loss\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"nause",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 133,
+    "prompt_ms": 34.03,
+    "prompt_per_token_ms": 0.25586466165413535,
+    "prompt_per_second": 3908.3161915956507,
+    "predicted_n": 800,
+    "predicted_ms": 3077.932,
+    "predicted_per_token_ms": 3.8522302878598245,
+    "predicted_per_second": 259.5898804781912
+  }
+}

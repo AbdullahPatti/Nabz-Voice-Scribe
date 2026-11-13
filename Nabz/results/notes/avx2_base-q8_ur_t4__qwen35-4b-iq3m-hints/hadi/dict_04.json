@@ -1,0 +1,46 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"continuous\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"continuous\"}\n  ],\n  \"negatives\": [\n    \"no nausea\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"blood pressure elevated\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take medication at night\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "continuous"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "continuous"
+      }
+    ],
+    "negatives": [
+      "no nausea",
+      "no vomiting"
+    ],
+    "findings": [
+      "blood pressure elevated"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take medication at night"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 123,
+    "prompt_ms": 78.587,
+    "prompt_per_token_ms": 0.6389186991869918,
+    "prompt_per_second": 1565.1443622991078,
+    "predicted_n": 174,
+    "predicted_ms": 2113.447,
+    "predicted_per_token_ms": 12.216456647398845,
+    "predicted_per_second": 81.85679603037124
+  }
+}

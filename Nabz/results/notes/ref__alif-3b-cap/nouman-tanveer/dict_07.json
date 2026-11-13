@@ -1,0 +1,63 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 45}, \"complaints\": [{\"symptom\": \"khansi\", \"duration\": \"ek hafte\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"saans phoolta nahi\"],\"findings\": [\"peela balgham\", \"halka bukhar\", \"seene ki daayin taraf awaaz aa rahi hai\", \"cigarette band karni hai\", \"chest x-ray karwa lein\"],\"allergies\": [\"nahi\"],\"medications\": [{\"name\": \"Augmentin 625\", \"strength\": \"625\", \"dose\": \"din mein do baar, paanch din\", \"frequency\": \"teen baar\", \"duration\": \"din mein\", \"instructions\": \"paanch din\"}], \"drugs_to_avoid\": [\"nahi\"],\"investigations_ordered\": [\"nahi\"],\"advice\": [\"cigarette band karni hai\", \"chest x-ray karwa lein\"],\"follow_up\": \"ek week mein\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "khansi",
+        "duration": "ek hafte"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "saans phoolta nahi"
+    ],
+    "findings": [
+      "peela balgham",
+      "halka bukhar",
+      "seene ki daayin taraf awaaz aa rahi hai",
+      "cigarette band karni hai",
+      "chest x-ray karwa lein"
+    ],
+    "allergies": [
+      "nahi"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "din mein do baar, paanch din",
+        "frequency": "teen baar",
+        "duration": "din mein",
+        "instructions": "paanch din"
+      }
+    ],
+    "drugs_to_avoid": [
+      "nahi"
+    ],
+    "investigations_ordered": [
+      "nahi"
+    ],
+    "advice": [
+      "cigarette band karni hai",
+      "chest x-ray karwa lein"
+    ],
+    "follow_up": "ek week mein"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 105,
+    "prompt_ms": 42.547,
+    "prompt_per_token_ms": 0.4052095238095238,
+    "prompt_per_second": 2467.8590734951936,
+    "predicted_n": 247,
+    "predicted_ms": 2107.551,
+    "predicted_per_token_ms": 8.567280487804878,
+    "predicted_per_second": 116.72315403043628
+  }
+}

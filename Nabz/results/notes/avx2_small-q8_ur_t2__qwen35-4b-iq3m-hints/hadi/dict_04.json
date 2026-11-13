@@ -1,0 +1,57 @@
+{
+  "transcript": "خاتون پچھپن سار آج وی پی 160 اور سو آیا سار بھری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نور ویس پانچ رات کو ایک گولی شروع کر دی ہے نمہ کام کرنا ہے دو افتبات بی پی دوارہ چکر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 58\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest pain\", \"duration\": \"continuous\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"continuous\"}\n  ],\n  \"negatives\": [\n    \"no palpitations\",\n    \"no chest tightness\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Nimesulide\", \"strength\": \"100\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": null, \"instructions\": \"take for 2 days\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check\",\n    \"ECG\"\n  ],\n  \"advice\": [\n    \"avoid exertion\",\n    \"avoid stress\"\n  ],\n  \"follow_up\": \"in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 58
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "continuous"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "continuous"
+      }
+    ],
+    "negatives": [
+      "no palpitations",
+      "no chest tightness"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nimesulide",
+        "strength": "100",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": null,
+        "instructions": "take for 2 days"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check",
+      "ECG"
+    ],
+    "advice": [
+      "avoid exertion",
+      "avoid stress"
+    ],
+    "follow_up": "in 2 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 122,
+    "prompt_ms": 80.22,
+    "prompt_per_token_ms": 0.6575409836065573,
+    "prompt_per_second": 1520.8177511842432,
+    "predicted_n": 247,
+    "predicted_ms": 3115.833,
+    "predicted_per_token_ms": 12.66598780487805,
+    "predicted_per_second": 78.95159978086117
+  }
+}

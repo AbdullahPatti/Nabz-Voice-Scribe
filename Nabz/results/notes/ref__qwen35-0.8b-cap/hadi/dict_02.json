@@ -1,0 +1,117 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in chest and abdomen\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"pain in neck\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"low blood pressure\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"low platelet count\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"no blood flow\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"pain in neck\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"pain in chest\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"pain in abdomen\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"low blood pressure\",\n      \"duration\": \"since teenage years\"\n    },\n    {\n      \"symptom\": \"low platelet count\",\n      \"duration\": \"since teenage years\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"platelets 95 hazaar\",\n    \"no blood flow\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2 tablets\",\n      \"dose\": \"daily\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"since teenage years\",\n      \"instructions\": \"take 2 tablets daily\"\n    },\n    {\n      \"name\": \"Brufen\",\n      \"strength\": \"0\",\n      \"dose\": \"0\",\n      \"frequency\": \"0\",\n      \"duration\": \"0\",\n      \"instructions\": \"0\"\n    },\n    {\n      \"name\": \"Disprin\",\n      \"strength\": \"0\",\n      \"dose\": \"0\",\n      \"frequency\": \"0\",\n      \"duration\": \"0\",\n      \"instructions\": \"0\"\n    },\n    {\n      \"name\": \"Paani\",\n      \"strength\": \"0\",\n      \"dose\": \"0\",\n      \"frequency\": \"0\",\n      \"duration\": \"0\",\n      \"instructions\": \"0\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test\"\n  ],\n  \"advice\": [\n    \"drink more water\",\n    \"repeat blood test\"\n  ],\n  \"follow_up\": \"next week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "pain in chest and abdomen",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "pain in neck",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "low blood pressure",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "low platelet count",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "no blood flow",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "pain in neck",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "pain in chest",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "pain in abdomen",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "low blood pressure",
+        "duration": "since teenage years"
+      },
+      {
+        "symptom": "low platelet count",
+        "duration": "since teenage years"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "platelets 95 hazaar",
+      "no blood flow"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2 tablets",
+        "dose": "daily",
+        "frequency": "once daily",
+        "duration": "since teenage years",
+        "instructions": "take 2 tablets daily"
+      },
+      {
+        "name": "Brufen",
+        "strength": "0",
+        "dose": "0",
+        "frequency": "0",
+        "duration": "0",
+        "instructions": "0"
+      },
+      {
+        "name": "Disprin",
+        "strength": "0",
+        "dose": "0",
+        "frequency": "0",
+        "duration": "0",
+        "instructions": "0"
+      },
+      {
+        "name": "Paani",
+        "strength": "0",
+        "dose": "0",
+        "frequency": "0",
+        "duration": "0",
+        "instructions": "0"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "blood test"
+    ],
+    "advice": [
+      "drink more water",
+      "repeat blood test"
+    ],
+    "follow_up": "next week"
+  },
+  "timings": {
+    "cache_n": 341,
+    "prompt_n": 4,
+    "prompt_ms": 16.124,
+    "prompt_per_token_ms": 4.031,
+    "prompt_per_second": 248.07740014884646,
+    "predicted_n": 702,
+    "predicted_ms": 3114.487,
+    "predicted_per_token_ms": 4.442920114122682,
+    "predicted_per_second": 225.07719569868166
+  }
+}

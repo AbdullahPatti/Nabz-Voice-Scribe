@@ -1,0 +1,111 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"sleeplessness\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"insomnia\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nighttime cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"625\",\n      \"frequency\": \"daily\",\n      \"duration\": \"daily\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\",\n    \"take the medicine\"\n  ],\"follow_up\": \"visit the doctor\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "sleeplessness",
+        "duration": "night"
+      },
+      {
+        "symptom": "insomnia",
+        "duration": "night"
+      },
+      {
+        "symptom": "nighttime cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "625",
+        "frequency": "daily",
+        "duration": "daily",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine",
+      "take the medicine"
+    ],
+    "follow_up": "visit the doctor"
+  },
+  "timings": {
+    "cache_n": 321,
+    "prompt_n": 4,
+    "prompt_ms": 19.593,
+    "prompt_per_token_ms": 4.89825,
+    "prompt_per_second": 204.15454499055787,
+    "predicted_n": 583,
+    "predicted_ms": 2654.286,
+    "predicted_per_token_ms": 4.560628865979382,
+    "predicted_per_second": 219.26800653735125
+  }
+}

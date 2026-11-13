@@ -1,0 +1,43 @@
+{
+  "transcript": "اپنے اپنے اپنے پڑھے سوڑھا اور اپنے اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 45}, \"complaints\": [], \"negatives\": [\"بُخار نہیں\", \"ulti نہیں\"],\"findings\": [\"پھیپھڑوں کا کینسر\"],\"allergies\": [\"نہیں\"],\"medications\": [], \"drugs_to_avoid\": [\"نہیں\"],\"investigations_ordered\": [\"نہیں\"],\"advice\": [\"نہیں\"],\"follow_up\": \"نہیں\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [
+      "بُخار نہیں",
+      "ulti نہیں"
+    ],
+    "findings": [
+      "پھیپھڑوں کا کینسر"
+    ],
+    "allergies": [
+      "نہیں"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "نہیں"
+    ],
+    "investigations_ordered": [
+      "نہیں"
+    ],
+    "advice": [
+      "نہیں"
+    ],
+    "follow_up": "نہیں"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 217,
+    "prompt_ms": 55.267,
+    "prompt_per_token_ms": 0.2546866359447005,
+    "prompt_per_second": 3926.39368881973,
+    "predicted_n": 145,
+    "predicted_ms": 1269.998,
+    "predicted_per_token_ms": 8.819430555555556,
+    "predicted_per_second": 113.38600533229186
+  }
+}

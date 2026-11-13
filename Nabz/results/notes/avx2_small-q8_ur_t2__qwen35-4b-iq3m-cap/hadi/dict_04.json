@@ -1,0 +1,59 @@
+{
+  "transcript": "خاتون پچھپن سار آج وی پی 160 اور سو آیا سار بھری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نور ویس پانچ رات کو ایک گولی شروع کر دی ہے نمہ کام کرنا ہے دو افتبات بی پی دوارہ چکر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest pain\", \"duration\": \"160 days\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"160 days\"}\n  ],\n  \"negatives\": [\n    \"no palpitations\",\n    \"no chest tightness\"\n  ],\n  \"findings\": [\n    \"BP taken\",\n    \"BP normal\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Nurofen\", \"strength\": \"500\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": \"started 160 days ago\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP monitoring\"\n  ],\n  \"advice\": [\n    \"Continue BP monitoring\",\n    \"Continue Nurofen 500 at night\"\n  ],\n  \"follow_up\": \"continue\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "160 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "160 days"
+      }
+    ],
+    "negatives": [
+      "no palpitations",
+      "no chest tightness"
+    ],
+    "findings": [
+      "BP taken",
+      "BP normal"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nurofen",
+        "strength": "500",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "started 160 days ago",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP monitoring"
+    ],
+    "advice": [
+      "Continue BP monitoring",
+      "Continue Nurofen 500 at night"
+    ],
+    "follow_up": "continue"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 89,
+    "prompt_ms": 74.545,
+    "prompt_per_token_ms": 0.8375842696629213,
+    "prompt_per_second": 1193.909718961701,
+    "predicted_n": 267,
+    "predicted_ms": 3389.548,
+    "predicted_per_token_ms": 12.742661654135338,
+    "predicted_per_second": 78.47654023486318
+  }
+}

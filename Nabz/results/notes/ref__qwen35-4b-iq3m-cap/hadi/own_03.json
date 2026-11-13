@@ -1,0 +1,56 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no nausea/vomiting\",\n    \"no eye problems\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": \"as needed\", \"frequency\": null, \"duration\": null, \"instructions\": \"take if needed\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"salt\"\n  ],\n  \"investigations_ordered\": [\n    \"BP check in 1 week\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"follow up BP in 1 week\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no nausea/vomiting",
+      "no eye problems"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "as needed",
+        "frequency": null,
+        "duration": null,
+        "instructions": "take if needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "salt"
+    ],
+    "investigations_ordered": [
+      "BP check in 1 week"
+    ],
+    "advice": [
+      "reduce salt intake",
+      "follow up BP in 1 week"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 83,
+    "prompt_ms": 70.613,
+    "prompt_per_token_ms": 0.8507590361445783,
+    "prompt_per_second": 1175.4209564811013,
+    "predicted_n": 244,
+    "predicted_ms": 3232.023,
+    "predicted_per_token_ms": 13.300506172839507,
+    "predicted_per_second": 75.18510852181436
+  }
+}

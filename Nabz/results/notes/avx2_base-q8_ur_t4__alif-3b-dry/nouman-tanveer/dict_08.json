@@ -1,0 +1,16 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 30\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"جَلن ہے\",\n            \"duration\": \"دو دین سے\"\n        },\n        {\n            \"symptom\": \"بوخار نہیں ہے\",\n            \"duration\": \"کمر میں درد ہے\"\n        },\n        {\n            \"symptom\": \"پرگنن نہیں ھے\",\n            \"duration\": \"سیپرو پانسو\"\n        },\n        {\n            \"symptom\": \"آتا ہے بار بار\",\n            \"duration\": \"3 دین پانیز یادا پیئے\"\n        },\n        {\n            \"symptom\": \"شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے\",\n            \"duration\": \"ٹیشٹ\"\n        }\n    ],\n    \"negatives\": [\"بُخار نہیں ہے\"],\n    \"findings\": [\"کمر میں درد ہے\"],\n    \"allergies\": [\"سیپرو پانسو\"],\n    \"medications\": [\n        {\n            \"name\": \"پانسو\",\n            \"strength\": \"3 دین میں فرقنا پرے تو دبارا آئے\",\n            \"dose\": \"دو بار 3 دین پانیز یادا پیئے\",\n            \"frequency\": \"شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبابا آئے\",\n            \"duration\": \"دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے<|im_end|>user<|im_start|>system<|im_end|>><|im_end|>assistant<|im_start|>><|im_end|||>user<|im_end|>>>json<|im_end|>system<|im_start|>>>system<|im_end|>>>>system<|im_end|>>>system<|im_start|>user<|im_end|||||>user<|im_start|>>system<|im_end|||>user<|im_end|>>system<|im_start|||||>system<|im_end|||||||>system<|im_start|||>user<|im_End|||||||>user<|Im_start|||||||>user<Im_end|||||||||>user<|IM_start|||||||||>user<im_end|||||||||||>user<im_start|||||||||||||>user<Im_End|||||||||||||||>user<<|IM_start|||||||||||||||||>user<<|im_end|||||||||||||||||||>>user<<|IM_start|||||||user<|im_end|||||||>user<|IM_start|||||user<|Im_end|||||>user<Im_start|||||>user<im_end|||||>user<|im_start|||||>user<<|im",
+  "note": null,
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 138,
+    "prompt_ms": 42.281,
+    "prompt_per_token_ms": 0.3063840579710145,
+    "prompt_per_second": 3263.877391736241,
+    "predicted_n": 800,
+    "predicted_ms": 6668.948,
+    "predicted_per_token_ms": 8.346618272841052,
+    "predicted_per_second": 119.80900135973468
+  }
+}

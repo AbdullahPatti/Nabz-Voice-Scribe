@@ -1,0 +1,39 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no vomiting\",\n    \"no dizziness\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take medication only if needed\",\n    \"Check blood pressure again after taking medication\"\n  ],\n  \"follow_up\": \"Check BP after medication\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [
+      "no chest pain",
+      "no vomiting",
+      "no dizziness"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take medication only if needed",
+      "Check blood pressure again after taking medication"
+    ],
+    "follow_up": "Check BP after medication"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 93.302,
+    "prompt_per_token_ms": 1.036688888888889,
+    "prompt_per_second": 964.6095474909433,
+    "predicted_n": 168,
+    "predicted_ms": 2003.973,
+    "predicted_per_token_ms": 11.999838323353293,
+    "predicted_per_second": 83.33445610295149
+  }
+}

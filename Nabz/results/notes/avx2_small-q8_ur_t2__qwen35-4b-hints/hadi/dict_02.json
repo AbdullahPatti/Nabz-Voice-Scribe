@@ -1,0 +1,107 @@
+{
+  "transcript": "خاتون چونٹس سال تھی دن سے بخار جس میں دیرد اور رانکوں کے پیچھے درد پلیٹلٹس پچانوے حزار ہیں کہی سے خون نہیں آرہا صرف پر اڑال دوگوڑی دن میں تین بار پروفن بلکل نہیں لینی دیسپنین بھی نہیں پانی زادہ پیئے کل خون کا تیز تبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 day\"},\n    {\"symptom\": \"joint pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"back pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"headache\", \"duration\": \"1 day\"},\n    {\"symptom\": \"abdominal pain\", \"duration\": \"1 day\"},\n    {\"symptom\": \"bleeding\", \"duration\": \"1 day\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no cough\",\n    \"no chest tightness\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no fainting\",\n    \"no chest pain on exertion\"\n  ],\n  \"findings\": [\n    \"fever\",\n    \"joint pain\",\n    \"back pain\",\n    \"headache\",\n    \"abdominal pain\",\n    \"bleeding\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": \"650\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"3 times daily\",\"duration\": null,\"instructions\": \"take as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Disprin\",\n    \"Colchicine\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\",\n    \"ESR\",\n    \"CRP\",\n    \"Blood culture\",\n    \"Blood smear\",\n    \"Blood film\",\n    \"Blood count\",\n    \"Blood group\",\n    \"Blood type\",\n    \"Blood grouping\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"diet\",\n    \"avoid spicy food\",\n    \"avoid cold food\",\n    \"avoid hot food\",\n    \"avoid raw food\",\n    \"avoid cooked food\",\n    \"avoid fried food\",\n    \"avoid oily food\"\n  ],\"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "joint pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "back pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "bleeding",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea",
+      "no chest pain",
+      "no shortness of breath",
+      "no cough",
+      "no chest tightness",
+      "no palpitations",
+      "no dizziness",
+      "no fainting",
+      "no chest pain on exertion"
+    ],
+    "findings": [
+      "fever",
+      "joint pain",
+      "back pain",
+      "headache",
+      "abdominal pain",
+      "bleeding"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "650",
+        "dose": "3 times daily",
+        "frequency": "3 times daily",
+        "duration": null,
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Disprin",
+      "Colchicine"
+    ],
+    "investigations_ordered": [
+      "CBC",
+      "ESR",
+      "CRP",
+      "Blood culture",
+      "Blood smear",
+      "Blood film",
+      "Blood count",
+      "Blood group",
+      "Blood type",
+      "Blood grouping"
+    ],
+    "advice": [
+      "rest",
+      "fluids",
+      "diet",
+      "avoid spicy food",
+      "avoid cold food",
+      "avoid hot food",
+      "avoid raw food",
+      "avoid cooked food",
+      "avoid fried food",
+      "avoid oily food"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 255,
+    "prompt_ms": 128.868,
+    "prompt_per_token_ms": 0.5053647058823529,
+    "prompt_per_second": 1978.768972902505,
+    "predicted_n": 531,
+    "predicted_ms": 6206.602,
+    "predicted_per_token_ms": 11.710569811320754,
+    "predicted_per_second": 85.39294125835683
+  }
+}

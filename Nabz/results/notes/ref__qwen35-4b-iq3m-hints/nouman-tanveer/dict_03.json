@@ -1,0 +1,56 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"bloody stool\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"bloody stool\"\n  ],\n  \"findings\": [\n    \"mild dehydration\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Flagyl\", \"strength\": \"400\", \"dose\": \"3 times daily\", \"frequency\": \"5 days\", \"duration\": \"5 days\", \"instructions\": \"take ORS glass after each stool\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid milk\",\n    \"avoid salty foods\",\n    \"return immediately if urine output decreases\"\n  ],\n  \"follow_up\": \"return immediately if urine output decreases\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "bloody stool",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "bloody stool"
+    ],
+    "findings": [
+      "mild dehydration"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take ORS glass after each stool"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid milk",
+      "avoid salty foods",
+      "return immediately if urine output decreases"
+    ],
+    "follow_up": "return immediately if urine output decreases"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 165,
+    "prompt_ms": 96.358,
+    "prompt_per_token_ms": 0.5839878787878788,
+    "prompt_per_second": 1712.3643081010398,
+    "predicted_n": 246,
+    "predicted_ms": 3037.389,
+    "predicted_per_token_ms": 12.39750612244898,
+    "predicted_per_second": 80.66138383987035
+  }
+}

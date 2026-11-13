@@ -1,0 +1,16 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 61\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n      \"duration\": \"10 minutes\"\n    },\n    {\n      \"symptom\": \"hands\",\n     ",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 111,
+    "prompt_ms": 30.638,
+    "prompt_per_token_ms": 0.276018018018018,
+    "prompt_per_second": 3622.9518898100396,
+    "predicted_n": 800,
+    "predicted_ms": 3024.792,
+    "predicted_per_token_ms": 3.7857221526908633,
+    "predicted_per_second": 264.15039447340513
+  }
+}

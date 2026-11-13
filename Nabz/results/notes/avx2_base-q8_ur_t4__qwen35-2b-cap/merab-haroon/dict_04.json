@@ -1,0 +1,66 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"cough\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"chest tightness\",\n    \"sweating\",\n    \"sweatiness\"\n  ],\n  \"findings\": [\n    \"headache\",\n    \"dizziness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nuvigil\",\n      \"strength\": \"50 mg\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"daily\",\n      \"duration\": \"2 days\",\n      \"instructions\": \"take at night\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"take 1 tablet of Nuvigil at night\",\n    \"take 1 tablet of Nuvigil daily for 2 days\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "cough",
+      "chest pain",
+      "shortness of breath",
+      "chest tightness",
+      "sweating",
+      "sweatiness"
+    ],
+    "findings": [
+      "headache",
+      "dizziness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nuvigil",
+        "strength": "50 mg",
+        "dose": "1 tablet",
+        "frequency": "daily",
+        "duration": "2 days",
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake",
+      "take 1 tablet of Nuvigil at night",
+      "take 1 tablet of Nuvigil daily for 2 days"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 58.336,
+    "prompt_per_token_ms": 0.6205957446808511,
+    "prompt_per_second": 1611.354909489852,
+    "predicted_n": 357,
+    "predicted_ms": 2586.139,
+    "predicted_per_token_ms": 7.264435393258427,
+    "predicted_per_second": 137.6569472870561
+  }
+}

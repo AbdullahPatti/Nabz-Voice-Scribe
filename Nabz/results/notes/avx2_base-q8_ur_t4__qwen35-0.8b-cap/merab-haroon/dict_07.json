@@ -1,0 +1,111 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"45 days\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"45 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\",\n    \"diagnosis: tuberculosis\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"100 mg\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"45 days\",\"instructions\": \"Take with food. Do not take with food. Do not take with food. Do not take with food. Do not take with food.\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"do not take with food\",\n    \"do not take with food\",\n    \"do not take with food\",\n    \"do not take with food\",\n    \"do not take with food\",\n    \"do not take with food\",\n    \"do not take with food\",\n    \"do not take with food\",\n    \"do not take with food\",\n    \"do not take with food\"\n  ],\"follow_up\": \"do not take with food\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "45 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "45 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis",
+      "diagnosis: tuberculosis"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "100 mg",
+        "frequency": "once daily",
+        "duration": "45 days",
+        "instructions": "Take with food. Do not take with food. Do not take with food. Do not take with food. Do not take with food."
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "do not take with food",
+      "do not take with food",
+      "do not take with food",
+      "do not take with food",
+      "do not take with food",
+      "do not take with food",
+      "do not take with food",
+      "do not take with food",
+      "do not take with food",
+      "do not take with food"
+    ],
+    "follow_up": "do not take with food"
+  },
+  "timings": {
+    "cache_n": 351,
+    "prompt_n": 4,
+    "prompt_ms": 39.003,
+    "prompt_per_token_ms": 9.75075,
+    "prompt_per_second": 102.55621362459298,
+    "predicted_n": 685,
+    "predicted_ms": 3072.487,
+    "predicted_per_token_ms": 4.491940058479532,
+    "predicted_per_second": 222.62095820096226
+  }
+}

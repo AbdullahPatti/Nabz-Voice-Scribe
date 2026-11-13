@@ -1,0 +1,50 @@
+{
+  "transcript": "Woman 60 years, knee pain for two months, worse on stairs. No swelling, no fever. Panadol two tablets twice a day. Light exercise daily. Come back in one month.",
+  "raw": "{ \"patient\": { \"sex\": \"female\", \"age_years\": 60 }, \"complaints\": [ { \"symptom\": \"knee pain\", \"duration\": \"two months\" } ], \"negatives\": [ \"bukhar nahi\" ],\"findings\": [ \"no swelling\" ],\"allergies\": [ ],\"medications\": [ { \"name\": \"Panadol\", \"strength\": \"two tablets twice a day\",\"dose\": \"twice a day\",\"frequency\": \"twice\",\"duration\": \"two months\",\"instructions\": \"light exercise daily\" } ],\"drugs_to_avoid\": [ ],\"investigations_ordered\": [ ],\"advice\": [ \"come back in one month\" ],\"follow_up\": \"one month\" }",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "two months"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "no swelling"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "two tablets twice a day",
+        "dose": "twice a day",
+        "frequency": "twice",
+        "duration": "two months",
+        "instructions": "light exercise daily"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "come back in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 52,
+    "prompt_ms": 31.01,
+    "prompt_per_token_ms": 0.5963461538461539,
+    "prompt_per_second": 1676.8784263140922,
+    "predicted_n": 173,
+    "predicted_ms": 1569.261,
+    "predicted_per_token_ms": 9.123610465116279,
+    "predicted_per_second": 109.60573161507232
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "transcript": "امبرد 22 سال رادکو سانسی تقریف اور سینیس سیٹی کی اواز آتی ہے کبرات ہندی ہے وہ خار نہیں وینٹولین انہلہ رضورت پر دو پف دن میں چار دوہ سی جاتا نہیں رادکو زیٹک ایک گولی دول اور دویں سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"abdominal pain\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal bloating\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal distension\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal cramping\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal tenderness\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal guarding\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal rigidity\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal rebound tenderness\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal mass\", \"duration\": \"2 days\"},\n    {\"symptom\": \"abdominal swelling\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"fever\",\n    \"diarrhea\",\n    \"constipation\",\n    \"nausea\",\n    \"weight loss\",\n    \"blood in stool\",\n    \"black stool\",\n    \"painful urination\",\n    \"painful ejaculation\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"diet\",\n    \"follow-up\"\n  ],\n  \"follow_up\": \"2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal bloating",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal distension",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal cramping",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal tenderness",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal guarding",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal rigidity",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal rebound tenderness",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal mass",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal swelling",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "fever",
+      "diarrhea",
+      "constipation",
+      "nausea",
+      "weight loss",
+      "blood in stool",
+      "black stool",
+      "painful urination",
+      "painful ejaculation"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids",
+      "diet",
+      "follow-up"
+    ],
+    "follow_up": "2 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 151,
+    "prompt_ms": 109.615,
+    "prompt_per_token_ms": 0.7259271523178807,
+    "prompt_per_second": 1377.5486931533094,
+    "predicted_n": 400,
+    "predicted_ms": 4661.071,
+    "predicted_per_token_ms": 11.681882205513784,
+    "predicted_per_second": 85.60264368425196
+  }
+}

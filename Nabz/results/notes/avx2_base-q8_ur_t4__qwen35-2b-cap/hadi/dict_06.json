@@ -1,0 +1,57 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 3\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"weight loss\",\n    \"diarrhea\",\n    \"nausea\",\n    \"vomiting\",\n    \"bloating\",\n    \"buck fever\",\n    \"ulcers\",\n    \"weight gain\",\n    \"diabetes\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce food intake\",\n    \"eat slowly\",\n    \"avoid spicy foods\",\n    \"avoid fried foods\",\n    \"avoid oily foods\",\n    \"avoid fried foods\",\n    \"avoid fried foods\",\n    \"avoid fried foods\",\n    \"avoid fried foods\",\n    \"avoid fried foods\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 3
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "weight loss",
+      "diarrhea",
+      "nausea",
+      "vomiting",
+      "bloating",
+      "buck fever",
+      "ulcers",
+      "weight gain",
+      "diabetes"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce food intake",
+      "eat slowly",
+      "avoid spicy foods",
+      "avoid fried foods",
+      "avoid oily foods",
+      "avoid fried foods",
+      "avoid fried foods",
+      "avoid fried foods",
+      "avoid fried foods",
+      "avoid fried foods"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 57.914,
+    "prompt_per_token_ms": 0.5970515463917526,
+    "prompt_per_second": 1674.8972614566426,
+    "predicted_n": 270,
+    "predicted_ms": 1957.387,
+    "predicted_per_token_ms": 7.276531598513011,
+    "predicted_per_second": 137.4281120698155
+  }
+}

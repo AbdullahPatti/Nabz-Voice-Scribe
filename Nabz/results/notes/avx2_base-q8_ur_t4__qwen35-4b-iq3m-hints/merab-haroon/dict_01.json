@@ -1,0 +1,57 @@
+{
+  "transcript": "تیفورٹ مرد اٹھائی ساتھ پانچ دن سے تیس بہارے سر دردور کمزوری بھی ہے کندہی راتنوں بہت ہندہ لگ دیا ڈی نہیں ہے دست بھی نہیں ہے تیفورٹ کارٹی اس پوزگی بایا ہے ازو میکس 500 روزانہ ایک گولی ساتھیں پینے دول دولی دن میں تین بار جب ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"5 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"5 days\"},\n    {\"symptom\": \"fever\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Coartem\", \"strength\": \"625\", \"dose\": \"1 tablet\", \"frequency\": \"3 times a day\", \"duration\": \"3 days\", \"instructions\": \"take with water\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink plenty of water\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Coartem",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "3 times a day",
+        "duration": "3 days",
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink plenty of water"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 229,
+    "prompt_ms": 104.363,
+    "prompt_per_token_ms": 0.45573362445414844,
+    "prompt_per_second": 2194.2642507402047,
+    "predicted_n": 236,
+    "predicted_ms": 2861.167,
+    "predicted_per_token_ms": 12.175178723404255,
+    "predicted_per_second": 82.13431791992568
+  }
+}

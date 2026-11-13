@@ -1,0 +1,72 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"no rash\",\n      \"duration\": \"no side effect\"\n    },\n    {\n      \"symptom\": \"no cough\",\n      \"duration\": \"no side effect\"\n    },\n    {\n      \"symptom\": \"no penicillin allergy\",\n      \"duration\": \"Augmentin not given\"\n    },\n    {\n      \"symptom\": \"no zyrtec\",\n      \"duration\": \"daily for 1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar\",\n    \"khansi\"\n  ],\n  \"findings\": [\n    \"no rash\",\n    \"no side effect\",\n    \"no penicillin allergy\",\n    \"no zyrtec\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"daily\",\n      \"frequency\": \"1 month\",\n      \"duration\": \"1 month\",\"instructions\": \"daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"zyrtec\"\n  ],\"investigations_ordered\": [],\"advice\": [\n    \"no zyrtec\",\n    \"no penicillin\",\n    \"no Augmentin\"\n  ],\"follow_up\": \"next visit\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "no rash",
+        "duration": "no side effect"
+      },
+      {
+        "symptom": "no cough",
+        "duration": "no side effect"
+      },
+      {
+        "symptom": "no penicillin allergy",
+        "duration": "Augmentin not given"
+      },
+      {
+        "symptom": "no zyrtec",
+        "duration": "daily for 1 month"
+      }
+    ],
+    "negatives": [
+      "bukhar",
+      "khansi"
+    ],
+    "findings": [
+      "no rash",
+      "no side effect",
+      "no penicillin allergy",
+      "no zyrtec"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "daily",
+        "frequency": "1 month",
+        "duration": "1 month",
+        "instructions": "daily"
+      }
+    ],
+    "drugs_to_avoid": [
+      "zyrtec"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "no zyrtec",
+      "no penicillin",
+      "no Augmentin"
+    ],
+    "follow_up": "next visit"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 30.851,
+    "prompt_per_token_ms": 0.2754553571428571,
+    "prompt_per_second": 3630.3523386600114,
+    "predicted_n": 380,
+    "predicted_ms": 2044.893,
+    "predicted_per_token_ms": 5.395496042216359,
+    "predicted_per_second": 185.33977083397517
+  }
+}

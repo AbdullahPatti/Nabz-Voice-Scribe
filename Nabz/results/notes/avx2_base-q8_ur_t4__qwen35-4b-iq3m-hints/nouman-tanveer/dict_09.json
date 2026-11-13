@@ -1,0 +1,48 @@
+{
+  "transcript": "مارض بائیس آل رات کو ساتھ کی تقلیف اور سیننے سے سیٹی کی آس آتی ہے کہ براہد ہون دیگے بخار نہیں ویلنٹولی انہیلر ضرورت پر دو پف دین میں چارد فاصر زیادہ نہیں رات کو رٹک ایک گولی دول ہور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"all night\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"all night\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"all night\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"use Ventolin inhaler as needed\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "all night"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "all night"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "all night"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "use Ventolin inhaler as needed"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 168,
+    "prompt_ms": 92.378,
+    "prompt_per_token_ms": 0.5498690476190476,
+    "prompt_per_second": 1818.6148217107968,
+    "predicted_n": 189,
+    "predicted_ms": 2274.722,
+    "predicted_per_token_ms": 12.09958510638298,
+    "predicted_per_second": 82.64746197557328
+  }
+}

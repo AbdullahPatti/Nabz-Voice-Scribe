@@ -1,0 +1,56 @@
+{
+  "transcript": "امبرد 22 سال رادکو سانسی تقریف اور سینیس سیٹی کی اواز آتی ہے کبرات ہندی ہے وہ خار نہیں وینٹولین انہلہ رضورت پر دو پف دن میں چار دوہ سی جاتا نہیں رادکو زیٹک ایک گولی دول اور دویں سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"22 years\"},\n    {\"symptom\": \"wheezing in chest\", \"duration\": \"22 years\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"wheezing in chest\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Zantac\", \"strength\": \"1\", \"dose\": \"one tablet twice daily\", \"frequency\": \"twice daily\", \"duration\": \"22 years\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue current medication\",\n    \"take with food\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "22 years"
+      },
+      {
+        "symptom": "wheezing in chest",
+        "duration": "22 years"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "wheezing in chest"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Zantac",
+        "strength": "1",
+        "dose": "one tablet twice daily",
+        "frequency": "twice daily",
+        "duration": "22 years",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue current medication",
+      "take with food"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 73.718,
+    "prompt_per_token_ms": 0.7926666666666667,
+    "prompt_per_second": 1261.564339781329,
+    "predicted_n": 247,
+    "predicted_ms": 3174.945,
+    "predicted_per_token_ms": 12.906280487804878,
+    "predicted_per_second": 77.48165716256501
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "transcript": "ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"hand pain\", \"duration\": null},\n    {\"symptom\": \"back pain\", \"duration\": null},\n    {\"symptom\": \"skin rash\", \"duration\": null},\n    {\"symptom\": \"fever\", \"duration\": null},\n    {\"symptom\": \"weight loss\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"dietary advice\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "hand pain",
+        "duration": null
+      },
+      {
+        "symptom": "back pain",
+        "duration": null
+      },
+      {
+        "symptom": "skin rash",
+        "duration": null
+      },
+      {
+        "symptom": "fever",
+        "duration": null
+      },
+      {
+        "symptom": "weight loss",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "dietary advice"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 216,
+    "prompt_ms": 97.007,
+    "prompt_per_token_ms": 0.4491064814814815,
+    "prompt_per_second": 2226.6434381024046,
+    "predicted_n": 206,
+    "predicted_ms": 2455.073,
+    "predicted_per_token_ms": 11.975965853658536,
+    "predicted_per_second": 83.50057208074873
+  }
+}

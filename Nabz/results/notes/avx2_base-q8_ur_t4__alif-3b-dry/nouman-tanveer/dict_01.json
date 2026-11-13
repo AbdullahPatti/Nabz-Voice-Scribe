@@ -1,0 +1,16 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ھے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ھو ٹین دین بات دبارہ آئے<|im_end|>user<|im_start|>user<|im_end|>\",\n            \"duration\": \"1\"\n        },\n        {\n            \"symptom\": \"سر در دھور کمزوی بھی ہے اٹھائی شاال پانچی دین سے تیس بخور ہے<|im_end|>user<|im_start|>user<|im_end|>\",\n            \"duration\": \"1\"\n        }\n    ],\n    \"negatives\": [\n        \"بخور نہیں ہے\"\n    ],\n    \"findings\": [\n        \"کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ھے دست نہیںھے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ھو ٹین دین بات دبارہ آئے<|im_end|>user<|im_start|>user<|im_end|>\" ],\n        \"allergies\": [\"پوڑیسی پوڑیڈی بایا ہے\"],\n        \"medications\": [\n            {\n                \"name\": \"Augmentin 625\",\n                \"strength\": \"625\",\n                \"dose\": \"1 گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ھو ٹین دین بات دبارہ آئے<|im_end|>user<|im_start|>user<|im_end|>\",\n                \"frequency\": \"روزانا 500 روزانا<|im_end|>assistant<|im_start|>assistant<|im_end|>\",\n                \"duration\": \"1<|im_end|>user<|im_start|>user<|im_end|>\",\n                \"instructions\": \"دو گولی دین میں ٹین دین بات دبارہ آئے<|im_end|>assistant<|im_start|>assistant<|im_end|>\" },\n            {\n                \"name\": \"پیرڈول\",\n                \"strength\": \"1 گولی سات دین<|im_end|>user<|im_start|>user<|im_end|>\",\n                \"dose\": \"دو گولی دین میں ٹین دین بات دبارہ آئے<|im_end|>assistant<|im_start|>assistant<|im_end|>\",\n                \"frequency\": \"روزانا 500 روزانا<|im_end",
+  "note": null,
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 184,
+    "prompt_ms": 47.482,
+    "prompt_per_token_ms": 0.25805434782608694,
+    "prompt_per_second": 3875.1526894402086,
+    "predicted_n": 800,
+    "predicted_ms": 6624.199,
+    "predicted_per_token_ms": 8.290612015018773,
+    "predicted_per_second": 120.61835702701565
+  }
+}

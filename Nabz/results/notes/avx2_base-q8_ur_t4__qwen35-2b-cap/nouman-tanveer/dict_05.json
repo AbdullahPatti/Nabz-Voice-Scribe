@@ -1,0 +1,79 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hyperglycemia\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"weight loss\",\n    \"dizziness\",\n    \"headache\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"hyperglycemia\",\n    \"hyperglycemia\",\n    \"hyperglycemia\",\n    \"hyperglycemia\",\n    \"hyperglycemia\",\n    \"hyperglycemia\",\n    \"hyperglycemia\",\n    \"hyperglycemia\",\n    \"hyperglycemia\",\n    \"hyperglycemia\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"glucophage\",\n      \"strength\": \"unknown\",\"dose\": \"unknown\",\"frequency\": \"unknown\",\"duration\": \"unknown\",\"instructions\": \"take twice daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"glucose tolerance test\"\n  ],\n  \"advice\": [\n    \"take glucophage twice daily\",\n    \"do not take glucophage twice daily\",\n    \"take glucophage twice daily\",\n    \"take glucophage twice daily\",\n    \"take glucophage twice daily\",\n    \"take glucophage twice daily\",\n    \"take glucophage twice daily\",\n    \"take glucophage twice daily\",\n    \"take glucophage twice daily\",\n    \"take glucophage twice daily\"\n  ],\"follow_up\": \"glucose tolerance test\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "hyperglycemia",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal pain",
+      "weight loss",
+      "dizziness",
+      "headache",
+      "chest pain"
+    ],
+    "findings": [
+      "hyperglycemia",
+      "hyperglycemia",
+      "hyperglycemia",
+      "hyperglycemia",
+      "hyperglycemia",
+      "hyperglycemia",
+      "hyperglycemia",
+      "hyperglycemia",
+      "hyperglycemia",
+      "hyperglycemia"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "glucophage",
+        "strength": "unknown",
+        "dose": "unknown",
+        "frequency": "unknown",
+        "duration": "unknown",
+        "instructions": "take twice daily"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "glucose tolerance test"
+    ],
+    "advice": [
+      "take glucophage twice daily",
+      "do not take glucophage twice daily",
+      "take glucophage twice daily",
+      "take glucophage twice daily",
+      "take glucophage twice daily",
+      "take glucophage twice daily",
+      "take glucophage twice daily",
+      "take glucophage twice daily",
+      "take glucophage twice daily",
+      "take glucophage twice daily"
+    ],
+    "follow_up": "glucose tolerance test"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 61.765,
+    "prompt_per_token_ms": 0.5279059829059829,
+    "prompt_per_second": 1894.276693920505,
+    "predicted_n": 443,
+    "predicted_ms": 3107.879,
+    "predicted_per_token_ms": 7.031400452488688,
+    "predicted_per_second": 142.21917906070345
+  }
+}

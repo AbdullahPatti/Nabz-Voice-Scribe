@@ -1,0 +1,38 @@
+{
+  "transcript": "45 ساتھ سکتے ہیں۔ ہیڈک میں ایک ساتھ سکتے ہیں۔ بیپی 140 اور 90 ساتھ سکتے ہیں۔ کائسرٹ کو پرسی نہیں ہے۔ پیانڈول جب نیدیت، ایوی کی لسی سالت، بیپی ایک چیک اگر بعد ایک ساتھ سکتے ہیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"headache\",\n    \"chest pain\",\n    \"dizziness\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Check BP again.\"\n  ],\n  \"follow_up\": \"None\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [
+      "headache",
+      "chest pain",
+      "dizziness"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Check BP again."
+    ],
+    "follow_up": "None"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 92,
+    "prompt_ms": 76.341,
+    "prompt_per_token_ms": 0.8297934782608695,
+    "prompt_per_second": 1205.1191365059406,
+    "predicted_n": 151,
+    "predicted_ms": 1965.744,
+    "predicted_per_token_ms": 13.10496,
+    "predicted_per_second": 76.30698605718752
+  }
+}

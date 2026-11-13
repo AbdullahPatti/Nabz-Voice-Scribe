@@ -1,0 +1,61 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 40}, \"complaints\": [{\"symptom\": \"dast lage hain\", \"duration\": \"raat se\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"dast mein khoon nahi hai\", \"jism mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"foran wapas aayein\"],\"findings\": [\"thori paani ki kami\"],\"allergies\": [\"\"],\"medications\": [{\"name\": \"Flagyl\", \"strength\": \"400\", \"dose\": \"din mein teen baar\", \"frequency\": \"paanch din\", \"duration\": \"din mein\", \"instructions\": \"har dast ke baad ORS ka ek glass\"}], \"drugs_to_avoid\": [\"\"],\"investigations_ordered\": [\"\"],\"advice\": [\"doodh aur tali hui cheezein band\"],\"follow_up\": \"agar peshab kam ho jaye to foran wapas aayein\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "dast lage hain",
+        "duration": "raat se"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "dast mein khoon nahi hai",
+      "jism mein thori paani ki kami hai",
+      "dast ke baad ORS ka ek glass",
+      "foran wapas aayein"
+    ],
+    "findings": [
+      "thori paani ki kami"
+    ],
+    "allergies": [
+      ""
+    ],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "din mein teen baar",
+        "frequency": "paanch din",
+        "duration": "din mein",
+        "instructions": "har dast ke baad ORS ka ek glass"
+      }
+    ],
+    "drugs_to_avoid": [
+      ""
+    ],
+    "investigations_ordered": [
+      ""
+    ],
+    "advice": [
+      "doodh aur tali hui cheezein band"
+    ],
+    "follow_up": "agar peshab kam ho jaye to foran wapas aayein"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 117,
+    "prompt_ms": 44.225,
+    "prompt_per_token_ms": 0.377991452991453,
+    "prompt_per_second": 2645.5624646693045,
+    "predicted_n": 246,
+    "predicted_ms": 2129.897,
+    "predicted_per_token_ms": 8.693457142857143,
+    "predicted_per_second": 115.02903661538564
+  }
+}

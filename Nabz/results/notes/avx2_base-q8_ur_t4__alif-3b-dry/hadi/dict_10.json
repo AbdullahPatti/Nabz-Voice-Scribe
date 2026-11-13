@@ -1,0 +1,72 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": null\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"بخار نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"خانسی نہیں\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"پینے سے لڑی ہے\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"ایسلیوں کو منتن نہیں دینی\",\n            \"duration\": null\n        },\n        {\n            \"symptom\": \"سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\n        \"بُخار نہیں\"\n    ],\n    \"findings\": [\n        \"فالو آپ کے لئے آئی ہیں\"\n    ],\n    \"allergies\": [\n        \"راش نہیں ہوا کوئی سائیٹ افیک نہیں\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": null,\n            \"frequency\": null,\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"راش نہیں ہوا کوئی سائیٹ افیک نہیں\"\n    ],\n    \"investigations_ordered\": [\n        \"فالو آپ کے لئے آئی ہیں\"\n    ],\n    \"advice\": [\n        \"منتن نہیں دینی\"\n    ],\n    \"follow_up\": \"رات کو دستن ایک مینے بعد دکھے۔\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "بخار نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "خانسی نہیں",
+        "duration": null
+      },
+      {
+        "symptom": "پینے سے لڑی ہے",
+        "duration": null
+      },
+      {
+        "symptom": "ایسلیوں کو منتن نہیں دینی",
+        "duration": null
+      },
+      {
+        "symptom": "سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "بُخار نہیں"
+    ],
+    "findings": [
+      "فالو آپ کے لئے آئی ہیں"
+    ],
+    "allergies": [
+      "راش نہیں ہوا کوئی سائیٹ افیک نہیں"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "راش نہیں ہوا کوئی سائیٹ افیک نہیں"
+    ],
+    "investigations_ordered": [
+      "فالو آپ کے لئے آئی ہیں"
+    ],
+    "advice": [
+      "منتن نہیں دینی"
+    ],
+    "follow_up": "رات کو دستن ایک مینے بعد دکھے۔"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 162,
+    "prompt_ms": 45.616,
+    "prompt_per_token_ms": 0.28158024691358025,
+    "prompt_per_second": 3551.3854787793757,
+    "predicted_n": 472,
+    "predicted_ms": 3881.033,
+    "predicted_per_token_ms": 8.239985138004245,
+    "predicted_per_second": 121.3594421897469
+  }
+}

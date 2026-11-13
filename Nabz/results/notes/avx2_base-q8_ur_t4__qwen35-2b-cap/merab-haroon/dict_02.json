@@ -1,0 +1,46 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain behind eyes\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 2 tablets of Dolo twice daily\",\n    \"drink plenty of water\",\n    \"consult doctor again if symptoms persist\"\n  ],\n  \"follow_up\": \"consult doctor again if symptoms persist\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 2 tablets of Dolo twice daily",
+      "drink plenty of water",
+      "consult doctor again if symptoms persist"
+    ],
+    "follow_up": "consult doctor again if symptoms persist"
+  },
+  "timings": {
+    "cache_n": 340,
+    "prompt_n": 4,
+    "prompt_ms": 40.377,
+    "prompt_per_token_ms": 10.09425,
+    "prompt_per_second": 99.0663001213562,
+    "predicted_n": 218,
+    "predicted_ms": 1630.624,
+    "predicted_per_token_ms": 7.514396313364055,
+    "predicted_per_second": 133.07788920069862
+  }
+}

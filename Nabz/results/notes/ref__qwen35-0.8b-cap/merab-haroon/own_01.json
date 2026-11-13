@@ -1,0 +1,61 @@
+{
+  "transcript": "Woman 60 years, knee pain for two months, worse on stairs. No swelling, no fever. Panadol two tablets twice a day. Light exercise daily. Come back in one month.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"knee pain\",\n      \"duration\": \"two months\"\n    },\n    {\n      \"symptom\": \"worse on stairs\",\n      \"duration\": \"two months\"\n    },\n    {\n      \"symptom\": \"no swelling\",\n      \"duration\": \"two months\"\n    },\n    {\n      \"symptom\": \"no fever\",\n      \"duration\": \"two months\"\n    },\n    {\n      \"symptom\": \"light exercise daily\",\n      \"duration\": \"two months\"\n    },\n    {\n      \"symptom\": \"come back in one month\",\n      \"duration\": \"one month\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue light exercise daily\",\n    \"come back in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "two months"
+      },
+      {
+        "symptom": "worse on stairs",
+        "duration": "two months"
+      },
+      {
+        "symptom": "no swelling",
+        "duration": "two months"
+      },
+      {
+        "symptom": "no fever",
+        "duration": "two months"
+      },
+      {
+        "symptom": "light exercise daily",
+        "duration": "two months"
+      },
+      {
+        "symptom": "come back in one month",
+        "duration": "one month"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue light exercise daily",
+      "come back in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 56,
+    "prompt_ms": 27.664,
+    "prompt_per_token_ms": 0.49400000000000005,
+    "prompt_per_second": 2024.2914979757084,
+    "predicted_n": 304,
+    "predicted_ms": 1412.688,
+    "predicted_per_token_ms": 4.662336633663367,
+    "predicted_per_second": 214.48472698854945
+  }
+}

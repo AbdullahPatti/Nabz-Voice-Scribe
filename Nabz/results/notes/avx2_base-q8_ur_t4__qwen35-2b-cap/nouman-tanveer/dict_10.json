@@ -1,0 +1,70 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 8\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"diarrhea\",\n    \"constipation\",\n    \"cough\",\n    \"headache\",\n    \"dizziness\",\n    \"weight loss\",\n    \"itching\",\n    \"rash\"\n  ],\n  \"findings\": [\n    \"abdominal pain\",\n    \"abdominal tenderness\"\n  ],\n  \"allergies\": [\n    \"antibiotics\",\n    \"aspirin\",\n    \"NSAIDs\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625 mg\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"1 tablet daily\",\n      \"duration\": \"1 month\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"antibiotics\",\n    \"aspirin\",\n    \"NSAIDs\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Augmentin 625 mg daily with food for 1 month\",\n    \"avoid antibiotics, aspirin, and NSAIDs\",\n    \"consult doctor if symptoms persist\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 8
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "diarrhea",
+      "constipation",
+      "cough",
+      "headache",
+      "dizziness",
+      "weight loss",
+      "itching",
+      "rash"
+    ],
+    "findings": [
+      "abdominal pain",
+      "abdominal tenderness"
+    ],
+    "allergies": [
+      "antibiotics",
+      "aspirin",
+      "NSAIDs"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625 mg",
+        "dose": "1 tablet",
+        "frequency": "1 tablet daily",
+        "duration": "1 month",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "antibiotics",
+      "aspirin",
+      "NSAIDs"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "take Augmentin 625 mg daily with food for 1 month",
+      "avoid antibiotics, aspirin, and NSAIDs",
+      "consult doctor if symptoms persist"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 59.53,
+    "prompt_per_token_ms": 0.5779611650485437,
+    "prompt_per_second": 1730.22005711406,
+    "predicted_n": 380,
+    "predicted_ms": 2609.072,
+    "predicted_per_token_ms": 6.884094986807388,
+    "predicted_per_second": 145.26237681443823
+  }
+}

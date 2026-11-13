@@ -1,0 +1,80 @@
+{
+  "transcript": "مدر چاری سال کال رات سے دست لگے ہیں اٹھنو دفعہ ہو چکے ہیں دست میں خون نہیں ہیں جس میں تھوڑی پانی کی کمی ہیں ہر دست کے بعد اور اس کا ایک گلاست فلیجل چار سو دن میں تین بار پانچ دین دود ہور تلی ہوئی چیزیں بند اگر پیشاب کم ہو جائے تو فرن واپس آن\nآگے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"hematochezia\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"},\n    {\"symptom\": \"hematochezia\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"},\n    {\"symptom\": \"tenesmus\", \"duration\": \"4 years\"}\n  ],\n  \"negatives\": [\n    \"no blood in stool\"\n  ],\n  \"findings\": [\n    \"mild dehydration\",\n    \"decreased urine output\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy food\",\n    \"avoid hard to digest food\",\n    \"avoid excessive fluid intake\"\n  ],\"follow_up\": \"return if urine output decreases\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hematochezia",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "hematochezia",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      },
+      {
+        "symptom": "tenesmus",
+        "duration": "4 years"
+      }
+    ],
+    "negatives": [
+      "no blood in stool"
+    ],
+    "findings": [
+      "mild dehydration",
+      "decreased urine output"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy food",
+      "avoid hard to digest food",
+      "avoid excessive fluid intake"
+    ],
+    "follow_up": "return if urine output decreases"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 99.023,
+    "prompt_per_token_ms": 0.8610695652173913,
+    "prompt_per_second": 1161.3463538773822,
+    "predicted_n": 346,
+    "predicted_ms": 4048.613,
+    "predicted_per_token_ms": 11.735110144927535,
+    "predicted_per_second": 85.21436847631522
+  }
+}

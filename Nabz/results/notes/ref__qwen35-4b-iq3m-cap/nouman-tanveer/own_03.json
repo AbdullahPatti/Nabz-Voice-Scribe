@@ -1,0 +1,54 @@
+{
+  "transcript": "Woman 45 years, headache in the evening for one week. BP 140 over 90. No problem with eyesight, no vomiting. Panadol when needed, eat less salt. BP check again after one week.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"eyesight problems\"\n  ],\n  \"findings\": [\n    \"blood_pressure_sitting_mmhg_sys_140_diastolic_90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"as needed\",\n      \"dose\": \"as needed\",\n      \"frequency\": \"as needed\",\n      \"duration\": null,\n      \"instructions\": \"take as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood_pressure_check\",\n    \"frequency_in_weeks_after_1\"\n  ],\n  \"advice\": [\n    \"reduce_salt_intake\"\n  ],\n  \"follow_up\": \"blood_pressure_check_in_1_week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "eyesight problems"
+    ],
+    "findings": [
+      "blood_pressure_sitting_mmhg_sys_140_diastolic_90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "as needed",
+        "dose": "as needed",
+        "frequency": "as needed",
+        "duration": null,
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood_pressure_check",
+      "frequency_in_weeks_after_1"
+    ],
+    "advice": [
+      "reduce_salt_intake"
+    ],
+    "follow_up": "blood_pressure_check_in_1_week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 65,
+    "prompt_ms": 68.361,
+    "prompt_per_token_ms": 1.0517076923076925,
+    "prompt_per_second": 950.834540161788,
+    "predicted_n": 277,
+    "predicted_ms": 3712.457,
+    "predicted_per_token_ms": 13.45093115942029,
+    "predicted_per_second": 74.34429543561043
+  }
+}

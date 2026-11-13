@@ -1,0 +1,16 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high blood pressure\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"low blood pressure\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"short term\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"short term\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"sardar kamzori\",\n    \"kandeh\",\n    \"bounthanalk\",\n    \"bholti\",\n    \"dustvi\",\n    \"tiffat\",\n    \"kootis\",\n    \"poust\",\n    \"baya\",\n    \"zarane\",\n    \"goli\",\n    \"sat\",\n    \"doli\",\n    \"tine\",\n    \"batar\",\n    \"batar\"\n  ],\n  \"findings\": [\n    \"high blood pressure\",\n    \"low blood pressure\",\n    \"fatigue\",\n    \"headache\",\n    \"nausea\",\n    \"vomiting\",\n    \"dizziness\",\n    \"fatigue\",\n    \"headache\",\n    \"nausea\",\n    \"vomiting\",\n    \"dizziness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"625 mg\",\n      \"frequency\": \"daily\",\n      \"duration\": \"short term\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"blood pressure\",\n    \"blood glucose\",\n    \"urine\",\n    \"urine protein\",\n    \"urine creatinine\",\n    \"urine electrolytes\",\n    \"urine calcium\",\n    \"urine magnesium\",\n    \"urine potassium\",\n    \"urine sodium\",\n    \"urine chloride\",\n    \"urine bicarbonate\",\n    \"urine pH\",\n    \"urine glucose\",\n    \"urine ketones\",\n    \"urine bilirubin\",\n    \"urine bilirubin conjugated\",\n    \"",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 31.782,
+    "prompt_per_token_ms": 0.2837678571428571,
+    "prompt_per_second": 3524.0072997294064,
+    "predicted_n": 800,
+    "predicted_ms": 3275.592,
+    "predicted_per_token_ms": 4.099614518147685,
+    "predicted_per_second": 243.92537287916196
+  }
+}

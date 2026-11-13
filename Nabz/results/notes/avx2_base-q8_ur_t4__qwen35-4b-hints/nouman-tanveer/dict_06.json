@@ -1,0 +1,55 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"itching\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"rash on chest and back\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Fucicort\",\n      \"strength\": null,\n      \"dose\": \"2 spoons\",\n      \"frequency\": \"twice daily\",\n      \"duration\": null,\n      \"instructions\": \"take with tea\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce weight\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "rash on chest and back"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Fucicort",
+        "strength": null,
+        "dose": "2 spoons",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "take with tea"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce weight"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 184,
+    "prompt_ms": 110.915,
+    "prompt_per_token_ms": 0.6027989130434783,
+    "prompt_per_second": 1658.9280079340035,
+    "predicted_n": 236,
+    "predicted_ms": 3042.35,
+    "predicted_per_token_ms": 12.946170212765956,
+    "predicted_per_second": 77.2429207684849
+  }
+}

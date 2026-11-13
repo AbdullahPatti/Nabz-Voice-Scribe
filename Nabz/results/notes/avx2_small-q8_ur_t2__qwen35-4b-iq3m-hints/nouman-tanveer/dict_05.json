@@ -1,0 +1,53 @@
+{
+  "transcript": "مرد پنیا سال شوقر کا پرانا مریز نیہار مو شوقر ایک سو اسی اور کانے کے بعد دوسر سٹھ پہلے گلوکو فیز پانسو دین میں دو بار لے رہا تھا اب گلوکو فیز ہزار دین میں دو بار کانے کے ساتھ تین مہینے والے شوقر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nایسا بہترین",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain in feet\", \"duration\": \"3 months\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"history of diabetes for 10 years\",\n    \"taking Glucophage 625 twice daily\",\n    \"glucose test done\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glucophage\", \"strength\": \"625\", \"dose\": \"twice daily\", \"frequency\": \"twice daily\", \"duration\": \"10 years\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"glucose test\"\n  ],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "pain in feet",
+        "duration": "3 months"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "history of diabetes for 10 years",
+      "taking Glucophage 625 twice daily",
+      "glucose test done"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "10 years",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "glucose test"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 236,
+    "prompt_ms": 106.105,
+    "prompt_per_token_ms": 0.44959745762711867,
+    "prompt_per_second": 2224.211865604825,
+    "predicted_n": 239,
+    "predicted_ms": 3097.241,
+    "predicted_per_token_ms": 13.013617647058824,
+    "predicted_per_second": 76.84258344765551
+  }
+}

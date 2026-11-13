@@ -1,0 +1,104 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of heaviness in the chest\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"difficulty breathing\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the neck\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the abdomen\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the legs\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the arms\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the back\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the feet\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the head\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"feeling of tightness in the stomach\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\",\n    \"naya nahi\",\n    \"naya nahi\",\n    \"naya nahi\",\n    \"naya nahi\",\n    \"naya nahi\",\n    \"naya nahi\",\n    \"naya nahi\",\n    \"naya nahi\"\n  ],\n  \"findings\": [\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\",\n    \"no\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"do not take aspirin\",\n    \"do not take ibuprofen\",\n    \"do not take paracetamol\",\n    \"do not take acetaminophen\",\n    \"do not take ibuprofen\",\n    \"do not take aspirin\",\n    \"do not take ibuprofen\",\n    \"do not take paracetamol\",\n    \"do not take acetaminophen\",\n    \"do not take ibuprofen\"\n  ],\n  \"follow_up\": \"visit doctor in 24 hours\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "feeling of heaviness in the chest",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "difficulty breathing",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of tightness in the neck",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of tightness in the abdomen",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of tightness in the legs",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of tightness in the arms",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of tightness in the back",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of tightness in the feet",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of tightness in the head",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "feeling of tightness in the stomach",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "naya nahi",
+      "naya nahi",
+      "naya nahi",
+      "naya nahi",
+      "naya nahi",
+      "naya nahi",
+      "naya nahi",
+      "naya nahi"
+    ],
+    "findings": [
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no",
+      "no"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "do not take aspirin",
+      "do not take ibuprofen",
+      "do not take paracetamol",
+      "do not take acetaminophen",
+      "do not take ibuprofen",
+      "do not take aspirin",
+      "do not take ibuprofen",
+      "do not take paracetamol",
+      "do not take acetaminophen",
+      "do not take ibuprofen"
+    ],
+    "follow_up": "visit doctor in 24 hours"
+  },
+  "timings": {
+    "cache_n": 317,
+    "prompt_n": 4,
+    "prompt_ms": 15.813,
+    "prompt_per_token_ms": 3.95325,
+    "prompt_per_second": 252.95642825523302,
+    "predicted_n": 656,
+    "predicted_ms": 2784.32,
+    "predicted_per_token_ms": 4.250870229007634,
+    "predicted_per_second": 235.24594874152393
+  }
+}

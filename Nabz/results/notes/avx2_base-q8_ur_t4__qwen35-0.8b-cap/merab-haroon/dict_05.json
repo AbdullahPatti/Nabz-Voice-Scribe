@@ -1,0 +1,114 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"weight_loss\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    },\n    {\n      \"symptom\": \"diarrhea\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"fever\",\n    \"headache\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"weight_loss\",\n    \"fatigue\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"100 mg\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"1 week\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"urine\",\n    \"blood\",\n    \"urine\",\n    \"blood\"\n  ],\n  \"advice\": [\n    \"take with food\",\n    \"avoid cold foods\",\n    \"avoid spicy foods\",\n    \"avoid alcohol\",\n    \"avoid caffeine\",\n    \"avoid sugar\",\n    \"avoid salt\",\n    \"avoid water\",\n    \"avoid ice\",\n    \"avoid cold drinks\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "weight_loss",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "fever",
+      "headache",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "weight_loss",
+      "fatigue",
+      "nausea",
+      "vomiting",
+      "diarrhea"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "100 mg",
+        "frequency": "once daily",
+        "duration": "1 week",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "urine",
+      "blood",
+      "urine",
+      "blood"
+    ],
+    "advice": [
+      "take with food",
+      "avoid cold foods",
+      "avoid spicy foods",
+      "avoid alcohol",
+      "avoid caffeine",
+      "avoid sugar",
+      "avoid salt",
+      "avoid water",
+      "avoid ice",
+      "avoid cold drinks"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 312,
+    "prompt_n": 4,
+    "prompt_ms": 22.293,
+    "prompt_per_token_ms": 5.57325,
+    "prompt_per_second": 179.42852016327996,
+    "predicted_n": 627,
+    "predicted_ms": 2825.397,
+    "predicted_per_token_ms": 4.513413738019169,
+    "predicted_per_second": 221.56178406078863
+  }
+}

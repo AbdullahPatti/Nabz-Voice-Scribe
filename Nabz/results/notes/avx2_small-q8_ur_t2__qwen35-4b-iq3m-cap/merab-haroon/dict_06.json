@@ -1,0 +1,44 @@
+{
+  "transcript": "ہا تو ان تیس ساتھ پیٹ کے اوپر جلال ہوتی ہے کھانے کے بعد جادا کہ ان دیے کھٹڑی کار ہوں دے لے اولٹی نہیں وزن کم نہیں ہوا رائزک پیٹ سبھا حالی پیٹ دو ہفتے رات کو گیبس کو ان کے دو چمچ شایر میرچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"abdominal pain\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"pain location\", \"duration\": \"upper abdomen\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 2 teaspoons of Shyarkh Mirch powder at night\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "pain location",
+        "duration": "upper abdomen"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 2 teaspoons of Shyarkh Mirch powder at night"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 80.701,
+    "prompt_per_token_ms": 0.7911862745098038,
+    "prompt_per_second": 1263.9248584280244,
+    "predicted_n": 175,
+    "predicted_ms": 2243.877,
+    "predicted_per_token_ms": 12.895844827586206,
+    "predicted_per_second": 77.54435737787767
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"jaw pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Serrapinadol\", \"strength\": \"2 tablets\", \"dose\": \"2 tablets once daily\", \"frequency\": \"once daily\", \"duration\": null, \"instructions\": \"take this medicine\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Drink plenty of water\",\n    \"Do not take Brufen\"\n  ],\n  \"follow_up\": \"CBC results to be reviewed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "jaw pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Serrapinadol",
+        "strength": "2 tablets",
+        "dose": "2 tablets once daily",
+        "frequency": "once daily",
+        "duration": null,
+        "instructions": "take this medicine"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Drink plenty of water",
+      "Do not take Brufen"
+    ],
+    "follow_up": "CBC results to be reviewed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 79.24,
+    "prompt_per_token_ms": 0.7012389380530973,
+    "prompt_per_second": 1426.0474507824333,
+    "predicted_n": 266,
+    "predicted_ms": 3338.072,
+    "predicted_per_token_ms": 12.596498113207547,
+    "predicted_per_second": 79.38714323717404
+  }
+}

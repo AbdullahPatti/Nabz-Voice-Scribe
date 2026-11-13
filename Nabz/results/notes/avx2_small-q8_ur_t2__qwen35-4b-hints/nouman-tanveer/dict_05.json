@@ -1,0 +1,43 @@
+{
+  "transcript": "مرد پنیا سال شوقر کا پرانا مریز نیہار مو شوقر ایک سو اسی اور کانے کے بعد دوسر سٹھ پہلے گلوکو فیز پانسو دین میں دو بار لے رہا تھا اب گلوکو فیز ہزار دین میں دو بار کانے کے ساتھ تین مہینے والے شوقر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nایسا بہترین",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no foot numbness\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"1000\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"3 months\",\"instructions\": \"with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"random blood sugar test\"\n  ],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [],
+    "negatives": [
+      "no foot numbness"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "3 months",
+        "instructions": "with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "random blood sugar test"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 236,
+    "prompt_ms": 126.197,
+    "prompt_per_token_ms": 0.5347330508474576,
+    "prompt_per_second": 1870.091999017409,
+    "predicted_n": 189,
+    "predicted_ms": 2490.594,
+    "predicted_per_token_ms": 13.247840425531916,
+    "predicted_per_second": 75.48400100538265
+  }
+}

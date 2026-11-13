@@ -1,0 +1,46 @@
+{
+  "transcript": "Woman 45 years, headache in the evening for one week. BP 140 over 90. No problem with eyesight, no vomiting. Panadol when needed, eat less salt. BP check again after one week.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"one week\"\n    },\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"one week\"\n    }\n  ],\n  \"negatives\": [\n    \"no problem with eyesight\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140 over 90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"eat less salt\"\n  ],\n  \"follow_up\": \"BP check again after one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "one week"
+      },
+      {
+        "symptom": "hypertension",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "no problem with eyesight",
+      "no vomiting"
+    ],
+    "findings": [
+      "BP 140 over 90"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "eat less salt"
+    ],
+    "follow_up": "BP check again after one week"
+  },
+  "timings": {
+    "cache_n": 292,
+    "prompt_n": 4,
+    "prompt_ms": 15.792,
+    "prompt_per_token_ms": 3.948,
+    "prompt_per_second": 253.29280648429585,
+    "predicted_n": 208,
+    "predicted_ms": 1108.383,
+    "predicted_per_token_ms": 5.354507246376812,
+    "predicted_per_second": 186.7585482635515
+  }
+}

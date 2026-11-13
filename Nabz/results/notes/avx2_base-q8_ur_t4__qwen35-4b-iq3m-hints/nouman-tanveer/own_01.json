@@ -1,0 +1,42 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"2 months\"\n    }\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Oxidil daily\",\n    \"Take Stilnox late access\",\n    \"Take Lasix late access\",\n    \"Take Calcium daily\",\n    \"Take Dalacin daily\",\n    \"Take Montelukast\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Oxidil daily",
+      "Take Stilnox late access",
+      "Take Lasix late access",
+      "Take Calcium daily",
+      "Take Dalacin daily",
+      "Take Montelukast"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 189,
+    "prompt_ms": 95.936,
+    "prompt_per_token_ms": 0.5075978835978836,
+    "prompt_per_second": 1970.0633755837223,
+    "predicted_n": 184,
+    "predicted_ms": 2262.257,
+    "predicted_per_token_ms": 12.362060109289617,
+    "predicted_per_second": 80.89266604103777
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the back of the eyes\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the lower back\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the chest\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the neck\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the abdomen\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the throat\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the stomach\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the throat\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the stomach\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the throat\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the stomach\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the feet\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the arms\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the head\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"pain in the throat\",\n      \"duration\": \"nightly\"\n    },\n    {\n",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 34.036,
+    "prompt_per_token_ms": 0.30120353982300885,
+    "prompt_per_second": 3320.0141027147724,
+    "predicted_n": 800,
+    "predicted_ms": 3049.044,
+    "predicted_per_token_ms": 3.816075093867334,
+    "predicted_per_second": 262.04935055053323
+  }
+}

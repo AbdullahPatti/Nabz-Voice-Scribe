@@ -1,0 +1,67 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"body pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain behind eyes\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"platelets 95k\",\n    \"no bleeding from anywhere\",\n    \"panadol 3 times in 3 days\",\n    \"brufen not taken\",\n    \"disprin not taken\"\n  ],\n  \"findings\": [\n    \"platelets 95k\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"panadol\",\n      \"strength\": \"625\",\n      \"dose\": \"3 times in 3 days\",\"frequency\": \"3 times in 3 days\",\"duration\": \"3 days\",\"instructions\": \"take as prescribed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"brufen\",\n    \"disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test tomorrow\"\n  ],\n  \"advice\": [\n    \"drink more water\"\n  ],\"follow_up\": \"blood test tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "platelets 95k",
+      "no bleeding from anywhere",
+      "panadol 3 times in 3 days",
+      "brufen not taken",
+      "disprin not taken"
+    ],
+    "findings": [
+      "platelets 95k"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "panadol",
+        "strength": "625",
+        "dose": "3 times in 3 days",
+        "frequency": "3 times in 3 days",
+        "duration": "3 days",
+        "instructions": "take as prescribed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "brufen",
+      "disprin"
+    ],
+    "investigations_ordered": [
+      "blood test tomorrow"
+    ],
+    "advice": [
+      "drink more water"
+    ],
+    "follow_up": "blood test tomorrow"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 114,
+    "prompt_ms": 59.508,
+    "prompt_per_token_ms": 0.522,
+    "prompt_per_second": 1915.7088122605362,
+    "predicted_n": 352,
+    "predicted_ms": 2419.049,
+    "predicted_per_token_ms": 6.891877492877493,
+    "predicted_per_second": 145.09834236511952
+  }
+}

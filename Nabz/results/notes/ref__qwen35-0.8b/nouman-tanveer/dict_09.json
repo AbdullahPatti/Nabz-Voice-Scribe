@@ -1,0 +1,16 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"night sweats\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"night\"\n",
+  "note": null,
+  "timings": {
+    "cache_n": 331,
+    "prompt_n": 4,
+    "prompt_ms": 16.716,
+    "prompt_per_token_ms": 4.179,
+    "prompt_per_second": 239.29169657812872,
+    "predicted_n": 800,
+    "predicted_ms": 2885.973,
+    "predicted_per_token_ms": 3.6119812265331666,
+    "predicted_per_second": 276.8563669861083
+  }
+}

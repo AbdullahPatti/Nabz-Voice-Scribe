@@ -1,0 +1,59 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"heartburn\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"worse after eating\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"BMI 20\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Gaviscon\",\n      \"strength\": \"2\",\n      \"dose\": \"2 spoons\",\n      \"frequency\": \"night\",\"duration\": \"2 weeks\",\"instructions\": \"take on empty stomach in the morning\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"tea\",\n    \"chili\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce tea consumption\",\n    \"reduce chili consumption\"\n  ],\"follow_up\": null}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "heartburn",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "worse after eating",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [
+      "BMI 20"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Gaviscon",
+        "strength": "2",
+        "dose": "2 spoons",
+        "frequency": "night",
+        "duration": "2 weeks",
+        "instructions": "take on empty stomach in the morning"
+      }
+    ],
+    "drugs_to_avoid": [
+      "tea",
+      "chili"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce tea consumption",
+      "reduce chili consumption"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 188,
+    "prompt_ms": 126.362,
+    "prompt_per_token_ms": 0.6721382978723404,
+    "prompt_per_second": 1487.78905050569,
+    "predicted_n": 261,
+    "predicted_ms": 3277.743,
+    "predicted_per_token_ms": 12.606703846153845,
+    "predicted_per_second": 79.32287552745899
+  }
+}

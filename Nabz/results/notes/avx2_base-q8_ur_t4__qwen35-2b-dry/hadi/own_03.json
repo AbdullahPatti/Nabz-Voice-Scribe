@@ -1,0 +1,16 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no fever\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no dysuria\",\n    \"no hematuria\",\n    \"no edema\",\n    \"no palpable mass\",\n    \"no weight loss\",\n    \"no night sweats\",\n    \"no joint pain\",\n    \"no rash\",\n    \"no skin lesions\",\n    \"no lymphadenopathy\",\n    \"no hepatomegaly\",\n    \"no splenomegaly\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"no lymphadenopathy\",\n    \"",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 57.25,
+    "prompt_per_token_ms": 0.6361111111111111,
+    "prompt_per_second": 1572.052401746725,
+    "predicted_n": 800,
+    "predicted_ms": 4784.75,
+    "predicted_per_token_ms": 5.9884230287859825,
+    "predicted_per_second": 166.9888708918961
+  }
+}

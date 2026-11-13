@@ -1,0 +1,16 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 38}, \"complaints\": [], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"penicillin se allergy hai\", \"bharat nahi\"],\"findings\": [\"no rash\", \"no side effect\", \"no cough\", \"no sneezing\", \"no penicillin allergy\", \"no hives\", \"no rash with penicillin\", \"no rash with amoxicillin\", \"no rash with cephalexin\", \"no rash with clavulanic acid\", \"no rash with azithromycin\", \"no rash with doxycycline\", \"no rash with tetracycline\", \"no rash with erythromycin\", \"no rash with clarithromycin\", \"no rash with roxithromycin\", \"no rash with levofloxacin\", \"no rash with ciprofloxacin\", \"no rash with ofloxacin\", \"no rash with moxifloxacin\", \"no rash with gatifloxacin\", \"no rash with gemifloxacin\", \"no rash with lomefloxacin\", \"no rash with pefloxacin\", \"no rash with ceftriaxone\", \"no rash with cefuroxime\", \"no rash with cephalexin\", \"no rash with amoxicillin\", \"no rash with clavulanic acid\", \"no rash with azithromycin\", \"no rash with doxycycline\", \"no rash with tetracycline\", \"no rash with erythromycin\", \"no rash with clarithromycin\", \"no rash with roxithromycin\", \"no rash with levofloxacin\", \"no rash with ciprofloxacin\", \"no rash with ofloxacin\", \"no rash with moxifloxacin\", \"no rash with gatifloxacin\", \"no rash with gemifloxacin\", \"no rash with lomefloxacin\", \"no rash with pefloxacin\", \"no rash with ceftriaxone\", \"no rash with cefuroxime\", \"no rash with clindamycin\", \"no rash with metronidazole\", \"no rash with vancomycin\", \"no rash with gentamicin\", \"no rash with tobramycin\", \"no rash with amikacin\", \"no rash with streptomycin\", \"no rash with neomycin\", \"no rash with gentamicin\", \"no rash with neomycin\", \"no rash with neomycine\", \"no rash with neomicine\", \"no rash with neomicin\", \"no rash with neomixine\", \"no rash with neomysine\", \"no rash with neomyine\", \"no rash with neomynine\", \"no rash with neomyne\", \"no rash with neomine\", \"no rash with neomunine\", \"no rash with neomune\", \"no rash with neomuen\", \"no rash with neomue\", \"no rash with neomui\", \"no rash with neomuy\", \"no rash with neomuv\", \"no rash with neomux\", \"no rash with neomy\", \"no rash with neom\", \"no rash with neo\", \"no rash with ne\", \"no rash with n\", \"no rash with m\", \"no rash with l\", \"no rash with k\", \"no rash with j\", \"no rash with i\", \"no rash with h\", \"no rash with g\", \"no rash with f\", \"no rash with e\", \"no rash with d\", \"no rash with c\", \"no rash with b\", \"no rash with a\", \"no rash with 8\", \"no rash with",
+  "note": null,
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 104,
+    "prompt_ms": 38.74,
+    "prompt_per_token_ms": 0.3725,
+    "prompt_per_second": 2684.5637583892617,
+    "predicted_n": 800,
+    "predicted_ms": 5906.732,
+    "predicted_per_token_ms": 7.392655819774719,
+    "predicted_per_second": 135.2693841535387
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "transcript": "خاتون پچھپن سار آج وی پی 160 اور سو آیا سار بھری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نور ویس پانچ رات کو ایک گولی شروع کر دی ہے نمہ کام کرنا ہے دو افتبات بی پی دوارہ چکر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"hypertension\", \"duration\": \"5 years\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Perindopril\",\n      \"strength\": \"5\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"once daily\",\"duration\": \"5 years\",\"instructions\": \"take for 5 years\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"monitor blood pressure\",\n    \"monitor pulse\"\n  ],\"follow_up\": \"in 5 years\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "5 years"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Perindopril",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "5 years",
+        "instructions": "take for 5 years"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "monitor blood pressure",
+      "monitor pulse"
+    ],
+    "follow_up": "in 5 years"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 122,
+    "prompt_ms": 101.013,
+    "prompt_per_token_ms": 0.8279754098360657,
+    "prompt_per_second": 1207.7653371348242,
+    "predicted_n": 224,
+    "predicted_ms": 2902.469,
+    "predicted_per_token_ms": 13.01555605381166,
+    "predicted_per_second": 76.83113928176321
+  }
+}

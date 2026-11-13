@@ -1,0 +1,61 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"2 weeks\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"2 weeks\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal tenderness\",\n    \"abdominal distension\",\n    \"abdominal mass\",\n    \"jaundice\",\n    \"anorexia\",\n    \"fatigue\"\n  ],\n  \"findings\": [\n    \"abdominal pain\",\n    \"abdominal distension\",\n    \"abdominal mass\",\n    \"jaundice\",\n    \"anorexia\",\n    \"fatigue\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 2 teaspoons of ginger tea at night\",\n    \"drink 2 cups of water daily\",\n    \"eat food regularly\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea",
+      "vomiting",
+      "diarrhea",
+      "abdominal tenderness",
+      "abdominal distension",
+      "abdominal mass",
+      "jaundice",
+      "anorexia",
+      "fatigue"
+    ],
+    "findings": [
+      "abdominal pain",
+      "abdominal distension",
+      "abdominal mass",
+      "jaundice",
+      "anorexia",
+      "fatigue"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 2 teaspoons of ginger tea at night",
+      "drink 2 cups of water daily",
+      "eat food regularly"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 99,
+    "prompt_ms": 60.962,
+    "prompt_per_token_ms": 0.6157777777777778,
+    "prompt_per_second": 1623.9624684229518,
+    "predicted_n": 311,
+    "predicted_ms": 2134.31,
+    "predicted_per_token_ms": 6.884870967741936,
+    "predicted_per_second": 145.24600456353576
+  }
+}

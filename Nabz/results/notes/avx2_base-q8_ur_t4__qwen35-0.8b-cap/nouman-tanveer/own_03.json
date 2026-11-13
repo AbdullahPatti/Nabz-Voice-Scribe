@@ -1,0 +1,43 @@
+{
+  "transcript": "ویمان ویمان ویمان ویمان ویمان ویمان",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of being watched\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no physical signs\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"no need for further investigation\",\n    \"no need for any medication\"\n  ],\n  \"follow_up\": \"no\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "feeling of being watched",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no physical signs"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "no need for further investigation",
+      "no need for any medication"
+    ],
+    "follow_up": "no"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 28,
+    "prompt_ms": 34.113,
+    "prompt_per_token_ms": 1.2183214285714286,
+    "prompt_per_second": 820.801453991147,
+    "predicted_n": 185,
+    "predicted_ms": 1078.278,
+    "predicted_per_token_ms": 5.860206521739131,
+    "predicted_per_second": 170.64245027720122
+  }
+}

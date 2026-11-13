@@ -1,0 +1,45 @@
+{
+  "transcript": "مرد پنیا سال شوقر کا پرانا مریز نیہار مو شوقر ایک سو اسی اور کانے کے بعد دوسر سٹھ پہلے گلوکو فیز پانسو دین میں دو بار لے رہا تھا اب گلوکو فیز ہزار دین میں دو بار کانے کے ساتھ تین مہینے والے شوقر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nایسا بہترین",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain in feet\", \"duration\": \"3 months\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"history of diabetes mellitus for 50 years\",\n    \"taking Glipizide 5mg twice daily\",\n    \"taking Glipizide 10mg twice daily\",\n    \"taking Glipizide 5mg twice daily\",\n    \"taking Glipizide 10mg twice daily\",\n    \"taking Glipizide 5mg twice daily\",\n    \"taking Glipizide 10mg twice daily\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"glucose test\"\n  ],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "pain in feet",
+        "duration": "3 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "history of diabetes mellitus for 50 years",
+      "taking Glipizide 5mg twice daily",
+      "taking Glipizide 10mg twice daily",
+      "taking Glipizide 5mg twice daily",
+      "taking Glipizide 10mg twice daily",
+      "taking Glipizide 5mg twice daily",
+      "taking Glipizide 10mg twice daily"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "glucose test"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 121,
+    "prompt_ms": 76.604,
+    "prompt_per_token_ms": 0.633090909090909,
+    "prompt_per_second": 1579.5519816197586,
+    "predicted_n": 237,
+    "predicted_ms": 2871.132,
+    "predicted_per_token_ms": 12.165813559322034,
+    "predicted_per_second": 82.19754438319102
+  }
+}

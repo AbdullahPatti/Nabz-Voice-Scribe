@@ -1,0 +1,53 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 year\"},\n    {\"symptom\": \"night sweats\", \"duration\": \"1 year\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 year\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 year\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 2 tablets at night\",\n    \"take 2 tablets in the morning\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "night sweats",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 year"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 2 tablets at night",
+      "take 2 tablets in the morning"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 71.921,
+    "prompt_per_token_ms": 0.7733440860215054,
+    "prompt_per_second": 1293.0854687782426,
+    "predicted_n": 218,
+    "predicted_ms": 2653.684,
+    "predicted_per_token_ms": 12.228958525345623,
+    "predicted_per_second": 81.77311239770823
+  }
+}

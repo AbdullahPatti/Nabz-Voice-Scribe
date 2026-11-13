@@ -1,0 +1,41 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سکیرز نوز ویلن نو فیور پاندول 2 تبلرٹز 2 ایرز اگی لائی تکسرسیز دیلی کم بیکن 1 منگت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nepafenac\",\n      \"strength\": \"2\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"until pain subsides\",\"instructions\": \"twice daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Nepafenac 2 tablets twice daily until pain subsides.\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nepafenac",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "until pain subsides",
+        "instructions": "twice daily"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Nepafenac 2 tablets twice daily until pain subsides."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 154,
+    "prompt_ms": 114.376,
+    "prompt_per_token_ms": 0.7427012987012988,
+    "prompt_per_second": 1346.436315310904,
+    "predicted_n": 191,
+    "predicted_ms": 2444.796,
+    "predicted_per_token_ms": 12.867347368421052,
+    "predicted_per_second": 77.71609573968544
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning in urine\", \"duration\": \"2 days\"},\n    {\"symptom\": \"recurrent symptoms\", \"duration\": \"2 days\"},\n    {\"symptom\": \"lower back pain\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Supro\",\n      \"strength\": \"500\",\n      \"dose\": \"2 times daily for 3 days\",\"frequency\": \"twice daily\",\"duration\": \"3 days\",\"instructions\": \"take with water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return if symptoms recur\"\n  ],\"follow_up\": \"return if symptoms recur\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "burning in urine",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "recurrent symptoms",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "lower back pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Supro",
+        "strength": "500",
+        "dose": "2 times daily for 3 days",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "return if symptoms recur"
+    ],
+    "follow_up": "return if symptoms recur"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 146,
+    "prompt_ms": 112.796,
+    "prompt_per_token_ms": 0.7725753424657534,
+    "prompt_per_second": 1294.3721408560586,
+    "predicted_n": 253,
+    "predicted_ms": 3235.596,
+    "predicted_per_token_ms": 12.839666666666666,
+    "predicted_per_second": 77.8836418390924
+  }
+}

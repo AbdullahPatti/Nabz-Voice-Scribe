@@ -1,0 +1,50 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تقریب اور سینے سے سیٹی کی اہواز آتی ہے گبرار ٹوندی ہے وہ حار نہیں مینٹونین انہیلر ضرورت پر دو پاف دن میں چار دفعہ سے زاد آنے رات کو زرٹک ایک گولی دوڑ اور دومے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"overnight\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"overnight\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Mentocin\", \"strength\": \"2\", \"dose\": \"twice daily\", \"frequency\": \"as needed\", \"duration\": null, \"instructions\": \"take 2 puffs\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid triggers\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "overnight"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "overnight"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Mentocin",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "as needed",
+        "duration": null,
+        "instructions": "take 2 puffs"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid triggers"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 191,
+    "prompt_ms": 93.704,
+    "prompt_per_token_ms": 0.4905968586387434,
+    "prompt_per_second": 2038.3334756253737,
+    "predicted_n": 201,
+    "predicted_ms": 2641.201,
+    "predicted_per_token_ms": 13.206005,
+    "predicted_per_second": 75.72312747117694
+  }
+}

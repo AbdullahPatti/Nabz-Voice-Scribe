@@ -1,0 +1,61 @@
+{
+  "transcript": "خطوون چونتی سال، تین دین سے بخوا ہے جسم میں درد، اور آنکھوں کے پیچھے درد، پیٹلس پچانوے ہزار ہے کہ ہی سے خون نہیں آرہا، صرف پنے دول دو گلی، دین میں تین بات، بروفین بلکل نہیں لینہ، دیسپرین بھی نہیں، پانی زیادہ پیئے، کال خون کا ٹنس دبارہ کر مانا ہے،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no bleeding\",\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\"duration\": \"3 days\",\"instructions\": \"take with water\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"Disprin\",\n    \"Colchicine\",\n    \"Concor\",\n    \"Aspirin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink plenty of water\",\n    \"check blood pressure\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no bleeding",
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin",
+      "Colchicine",
+      "Concor",
+      "Aspirin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "drink plenty of water",
+      "check blood pressure"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 261,
+    "prompt_ms": 134.674,
+    "prompt_per_token_ms": 0.515992337164751,
+    "prompt_per_second": 1938.0132765047447,
+    "predicted_n": 275,
+    "predicted_ms": 3353.936,
+    "predicted_per_token_ms": 12.240642335766424,
+    "predicted_per_second": 81.69505917823118
+  }
+}

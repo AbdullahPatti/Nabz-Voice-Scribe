@@ -1,0 +1,60 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning sensation in stomach\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"worse after eating\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"epigastric pain\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"epigastric tenderness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Gaviscon\", \"strength\": \"2\", \"dose\": \"2 spoonfuls\", \"frequency\": \"night\", \"duration\": null, \"instructions\": \"take at night\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce tea intake\",\n    \"reduce chili intake\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "burning sensation in stomach",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "worse after eating",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "epigastric pain",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [
+      "epigastric tenderness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Gaviscon",
+        "strength": "2",
+        "dose": "2 spoonfuls",
+        "frequency": "night",
+        "duration": null,
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce tea intake",
+      "reduce chili intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 512,
+    "prompt_n": 4,
+    "prompt_ms": 34.872,
+    "prompt_per_token_ms": 8.718,
+    "prompt_per_second": 114.70520761642578,
+    "predicted_n": 255,
+    "predicted_ms": 3190.943,
+    "predicted_per_token_ms": 12.562767716535435,
+    "predicted_per_second": 79.60029370628055
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"yellowish sputum\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"low grade fever\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"difficulty breathing\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"hoarseness\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no sputum\",\n    \"no fever\",\n    \"no hoarseness\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"yellowish sputum\",\n    \"low grade fever\",\n    \"difficulty breathing\",\n    \"hoarseness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"5 days\",\"duration\": \"1 week\",\"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"syrup\",\n      \"strength\": \"unknown\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"3 times daily\",\n      \"duration\": \"1 week\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"cigarettes\"\n  ],\n  \"investigations_ordered\": [\n    \"chest x-ray\"\n  ],\n  \"advice\": [\n    \"stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellowish sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "low grade fever",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "difficulty breathing",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "hoarseness",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no cough",
+      "no sputum",
+      "no fever",
+      "no hoarseness"
+    ],
+    "findings": [
+      "cough",
+      "yellowish sputum",
+      "low grade fever",
+      "difficulty breathing",
+      "hoarseness"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "5 days",
+        "duration": "1 week",
+        "instructions": "take with food"
+      },
+      {
+        "name": "syrup",
+        "strength": "unknown",
+        "dose": "twice daily",
+        "frequency": "3 times daily",
+        "duration": "1 week",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "cigarettes"
+    ],
+    "investigations_ordered": [
+      "chest x-ray"
+    ],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 341,
+    "prompt_n": 4,
+    "prompt_ms": 41.067,
+    "prompt_per_token_ms": 10.26675,
+    "prompt_per_second": 97.40180680351621,
+    "predicted_n": 463,
+    "predicted_ms": 3014.478,
+    "predicted_per_token_ms": 6.524844155844156,
+    "predicted_per_second": 153.2603654762118
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain\", \"duration\": \"40 years\"},\n    {\"symptom\": \"fever\", \"duration\": \"40 years\"},\n    {\"symptom\": \"pain\", \"duration\": \"40 years\"},\n    {\"symptom\": \"dehydration\", \"duration\": \"40 years\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink small amounts of water frequently\",\n    \"After each episode of pain, drink a glass of water\",\n    \"Stop taking these medicines\"\n  ],\n  \"follow_up\": \"None\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "40 years"
+      },
+      {
+        "symptom": "fever",
+        "duration": "40 years"
+      },
+      {
+        "symptom": "pain",
+        "duration": "40 years"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "40 years"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink small amounts of water frequently",
+      "After each episode of pain, drink a glass of water",
+      "Stop taking these medicines"
+    ],
+    "follow_up": "None"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 208,
+    "prompt_ms": 103.401,
+    "prompt_per_token_ms": 0.4971201923076923,
+    "prompt_per_second": 2011.5859614510498,
+    "predicted_n": 212,
+    "predicted_ms": 2497.808,
+    "predicted_per_token_ms": 11.83795260663507,
+    "predicted_per_second": 84.47406686182444
+  }
+}

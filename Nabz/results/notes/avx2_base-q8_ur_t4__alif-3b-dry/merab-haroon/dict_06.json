@@ -1,0 +1,16 @@
+{
+  "transcript": "ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت زیادہ پیٹ بھرا ہوا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت کم وزن ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بے ہوشی کا احساس ہوتا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت زیادہ پیٹ بھرا ہوا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بے ہوشی کا احساس ہوتا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت کم وزن ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بے ہوشی کا احساس ہوتا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت کم وزن ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بے ہوشی کا احساس ہوتا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت کم وزن ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بے ہوشی کا احساس ہوتا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت کم وزن ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بے ہوشی کا احساس ہوتا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت کم وزن ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بے ہوشی کا احساس ہوتا ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بہت کم وزن ہے\",\n\n    \"duration\": \"1 day\"\n    },\n    {\n        \"symptom\": \"بے ",
+  "note": null,
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 143,
+    "prompt_ms": 43.472,
+    "prompt_per_token_ms": 0.304,
+    "prompt_per_second": 3289.4736842105262,
+    "predicted_n": 800,
+    "predicted_ms": 6167.386,
+    "predicted_per_token_ms": 7.718881101376722,
+    "predicted_per_second": 129.55245544871036
+  }
+}

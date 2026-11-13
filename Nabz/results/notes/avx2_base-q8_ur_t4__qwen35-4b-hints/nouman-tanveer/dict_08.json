@@ -1,0 +1,59 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 2\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning\", \"duration\": \"2 days\"},\n    {\"symptom\": \"recurrent episodes\", \"duration\": \"2 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ciprofloxacin\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"2 days\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"stool test\"\n  ],\n  \"advice\": [\n    \"if symptoms recur after 2 days, come back\"\n  ],\"follow_up\": \"if symptoms recur after 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 2
+    },
+    "complaints": [
+      {
+        "symptom": "burning",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "recurrent episodes",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "2 days",
+        "duration": "2 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "stool test"
+    ],
+    "advice": [
+      "if symptoms recur after 2 days, come back"
+    ],
+    "follow_up": "if symptoms recur after 2 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 144,
+    "prompt_ms": 108.934,
+    "prompt_per_token_ms": 0.7564861111111111,
+    "prompt_per_second": 1321.9013347531532,
+    "predicted_n": 268,
+    "predicted_ms": 3316.381,
+    "predicted_per_token_ms": 12.420902621722846,
+    "predicted_per_second": 80.50944689406917
+  }
+}

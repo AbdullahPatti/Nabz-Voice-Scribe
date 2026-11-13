@@ -1,0 +1,48 @@
+{
+  "transcript": "ہاتون چھبکسار دو دن سے پیشاب میں جرن ہے اور بار بار آتا ہے بوحار نہیں کمر میں درد نہیں پرگرن نہیں ہے سپرو 500 دن میں دو بار تین دن پانی زادہ پی ہیں پیشاب کا تیس کروالیں تین دن میں فرق نہ پڑے تو دو بارا آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"frequency of urination\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"back pain\",\n    \"dysuria\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Supro\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"for 3 days\",\"duration\": \"3 days\",\"instructions\": \"continue for 3 days; if no improvement, return in 2 days\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": \"return in 2 days if no improvement after 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "frequency of urination",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "back pain",
+      "dysuria"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Supro",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "for 3 days",
+        "duration": "3 days",
+        "instructions": "continue for 3 days; if no improvement, return in 2 days"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "return in 2 days if no improvement after 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 102.121,
+    "prompt_per_token_ms": 1.0527938144329896,
+    "prompt_per_second": 949.8536050371619,
+    "predicted_n": 238,
+    "predicted_ms": 3032.375,
+    "predicted_per_token_ms": 12.794831223628693,
+    "predicted_per_second": 78.15656045179108
+  }
+}

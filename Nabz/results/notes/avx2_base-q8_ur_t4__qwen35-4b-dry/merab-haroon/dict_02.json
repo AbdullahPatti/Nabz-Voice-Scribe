@@ -1,0 +1,54 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"rhinorrhea\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets daily\",\"frequency\": \"twice daily\",\"duration\": \"3 days\",\"instructions\": \"take with plenty of water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid taking Desipramine\"\n  ],\"follow_up\": \"return if symptoms recur\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "rhinorrhea",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "625",
+        "dose": "2 tablets daily",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with plenty of water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid taking Desipramine"
+    ],
+    "follow_up": "return if symptoms recur"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 97.115,
+    "prompt_per_token_ms": 0.8594247787610619,
+    "prompt_per_second": 1163.568964629563,
+    "predicted_n": 238,
+    "predicted_ms": 3035.35,
+    "predicted_per_token_ms": 12.807383966244725,
+    "predicted_per_second": 78.07995783023375
+  }
+}

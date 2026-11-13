@@ -1,0 +1,45 @@
+{
+  "transcript": "خاتون پچھ پل سال آج بیپی 168 اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سینے میں درد نہیں ہے نورک فائیف رات کو ایک گولی شروع کر دی ہے نمہ کم کرنا ہے دو ہفتے بعد بیپی دوبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 168\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"start one tablet at night\",\n    \"continue for two weeks\"\n  ],\n  \"follow_up\": \"in two weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 168
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "start one tablet at night",
+      "continue for two weeks"
+    ],
+    "follow_up": "in two weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 122,
+    "prompt_ms": 84.207,
+    "prompt_per_token_ms": 0.6902213114754098,
+    "prompt_per_second": 1448.8106689467622,
+    "predicted_n": 181,
+    "predicted_ms": 2219.755,
+    "predicted_per_token_ms": 12.331972222222223,
+    "predicted_per_second": 81.09003020603625
+  }
+}

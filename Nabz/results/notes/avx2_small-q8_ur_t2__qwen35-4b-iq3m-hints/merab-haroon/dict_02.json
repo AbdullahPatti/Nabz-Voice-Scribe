@@ -1,0 +1,60 @@
+{
+  "transcript": "ہاتون چونٹی سالت تین دن سے بہار جسم میں درد اور آنکھوں کے پیچھے درد پلیٹ لیڈز 95000 ہے کہیں سے ہم نہیں آرہا صرف پیناڈول دو گولی دن میں تین بار بروفن نے لینے دیسپرن بھی نہیں پانی زادہ پی ہیں کل ہم کا تیس دوبارہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"joint pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": \"95000\", \"dose\": \"2 tablets\", \"frequency\": \"3 times a day\", \"duration\": null, \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"Disprin\",\n    \"Penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"X-ray\"\n  ],\n  \"advice\": [\n    \"Drink water\"\n  ],\n  \"follow_up\": \"tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "joint pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "95000",
+        "dose": "2 tablets",
+        "frequency": "3 times a day",
+        "duration": null,
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin",
+      "Penicillin"
+    ],
+    "investigations_ordered": [
+      "X-ray"
+    ],
+    "advice": [
+      "Drink water"
+    ],
+    "follow_up": "tomorrow"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 224,
+    "prompt_ms": 107.579,
+    "prompt_per_token_ms": 0.4802633928571428,
+    "prompt_per_second": 2082.1907621375917,
+    "predicted_n": 248,
+    "predicted_ms": 3099.777,
+    "predicted_per_token_ms": 12.549704453441295,
+    "predicted_per_second": 79.68315140089109
+  }
+}

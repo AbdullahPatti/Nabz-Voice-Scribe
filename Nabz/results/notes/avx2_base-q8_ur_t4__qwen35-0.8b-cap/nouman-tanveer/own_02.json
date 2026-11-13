@@ -1,0 +1,72 @@
+{
+  "transcript": "اپنے اپنے اپنے پڑھے سوڑھا اور اپنے اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"feeling of being watched\",\n      \"duration\": \"10 minutes\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"no physical signs\",\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no wheezing\",\n    \"no wheezing history\",\n    \"no asthma history\",\n    \"no wheezing history\",\n    \"no wheezing history\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1000 mg\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"10 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"avoid strenuous activity\",\n    \"avoid cold weather\",\n    \"avoid heavy lifting\",\n    \"avoid heavy exercise\",\n    \"avoid heavy exercise\",\n    \"avoid heavy exercise\"\n  ],\n  \"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "feeling of being watched",
+        "duration": "10 minutes"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "no physical signs",
+      "no fever",
+      "no cough",
+      "no chest pain",
+      "no shortness of breath",
+      "no wheezing",
+      "no wheezing history",
+      "no asthma history",
+      "no wheezing history",
+      "no wheezing history"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1000 mg",
+        "frequency": "once daily",
+        "duration": "10 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "rest",
+      "avoid strenuous activity",
+      "avoid cold weather",
+      "avoid heavy lifting",
+      "avoid heavy exercise",
+      "avoid heavy exercise",
+      "avoid heavy exercise"
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 334,
+    "prompt_n": 4,
+    "prompt_ms": 18.53,
+    "prompt_per_token_ms": 4.6325,
+    "prompt_per_second": 215.86616297895304,
+    "predicted_n": 385,
+    "predicted_ms": 1914.818,
+    "predicted_per_token_ms": 4.986505208333333,
+    "predicted_per_second": 200.54125248457032
+  }
+}

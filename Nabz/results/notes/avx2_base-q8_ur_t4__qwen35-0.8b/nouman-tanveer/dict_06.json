@@ -1,0 +1,16 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"1 week\"\n    },",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 99,
+    "prompt_ms": 32.44,
+    "prompt_per_token_ms": 0.3276767676767677,
+    "prompt_per_second": 3051.7879161528977,
+    "predicted_n": 800,
+    "predicted_ms": 3080.747,
+    "predicted_per_token_ms": 3.8557534418022525,
+    "predicted_per_second": 259.3526829694227
+  }
+}

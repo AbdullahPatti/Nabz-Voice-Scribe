@@ -1,0 +1,63 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in the lower back\",\n      \"duration\": \"months\"\n    },\n    {\n      \"symptom\": \"pain in the legs\",\n      \"duration\": \"months\"\n    }\n  ],\n  \"negatives\": [\n    \"no pain\",\n    \"no swelling\",\n    \"no fever\",\n    \"no weight loss\",\n    \"no night sweats\",\n    \"no weight gain\",\n    \"no fatigue\",\n    \"no anemia\",\n    \"no thrombocytopenia\",\n    \"no elevated liver enzymes\"\n  ],\n  \"findings\": [\n    \"no abnormal physical exam findings\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"avoid heavy lifting\",\n    \"avoid prolonged standing\",\n    \"avoid prolonged sitting\",\n    \"avoid prolonged walking\",\n    \"avoid prolonged standing\",\n    \"avoid prolonged sitting\",\n    \"avoid prolonged walking\",\n    \"avoid prolonged standing\",\n    \"avoid prolonged sitting\"\n  ],\n  \"follow_up\": \"next appointment in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "pain in the lower back",
+        "duration": "months"
+      },
+      {
+        "symptom": "pain in the legs",
+        "duration": "months"
+      }
+    ],
+    "negatives": [
+      "no pain",
+      "no swelling",
+      "no fever",
+      "no weight loss",
+      "no night sweats",
+      "no weight gain",
+      "no fatigue",
+      "no anemia",
+      "no thrombocytopenia",
+      "no elevated liver enzymes"
+    ],
+    "findings": [
+      "no abnormal physical exam findings"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "avoid heavy lifting",
+      "avoid prolonged standing",
+      "avoid prolonged sitting",
+      "avoid prolonged walking",
+      "avoid prolonged standing",
+      "avoid prolonged sitting",
+      "avoid prolonged walking",
+      "avoid prolonged standing",
+      "avoid prolonged sitting"
+    ],
+    "follow_up": "next appointment in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 309,
+    "prompt_n": 4,
+    "prompt_ms": 17.178,
+    "prompt_per_token_ms": 4.2945,
+    "prompt_per_second": 232.85597857724997,
+    "predicted_n": 323,
+    "predicted_ms": 1577.438,
+    "predicted_per_token_ms": 4.8988757763975155,
+    "predicted_per_second": 204.12846653877995
+  }
+}

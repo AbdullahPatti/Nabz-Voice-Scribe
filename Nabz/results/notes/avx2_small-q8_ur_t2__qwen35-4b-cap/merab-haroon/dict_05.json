@@ -1,0 +1,51 @@
+{
+  "transcript": "مرد 50 سال شوگر کا پرانا مریز نیحارمون شوگر 188 اور کھانے کے بعد 260 پہلے گلائیکو فیش 500 دن میں 500 دن میں دو بار لے رہا ہے اب گلائیکو فیش 1000 دن میں دو بار کھانے کے ساتھ\nشوگر کیس کروانا ہے پیروم میں سن ہونا نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"hyperglycemia\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"polyuria\",\n    \"polydipsia\",\n    \"polyphagia\",\n    \"weight_loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glycophen\",\n      \"strength\": \"1000\",\n      \"dose\": \"twice daily with meals\",\"frequency\": \"twice daily\",\"duration\": \"ongoing\",\"instructions\": \"with meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"monitor blood sugar levels\"\n  ],\"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "hyperglycemia",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "polyuria",
+      "polydipsia",
+      "polyphagia",
+      "weight_loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glycophen",
+        "strength": "1000",
+        "dose": "twice daily with meals",
+        "frequency": "twice daily",
+        "duration": "ongoing",
+        "instructions": "with meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "monitor blood sugar levels"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 118,
+    "prompt_ms": 105.38,
+    "prompt_per_token_ms": 0.8930508474576271,
+    "prompt_per_second": 1119.7570696526855,
+    "predicted_n": 231,
+    "predicted_ms": 2927.618,
+    "predicted_per_token_ms": 12.728773913043478,
+    "predicted_per_second": 78.56216214000598
+  }
+}

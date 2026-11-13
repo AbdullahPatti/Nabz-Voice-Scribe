@@ -1,0 +1,55 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"rash on lower back\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"itching\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Chamomile tea\", \"strength\": \"2 spoons\", \"dose\": \"at night\", \"frequency\": \"twice a day\", \"duration\": \"2 weeks\", \"instructions\": \"drink less\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "rash on lower back",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "itching",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Chamomile tea",
+        "strength": "2 spoons",
+        "dose": "at night",
+        "frequency": "twice a day",
+        "duration": "2 weeks",
+        "instructions": "drink less"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 99,
+    "prompt_ms": 74.621,
+    "prompt_per_token_ms": 0.7537474747474747,
+    "prompt_per_second": 1326.704278956326,
+    "predicted_n": 227,
+    "predicted_ms": 3011.347,
+    "predicted_per_token_ms": 13.324544247787612,
+    "predicted_per_second": 75.04947121670135
+  }
+}

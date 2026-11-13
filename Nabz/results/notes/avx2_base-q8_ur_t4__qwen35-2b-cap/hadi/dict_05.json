@@ -1,0 +1,60 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hyperglycemia\",\n      \"duration\": \"unknown\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"dry mouth\",\n    \"dry eyes\",\n    \"dry skin\",\n    \"dry mucous membranes\",\n    \"dry mouth\",\n    \"dry eyes\",\n    \"dry skin\",\n    \"dry mucous membranes\"\n  ],\n  \"findings\": [\n    \"hyperglycemia\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"glucophage\",\n      \"strength\": \"500 mg\",\n      \"dose\": \"twice daily\",\"frequency\": \"twice daily\",\"duration\": \"unknown\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take glucophage twice daily with food\",\n    \"do not take glucophage if you have fever, cough, dry mouth, dry eyes, dry skin, dry mucous membranes\"\n  ],\"follow_up\": \"glucose test in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "hyperglycemia",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "dry mouth",
+      "dry eyes",
+      "dry skin",
+      "dry mucous membranes",
+      "dry mouth",
+      "dry eyes",
+      "dry skin",
+      "dry mucous membranes"
+    ],
+    "findings": [
+      "hyperglycemia"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "glucophage",
+        "strength": "500 mg",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "unknown",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take glucophage twice daily with food",
+      "do not take glucophage if you have fever, cough, dry mouth, dry eyes, dry skin, dry mucous membranes"
+    ],
+    "follow_up": "glucose test in 3 days"
+  },
+  "timings": {
+    "cache_n": 345,
+    "prompt_n": 4,
+    "prompt_ms": 40.8,
+    "prompt_per_token_ms": 10.2,
+    "prompt_per_second": 98.03921568627452,
+    "predicted_n": 322,
+    "predicted_ms": 2277.992,
+    "predicted_per_token_ms": 7.096548286604362,
+    "predicted_per_second": 140.91357651826695
+  }
+}
