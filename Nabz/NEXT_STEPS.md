@@ -1,7 +1,10 @@
 # Nabz Scribe: redo the lost GPU work on the new PC
 
 Written 13 November 2026 on the Legion laptop. Claude Code on the PC: read all of this, `results/RUN_NOTES.md` and
-`plan.txt`, then carry it out in order without asking, except where a step says STOP. Work inside the `Nabz` folder.
+`plan.txt`, then carry it out in order, on your own, from start to finish. Work inside the `Nabz` folder.
+
+**The user will not be at the PC and will not answer questions. Never stop to ask, confirm or report part-way.
+This may take two days; keep going until Step 4 is done.** Everything you need to decide is decided below.
 
 ## Situation
 
@@ -35,6 +38,27 @@ No new speakers will be recorded for now: the data is the 3 speakers, 39 scored 
 6. Commands are in each script's docstring and in `plan.txt`. Where RUN_NOTES does not record an exact command,
    reconstruct it from the description, and write the command you used into RUN_NOTES this time.
 
+## Working unattended
+
+- **Progress file.** Keep `results/PROGRESS.md`: one line per item of Steps 0 to 4 with `todo`, `done` (date,
+  commit) or `failed` (what, why). Update, commit and push it after every item. **At the start of every session,
+  read it and continue from the first item that is not done.** Never redo an item marked done; the note and ASR
+  runners already skip clips that are written.
+- **Long jobs** (downloads, training, audio rendering, note runs): run them in the background, wait for them, and
+  carry on when they finish. Do not end the session while a job is running or items remain.
+- **Failures.** Retry a failed download up to 5 times (they resume). If a command fails, read the error, fix the
+  cause and rerun; three honest attempts per item. If an item still fails, mark it `failed` in PROGRESS.md with the
+  error, and move to the next item that does not depend on it. A model that will not download or load is skipped
+  and recorded; it does not stop the rest.
+- **Disk.** If free space falls under 15 GB, delete GGUF files in `models/` whose runs are all done (never the
+  Qwen3.5 4B IQ3_M file or `models/ft-synth-full-s250/`), and `data/synth/wav/` once all training is finished.
+- **Never** edit scoring scripts, prompts, references or the answer key to improve a number, and never delete or
+  overwrite `results/a4000_snapshot/`, `recordings/`, `data/<speaker>/` or `refs/`.
+- **Git.** Commit and push after each item. If a push is rejected, `git pull --rebase` and push again. Never
+  force-push.
+- **A decision this file does not cover:** take the option closest to what the A4000 run did (RUN_NOTES), write the
+  choice and the reason into RUN_NOTES, and continue.
+
 ## Step 0. Machine and environment
 
     git pull
@@ -51,7 +75,8 @@ prebuilt `whisper-bin-x64` plus the whisper.cpp source at commit **d2c6f05** for
 `whisper-quantize`. Stock `ggml-base-q8_0.bin` and `ggml-small-q8_0.bin` go in `whisper.cpp/models/`
 (from `huggingface.co/ggerganov/whisper.cpp`). Set `HF_HUB_DISABLE_XET=1` if a Hugging Face download stalls.
 
-STOP if there is no CUDA GPU, or less than 40 GB free disk.
+If there is no CUDA GPU at all, nothing here can run: write that into `results/PROGRESS.md`, push, and end. That is
+the only case in which you end early. Low disk is handled by the Disk rule above.
 
 ## Step 1. Redo the experiments, in the order of RUN_NOTES
 
@@ -85,8 +110,10 @@ Each item names the RUN_NOTES section to reproduce. Score after each (`score_asr
 The snapshot's headline to compare against (Merab + Nouman, whisper.cpp pair): 46% of medicines in the note
 against 10% for stock base, 0 wrong medicines unflagged after the cross-check.
 
-STOP and report if the fine-tuned model is no better end to end than stock base on Hadi: the central result did
-not reproduce and the user must decide what to do.
+If the fine-tuned model is no better end to end than stock base on Hadi, do not stop and do not retune until it
+wins. Check once that the run is sound (synthetic audio plays as speech, validation loss fell, transcripts are
+Roman Urdu), fix any real bug and rerun that item once. Then finish every remaining item with the best checkpoint
+by Rule 1 and report the result as it is, headed clearly in RUN_NOTES as "did not reproduce".
 
 ## Step 2. Write up
 
@@ -105,7 +132,8 @@ Build `phone_bundle/nabz/`: the fine-tuned q8 model as `ggml-ft-s250-q8_0.bin`, 
 `clips/` with three wavs from `data/` (one of them `merab-haroon/dict_05`, 37.6 s, the worst case), and
 `phone/termux_bench.sh`. Write the three clip names into `phone/README.md` step 1.
 
-Then the user does the phone test (`phone/README.md`):
+The phone test below needs the user's hands and a phone, so it is **not part of your run**: build the bundle,
+finish Step 4, and leave these steps for the user to do afterwards (`phone/README.md`):
 
 1. Copy `phone_bundle/nabz/` to the phone's **Download** folder over USB.
 2. Install **Termux from F-Droid** (not the Play Store) and run:
@@ -119,7 +147,7 @@ Then the user does the phone test (`phone/README.md`):
    ASR seconds per dictation (fine-tuned + base), note-writer tokens per second, peak RAM, and whether each is
    within the 30 s budgets in `config.json`. A mid-range phone with 6 to 8 GB RAM, not a flagship.
 
-Do not wait for the phone test before Step 4.
+Go straight on to Step 4.
 
 ## Step 4. Push
 
@@ -132,6 +160,10 @@ Per-clip results are tracked now, so push as you go: nothing should again exist 
 checkpoints (about 290 MB each) are too big for git: zip the chosen one and attach it to a GitHub release
 (`gh release create ft-s250 <zip> --notes "Whisper base, synthetic fine-tune"`), or tell the user to upload it by
 hand on the Releases page.
+
+When everything is pushed, add a last section to `results/PROGRESS.md` headed "Finished": what was done, what
+failed and why, whether each headline result agrees with the A4000 snapshot, which checkpoint was chosen, and that
+the phone test is waiting for the user. Push it. That is the end of the run.
 
 ## After this
 

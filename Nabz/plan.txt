@@ -10,6 +10,7 @@ NEXT_STEPS.md wins. In particular, these parts no longer apply:
   - Step 7's heading and step 9: write up and report as NEXT_STEPS.md says.
   - Step 8's "do NOT push if the repository is public": the user has decided that recordings, transcripts and
     results are pushed to the public repository. Push as you go.
+  - Every "STOP" in this file: the run is unattended. Follow "Working unattended" in NEXT_STEPS.md instead.
 
 NABZ SCRIBE: URDU NOTE-WRITER TEST ON THE RTX A4000 PC
 Written 9 November 2026. Claude Code: read all of this, then carry it out from start to finish without asking,
