@@ -1,0 +1,61 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 26\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"frequent_urination\",\n            \"duration\": \"2_days\"\n        },\n        {\n            \"symptom\": \"frequent_urination\",\n            \"duration\": \"repeatedly\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\",\n        \"abdominal_pain\"\n    ],\n    \"findings\": [\n        \"not_pregnant\"\n    ],\n    \"allergies\": [\n        \"no_allergy\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Ciprofloxacin\",\n            \"strength\": \"500\",\n            \"dose\": \"twice_a_day\",\n            \"frequency\": \"for_3_days\",\n            \"duration\": \"3_days\",\n            \"instructions\": \"drink_more_water\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"no_drug_to_avoid\"\n    ],\n    \"investigations_ordered\": [\n        \"urine_test\"\n    ],\n    \"advice\": [\n        \"retest_in_3_days\"\n    ],\n    \"follow_up\": \"in_3_days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "frequent_urination",
+        "duration": "2_days"
+      },
+      {
+        "symptom": "frequent_urination",
+        "duration": "repeatedly"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "abdominal_pain"
+    ],
+    "findings": [
+      "not_pregnant"
+    ],
+    "allergies": [
+      "no_allergy"
+    ],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "twice_a_day",
+        "frequency": "for_3_days",
+        "duration": "3_days",
+        "instructions": "drink_more_water"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no_drug_to_avoid"
+    ],
+    "investigations_ordered": [
+      "urine_test"
+    ],
+    "advice": [
+      "retest_in_3_days"
+    ],
+    "follow_up": "in_3_days"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 102,
+    "prompt_ms": 63.694,
+    "prompt_per_token_ms": 0.6244509803921569,
+    "prompt_per_second": 1601.4067259082487,
+    "predicted_n": 269,
+    "predicted_ms": 4101.047,
+    "predicted_per_token_ms": 15.302414179104476,
+    "predicted_per_second": 65.34916571304841
+  }
+}

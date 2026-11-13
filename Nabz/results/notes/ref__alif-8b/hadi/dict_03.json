@@ -1,0 +1,61 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dast\",\n      \"duration\": \"raat\"\n    },\n    {\n      \"symptom\": \"dast\",\n      \"duration\": \"aath_nau_dafa\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar_nahi\"\n  ],\n  \"findings\": [\n    \"dast_mein_khoon_nahi_hai\"\n  ],\n  \"allergies\": [\n    \"doodh\",\n    \"tali_hui_cheezein\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl\",\n      \"strength\": \"400\",\n      \"dose\": \"dina\",\n      \"frequency\": \"teen_baar\",\n      \"duration\": \"paanch_din\",\n      \"instructions\": \"doodh_aur_tali_hui_cheezein_band\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"foran\"\n  ],\n  \"investigations_ordered\": [\n    \"peshab_kam_ho_jaye\"\n  ],\n  \"advice\": [\n    \"ORS_ka_ek_glass\"\n  ],\n  \"follow_up\": \"wapsa_aayein\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "dast",
+        "duration": "raat"
+      },
+      {
+        "symptom": "dast",
+        "duration": "aath_nau_dafa"
+      }
+    ],
+    "negatives": [
+      "bukhar_nahi"
+    ],
+    "findings": [
+      "dast_mein_khoon_nahi_hai"
+    ],
+    "allergies": [
+      "doodh",
+      "tali_hui_cheezein"
+    ],
+    "medications": [
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "dina",
+        "frequency": "teen_baar",
+        "duration": "paanch_din",
+        "instructions": "doodh_aur_tali_hui_cheezein_band"
+      }
+    ],
+    "drugs_to_avoid": [
+      "foran"
+    ],
+    "investigations_ordered": [
+      "peshab_kam_ho_jaye"
+    ],
+    "advice": [
+      "ORS_ka_ek_glass"
+    ],
+    "follow_up": "wapsa_aayein"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 121,
+    "prompt_ms": 64.687,
+    "prompt_per_token_ms": 0.5346033057851239,
+    "prompt_per_second": 1870.545859291666,
+    "predicted_n": 297,
+    "predicted_ms": 4376.551,
+    "predicted_per_token_ms": 14.78564527027027,
+    "predicted_per_second": 67.63316593363129
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 40\n    },\n    \"complaints\": [ \n        \t],\n    \"negatives\": [ \n        \t],\n    \"findings\": [ \n        \t],\n    \"allergies\": [ \n        \t],\n    \"medications\": [ \n        \t],\n    \"drugs_to_avoid\": [ \n        \t],\n    \"investigations_ordered\": [ \n        \t],\n    \"advice\": [ \n        \t],\n    \"follow_up\": \"BP one week later\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "BP one week later"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 80,
+    "prompt_ms": 37.918,
+    "prompt_per_token_ms": 0.473975,
+    "prompt_per_second": 2109.8159185611057,
+    "predicted_n": 134,
+    "predicted_ms": 2055.357,
+    "predicted_per_token_ms": 15.453812030075188,
+    "predicted_per_second": 64.70895323780735
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 136,
+    "prompt_ms": 67.099,
+    "prompt_per_token_ms": 0.493375,
+    "prompt_per_second": 2026.8558398783887,
+    "predicted_n": 129,
+    "predicted_ms": 1989.193,
+    "predicted_per_token_ms": 15.5405703125,
+    "predicted_per_second": 64.34770281214543
+  }
+}

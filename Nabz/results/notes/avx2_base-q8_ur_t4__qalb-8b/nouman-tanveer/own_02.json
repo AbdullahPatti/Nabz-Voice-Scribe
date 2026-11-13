@@ -1,0 +1,30 @@
+{
+  "transcript": "اپنے اپنے اپنے پڑھے سوڑھا اور اپنے اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n        \t],\n    \"negatives\": [ \n        \t],\n    \"findings\": [ \n        \t],\n    \"allergies\": [ \n        \t],\n    \"medications\": [ \n        \t],\n    \"drugs_to_avoid\": [ \n        \t],\n    \"investigations_ordered\": [ \n        \t],\n    \"advice\": [ \n        \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 217,
+    "prompt_ms": 89.314,
+    "prompt_per_token_ms": 0.41158525345622116,
+    "prompt_per_second": 2429.630293123139,
+    "predicted_n": 128,
+    "predicted_ms": 1961.382,
+    "predicted_per_token_ms": 15.443952755905512,
+    "predicted_per_second": 64.75026282488571
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"one week\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"one week\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no difficulty in breathing\"\n  ],\n  \"findings\": [\n    \"blood pressure: 140/90\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"one tablet\",\n      \"frequency\": \"per day\",\n      \"duration\": \"one week\",\n      \"instructions\": \"take after meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Lisinopril\"\n  ],\n  \"investigations_ordered\": [\n    \"repeat after one week\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"dietary advice\",\n    \"follow up\"\n  ],\n  \"follow_up\": \"one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "one week"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "one week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no difficulty in breathing"
+    ],
+    "findings": [
+      "blood pressure: 140/90"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "one tablet",
+        "frequency": "per day",
+        "duration": "one week",
+        "instructions": "take after meals"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Lisinopril"
+    ],
+    "investigations_ordered": [
+      "repeat after one week"
+    ],
+    "advice": [
+      "rest",
+      "dietary advice",
+      "follow up"
+    ],
+    "follow_up": "one week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 55,
+    "prompt_ms": 36.252,
+    "prompt_per_token_ms": 0.6591272727272728,
+    "prompt_per_second": 1517.157674059362,
+    "predicted_n": 276,
+    "predicted_ms": 3988.424,
+    "predicted_per_token_ms": 14.50336,
+    "predicted_per_second": 68.94953996866933
+  }
+}

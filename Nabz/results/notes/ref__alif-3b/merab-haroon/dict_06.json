@@ -1,0 +1,83 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 30}, \"complaints\": [{\"symptom\": \"pait ke upar jalan hoti hai\", \"duration\": \"khane ke baad zyada\"}], \"negatives\": [\"ulti nahi\", \"wazan kam nahi hua\", \"risek 20 subah khali pait\", \"do hafte\", \"raat ko Gaviscon ke do chamach\", \"Chai aur mirch kam karein\"],\"findings\": [\"pait ke upar jalan hoti hai\", \"khane ke baad zyada\", \"ulty nahi\", \"wazan kam nahi hua\", \"risek 20 subah khali pait\", \"do hafte\", \"raat ko Gaviscon ke do chamach\", \"Chai aur mirch kam karein\"],\"allergies\": [\"ulty nahi\", \"wazan kam nahi hua\", \"risek 20 subah khali pait\", \"do hafte\", \"raat ko Gaviscon ke do chamach\", \"Chai aur mirch kam karein\"],\"medications\": [{\"name\": \"Gaviscon\", \"strength\": \"do chamach\", \"dose\": \"raat ko\", \"frequency\": \"twice daily\", \"duration\": \"for 2 weeks\", \"instructions\": \"Chai aur mirch kam karein\"}], \"drugs_to_avoid\": [\"ulty nahi\", \"wazan kam nahi hua\", \"risek 20 subah khali pait\", \"do hafte\", \"raat ko Gaviscon ke do chamach\", \"Chai aur mirch kam karein\"],\"investigations_ordered\": [\"ulty nahi\", \"wazan kam nahi hua\", \"risek 20 subah khali pait\", \"do hafte\", \"raat ko Gaviscon ke do chamach\", \"Chai aur mirch kam karein\"],\"advice\": [\"Gaviscon 2 times daily for 2 weeks\"],\"follow_up\": \"do hafte\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pait ke upar jalan hoti hai",
+        "duration": "khane ke baad zyada"
+      }
+    ],
+    "negatives": [
+      "ulti nahi",
+      "wazan kam nahi hua",
+      "risek 20 subah khali pait",
+      "do hafte",
+      "raat ko Gaviscon ke do chamach",
+      "Chai aur mirch kam karein"
+    ],
+    "findings": [
+      "pait ke upar jalan hoti hai",
+      "khane ke baad zyada",
+      "ulty nahi",
+      "wazan kam nahi hua",
+      "risek 20 subah khali pait",
+      "do hafte",
+      "raat ko Gaviscon ke do chamach",
+      "Chai aur mirch kam karein"
+    ],
+    "allergies": [
+      "ulty nahi",
+      "wazan kam nahi hua",
+      "risek 20 subah khali pait",
+      "do hafte",
+      "raat ko Gaviscon ke do chamach",
+      "Chai aur mirch kam karein"
+    ],
+    "medications": [
+      {
+        "name": "Gaviscon",
+        "strength": "do chamach",
+        "dose": "raat ko",
+        "frequency": "twice daily",
+        "duration": "for 2 weeks",
+        "instructions": "Chai aur mirch kam karein"
+      }
+    ],
+    "drugs_to_avoid": [
+      "ulty nahi",
+      "wazan kam nahi hua",
+      "risek 20 subah khali pait",
+      "do hafte",
+      "raat ko Gaviscon ke do chamach",
+      "Chai aur mirch kam karein"
+    ],
+    "investigations_ordered": [
+      "ulty nahi",
+      "wazan kam nahi hua",
+      "risek 20 subah khali pait",
+      "do hafte",
+      "raat ko Gaviscon ke do chamach",
+      "Chai aur mirch kam karein"
+    ],
+    "advice": [
+      "Gaviscon 2 times daily for 2 weeks"
+    ],
+    "follow_up": "do hafte"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 102,
+    "prompt_ms": 42.032,
+    "prompt_per_token_ms": 0.41207843137254896,
+    "prompt_per_second": 2426.722497145033,
+    "predicted_n": 477,
+    "predicted_ms": 3915.344,
+    "predicted_per_token_ms": 8.225512605042017,
+    "predicted_per_second": 121.57297034436822
+  }
+}

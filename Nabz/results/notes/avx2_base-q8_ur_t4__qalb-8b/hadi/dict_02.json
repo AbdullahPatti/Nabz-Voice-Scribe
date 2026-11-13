@@ -1,0 +1,30 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 3\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 3
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 166,
+    "prompt_ms": 74.342,
+    "prompt_per_token_ms": 0.4478433734939759,
+    "prompt_per_second": 2232.9235156439163,
+    "predicted_n": 131,
+    "predicted_ms": 2041.307,
+    "predicted_per_token_ms": 15.702361538461538,
+    "predicted_per_second": 63.68468829039434
+  }
+}

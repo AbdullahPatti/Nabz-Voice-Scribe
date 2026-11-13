@@ -1,0 +1,57 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 55\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"high_blood_pressure\",\n            \"duration\": \"long_term\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\",\n        \"nausea\"\n    ],\n    \"findings\": [\n        \"hypertension\"\n    ],\n    \"allergies\": [\n        \"allergy_to_aspirin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Amlodipine\",\n            \"strength\": \"10mg\",\n            \"dose\": \"once_a_day\",\n            \"frequency\": \"daily\",\n            \"duration\": \"long_term\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"aspirin\"\n    ],\n    \"investigations_ordered\": [\n        \"blood_test\"\n    ],\n    \"advice\": [\n        \"Take medicine as prescribed\"\n    ],\n    \"follow_up\": \"Check BP after 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "high_blood_pressure",
+        "duration": "long_term"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea"
+    ],
+    "findings": [
+      "hypertension"
+    ],
+    "allergies": [
+      "allergy_to_aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "strength": "10mg",
+        "dose": "once_a_day",
+        "frequency": "daily",
+        "duration": "long_term",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "aspirin"
+    ],
+    "investigations_ordered": [
+      "blood_test"
+    ],
+    "advice": [
+      "Take medicine as prescribed"
+    ],
+    "follow_up": "Check BP after 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 119,
+    "prompt_ms": 71.811,
+    "prompt_per_token_ms": 0.6034537815126051,
+    "prompt_per_second": 1657.1277380902645,
+    "predicted_n": 236,
+    "predicted_ms": 3666.4,
+    "predicted_per_token_ms": 15.601702127659575,
+    "predicted_per_second": 64.09557058695178
+  }
+}

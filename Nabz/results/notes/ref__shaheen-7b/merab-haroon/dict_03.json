@@ -1,0 +1,60 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"since last night\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"4 times\"\n    }\n  ],\n  \"negatives\": [\n    \"blood in stool\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"dehydrated\",\n    \"oral rehydration solution (ORS) taken\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Flagyl 400\",\n      \"strength\": \"400\",\n      \"dose\": \"3 times a day for 5 days\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"milk\",\n    \"stale food\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"if symptoms improve, return in 5 days\",\n    \"if symptoms worsen, return immediately\"\n  ],\n  \"follow_up\": \"5 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "dizziness",
+        "duration": "since last night"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "4 times"
+      }
+    ],
+    "negatives": [
+      "blood in stool",
+      "fever"
+    ],
+    "findings": [
+      "dehydrated",
+      "oral rehydration solution (ORS) taken"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Flagyl 400",
+        "strength": "400",
+        "dose": "3 times a day for 5 days",
+        "frequency": "as needed",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "milk",
+      "stale food"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "if symptoms improve, return in 5 days",
+      "if symptoms worsen, return immediately"
+    ],
+    "follow_up": "5 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 116,
+    "prompt_ms": 55.173,
+    "prompt_per_token_ms": 0.4756293103448276,
+    "prompt_per_second": 2102.47766117485,
+    "predicted_n": 273,
+    "predicted_ms": 3983.697,
+    "predicted_per_token_ms": 14.645944852941177,
+    "predicted_per_second": 68.27828522098945
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"3 days\"\n        },\n        {\n            \"symptom\": \"dizziness\",\n            \"duration\": \"3 days\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\",\n        \"nausea\"\n    ],\n    \"findings\": [\n        \"palpitations\",\n        \"heart_rate_150\"\n    ],\n    \"allergies\": [\n        \"aspirin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Paracetamol\",\n            \"strength\": null,\n            \"dose\": \"3 tablets every 4 hours\",\n            \"frequency\": \"3 times a day\",\n            \"duration\": \"3 days\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Ibuprofen\",\n        \"Aspirin\"\n    ],\n    \"investigations_ordered\": [\n        \"Blood test\"\n    ],\n    \"advice\": [\n        \"Rest in bed\"\n    ],\n    \"follow_up\": \"In 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea"
+    ],
+    "findings": [
+      "palpitations",
+      "heart_rate_150"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "3 tablets every 4 hours",
+        "frequency": "3 times a day",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ibuprofen",
+      "Aspirin"
+    ],
+    "investigations_ordered": [
+      "Blood test"
+    ],
+    "advice": [
+      "Rest in bed"
+    ],
+    "follow_up": "In 2 days"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 166,
+    "prompt_ms": 75.538,
+    "prompt_per_token_ms": 0.4550481927710843,
+    "prompt_per_second": 2197.569435251132,
+    "predicted_n": 270,
+    "predicted_ms": 4181.175,
+    "predicted_per_token_ms": 15.543401486988849,
+    "predicted_per_second": 64.33598211029197
+  }
+}

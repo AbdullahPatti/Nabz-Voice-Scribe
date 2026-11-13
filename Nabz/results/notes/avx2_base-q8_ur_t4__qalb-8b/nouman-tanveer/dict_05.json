@@ -1,0 +1,30 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 50\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 165,
+    "prompt_ms": 75.453,
+    "prompt_per_token_ms": 0.4572909090909091,
+    "prompt_per_second": 2186.791777662916,
+    "predicted_n": 120,
+    "predicted_ms": 1843.338,
+    "predicted_per_token_ms": 15.490235294117646,
+    "predicted_per_second": 64.55679859038331
+  }
+}

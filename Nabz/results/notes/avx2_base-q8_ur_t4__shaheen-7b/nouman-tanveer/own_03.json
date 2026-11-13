@@ -1,0 +1,68 @@
+{
+  "transcript": "ویمان ویمان ویمان ویمان ویمان ویمان",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"tachycardia\",\n    \"tachypnea\",\n    \"rhonchi\",\n    \"tenderness on palpation of throat\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"six two five\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"every 12 hours\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"ibuprofen\",\n    \"paracetamol\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"warm salt water gargles\",\n    \"avoid ibuprofen and paracetamol\"\n  ],\n  \"follow_up\": \"in 5 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "tachycardia",
+      "tachypnea",
+      "rhonchi",
+      "tenderness on palpation of throat"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "six two five",
+        "dose": "twice daily",
+        "frequency": "every 12 hours",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "ibuprofen",
+      "paracetamol"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids",
+      "warm salt water gargles",
+      "avoid ibuprofen and paracetamol"
+    ],
+    "follow_up": "in 5 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 23,
+    "prompt_ms": 24.195,
+    "prompt_per_token_ms": 1.0519565217391305,
+    "prompt_per_second": 950.6096300888613,
+    "predicted_n": 322,
+    "predicted_ms": 4615.662,
+    "predicted_per_token_ms": 14.379009345794394,
+    "predicted_per_second": 69.54582029620019
+  }
+}

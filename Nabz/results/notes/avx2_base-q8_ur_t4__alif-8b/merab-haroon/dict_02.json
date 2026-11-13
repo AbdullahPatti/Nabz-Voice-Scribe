@@ -1,0 +1,60 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"جسم میں درد\",\n            \"duration\": \"3 دن\"\n        },\n        {\n            \"symptom\": \"آنکھوں کے پیچھے درد\",\n            \"duration\": null\n        }\n    ],\n    \"negatives\": [\n        \"بخار نہیں ہے\"\n    ],\n    \"findings\": [\n        \"لیٹلیرس ٹائنٹی فائف ٹاؤزن\"\n    ],\n    \"allergies\": [\n        \"سیراف\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"پیناڈول\",\n            \"strength\": \"2 گولی\",\n            \"dose\": \"دن میں 3 بار\",\n            \"frequency\": \"دن میں 3 بار\",\n            \"duration\": \"مستقل\",\n            \"instructions\": \"دوائی لینے کے بعد درد ختم ہو گیا\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"بروفل\"\n    ],\n    \"investigations_ordered\": [\n        \"ڈسپرن\"\n    ],\n    \"advice\": [\n        \"پانی زیادہ پینا بند کریں\"\n    ],\n    \"follow_up\": \"کل دوبارہ کروانہ\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "جسم میں درد",
+        "duration": "3 دن"
+      },
+      {
+        "symptom": "آنکھوں کے پیچھے درد",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "بخار نہیں ہے"
+    ],
+    "findings": [
+      "لیٹلیرس ٹائنٹی فائف ٹاؤزن"
+    ],
+    "allergies": [
+      "سیراف"
+    ],
+    "medications": [
+      {
+        "name": "پیناڈول",
+        "strength": "2 گولی",
+        "dose": "دن میں 3 بار",
+        "frequency": "دن میں 3 بار",
+        "duration": "مستقل",
+        "instructions": "دوائی لینے کے بعد درد ختم ہو گیا"
+      }
+    ],
+    "drugs_to_avoid": [
+      "بروفل"
+    ],
+    "investigations_ordered": [
+      "ڈسپرن"
+    ],
+    "advice": [
+      "پانی زیادہ پینا بند کریں"
+    ],
+    "follow_up": "کل دوبارہ کروانہ"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 179,
+    "prompt_ms": 76.984,
+    "prompt_per_token_ms": 0.43007821229050275,
+    "prompt_per_second": 2325.1584744882057,
+    "predicted_n": 351,
+    "predicted_ms": 5418.785,
+    "predicted_per_token_ms": 15.482242857142857,
+    "predicted_per_second": 64.59012490807442
+  }
+}

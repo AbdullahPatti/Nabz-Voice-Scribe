@@ -1,0 +1,30 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 30\n    },\n    \"complaints\": [ \n        \t],\n    \"negatives\": [ \n        \t],\n    \"findings\": [ \n        \t],\n    \"allergies\": [ \n        \t],\n    \"medications\": [ \n        \t],\n    \"drugs_to_avoid\": [ \n        \t],\n    \"investigations_ordered\": [ \n        \t],\n    \"advice\": [ \n        \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 129,
+    "prompt_ms": 67.537,
+    "prompt_per_token_ms": 0.5235426356589148,
+    "prompt_per_second": 1910.0641130047231,
+    "predicted_n": 131,
+    "predicted_ms": 2079.182,
+    "predicted_per_token_ms": 15.99370769230769,
+    "predicted_per_second": 62.52458899701903
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"yellow sputum\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"light wheezing\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no shortness of breath\",\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"hearing loss in one ear\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"5 days\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    },\n    {\n      \"name\": \"cough syrup\",\n      \"strength\": \"15 ml\",\n      \"dose\": \"3 times daily\",\n      \"frequency\": \"3 days\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"cigarettes\"\n  ],\n  \"investigations_ordered\": [\n    \"chest X-ray\"\n  ],\n  \"advice\": [\n    \"stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "light wheezing",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no shortness of breath",
+      "no fever"
+    ],
+    "findings": [
+      "hearing loss in one ear"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "cough syrup",
+        "strength": "15 ml",
+        "dose": "3 times daily",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "cigarettes"
+    ],
+    "investigations_ordered": [
+      "chest X-ray"
+    ],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 335,
+    "prompt_n": 1,
+    "prompt_ms": 15.012,
+    "prompt_per_token_ms": 15.012,
+    "prompt_per_second": 66.61337596589395,
+    "predicted_n": 327,
+    "predicted_ms": 4699.029,
+    "predicted_per_token_ms": 14.41419938650307,
+    "predicted_per_second": 69.37603492125713
+  }
+}

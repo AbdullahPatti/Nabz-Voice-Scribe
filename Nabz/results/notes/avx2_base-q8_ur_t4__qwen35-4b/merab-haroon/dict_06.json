@@ -1,0 +1,50 @@
+{
+  "transcript": "ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"joint pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"loss of appetite\", \"duration\": \"3 days\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "joint pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 97.451,
+    "prompt_per_token_ms": 0.9461262135922329,
+    "prompt_per_second": 1056.9414372351234,
+    "predicted_n": 186,
+    "predicted_ms": 2327.621,
+    "predicted_per_token_ms": 12.581735135135135,
+    "predicted_per_second": 79.4802933982809
+  }
+}

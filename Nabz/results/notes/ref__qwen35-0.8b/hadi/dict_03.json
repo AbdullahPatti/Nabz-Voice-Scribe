@@ -1,0 +1,88 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dust\",\n      \"duration\": \"nightly\"\n    },\n    {\n      \"symptom\": \"blood\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"water\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"ORs\",\n      \"duration\": \"once per glass\"\n    },\n    {\n      \"symptom\": \"flagyl\",\n      \"duration\": \"400 days\"\n    },\n    {\n      \"symptom\": \"paanch\",\n      \"duration\": \"40 days\"\n    },\n    {\n      \"symptom\": \"doodh\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"tali\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"band\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"foran\",\n      \"duration\": \"none\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"blood\",\n    \"water\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid dust\",\n    \"avoid blood\",\n    \"avoid water\",\n    \"avoid ORs\",\n    \"avoid flagyl\",\n    \"avoid paanch\",\n    \"avoid doodh\",\n    \"avoid tali\",\n    \"avoid band\",\n    \"avoid foran\"\n  ],\n  \"follow_up\": \"next day\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "dust",
+        "duration": "nightly"
+      },
+      {
+        "symptom": "blood",
+        "duration": "none"
+      },
+      {
+        "symptom": "water",
+        "duration": "none"
+      },
+      {
+        "symptom": "ORs",
+        "duration": "once per glass"
+      },
+      {
+        "symptom": "flagyl",
+        "duration": "400 days"
+      },
+      {
+        "symptom": "paanch",
+        "duration": "40 days"
+      },
+      {
+        "symptom": "doodh",
+        "duration": "none"
+      },
+      {
+        "symptom": "tali",
+        "duration": "none"
+      },
+      {
+        "symptom": "band",
+        "duration": "none"
+      },
+      {
+        "symptom": "foran",
+        "duration": "none"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "blood",
+      "water"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid dust",
+      "avoid blood",
+      "avoid water",
+      "avoid ORs",
+      "avoid flagyl",
+      "avoid paanch",
+      "avoid doodh",
+      "avoid tali",
+      "avoid band",
+      "avoid foran"
+    ],
+    "follow_up": "next day"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 31.935,
+    "prompt_per_token_ms": 0.2596341463414634,
+    "prompt_per_second": 3851.5735086895256,
+    "predicted_n": 455,
+    "predicted_ms": 1977.882,
+    "predicted_per_token_ms": 4.356568281938326,
+    "predicted_per_second": 229.53846589432533
+  }
+}

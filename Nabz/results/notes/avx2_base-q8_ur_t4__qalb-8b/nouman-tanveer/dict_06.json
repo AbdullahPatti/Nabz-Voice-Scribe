@@ -1,0 +1,30 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 35\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 146,
+    "prompt_ms": 69.136,
+    "prompt_per_token_ms": 0.47353424657534243,
+    "prompt_per_second": 2111.779680629484,
+    "predicted_n": 128,
+    "predicted_ms": 1948.548,
+    "predicted_per_token_ms": 15.342897637795275,
+    "predicted_per_second": 65.17673672909264
+  }
+}

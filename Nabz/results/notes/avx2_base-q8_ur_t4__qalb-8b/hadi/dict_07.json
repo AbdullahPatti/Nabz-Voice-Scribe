@@ -1,0 +1,30 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 41\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 41
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 161,
+    "prompt_ms": 77.36,
+    "prompt_per_token_ms": 0.48049689440993787,
+    "prompt_per_second": 2081.178903826267,
+    "predicted_n": 129,
+    "predicted_ms": 2004.418,
+    "predicted_per_token_ms": 15.659515625,
+    "predicted_per_second": 63.858935611234784
+  }
+}

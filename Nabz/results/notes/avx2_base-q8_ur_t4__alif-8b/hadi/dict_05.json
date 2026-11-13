@@ -1,0 +1,57 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 50\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"high_blood_sugar\",\n            \"duration\": \"chronic\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\",\n        \"headache\"\n    ],\n    \"findings\": [\n        \"no_swelling_in_feet\"\n    ],\n    \"allergies\": [\n        \"no_allergy\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"GlucoPhage\",\n            \"strength\": \"100mg\",\n            \"dose\": \"twice_a_day\",\n            \"frequency\": \"before_meals\",\n            \"duration\": \"ongoing\",\n            \"instructions\": \"Take 2 pills\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Plukofage\"\n    ],\n    \"investigations_ordered\": [\n        \"HbA1c_test\"\n    ],\n    \"advice\": [\n        \"No restrictions\"\n    ],\n    \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "high_blood_sugar",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "headache"
+    ],
+    "findings": [
+      "no_swelling_in_feet"
+    ],
+    "allergies": [
+      "no_allergy"
+    ],
+    "medications": [
+      {
+        "name": "GlucoPhage",
+        "strength": "100mg",
+        "dose": "twice_a_day",
+        "frequency": "before_meals",
+        "duration": "ongoing",
+        "instructions": "Take 2 pills"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Plukofage"
+    ],
+    "investigations_ordered": [
+      "HbA1c_test"
+    ],
+    "advice": [
+      "No restrictions"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 169,
+    "prompt_ms": 95.82,
+    "prompt_per_token_ms": 0.56698224852071,
+    "prompt_per_second": 1763.7236485076187,
+    "predicted_n": 247,
+    "predicted_ms": 3845.519,
+    "predicted_per_token_ms": 15.632191056910568,
+    "predicted_per_second": 63.97055898046532
+  }
+}

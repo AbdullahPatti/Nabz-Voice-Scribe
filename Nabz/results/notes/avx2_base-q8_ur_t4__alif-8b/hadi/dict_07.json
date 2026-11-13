@@ -1,0 +1,62 @@
+{
+  "transcript": "مرت پنتالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائیتر پو آدہ رہی ہے اب مینڈن چھے سو پڑچش دین میں دو بار پانچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سیڑٹ کرو آلیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"Shortness of breath\",\n            \"duration\": \"1 week\"\n        },\n        {\n            \"symptom\": \"Chest pain\",\n            \"duration\": \"1 hour\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\",\n        \"cough\"\n    ],\n    \"findings\": [\n        \"Chest X-ray: normal\"\n    ],\n    \"allergies\": [\n        \"Penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Aspirin\",\n            \"strength\": \"325 mg\",\n            \"dose\": \"1 tablet 3 times a day\",\n            \"frequency\": \"3 times a day\",\n            \"duration\": \"1 week\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Penicillin\"\n    ],\n    \"investigations_ordered\": [\n        \"ECG\"\n    ],\n    \"advice\": [\n        \"Rest\",\n        \"No smoking\"\n    ],\n    \"follow_up\": \"In 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "Shortness of breath",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "Chest pain",
+        "duration": "1 hour"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough"
+    ],
+    "findings": [
+      "Chest X-ray: normal"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Aspirin",
+        "strength": "325 mg",
+        "dose": "1 tablet 3 times a day",
+        "frequency": "3 times a day",
+        "duration": "1 week",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [
+      "ECG"
+    ],
+    "advice": [
+      "Rest",
+      "No smoking"
+    ],
+    "follow_up": "In 1 week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 161,
+    "prompt_ms": 94.624,
+    "prompt_per_token_ms": 0.5877267080745341,
+    "prompt_per_second": 1701.471085559689,
+    "predicted_n": 272,
+    "predicted_ms": 4176.571,
+    "predicted_per_token_ms": 15.41170110701107,
+    "predicted_per_second": 64.88576394367533
+  }
+}

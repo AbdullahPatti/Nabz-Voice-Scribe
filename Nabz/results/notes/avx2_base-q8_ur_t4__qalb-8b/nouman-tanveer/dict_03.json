@@ -1,0 +1,30 @@
+{
+  "transcript": "مرضہ چاریس آر کال رات سے 10 تلکہ ہیں 8 نو دفا ہو چکے ہیں 10 تلکہ ہون نہیں ہیں جس میں تھوڑا تھوڑی پانی کی کمی ہیں ہر 10 کے بات اور از کا ایک گلاثت فلجل 400 دین میں 3 بار 5 دین دوڑ ہوڑ تلی ہوئی چیزے بان اگر پیشہ آپ کام ہو جائے تو فورن باکس اپنے\nاگئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 10\n    },\n    \"complaints\": [ \n         ],\n    \"negatives\": [ \n         ],\n    \"findings\": [ \n         ],\n    \"allergies\": [ \n         ],\n    \"medications\": [ \n         ],\n    \"drugs_to_avoid\": [ \n         ],\n    \"investigations_ordered\": [ \n         ],\n    \"advice\": [ \n         ],\n    \"follow_up\": \"10/08/2019\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 10
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "10/08/2019"
+  },
+  "timings": {
+    "cache_n": 242,
+    "prompt_n": 189,
+    "prompt_ms": 78.557,
+    "prompt_per_token_ms": 0.41564550264550265,
+    "prompt_per_second": 2405.896355512558,
+    "predicted_n": 139,
+    "predicted_ms": 2204.72,
+    "predicted_per_token_ms": 15.97623188405797,
+    "predicted_per_second": 62.59298232882181
+  }
+}

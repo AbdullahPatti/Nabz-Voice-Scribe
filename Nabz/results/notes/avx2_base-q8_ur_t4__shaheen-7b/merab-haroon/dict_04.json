@@ -1,0 +1,74 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"years\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"years\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"years\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"5 nights\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no dizziness\"\n  ],\n  \"findings\": [\n    \"headache\",\n    \"dizziness\",\n    \"nausea\",\n    \"vomiting\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Nurovic\",\n      \"strength\": \"5\",\n      \"dose\": \"nightly\",\n      \"frequency\": \"5 nights\",\n      \"duration\": \"5 nights\",\n      \"instructions\": \"take as needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"no specific drugs mentioned\"\n  ],\n  \"investigations_ordered\": [\n    \"no investigations mentioned\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"follow up in 2 weeks\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "years"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "years"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "years"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "5 nights"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no dizziness"
+    ],
+    "findings": [
+      "headache",
+      "dizziness",
+      "nausea",
+      "vomiting"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Nurovic",
+        "strength": "5",
+        "dose": "nightly",
+        "frequency": "5 nights",
+        "duration": "5 nights",
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no specific drugs mentioned"
+    ],
+    "investigations_ordered": [
+      "no investigations mentioned"
+    ],
+    "advice": [
+      "reduce salt intake",
+      "follow up in 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 138,
+    "prompt_ms": 66.153,
+    "prompt_per_token_ms": 0.4793695652173913,
+    "prompt_per_second": 2086.0731939594575,
+    "predicted_n": 316,
+    "predicted_ms": 4565.218,
+    "predicted_per_token_ms": 14.492755555555554,
+    "predicted_per_second": 68.99999080000123
+  }
+}

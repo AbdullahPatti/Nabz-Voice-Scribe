@@ -1,0 +1,16 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 40}, \"complaints\": [{\"symptom\": \"dast lage hain\", \"duration\": \"raat se\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"dast mein khoon nahi hai\", \"jism mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"foran wapas aayein\"],\"findings\": [\"thori paani ki kami hai\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein thori paani ki kami hai\", \"dast ke baad ORS ka ek glass\", \"dast lage hain\", \"aath nau dafa ho chuke hain\", \"dast mein th",
+  "note": null,
+  "timings": {
+    "cache_n": 361,
+    "prompt_n": 1,
+    "prompt_ms": 23.12,
+    "prompt_per_token_ms": 23.12,
+    "prompt_per_second": 43.25259515570934,
+    "predicted_n": 800,
+    "predicted_ms": 6081.911,
+    "predicted_per_token_ms": 7.611903629536921,
+    "predicted_per_second": 131.37318188312852
+  }
+}

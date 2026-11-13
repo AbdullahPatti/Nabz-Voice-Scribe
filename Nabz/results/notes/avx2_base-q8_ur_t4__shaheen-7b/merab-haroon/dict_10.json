@@ -1,0 +1,57 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 23\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"itching\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no pain\"\n  ],\n  \"findings\": [\n    \"vaginal discharge\",\n    \"cervical erosion\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"for 7 days\",\n      \"duration\": \"7 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Penicillin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid penicillin\",\n    \"return in one week\"\n  ],\n  \"follow_up\": \"one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 23
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no pain"
+    ],
+    "findings": [
+      "vaginal discharge",
+      "cervical erosion"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "once daily",
+        "frequency": "for 7 days",
+        "duration": "7 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid penicillin",
+      "return in one week"
+    ],
+    "follow_up": "one week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 137,
+    "prompt_ms": 64.699,
+    "prompt_per_token_ms": 0.4722554744525547,
+    "prompt_per_second": 2117.4979520549005,
+    "predicted_n": 238,
+    "predicted_ms": 3506.08,
+    "predicted_per_token_ms": 14.793586497890296,
+    "predicted_per_second": 67.59686031123077
+  }
+}

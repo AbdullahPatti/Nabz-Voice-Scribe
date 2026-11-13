@@ -1,0 +1,16 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high blood pressure\",\n      \"duration\": \"today\"\n    }\n  ],\n  \"negatives\": [\n    \"headache\",\n    \"dizziness\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nausea\",\n    \"nause",
+  "note": null,
+  "timings": {
+    "cache_n": 235,
+    "prompt_n": 89,
+    "prompt_ms": 43.705,
+    "prompt_per_token_ms": 0.4910674157303371,
+    "prompt_per_second": 2036.3802768561952,
+    "predicted_n": 800,
+    "predicted_ms": 10996.534,
+    "predicted_per_token_ms": 13.762871088861075,
+    "predicted_per_second": 72.65925790799174
+  }
+}

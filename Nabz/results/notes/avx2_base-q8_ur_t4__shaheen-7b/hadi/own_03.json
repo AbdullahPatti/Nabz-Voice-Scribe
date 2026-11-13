@@ -1,0 +1,57 @@
+{
+  "transcript": "او رہت پنتالیس سال شام کے ٹیم ایٹے کے کفتے سے بیپی 140/90 ایسیٹ میں کوئی مسرہ نہیں ہی او نو علٹی اینا دول جب ضرورت پڑے اور نمگ کام کائیں بیپی ایک کفتے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high blood pressure\",\n      \"duration\": \"140/90 mmHg\"\n    }\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no dizziness\"\n  ],\n  \"findings\": [\n    \"no edema\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Amlodipine\",\n      \"strength\": \"10 mg\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"when required\",\n      \"instructions\": \"check blood pressure one hour after taking\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"no specific drugs mentioned\"\n  ],\n  \"investigations_ordered\": [\n    \"no specific investigations mentioned\"\n  ],\n  \"advice\": [\n    \"follow up in one week\"\n  ],\n  \"follow_up\": \"one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "high blood pressure",
+        "duration": "140/90 mmHg"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no dizziness"
+    ],
+    "findings": [
+      "no edema"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "strength": "10 mg",
+        "dose": "once daily",
+        "frequency": "as needed",
+        "duration": "when required",
+        "instructions": "check blood pressure one hour after taking"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no specific drugs mentioned"
+    ],
+    "investigations_ordered": [
+      "no specific investigations mentioned"
+    ],
+    "advice": [
+      "follow up in one week"
+    ],
+    "follow_up": "one week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 121,
+    "prompt_ms": 55.027,
+    "prompt_per_token_ms": 0.45476859504132233,
+    "prompt_per_second": 2198.920529921675,
+    "predicted_n": 244,
+    "predicted_ms": 3516.015,
+    "predicted_per_token_ms": 14.469197530864196,
+    "predicted_per_second": 69.11233313851051
+  }
+}

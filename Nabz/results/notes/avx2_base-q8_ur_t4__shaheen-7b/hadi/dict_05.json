@@ -1,0 +1,74 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"high blood sugar\",\n      \"duration\": \"since 50 years\"\n    },\n    {\n      \"symptom\": \"polyuria\",\n      \"duration\": \"since 50 years\"\n    },\n    {\n      \"symptom\": \"polydipsia\",\n      \"duration\": \"since 50 years\"\n    },\n    {\n      \"symptom\": \"polyphagia\",\n      \"duration\": \"since 50 years\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"fasting blood sugar: 100 mg/dL\",\n    \"postprandial blood sugar: 180 mg/dL\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"250 mg\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"as prescribed\",\n      \"duration\": \"as prescribed\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Glucophage\",\n    \"Glucophage\",\n    \"Glucophage\"\n  ],\n  \"investigations_ordered\": [\n    \"HbA1c\",\n    \"urinalysis\"\n  ],\n  \"advice\": [\n    \"diet and exercise\",\n    \"follow-up in 1 month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "high blood sugar",
+        "duration": "since 50 years"
+      },
+      {
+        "symptom": "polyuria",
+        "duration": "since 50 years"
+      },
+      {
+        "symptom": "polydipsia",
+        "duration": "since 50 years"
+      },
+      {
+        "symptom": "polyphagia",
+        "duration": "since 50 years"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no weight loss"
+    ],
+    "findings": [
+      "fasting blood sugar: 100 mg/dL",
+      "postprandial blood sugar: 180 mg/dL"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "250 mg",
+        "dose": "twice daily",
+        "frequency": "as prescribed",
+        "duration": "as prescribed",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Glucophage",
+      "Glucophage",
+      "Glucophage"
+    ],
+    "investigations_ordered": [
+      "HbA1c",
+      "urinalysis"
+    ],
+    "advice": [
+      "diet and exercise",
+      "follow-up in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 169,
+    "prompt_ms": 74.961,
+    "prompt_per_token_ms": 0.44355621301775144,
+    "prompt_per_second": 2254.5056762850018,
+    "predicted_n": 362,
+    "predicted_ms": 5171.497,
+    "predicted_per_token_ms": 14.32547645429363,
+    "predicted_per_second": 69.80570616206487
+  }
+}

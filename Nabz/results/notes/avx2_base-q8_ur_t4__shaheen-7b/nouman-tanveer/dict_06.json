@@ -1,0 +1,45 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"occasional\"\n    }\n  ],\n  \"negatives\": [\n    \"no weight loss\",\n    \"no eye surgery\"\n  ],\n  \"findings\": [\n    \"2 cups of tea\",\n    \"2 spoons of sugar\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce tea and sugar\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "occasional"
+      }
+    ],
+    "negatives": [
+      "no weight loss",
+      "no eye surgery"
+    ],
+    "findings": [
+      "2 cups of tea",
+      "2 spoons of sugar"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce tea and sugar"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 138,
+    "prompt_ms": 61.336,
+    "prompt_per_token_ms": 0.444463768115942,
+    "prompt_per_second": 2249.902178166167,
+    "predicted_n": 165,
+    "predicted_ms": 2422.323,
+    "predicted_per_token_ms": 14.770262195121951,
+    "predicted_per_second": 67.70360517569293
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 45}, \"complaints\": [{\"symptom\": \"khansi\", \"duration\": \"ek hafte\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"saans phoolta nahi\"],\"findings\": [\"peela balgham\", \"halka bukhar\", \"seene ki daayin taraf awaaz aa rahi hai\", \"cigarette band karni hai\", \"chest x-ray karwa lein\"],\"allergies\": [\"na\"],\"medications\": [{\"name\": \"Augmentin 625\", \"strength\": \"625\", \"dose\": \"din mein do baar\", \"frequency\": \"paanch din\", \"duration\": \"din mein teen baar\", \"instructions\": \"khansi ka syrup\"}], \"drugs_to_avoid\": [\"na\"],\"investigations_ordered\": [\"na\"],\"advice\": [\"cigarette band karni hai\"],\"follow_up\": \"ek week\"}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "khansi",
+        "duration": "ek hafte"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi",
+      "saans phoolta nahi"
+    ],
+    "findings": [
+      "peela balgham",
+      "halka bukhar",
+      "seene ki daayin taraf awaaz aa rahi hai",
+      "cigarette band karni hai",
+      "chest x-ray karwa lein"
+    ],
+    "allergies": [
+      "na"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "din mein do baar",
+        "frequency": "paanch din",
+        "duration": "din mein teen baar",
+        "instructions": "khansi ka syrup"
+      }
+    ],
+    "drugs_to_avoid": [
+      "na"
+    ],
+    "investigations_ordered": [
+      "na"
+    ],
+    "advice": [
+      "cigarette band karni hai"
+    ],
+    "follow_up": "ek week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 109,
+    "prompt_ms": 40.039,
+    "prompt_per_token_ms": 0.3673302752293578,
+    "prompt_per_second": 2722.345712929893,
+    "predicted_n": 232,
+    "predicted_ms": 1982.968,
+    "predicted_per_token_ms": 8.584277056277056,
+    "predicted_per_second": 116.49204626600125
+  }
+}

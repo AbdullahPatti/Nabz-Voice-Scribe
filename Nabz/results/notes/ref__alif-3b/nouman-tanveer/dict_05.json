@@ -1,0 +1,16 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 50}, \"complaints\": [], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"sugar ka purana mareez\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar ka nahi\", \"sugar",
+  "note": null,
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 98,
+    "prompt_ms": 39.551,
+    "prompt_per_token_ms": 0.40358163265306124,
+    "prompt_per_second": 2477.813456044095,
+    "predicted_n": 800,
+    "predicted_ms": 6026.035,
+    "predicted_per_token_ms": 7.541971214017522,
+    "predicted_per_second": 132.59133078384045
+  }
+}

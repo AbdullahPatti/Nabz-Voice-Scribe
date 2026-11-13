@@ -1,0 +1,66 @@
+{
+  "transcript": "ہاتھون تیسہ پیٹھوں پڑھ جلے نوطیاں کھانے کے بات زیادہ کندی ہے کھٹے دی کاروں دے نے ڈکی نہیں وزن کم نہیں ہوا حرائیزک بی سبہ حالی پیٹھ دوبتے رات کو گیبز کون کے دوچھ مجھ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"abdominal_pain\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"weight_not_changed\",\n    \"loss_of_appetite\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": null,\n      \"dose\": \"3 tablets daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"chronic\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [\n    \"ultrasound\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal_pain",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "weight_not_changed",
+      "loss_of_appetite"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "3 tablets daily",
+        "frequency": "daily",
+        "duration": "chronic",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "ultrasound"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 141,
+    "prompt_ms": 82.461,
+    "prompt_per_token_ms": 0.5848297872340426,
+    "prompt_per_second": 1709.8992250882234,
+    "predicted_n": 277,
+    "predicted_ms": 4244.012,
+    "predicted_per_token_ms": 15.376855072463767,
+    "predicted_per_second": 65.03280386577607
+  }
+}

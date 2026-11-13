@@ -1,0 +1,30 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 138,
+    "prompt_ms": 71.017,
+    "prompt_per_token_ms": 0.5146159420289855,
+    "prompt_per_second": 1943.1966993818382,
+    "predicted_n": 128,
+    "predicted_ms": 1967.683,
+    "predicted_per_token_ms": 15.493566929133857,
+    "predicted_per_second": 64.54291671981716
+  }
+}

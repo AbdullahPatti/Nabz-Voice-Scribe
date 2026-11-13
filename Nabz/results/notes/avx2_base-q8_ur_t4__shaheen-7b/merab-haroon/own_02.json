@@ -1,0 +1,16 @@
+{
+  "transcript": "انہیں 30 سورٹورکہ پر کچھ دوڑیس میں پر کچھ کچھ پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"23 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"23 days\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"23 days\"\n    },\n    {\n      \"symptom\": \"runny nose\",\n      \"duration\": \"23 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"23 days\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"23 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no rash\",\n    \"no joint pain\",\n    \"no ear pain\",\n    \"no eye pain\",\n    \"no nosebleeds\",\n    \"no bleeding gums\",\n    \"no blood in urine\",\n    \"no blood in stool\",\n    \"no jaundice\",\n    \"no weight loss\",\n    \"no fever\",\n    \"no cough\",\n    \"no sore throat\",\n    \"no runny nose\",\n    \"no headache\",\n    \"no fatigue\"\n  ],\n  \"findings\": [\n    \"no abnormalities\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"3 times a day\",\n      \"frequency\": \"every 8 hours\",\n      \"duration\": \"10 days\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Amoxicillin 500\",\n    \"Amoxicillin 375\",\n    \"Amoxicillin 250\",\n    \"Amoxicillin 125\",\n    \"Amoxicillin 625\",\n    \"Amoxicillin 875\",\n    \"Amoxicillin 1000\",\n    \"Amoxicillin 1250\",\n    \"Amoxicillin 1500\",\n    \"Amoxicillin 1875\",\n    \"Amoxicillin 2000\",\n    \"Amoxicillin 2250\",\n    \"Amoxicillin 2500\",\n    \"Amoxicillin 2750\",\n    \"Amoxicillin 3000\",\n    \"Amoxicillin 3250\",\n    \"Amoxicillin 3500\",\n    \"Amoxicillin 3750\",\n    \"Amoxicillin 4000\",\n    \"Amoxicillin 4250\",\n    \"Amoxicillin 4500\",\n    \"Amoxicillin 4750\",\n    \"Amoxicillin 5000\",\n    \"Amoxicillin 5250\",\n    \"Amoxicillin 5500\",\n    \"Amoxicillin 5750\",\n    \"Amoxicillin 6000\",\n    \"Amoxicillin 6250\",\n    \"Amoxicillin 6500\",\n    \"Amoxicillin 6750\",\n    \"Amoxicillin 7000\",\n    \"Amoxicillin 7250\",\n    \"Amoxicillin 7500\",\n    \"Amoxicillin 7750\",\n    \"Amoxicillin 8000\",\n    \"Amoxicillin 825",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 186,
+    "prompt_ms": 74.31,
+    "prompt_per_token_ms": 0.3995161290322581,
+    "prompt_per_second": 2503.0278562777553,
+    "predicted_n": 800,
+    "predicted_ms": 11024.091,
+    "predicted_per_token_ms": 13.797360450563204,
+    "predicted_per_second": 72.47763103552029
+  }
+}

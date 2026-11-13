@@ -1,0 +1,61 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلنے میں دڑھنے ہیں نورویسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 57\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"since 2 days\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"since 2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\"\n  ],\n  \"findings\": [\n    \"hypertension\"\n  ],\n  \"allergies\": [\n    \"aspirin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Norvasc\",\n      \"strength\": \"5 mg\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"daily\",\n      \"duration\": \"since 2 weeks\",\n      \"instructions\": \"decrease salt\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"aspirin\"\n  ],\n  \"investigations_ordered\": [\n    \"ECG\"\n  ],\n  \"advice\": [\n    \"rest\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 57
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "since 2 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "since 2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea"
+    ],
+    "findings": [
+      "hypertension"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5 mg",
+        "dose": "1 tablet at night",
+        "frequency": "daily",
+        "duration": "since 2 weeks",
+        "instructions": "decrease salt"
+      }
+    ],
+    "drugs_to_avoid": [
+      "aspirin"
+    ],
+    "investigations_ordered": [
+      "ECG"
+    ],
+    "advice": [
+      "rest"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 138,
+    "prompt_ms": 82.161,
+    "prompt_per_token_ms": 0.5953695652173913,
+    "prompt_per_second": 1679.62902106839,
+    "predicted_n": 254,
+    "predicted_ms": 3941.917,
+    "predicted_per_token_ms": 15.580699604743083,
+    "predicted_per_second": 64.18197034590023
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\"symptom\": \"itching\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Chay\",\n      \"strength\": \"2 spoons\",\n      \"dose\": \"night\",\"frequency\": \"twice\",\"duration\": \"2 weeks\",\"instructions\": \"take with milk\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take less food\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Chay",
+        "strength": "2 spoons",
+        "dose": "night",
+        "frequency": "twice",
+        "duration": "2 weeks",
+        "instructions": "take with milk"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take less food"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 99,
+    "prompt_ms": 94.871,
+    "prompt_per_token_ms": 0.9582929292929292,
+    "prompt_per_second": 1043.5222565378251,
+    "predicted_n": 208,
+    "predicted_ms": 2781.575,
+    "predicted_per_token_ms": 13.437560386473429,
+    "predicted_per_second": 74.41827022460296
+  }
+}

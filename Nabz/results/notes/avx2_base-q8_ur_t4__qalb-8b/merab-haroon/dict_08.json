@@ -1,0 +1,30 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 141,
+    "prompt_ms": 75.572,
+    "prompt_per_token_ms": 0.5359716312056738,
+    "prompt_per_second": 1865.7703911501615,
+    "predicted_n": 123,
+    "predicted_ms": 1899.142,
+    "predicted_per_token_ms": 15.566737704918033,
+    "predicted_per_second": 64.23953553762699
+  }
+}

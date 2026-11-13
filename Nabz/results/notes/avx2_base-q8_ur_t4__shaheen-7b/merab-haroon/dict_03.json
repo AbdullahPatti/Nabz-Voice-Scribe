@@ -1,0 +1,59 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hand tremors\",\n      \"duration\": \"40 years\"\n    },\n    {\n      \"symptom\": \"dry mouth\",\n      \"duration\": \"40 years\"\n    },\n    {\n      \"symptom\": \"hand weakness\",\n      \"duration\": \"40 years\"\n    }\n  ],\n  \"negatives\": [\n    \"no hand swelling\"\n  ],\n  \"findings\": [\n    \"hand tremors\",\n    \"dry mouth\",\n    \"hand weakness\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Fluoxetine 20 mg\",\n    \"Paracetamol 500 mg\",\n    \"Ibuprofen 400 mg\",\n    \"Telmisartan 80 mg\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid Fluoxetine 20 mg\",\n    \"Avoid Paracetamol 500 mg\",\n    \"Avoid Ibuprofen 400 mg\",\n    \"Avoid Telmisartan 80 mg\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hand tremors",
+        "duration": "40 years"
+      },
+      {
+        "symptom": "dry mouth",
+        "duration": "40 years"
+      },
+      {
+        "symptom": "hand weakness",
+        "duration": "40 years"
+      }
+    ],
+    "negatives": [
+      "no hand swelling"
+    ],
+    "findings": [
+      "hand tremors",
+      "dry mouth",
+      "hand weakness"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Fluoxetine 20 mg",
+      "Paracetamol 500 mg",
+      "Ibuprofen 400 mg",
+      "Telmisartan 80 mg"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid Fluoxetine 20 mg",
+      "Avoid Paracetamol 500 mg",
+      "Avoid Ibuprofen 400 mg",
+      "Avoid Telmisartan 80 mg"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 165,
+    "prompt_ms": 75.153,
+    "prompt_per_token_ms": 0.4554727272727273,
+    "prompt_per_second": 2195.521136880763,
+    "predicted_n": 285,
+    "predicted_ms": 3999.131,
+    "predicted_per_token_ms": 14.081447183098591,
+    "predicted_per_second": 71.0154281017551
+  }
+}

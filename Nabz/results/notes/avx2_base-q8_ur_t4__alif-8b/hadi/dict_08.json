@@ -1,0 +1,62 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 50\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"Urinary frequency\",\n            \"duration\": \"2 days\"\n        },\n        {\n            \"symptom\": \"Urinary urgency\",\n            \"duration\": \"2 days\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\",\n        \"vomiting\",\n        \"abdominal pain\"\n    ],\n    \"findings\": [\n        \"no kidney stones\"\n    ],\n    \"allergies\": [\n        \"aspirin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Furosemide\",\n            \"strength\": \"40 mg\",\n            \"dose\": \"2 tablets daily\",\n            \"frequency\": \"2 times daily\",\n            \"duration\": \"3 days\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Aspirin\"\n    ],\n    \"investigations_ordered\": [\n        \"Urinalysis\"\n    ],\n    \"advice\": [\n        \"Increase water intake\"\n    ],\n    \"follow_up\": \"In 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "Urinary frequency",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "Urinary urgency",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "abdominal pain"
+    ],
+    "findings": [
+      "no kidney stones"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Furosemide",
+        "strength": "40 mg",
+        "dose": "2 tablets daily",
+        "frequency": "2 times daily",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Aspirin"
+    ],
+    "investigations_ordered": [
+      "Urinalysis"
+    ],
+    "advice": [
+      "Increase water intake"
+    ],
+    "follow_up": "In 3 days"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 146,
+    "prompt_ms": 68.671,
+    "prompt_per_token_ms": 0.4703493150684932,
+    "prompt_per_second": 2126.079422172387,
+    "predicted_n": 262,
+    "predicted_ms": 4035.592,
+    "predicted_per_token_ms": 15.462038314176246,
+    "predicted_per_second": 64.67452606705534
+  }
+}

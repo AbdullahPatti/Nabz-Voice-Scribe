@@ -1,0 +1,61 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 38\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"none\"\n        },\n        {\n            \"symptom\": \"cough\",\n            \"duration\": \"none\"\n        }\n    ],\n    \"negatives\": [\n        \"allergy\"\n    ],\n    \"findings\": [\n        \"no_rash\",\n        \"no_side_effect\"\n    ],\n    \"allergies\": [\n        \"penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Zyrtec\",\n            \"strength\": \"half_tablet\",\n            \"dose\": \"night\",\n            \"frequency\": \"everyday\",\n            \"duration\": \"ten_days\",\n            \"instructions\": \"show_in_a_month\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Augmentin\"\n    ],\n    \"investigations_ordered\": [\n        \"none\"\n    ],\n    \"advice\": [\n        \"show_in_a_month\"\n    ],\n    \"follow_up\": \"in_a_month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "none"
+      },
+      {
+        "symptom": "cough",
+        "duration": "none"
+      }
+    ],
+    "negatives": [
+      "allergy"
+    ],
+    "findings": [
+      "no_rash",
+      "no_side_effect"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half_tablet",
+        "dose": "night",
+        "frequency": "everyday",
+        "duration": "ten_days",
+        "instructions": "show_in_a_month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "show_in_a_month"
+    ],
+    "follow_up": "in_a_month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 108,
+    "prompt_ms": 49.8,
+    "prompt_per_token_ms": 0.4611111111111111,
+    "prompt_per_second": 2168.674698795181,
+    "predicted_n": 247,
+    "predicted_ms": 3791.498,
+    "predicted_per_token_ms": 15.41259349593496,
+    "predicted_per_second": 64.88200705895136
+  }
+}

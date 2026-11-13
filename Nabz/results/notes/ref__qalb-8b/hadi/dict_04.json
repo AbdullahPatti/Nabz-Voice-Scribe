@@ -1,0 +1,30 @@
+{
+  "transcript": "Khatoon, 55 saal. Aaj BP 160 aur 100 aaya hai. Sar bhaari rehta hai, chakkar nahi aate. Seene mein dard nahi hai. Norvasc 5 raat ko ek goli shuru kar di hai. Namak kam karna hai. Do hafte baad BP dobara check karwayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 55\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 95,
+    "prompt_ms": 40.601,
+    "prompt_per_token_ms": 0.427378947368421,
+    "prompt_per_second": 2339.843846210684,
+    "predicted_n": 126,
+    "predicted_ms": 1890.442,
+    "predicted_per_token_ms": 15.123536,
+    "predicted_per_second": 66.12210266170557
+  }
+}

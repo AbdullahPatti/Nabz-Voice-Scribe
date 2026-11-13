@@ -1,0 +1,61 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 30\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"itching\",\n            \"duration\": \"chronic\"\n        },\n        {\n            \"symptom\": \"abdominal_pain\",\n            \"duration\": \"chronic\"\n        }\n    ],\n    \"negatives\": [\n        \"nausea\",\n        \"vomiting\"\n    ],\n    \"findings\": [\n        \"weight_stable\"\n    ],\n    \"allergies\": [\n        \"penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Omeprazole\",\n            \"strength\": null,\n            \"dose\": \"1 tab daily\",\n            \"frequency\": \"daily\",\n            \"duration\": \"long_term\",\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Augmentin 625\"\n    ],\n    \"investigations_ordered\": [\n        \"gastric_ultrasound\"\n    ],\n    \"advice\": [\n        \"avoid_Augmentin_625\"\n    ],\n    \"follow_up\": \"in_2_weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "abdominal_pain",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting"
+    ],
+    "findings": [
+      "weight_stable"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Omeprazole",
+        "strength": null,
+        "dose": "1 tab daily",
+        "frequency": "daily",
+        "duration": "long_term",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "gastric_ultrasound"
+    ],
+    "advice": [
+      "avoid_Augmentin_625"
+    ],
+    "follow_up": "in_2_weeks"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 129,
+    "prompt_ms": 69.335,
+    "prompt_per_token_ms": 0.5374806201550387,
+    "prompt_per_second": 1860.5321987452226,
+    "predicted_n": 257,
+    "predicted_ms": 3969.748,
+    "predicted_per_token_ms": 15.506828125,
+    "predicted_per_second": 64.48772063113326
+  }
+}

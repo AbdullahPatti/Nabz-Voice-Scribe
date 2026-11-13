@@ -1,0 +1,62 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"since 2 weeks\"\n    },\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"since 2 weeks\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\"\n  ],\n  \"findings\": [\n    \"headache\",\n    \"dizziness\"\n  ],\n  \"allergies\": [\n    \"no\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": null,\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"as needed\",\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"no\"\n  ],\n  \"investigations_ordered\": [\n    \"ECG\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "since 2 weeks"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "since 2 weeks"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea"
+    ],
+    "findings": [
+      "headache",
+      "dizziness"
+    ],
+    "allergies": [
+      "no"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "as needed",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "no"
+    ],
+    "investigations_ordered": [
+      "ECG"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 129,
+    "prompt_ms": 81.302,
+    "prompt_per_token_ms": 0.6302480620155039,
+    "prompt_per_second": 1586.676834518216,
+    "predicted_n": 249,
+    "predicted_ms": 3824.739,
+    "predicted_per_token_ms": 15.422334677419355,
+    "predicted_per_second": 64.84102575365273
+  }
+}

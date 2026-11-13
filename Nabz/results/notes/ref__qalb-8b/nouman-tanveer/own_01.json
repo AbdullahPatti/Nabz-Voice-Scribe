@@ -1,0 +1,30 @@
+{
+  "transcript": "Woman 60 years, knee pain for 2 months, worse on stairs. No swelling, no fever. Panadol 2 tablets twice a day. Light exercise daily. Come back in 1 month.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 60\n    },\n    \"complaints\": [ \n        \t],\n    \"negatives\": [ \n        \t],\n    \"findings\": [ \n        \t],\n    \"allergies\": [ \n        \t],\n    \"medications\": [ \n        \t],\n    \"drugs_to_avoid\": [ \n        \t],\n    \"investigations_ordered\": [ \n        \t],\n    \"advice\": [ \n        \t],\n    \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 55,
+    "prompt_ms": 31.384,
+    "prompt_per_token_ms": 0.5706181818181818,
+    "prompt_per_second": 1752.48534284986,
+    "predicted_n": 131,
+    "predicted_ms": 2031.016,
+    "predicted_per_token_ms": 15.6232,
+    "predicted_per_second": 64.00737364944442
+  }
+}

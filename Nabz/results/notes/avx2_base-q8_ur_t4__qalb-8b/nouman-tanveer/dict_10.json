@@ -1,0 +1,30 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 38\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"folow up in 1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "folow up in 1 month"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 157,
+    "prompt_ms": 66.76,
+    "prompt_per_token_ms": 0.4252229299363058,
+    "prompt_per_second": 2351.707609346914,
+    "predicted_n": 131,
+    "predicted_ms": 2020.062,
+    "predicted_per_token_ms": 15.53893846153846,
+    "predicted_per_second": 64.35446040765086
+  }
+}

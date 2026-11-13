@@ -1,0 +1,49 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"no vomiting\",\n    \"no fever\",\n    \"no chest pain\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"salt restriction\",\n    \"follow up in two weeks\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "chest pain"
+    ],
+    "findings": [
+      "no vomiting",
+      "no fever",
+      "no chest pain"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "salt restriction",
+      "follow up in two weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 234,
+    "prompt_n": 132,
+    "prompt_ms": 63.122,
+    "prompt_per_token_ms": 0.4781969696969697,
+    "prompt_per_second": 2091.1884921263586,
+    "predicted_n": 182,
+    "predicted_ms": 2641.221,
+    "predicted_per_token_ms": 14.592381215469613,
+    "predicted_per_second": 68.5289114390655
+  }
+}

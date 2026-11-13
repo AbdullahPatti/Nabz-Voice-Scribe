@@ -1,0 +1,61 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سکیرز نوز ویلن نو فیور پاندول 2 تبلرٹز 2 ایرز اگی لائی تکسرسیز دیلی کم بیکن 1 منگت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"headache\",\n    \"nausea\"\n  ],\n  \"findings\": [\n    \"normal\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Naproxen\",\n      \"strength\": \"500 mg\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"2 times a day\",\n      \"duration\": \"7 days\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "headache",
+      "nausea"
+    ],
+    "findings": [
+      "normal"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Naproxen",
+        "strength": "500 mg",
+        "dose": "2 tablets",
+        "frequency": "2 times a day",
+        "duration": "7 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 77,
+    "prompt_ms": 52.429,
+    "prompt_per_token_ms": 0.6808961038961039,
+    "prompt_per_second": 1468.6528447996336,
+    "predicted_n": 262,
+    "predicted_ms": 4099.795,
+    "predicted_per_token_ms": 15.708026819923372,
+    "predicted_per_second": 63.66171967134942
+  }
+}

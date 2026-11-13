@@ -1,0 +1,30 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 22\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 102,
+    "prompt_ms": 54.503,
+    "prompt_per_token_ms": 0.534343137254902,
+    "prompt_per_second": 1871.4566170669505,
+    "predicted_n": 120,
+    "predicted_ms": 1832.638,
+    "predicted_per_token_ms": 15.400319327731092,
+    "predicted_per_second": 64.93371849759745
+  }
+}

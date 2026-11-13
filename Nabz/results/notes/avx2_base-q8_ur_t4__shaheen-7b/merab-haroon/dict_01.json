@@ -1,0 +1,16 @@
+{
+  "transcript": "تیفورٹ مرد اٹھائی ساتھ پانچ دن سے تیس بہارے سر دردور کمزوری بھی ہے کندہی راتنوں بہت ہندہ لگ دیا ڈی نہیں ہے دست بھی نہیں ہے تیفورٹ کارٹی اس پوزگی بایا ہے ازو میکس 500 روزانہ ایک گولی ساتھیں پینے دول دولی دن میں تین بار جب ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 37\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"7 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"7 days\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"7 days\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"coughing up blood\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"abdominal pain\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n   ",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 167,
+    "prompt_ms": 73.592,
+    "prompt_per_token_ms": 0.4406706586826347,
+    "prompt_per_second": 2269.2683987389937,
+    "predicted_n": 800,
+    "predicted_ms": 10876.393,
+    "predicted_per_token_ms": 13.612506883604505,
+    "predicted_per_second": 73.46185449532763
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے گئی بعد دو سو خط پہلے گلکو فیز پنسو دین میں دو بار لی رہا تھا اب لکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر ٹیشٹ کروائی ہے پیروں میں سن ہونا نہیں ہے\nاُس اُس اُس اُس اُس اُس",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 60\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"shugar\",\n            \"duration\": \"long\"\n        },\n        {\n            \"symptom\": \"shugar_eyesight\",\n            \"duration\": \"long\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\"\n    ],\n    \"findings\": [\n        \"shugar_eyesight\"\n    ],\n    \"allergies\": [\n        \"penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"gliclazide_50\",\n            \"strength\": \"50mg\",\n            \"dose\": \"twice_a_day\",\n            \"frequency\": \"2times_a_day\",\n            \"duration\": \"long\",\n            \"instructions\": \"Take with food\"\n        },\n        {\n            \"name\": \"metformin_500\",\n            \"strength\": \"500mg\",\n            \"dose\": \"twice_a_day\",\n            \"frequency\": \"2times_a_day\",\n            \"duration\": \"long\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"penicillin\"\n    ],\n    \"investigations_ordered\": [\n        \"fbs\"\n    ],\n    \"advice\": [\n        \"Take medicines with food\"\n    ],\n    \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "shugar",
+        "duration": "long"
+      },
+      {
+        "symptom": "shugar_eyesight",
+        "duration": "long"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "shugar_eyesight"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "gliclazide_50",
+        "strength": "50mg",
+        "dose": "twice_a_day",
+        "frequency": "2times_a_day",
+        "duration": "long",
+        "instructions": "Take with food"
+      },
+      {
+        "name": "metformin_500",
+        "strength": "500mg",
+        "dose": "twice_a_day",
+        "frequency": "2times_a_day",
+        "duration": "long",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "fbs"
+    ],
+    "advice": [
+      "Take medicines with food"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 167,
+    "prompt_ms": 91.916,
+    "prompt_per_token_ms": 0.5503952095808383,
+    "prompt_per_second": 1816.8762783410941,
+    "predicted_n": 323,
+    "predicted_ms": 4887.385,
+    "predicted_per_token_ms": 15.178214285714287,
+    "predicted_per_second": 65.88390315066236
+  }
+}

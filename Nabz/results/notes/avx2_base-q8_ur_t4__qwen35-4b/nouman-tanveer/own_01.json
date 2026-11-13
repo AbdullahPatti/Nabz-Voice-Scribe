@@ -1,0 +1,37 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 2\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"2 months\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take paracetamol 625 mg\"\n  ],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 2
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take paracetamol 625 mg"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 74,
+    "prompt_ms": 98.592,
+    "prompt_per_token_ms": 1.3323243243243243,
+    "prompt_per_second": 750.5679974034405,
+    "predicted_n": 137,
+    "predicted_ms": 1800.513,
+    "predicted_per_token_ms": 13.239066176470587,
+    "predicted_per_second": 75.53402835747369
+  }
+}

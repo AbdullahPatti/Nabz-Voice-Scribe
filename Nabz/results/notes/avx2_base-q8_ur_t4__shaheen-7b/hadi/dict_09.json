@@ -1,0 +1,62 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 18\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"fever\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Telfast\",\n      \"strength\": \"1\",\n      \"dose\": \"2\",\n      \"frequency\": \"day\",\n      \"duration\": \"4 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"avoid penicillin\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 18
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "fever",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "fever"
+    ],
+    "findings": [
+      "cough",
+      "fever"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Telfast",
+        "strength": "1",
+        "dose": "2",
+        "frequency": "day",
+        "duration": "4 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids",
+      "avoid penicillin"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 136,
+    "prompt_ms": 67.221,
+    "prompt_per_token_ms": 0.4942720588235294,
+    "prompt_per_second": 2023.1772809092395,
+    "predicted_n": 242,
+    "predicted_ms": 3575.463,
+    "predicted_per_token_ms": 14.835946058091286,
+    "predicted_per_second": 67.40385790595512
+  }
+}

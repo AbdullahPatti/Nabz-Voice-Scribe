@@ -1,0 +1,30 @@
+{
+  "transcript": "Aurat sixty years, do mahine se knee pain, seerhiyon pe zyada buri. No swelling, no fever. Din mein Panadol ke do tablet. Halki exercise daily, aur ek mahine baad wapas aayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 60\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 67,
+    "prompt_ms": 35.492,
+    "prompt_per_token_ms": 0.5297313432835821,
+    "prompt_per_second": 1887.7493519666405,
+    "predicted_n": 123,
+    "predicted_ms": 1868.853,
+    "predicted_per_token_ms": 15.318467213114754,
+    "predicted_per_second": 65.28068285734618
+  }
+}

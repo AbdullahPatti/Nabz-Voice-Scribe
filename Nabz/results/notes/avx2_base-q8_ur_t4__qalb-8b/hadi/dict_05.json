@@ -1,0 +1,30 @@
+{
+  "transcript": "مرد 50 ساتھ شوگر کا پر آنہ مریس نہار موش شوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانس دین میں دو بار لے رہا تھا پلوکو فیجھا چاہد دین میں دو بار کھانے گے چاہد تھا تین مینے والا شوگر ٹیسٹ کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 50\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 169,
+    "prompt_ms": 84.322,
+    "prompt_per_token_ms": 0.4989467455621302,
+    "prompt_per_second": 2004.2219112449893,
+    "predicted_n": 128,
+    "predicted_ms": 1974.519,
+    "predicted_per_token_ms": 15.547393700787401,
+    "predicted_per_second": 64.3194621069739
+  }
+}

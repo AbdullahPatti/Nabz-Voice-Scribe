@@ -1,0 +1,61 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Shortness of breath at night\",\n      \"duration\": \"since 4 days\"\n    },\n    {\n      \"symptom\": \"Chest pain at night\",\n      \"duration\": \"since 4 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\"\n  ],\n  \"findings\": [\n    \"Chest pain on palpation\"\n  ],\n  \"allergies\": [\n    \"Penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Aspirin\",\n      \"strength\": \"325 mg\",\n      \"dose\": \"3 times a day\",\n      \"frequency\": \"for 4 days\",\n      \"duration\": \"for 4 days\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"ECG\"\n  ],\n  \"advice\": [\n    \"Rest in bed at night\"\n  ],\n  \"follow_up\": \"In 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "Shortness of breath at night",
+        "duration": "since 4 days"
+      },
+      {
+        "symptom": "Chest pain at night",
+        "duration": "since 4 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough"
+    ],
+    "findings": [
+      "Chest pain on palpation"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Aspirin",
+        "strength": "325 mg",
+        "dose": "3 times a day",
+        "frequency": "for 4 days",
+        "duration": "for 4 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [
+      "ECG"
+    ],
+    "advice": [
+      "Rest in bed at night"
+    ],
+    "follow_up": "In 2 days"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 126,
+    "prompt_ms": 51.779,
+    "prompt_per_token_ms": 0.41094444444444445,
+    "prompt_per_second": 2433.4189536298495,
+    "predicted_n": 275,
+    "predicted_ms": 4166.94,
+    "predicted_per_token_ms": 15.2078102189781,
+    "predicted_per_second": 65.7556864269704
+  }
+}

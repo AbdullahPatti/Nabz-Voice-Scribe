@@ -1,0 +1,47 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 29\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no rash\",\n    \"no side effects\",\n    \"no history of penicillin allergy\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"1 month\",\"instructions\": \"show after 1 month\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 29
+    },
+    "complaints": [],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no rash",
+      "no side effects",
+      "no history of penicillin allergy"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "1 month",
+        "instructions": "show after 1 month"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 96.147,
+    "prompt_per_token_ms": 0.9156857142857143,
+    "prompt_per_second": 1092.0777559362227,
+    "predicted_n": 220,
+    "predicted_ms": 2705.46,
+    "predicted_per_token_ms": 12.353698630136986,
+    "predicted_per_second": 80.94741744472289
+  }
+}

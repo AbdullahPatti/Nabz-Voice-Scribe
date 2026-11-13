@@ -1,0 +1,67 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"no rash\",\n      \"duration\": \"since last prescription\"\n    },\n    {\n      \"symptom\": \"no side effects\",\n      \"duration\": \"since last prescription\"\n    },\n    {\n      \"symptom\": \"no fever\",\n      \"duration\": \"since last prescription\"\n    },\n    {\n      \"symptom\": \"no cough\",\n      \"duration\": \"since last prescription\"\n    }\n  ],\n  \"negatives\": [\n    \"no rash\",\n    \"no side effects\",\n    \"no fever\",\n    \"no cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"12.5\",\n      \"dose\": \"half tablet at night\",\n      \"frequency\": \"for 10 days\",\n      \"duration\": \"1 month\",\n      \"instructions\": \"follow up\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"follow up in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "no rash",
+        "duration": "since last prescription"
+      },
+      {
+        "symptom": "no side effects",
+        "duration": "since last prescription"
+      },
+      {
+        "symptom": "no fever",
+        "duration": "since last prescription"
+      },
+      {
+        "symptom": "no cough",
+        "duration": "since last prescription"
+      }
+    ],
+    "negatives": [
+      "no rash",
+      "no side effects",
+      "no fever",
+      "no cough"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "12.5",
+        "dose": "half tablet at night",
+        "frequency": "for 10 days",
+        "duration": "1 month",
+        "instructions": "follow up"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "follow up in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 235,
+    "prompt_n": 98,
+    "prompt_ms": 50.795,
+    "prompt_per_token_ms": 0.5183163265306122,
+    "prompt_per_second": 1929.3237523378284,
+    "predicted_n": 294,
+    "predicted_ms": 4230.973,
+    "predicted_per_token_ms": 14.440180887372014,
+    "predicted_per_second": 69.25121006444617
+  }
+}

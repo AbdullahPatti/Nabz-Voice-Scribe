@@ -1,0 +1,56 @@
+{
+  "transcript": "Aurat sixty years, do mahine se knee pain, seerhiyon pe zyada buri. No swelling, no fever. Din mein Panadol ke do tablet. Halki exercise daily, aur ek mahine baad wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"knee pain\",\n      \"duration\": \"6 months\"\n    }\n  ],\n  \"negatives\": [\n    \"swelling\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"pain worse on stairs\"\n  ],\n  \"allergies\": [\n    \"Panadol\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2 tablets\",\n      \"dose\": \"daily\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"1 month\",\n      \"instructions\": \"continue\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Panadol\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"light exercise daily\",\n    \"follow up in 1 month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "6 months"
+      }
+    ],
+    "negatives": [
+      "swelling",
+      "fever"
+    ],
+    "findings": [
+      "pain worse on stairs"
+    ],
+    "allergies": [
+      "Panadol"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2 tablets",
+        "dose": "daily",
+        "frequency": "as needed",
+        "duration": "1 month",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Panadol"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "light exercise daily",
+      "follow up in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 60,
+    "prompt_ms": 38.679,
+    "prompt_per_token_ms": 0.6446500000000001,
+    "prompt_per_second": 1551.229349259288,
+    "predicted_n": 221,
+    "predicted_ms": 3265.942,
+    "predicted_per_token_ms": 14.84519090909091,
+    "predicted_per_second": 67.36188211548154
+  }
+}

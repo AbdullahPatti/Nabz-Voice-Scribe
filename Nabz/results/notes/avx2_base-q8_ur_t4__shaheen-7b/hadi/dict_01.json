@@ -1,0 +1,80 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 31\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"chills\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cold\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"fever\",\n    \"chills\",\n    \"fatigue\",\n    \"cough\",\n    \"cold\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Azithromycin\",\n      \"strength\": \"500\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"3 days\",\n      \"duration\": \"7 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Amoxicillin 625\"\n  ],\n  \"investigations_ordered\": [\n    \"no investigations ordered\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"paracetamol 500 mg\",\n    \"avoid Amoxicillin 625\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 31
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "chills",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cold",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "fever",
+      "chills",
+      "fatigue",
+      "cough",
+      "cold"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Azithromycin",
+        "strength": "500",
+        "dose": "once daily",
+        "frequency": "3 days",
+        "duration": "7 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Amoxicillin 625"
+    ],
+    "investigations_ordered": [
+      "no investigations ordered"
+    ],
+    "advice": [
+      "rest",
+      "fluids",
+      "paracetamol 500 mg",
+      "avoid Amoxicillin 625"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 156,
+    "prompt_ms": 63.374,
+    "prompt_per_token_ms": 0.40624358974358976,
+    "prompt_per_second": 2461.577302994919,
+    "predicted_n": 356,
+    "predicted_ms": 5081.432,
+    "predicted_per_token_ms": 14.313892957746479,
+    "predicted_per_second": 69.86219632576015
+  }
+}

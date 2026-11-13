@@ -1,0 +1,60 @@
+{
+  "transcript": "انہیں 30 سورٹورکہ پر کچھ دوڑیس میں پر کچھ کچھ پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 30\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"3 days\"\n        },\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"3 days\"\n        }\n    ],\n    \"negatives\": [\n        \"cough\"\n    ],\n    \"findings\": [\n        \"normal\"\n    ],\n    \"allergies\": [\n        \"penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Paracetamol\",\n            \"strength\": null,\n            \"dose\": \"3 times a day\",\n            \"frequency\": \"3 days\",\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Augmentin 625\"\n    ],\n    \"investigations_ordered\": [\n        \"Blood test\"\n    ],\n    \"advice\": [\n        \"Rest\"\n    ],\n    \"follow_up\": \"In 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "cough"
+    ],
+    "findings": [
+      "normal"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "3 times a day",
+        "frequency": "3 days",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "Blood test"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "In 3 days"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 171,
+    "prompt_ms": 79.047,
+    "prompt_per_token_ms": 0.4622631578947368,
+    "prompt_per_second": 2163.2699533189116,
+    "predicted_n": 246,
+    "predicted_ms": 3858.65,
+    "predicted_per_token_ms": 15.749591836734695,
+    "predicted_per_second": 63.493708939655065
+  }
+}

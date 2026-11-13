@@ -1,0 +1,30 @@
+{
+  "transcript": "Woman 45 years, headache in the evening for one week. BP 140 over 90. No problem with eyesight, no vomiting. Panadol when needed, eat less salt. BP check again after one week.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n        \t],\n    \"negatives\": [ \n        \t],\n    \"findings\": [ \n        \t],\n    \"allergies\": [ \n        \t],\n    \"medications\": [ \n        \t],\n    \"drugs_to_avoid\": [ \n        \t],\n    \"investigations_ordered\": [ \n        \t],\n    \"advice\": [ \n        \t],\n    \"follow_up\": \"next week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "next week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 58,
+    "prompt_ms": 38.886,
+    "prompt_per_token_ms": 0.670448275862069,
+    "prompt_per_second": 1491.539371496168,
+    "predicted_n": 131,
+    "predicted_ms": 2062.736,
+    "predicted_per_token_ms": 15.867199999999999,
+    "predicted_per_second": 63.023091660784516
+  }
+}

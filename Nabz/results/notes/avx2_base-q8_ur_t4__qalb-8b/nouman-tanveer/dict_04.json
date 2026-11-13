@@ -1,0 +1,30 @@
+{
+  "transcript": "خاتون پچپل سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکل نہیں آتے سینے میں درد نہیں ہے نو رکھ فائف رات کو ایک گلی شروع کر دی ہے نمکم کرنا ہے دو ہفتے بات بیپی دبارا چکر میں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 129,
+    "prompt_ms": 68.144,
+    "prompt_per_token_ms": 0.5282480620155039,
+    "prompt_per_second": 1893.0500117398449,
+    "predicted_n": 123,
+    "predicted_ms": 1930.641,
+    "predicted_per_token_ms": 15.824926229508197,
+    "predicted_per_second": 63.19144781448233
+  }
+}

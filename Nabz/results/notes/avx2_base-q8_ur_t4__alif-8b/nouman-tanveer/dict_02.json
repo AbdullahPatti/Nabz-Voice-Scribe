@@ -1,0 +1,70 @@
+{
+  "transcript": "خطوون چونتی سال، تین دین سے بخوا ہے جسم میں درد، اور آنکھوں کے پیچھے درد، پیٹلس پچانوے ہزار ہے کہ ہی سے خون نہیں آرہا، صرف پنے دول دو گلی، دین میں تین بات، بروفین بلکل نہیں لینہ، دیسپرین بھی نہیں، پانی زیادہ پیئے، کال خون کا ٹنس دبارہ کر مانا ہے،",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"3 days\"\n        },\n        {\n            \"symptom\": \"body pain\",\n            \"duration\": \"3 days\"\n        },\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"3 days\"\n        },\n        {\n            \"symptom\": \"anemia\",\n            \"duration\": \"3 days\"\n        }\n    ],\n    \"negatives\": [\n        \"cough\",\n        \"shortness_of_breath\"\n    ],\n    \"findings\": [\n        \"anemia\"\n    ],\n    \"allergies\": [\n        \"aspirin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Paracetamol\",\n            \"strength\": null,\n            \"dose\": \"2 tablets\",\n            \"frequency\": \"4 hours\",\n            \"duration\": \"3 days\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"aspirin\",\n        \"ibuprofen\"\n    ],\n    \"investigations_ordered\": [\n        \"blood_test\"\n    ],\n    \"advice\": [\n        \"Rest\"\n    ],\n    \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "anemia",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "shortness_of_breath"
+    ],
+    "findings": [
+      "anemia"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "4 hours",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "aspirin",
+      "ibuprofen"
+    ],
+    "investigations_ordered": [
+      "blood_test"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 174,
+    "prompt_ms": 78.981,
+    "prompt_per_token_ms": 0.45391379310344826,
+    "prompt_per_second": 2203.061495802788,
+    "predicted_n": 300,
+    "predicted_ms": 4573.643,
+    "predicted_per_token_ms": 15.296464882943145,
+    "predicted_per_second": 65.3745821438184
+  }
+}

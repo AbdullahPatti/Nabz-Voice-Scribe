@@ -1,0 +1,47 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain in abdomen\",\n      \"duration\": \"occurs after eating\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"prescribed Risek 20 in the morning\",\n    \"prescribed Gaviscon twice at night\",\n    \"advised to reduce tea and chili intake\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Risek 20\",\n    \"Gaviscon\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce tea and chili intake\"\n  ],\n  \"follow_up\": \"in two weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pain in abdomen",
+        "duration": "occurs after eating"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no weight loss"
+    ],
+    "findings": [
+      "prescribed Risek 20 in the morning",
+      "prescribed Gaviscon twice at night",
+      "advised to reduce tea and chili intake"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Risek 20",
+      "Gaviscon"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce tea and chili intake"
+    ],
+    "follow_up": "in two weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 101,
+    "prompt_ms": 51.819,
+    "prompt_per_token_ms": 0.5130594059405941,
+    "prompt_per_second": 1949.0920318801984,
+    "predicted_n": 195,
+    "predicted_ms": 2842.554,
+    "predicted_per_token_ms": 14.652340206185567,
+    "predicted_per_second": 68.24848358201814
+  }
+}

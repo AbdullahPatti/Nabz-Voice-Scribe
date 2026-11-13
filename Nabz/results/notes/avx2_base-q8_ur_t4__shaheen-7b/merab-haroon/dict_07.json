@@ -1,0 +1,16 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"45 years\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"45 years\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"45 years\"\n    },\n    {\n      \"symptom\": \"loss of appetite\",\n      \"duration\": \"45 years\"\n    },\n    {\n      \"symptom\": \"weight loss\",\n      \"duration\": \"45 years\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no abdominal pain\",\n    \"no loss of appetite\",\n    \"no weight loss\"\n  ],\n  \"findings\": [\n    \"right upper quadrant tenderness\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Ciprofloxacin\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"5 days\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Amoxicillin\",\n    \"Amoxicillin 625\",\n    \"Amoxicillin 500\",\n    \"Amoxicillin 375\",\n    \"Amoxicillin 250\",\n    \"Amoxicillin 125\",\n    \"Amoxicillin 100\",\n    \"Amoxicillin 50\",\n    \"Amoxicillin 25\",\n    \"Amoxicillin 12\",\n    \"Amoxicillin 6\",\n    \"Amoxicillin 3\",\n    \"Amoxicillin 1\",\n    \"Amoxicillin 0.5\",\n    \"Amoxicillin 0.25\",\n    \"Amoxicillin 0.125\",\n    \"Amoxicillin 0.0625\",\n    \"Amoxicillin 0.03125\",\n    \"Amoxicillin 0.015625\",\n    \"Amoxicillin 0.0078125\",\n    \"Amoxicillin 0.00390625\",\n    \"Amoxicillin 0.001953125\",\n    \"Amoxicillin 0.0009765625\",\n    \"Amoxicillin 0.00048828125\",\n    \"Amoxicillin 0.000244140625\",\n    \"Amoxicillin 0.0001220703125\",\n    \"Amoxicillin 0.00006103515625\",\n    \"Amoxicillin 0.000030517578125\",\n    \"Amoxicillin 0.0000152587890625\",\n    \"Amoxicillin 0.00000762939453125\",\n    \"Amoxicillin 0.000003814697265625\",\n    \"Amoxicillin 0.0000019073486328125\",\n    \"Amoxicillin 0.00000095367431640625\",\n",
+  "note": null,
+  "timings": {
+    "cache_n": 232,
+    "prompt_n": 157,
+    "prompt_ms": 64.431,
+    "prompt_per_token_ms": 0.41038853503184713,
+    "prompt_per_second": 2436.7152457667894,
+    "predicted_n": 800,
+    "predicted_ms": 11061.687,
+    "predicted_per_token_ms": 13.844414267834793,
+    "predicted_per_second": 72.23129708877137
+  }
+}

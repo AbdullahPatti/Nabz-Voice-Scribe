@@ -1,0 +1,66 @@
+{
+  "transcript": "مرت 45 ساہ ایک افتے سے کھانسی پیلا بلگم اور حلکہ بھار سامس میں خورتا سینی کی دیان کی دائیں تلاف حواظ آڈی ہے اگو مینتن چیسو پچیس دین میں دو بات پانچ دین کھانسی کا سیڈف دو چھامش دین میں تین بار سیگریٹ بنگرنیای چیکس چیسٹ ایک سیڈ کروالے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"long\"\n    },\n    {\n      \"symptom\": \"sputum\",\n      \"duration\": \"yellow\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"short\"\n    }\n  ],\n  \"negatives\": [\n    \"no_cough\",\n    \"no_fever\"\n  ],\n  \"findings\": [\n    \"shortness_of_breath\"\n  ],\n  \"allergies\": [\n    \"nicotine\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Salbutamol\",\n      \"strength\": \"2.5mg\",\n      \"dose\": \"2 puffs\",\n      \"frequency\": \"3 times a day\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"PRN\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Cigarette\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\",\n    \"CXR\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "long"
+      },
+      {
+        "symptom": "sputum",
+        "duration": "yellow"
+      },
+      {
+        "symptom": "fever",
+        "duration": "short"
+      }
+    ],
+    "negatives": [
+      "no_cough",
+      "no_fever"
+    ],
+    "findings": [
+      "shortness_of_breath"
+    ],
+    "allergies": [
+      "nicotine"
+    ],
+    "medications": [
+      {
+        "name": "Salbutamol",
+        "strength": "2.5mg",
+        "dose": "2 puffs",
+        "frequency": "3 times a day",
+        "duration": "5 days",
+        "instructions": "PRN"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Cigarette"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray",
+      "CXR"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 242,
+    "prompt_n": 145,
+    "prompt_ms": 83.92,
+    "prompt_per_token_ms": 0.5787586206896552,
+    "prompt_per_second": 1727.8360343183983,
+    "predicted_n": 283,
+    "predicted_ms": 4273.596,
+    "predicted_per_token_ms": 15.154595744680849,
+    "predicted_per_second": 65.98658366396825
+  }
+}

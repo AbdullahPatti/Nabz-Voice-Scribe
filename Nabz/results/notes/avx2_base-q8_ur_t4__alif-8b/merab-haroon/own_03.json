@@ -1,0 +1,68 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"high blood pressure\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"no chest pain\",\n      \"duration\": \"1 week\"\n    },\n    {\n      \"symptom\": \"no vomiting\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no chest pain\"\n  ],\n  \"findings\": [\n    \"high blood pressure\"\n  ],\n  \"allergies\": [\n    \"aspirin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"lisinopril\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": \"1 week\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"aspirin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test\"\n  ],\n  \"advice\": [\n    \"take lisinopril\"\n  ],\n  \"follow_up\": \"in one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "high blood pressure",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "no chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "no vomiting",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no chest pain"
+    ],
+    "findings": [
+      "high blood pressure"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "lisinopril",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": "1 week",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "aspirin"
+    ],
+    "investigations_ordered": [
+      "blood test"
+    ],
+    "advice": [
+      "take lisinopril"
+    ],
+    "follow_up": "in one week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 51,
+    "prompt_ms": 30.241,
+    "prompt_per_token_ms": 0.5929607843137255,
+    "prompt_per_second": 1686.4521675870506,
+    "predicted_n": 298,
+    "predicted_ms": 4559.259,
+    "predicted_per_token_ms": 15.351040404040404,
+    "predicted_per_second": 65.14216454910765
+  }
+}

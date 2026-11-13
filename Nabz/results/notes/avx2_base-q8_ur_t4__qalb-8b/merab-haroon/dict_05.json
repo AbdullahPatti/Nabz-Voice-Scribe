@@ -1,0 +1,30 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n         ],\n    \"negatives\": [ \n         ],\n    \"findings\": [ \n         ],\n    \"allergies\": [ \n         ],\n    \"medications\": [ \n         ],\n    \"drugs_to_avoid\": [ \n         ],\n    \"investigations_ordered\": [ \n         ],\n    \"advice\": [ \n         ],\n    \"follow_up\": \"next week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "next week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 116,
+    "prompt_ms": 57.06,
+    "prompt_per_token_ms": 0.49189655172413793,
+    "prompt_per_second": 2032.9477742726954,
+    "predicted_n": 132,
+    "predicted_ms": 2083.3,
+    "predicted_per_token_ms": 15.903053435114506,
+    "predicted_per_second": 62.88100609609753
+  }
+}

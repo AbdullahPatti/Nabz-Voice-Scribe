@@ -1,0 +1,57 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hair fall\",\n      \"duration\": \"long\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"headache\"\n  ],\n  \"findings\": [\n    \"hair fall\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Dostinex\",\n      \"strength\": \"0.5mg\",\n      \"dose\": \"1 tab daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"long term\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"hair test\"\n  ],\n  \"advice\": [\n    \"Do not take any iron supplements\"\n  ],\n  \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "hair fall",
+        "duration": "long"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "headache"
+    ],
+    "findings": [
+      "hair fall"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Dostinex",
+        "strength": "0.5mg",
+        "dose": "1 tab daily",
+        "frequency": "daily",
+        "duration": "long term",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "hair test"
+    ],
+    "advice": [
+      "Do not take any iron supplements"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 159,
+    "prompt_ms": 83.793,
+    "prompt_per_token_ms": 0.527,
+    "prompt_per_second": 1897.5332068311195,
+    "predicted_n": 230,
+    "predicted_ms": 3580.592,
+    "predicted_per_token_ms": 15.635772925764192,
+    "predicted_per_second": 63.95590449847399
+  }
+}

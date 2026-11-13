@@ -1,0 +1,30 @@
+{
+  "transcript": "Khatoon, 30 saal. Pait ke upar jalan hoti hai, khane ke baad zyada. Kehndi ae khatte dakaar aunde ne. Ulti nahi, wazan kam nahi hua. Risek 20 subah khali pait, do hafte. Raat ko Gaviscon ke do chamach. Chai aur mirch kam karein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 30\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 106,
+    "prompt_ms": 50.941,
+    "prompt_per_token_ms": 0.4805754716981132,
+    "prompt_per_second": 2080.838617223847,
+    "predicted_n": 123,
+    "predicted_ms": 1940.254,
+    "predicted_per_token_ms": 15.90372131147541,
+    "predicted_per_second": 62.87836540988964
+  }
+}

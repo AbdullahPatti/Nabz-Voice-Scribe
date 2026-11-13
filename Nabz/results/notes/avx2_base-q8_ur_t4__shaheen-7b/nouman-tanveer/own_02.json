@@ -1,0 +1,76 @@
+{
+  "transcript": "اپنے اپنے اپنے پڑھے سوڑھا اور اپنے اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا اور اپنے سوڑھا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"runny nose\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"fever\",\n    \"sore throat\",\n    \"runny nose\",\n    \"headache\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"for 5 days\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"ibuprofen\",\n    \"acetaminophen\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"over-the-counter pain relievers\"\n  ],\n  \"follow_up\": \"in 5 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "runny nose",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "cough",
+      "fever",
+      "sore throat",
+      "runny nose",
+      "headache"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "for 5 days",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "ibuprofen",
+      "acetaminophen"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids",
+      "over-the-counter pain relievers"
+    ],
+    "follow_up": "in 5 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 206,
+    "prompt_ms": 85.924,
+    "prompt_per_token_ms": 0.41710679611650486,
+    "prompt_per_second": 2397.4675294446256,
+    "predicted_n": 347,
+    "predicted_ms": 4962.398,
+    "predicted_per_token_ms": 14.342190751445088,
+    "predicted_per_second": 69.72435503964012
+  }
+}

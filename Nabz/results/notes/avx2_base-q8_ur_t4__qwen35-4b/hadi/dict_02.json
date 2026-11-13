@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بہار جس میں دیار درانکھوں کے پیچے درد پلےٹلٹس پچانوے عزار ہے کہ ہی سے خون نہیں آرہ صرف پر ادال دو بھڑی دن میں تین بار پروفین بلکل نہیں لینی دیسپنین بھی نہیں پانی زیادہ پیئے کل خون کا تیز دبارہ پر آہ کروانا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"menorrhagia\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pelvic pain\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no dysmenorrhea\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no fever\",\n    \"no vaginal bleeding\",\n    \"no urinary frequency\",\n    \"no urinary urgency\",\n    \"no urinary retention\",\n    \"no dysuria\",\n    \"no hematuria\",\n    \"no dyspnea\",\n    \"no chest pain\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no back pain\",\n    \"no abdominal pain\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no cough\",\n    \"no sputum\",\n    \"no shortness of breath\",\n    \"no chest tightness\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no back pain\",\n    \"no abdominal pain\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no cough\",\n    \"no sputum\",\n    \"no shortness of breath\",\n    \"no chest tightness\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no back pain\",\n    \"no abdominal pain\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no cough\",\n    \"no sputum\",\n    \"no shortness of breath\",\n    \"no chest tightness\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no back pain\",\n    \"no abdominal pain\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no cough\",\n    \"no sputum\",\n    \"no shortness of breath\",\n    \"no chest tightness\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no back pain\",\n    \"no abdominal pain\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no cough\",\n    \"no sputum\",\n    \"no shortness of breath\",\n    \"no chest tightness\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no back pain\",\n    \"no abdominal pain\",\n    \"no diarrhea\",\n    \"no constipation\",\n    \"no nausea\",\n    \"no vomiting\",\n    \"no cough\",\n    \"no sputum\",\n    \"no shortness of breath\",\n    \"no chest tightness\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no headache\",\n    \"no joint pain\",\n    \"no back pain\",\n    \"no abdominal pain\",\n    \"no diarrhea\",\n    \"no const",
+  "note": null,
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 100.969,
+    "prompt_per_token_ms": 0.9015089285714285,
+    "prompt_per_second": 1109.2513543760956,
+    "predicted_n": 800,
+    "predicted_ms": 8533.217,
+    "predicted_per_token_ms": 10.679871088861077,
+    "predicted_per_second": 93.63408899597889
+  }
+}

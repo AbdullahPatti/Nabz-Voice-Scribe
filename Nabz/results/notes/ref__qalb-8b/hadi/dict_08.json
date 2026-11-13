@@ -1,0 +1,30 @@
+{
+  "transcript": "Khatoon, 26 saal. Do din se peshab mein jalan hai aur baar baar aata hai. Bukhar nahi, kamar mein dard nahi. Pregnant nahi hain. Cipro 500 din mein do baar, teen din. Paani zyada piyein. Peshab ka test karwa lein. Teen din mein farq na pare to dobara aayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 26\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"three_days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "three_days"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 102,
+    "prompt_ms": 43.844,
+    "prompt_per_token_ms": 0.429843137254902,
+    "prompt_per_second": 2326.4300702490646,
+    "predicted_n": 123,
+    "predicted_ms": 1861.566,
+    "predicted_per_token_ms": 15.258737704918033,
+    "predicted_per_second": 65.53622057987738
+  }
+}

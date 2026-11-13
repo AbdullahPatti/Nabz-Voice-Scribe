@@ -1,0 +1,69 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 40\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"itching\",\n            \"duration\": \"chronic\"\n        },\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"repeated\"\n        },\n        {\n            \"symptom\": \"abdominal_pain\",\n            \"duration\": \"repeated\"\n        },\n        {\n            \"symptom\": \"night_sweats\",\n            \"duration\": \"repeated\"\n        }\n    ],\n    \"negatives\": [\n        \"cough\",\n        \"shortness_of_breath\"\n    ],\n    \"findings\": [\n        \"no_lesions\"\n    ],\n    \"allergies\": [\n        \"penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Paracetamol\",\n            \"strength\": null,\n            \"dose\": \"3 times a day\",\n            \"frequency\": \"as_needed\",\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Penicillin\"\n    ],\n    \"investigations_ordered\": [\n        \"Urinalysis\"\n    ],\n    \"advice\": [\n        \"Repeat urinalysis\"\n    ],\n    \"follow_up\": \"Repeat urinalysis\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "fever",
+        "duration": "repeated"
+      },
+      {
+        "symptom": "abdominal_pain",
+        "duration": "repeated"
+      },
+      {
+        "symptom": "night_sweats",
+        "duration": "repeated"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "shortness_of_breath"
+    ],
+    "findings": [
+      "no_lesions"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "3 times a day",
+        "frequency": "as_needed",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [
+      "Urinalysis"
+    ],
+    "advice": [
+      "Repeat urinalysis"
+    ],
+    "follow_up": "Repeat urinalysis"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 138,
+    "prompt_ms": 82.385,
+    "prompt_per_token_ms": 0.5969927536231885,
+    "prompt_per_second": 1675.0622079262,
+    "predicted_n": 314,
+    "predicted_ms": 4853.095,
+    "predicted_per_token_ms": 15.505095846645368,
+    "predicted_per_second": 64.49492540327357
+  }
+}

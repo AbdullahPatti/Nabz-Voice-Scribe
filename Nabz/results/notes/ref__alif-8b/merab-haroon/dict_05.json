@@ -1,0 +1,65 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 50\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"sugar\",\n            \"duration\": \"long\"\n        }\n    ],\n    \"negatives\": [\n        \"pair_ache\"\n    ],\n    \"findings\": [\n        \"sugar_180\",\n        \"sugar_260\"\n    ],\n    \"allergies\": [\n        \"none\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Glucophage\",\n            \"strength\": \"500\",\n            \"dose\": \"twice_a_day\",\n            \"frequency\": \"everyday\",\n            \"duration\": \"3_months_ago\",\n            \"instructions\": \"with_food\"\n        },\n        {\n            \"name\": \"Glucophage\",\n            \"strength\": \"1000\",\n            \"dose\": \"twice_a_day\",\n            \"frequency\": \"everyday\",\n            \"duration\": \"3_months_ago\",\n            \"instructions\": \"with_food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"none\"\n    ],\n    \"investigations_ordered\": [\n        \"sugar_test\"\n    ],\n    \"advice\": [\n        \"none\"\n    ],\n    \"follow_up\": \"3_months_later\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sugar",
+        "duration": "long"
+      }
+    ],
+    "negatives": [
+      "pair_ache"
+    ],
+    "findings": [
+      "sugar_180",
+      "sugar_260"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice_a_day",
+        "frequency": "everyday",
+        "duration": "3_months_ago",
+        "instructions": "with_food"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "twice_a_day",
+        "frequency": "everyday",
+        "duration": "3_months_ago",
+        "instructions": "with_food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "sugar_test"
+    ],
+    "advice": [
+      "none"
+    ],
+    "follow_up": "3_months_later"
+  },
+  "timings": {
+    "cache_n": 342,
+    "prompt_n": 1,
+    "prompt_ms": 15.144,
+    "prompt_per_token_ms": 15.144,
+    "prompt_per_second": 66.03275224511357,
+    "predicted_n": 292,
+    "predicted_ms": 4518.958,
+    "predicted_per_token_ms": 15.529065292096218,
+    "predicted_per_second": 64.39537610218993
+  }
+}

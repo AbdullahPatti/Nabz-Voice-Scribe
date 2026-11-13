@@ -1,0 +1,30 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 40\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 242,
+    "prompt_n": 120,
+    "prompt_ms": 58.436,
+    "prompt_per_token_ms": 0.48696666666666666,
+    "prompt_per_second": 2053.528646724622,
+    "predicted_n": 120,
+    "predicted_ms": 1831.425,
+    "predicted_per_token_ms": 15.390126050420168,
+    "predicted_per_second": 64.97672577364621
+  }
+}

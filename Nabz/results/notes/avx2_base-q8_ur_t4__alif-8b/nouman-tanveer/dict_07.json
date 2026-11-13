@@ -1,0 +1,65 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1_year\"\n    },\n    {\n      \"symptom\": \"sputum\",\n      \"duration\": \"yellow\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"onset\"\n    }\n  ],\n  \"negatives\": [\n    \"headache\",\n    \"nausea\"\n  ],\n  \"findings\": [\n    \"breathlessness\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": null,\n      \"dose\": \"3_tab\",\n      \"frequency\": \"3_times_a_day\",\n      \"duration\": \"5_days\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"CXR\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"2_weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1_year"
+      },
+      {
+        "symptom": "sputum",
+        "duration": "yellow"
+      },
+      {
+        "symptom": "fever",
+        "duration": "onset"
+      }
+    ],
+    "negatives": [
+      "headache",
+      "nausea"
+    ],
+    "findings": [
+      "breathlessness"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "3_tab",
+        "frequency": "3_times_a_day",
+        "duration": "5_days",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "CXR"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "2_weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 145,
+    "prompt_ms": 64.742,
+    "prompt_per_token_ms": 0.44649655172413794,
+    "prompt_per_second": 2239.6589540020386,
+    "predicted_n": 266,
+    "predicted_ms": 4117.949,
+    "predicted_per_token_ms": 15.539430188679244,
+    "predicted_per_second": 64.35242398582402
+  }
+}

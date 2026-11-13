@@ -1,0 +1,49 @@
+{
+  "transcript": "Man 35 years, sore throat and fever for two days. No cough, no breathing problem. Panadol when there is fever. Warm salt water gargles three times a day. Come back if not better in three days.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"breathing problem\"\n  ],\n  \"findings\": [\n    \"Panadol for fever\",\n    \"Warm salt water gargles 3 times a day\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Panadol\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Follow up in 3 days\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "sore throat",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "breathing problem"
+    ],
+    "findings": [
+      "Panadol for fever",
+      "Warm salt water gargles 3 times a day"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Panadol"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Follow up in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 52,
+    "prompt_ms": 34.125,
+    "prompt_per_token_ms": 0.65625,
+    "prompt_per_second": 1523.8095238095239,
+    "predicted_n": 190,
+    "predicted_ms": 2770.791,
+    "predicted_per_token_ms": 14.660269841269843,
+    "predicted_per_second": 68.21156846546708
+  }
+}

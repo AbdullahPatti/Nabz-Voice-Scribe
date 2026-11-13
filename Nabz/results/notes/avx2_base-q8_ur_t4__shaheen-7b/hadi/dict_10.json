@@ -1,0 +1,69 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"since last night\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"swelling\",\n    \"pain\",\n    \"discharge\",\n    \"itching\"\n  ],\n  \"findings\": [\n    \"no rash\",\n    \"no site infection\",\n    \"no fever\",\n    \"no dysuria\",\n    \"no urinary tract infection\",\n    \"no vaginal discharge\",\n    \"no vaginal itching\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"antibiotics other than Augmentin 625\"\n  ],\n  \"investigations_ordered\": [\n    \"urinalysis\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"increase fluid intake\",\n    \"avoid spicy and acidic foods\",\n    \"follow up in 5 days\"\n  ],\n  \"follow_up\": \"5 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "since last night"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "swelling",
+      "pain",
+      "discharge",
+      "itching"
+    ],
+    "findings": [
+      "no rash",
+      "no site infection",
+      "no fever",
+      "no dysuria",
+      "no urinary tract infection",
+      "no vaginal discharge",
+      "no vaginal itching"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "once daily",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "antibiotics other than Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "urinalysis"
+    ],
+    "advice": [
+      "rest",
+      "increase fluid intake",
+      "avoid spicy and acidic foods",
+      "follow up in 5 days"
+    ],
+    "follow_up": "5 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 151,
+    "prompt_ms": 65.34,
+    "prompt_per_token_ms": 0.43271523178807947,
+    "prompt_per_second": 2310.988674625038,
+    "predicted_n": 307,
+    "predicted_ms": 4434.15,
+    "predicted_per_token_ms": 14.490686274509804,
+    "predicted_per_second": 69.00984405128379
+  }
+}

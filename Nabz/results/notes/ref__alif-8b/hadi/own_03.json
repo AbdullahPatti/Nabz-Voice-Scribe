@@ -1,0 +1,57 @@
+{
+  "transcript": "Aurat paintalees saal, shaam ka time headache ek hafte se. BP one forty aur ninety. Eyesight mein koi masla nahi aur no ulti. Panadol jab zaroorat pare, aur namak kam khayein. BP ek hafte baad phir check karwayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 40\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"1 week\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\",\n        \"nausea\"\n    ],\n    \"findings\": [\n        \"blood_pressure_140_90\"\n    ],\n    \"allergies\": [\n        \"aspirin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Panadol\",\n            \"strength\": null,\n            \"dose\": \"as needed\",\n            \"frequency\": null,\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"sodium\"\n    ],\n    \"investigations_ordered\": [\n        \"blood_pressure_recheck\"\n    ],\n    \"advice\": [\n        \"no restrictions\"\n    ],\n    \"follow_up\": \"in one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea"
+    ],
+    "findings": [
+      "blood_pressure_140_90"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "as needed",
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "sodium"
+    ],
+    "investigations_ordered": [
+      "blood_pressure_recheck"
+    ],
+    "advice": [
+      "no restrictions"
+    ],
+    "follow_up": "in one week"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 78,
+    "prompt_ms": 39.373,
+    "prompt_per_token_ms": 0.5047820512820512,
+    "prompt_per_second": 1981.053005866965,
+    "predicted_n": 218,
+    "predicted_ms": 3432.941,
+    "predicted_per_token_ms": 15.82000460829493,
+    "predicted_per_second": 63.21110674491639
+  }
+}

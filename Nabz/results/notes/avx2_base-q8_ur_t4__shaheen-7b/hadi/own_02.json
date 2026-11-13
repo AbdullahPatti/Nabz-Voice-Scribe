@@ -1,0 +1,71 @@
+{
+  "transcript": "میں این این این این این این این این این این این این این",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\",\n    \"ulti nahi\"\n  ],\n  \"findings\": [\n    \"tachycardia\",\n    \"respiratory rate 20 breaths per minute\",\n    \"temperature 101°F\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Amoxicillin 500\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\",\n    \"blood culture\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"acetaminophen 500 mg\",\n    \"avoid penicillin\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "tachycardia",
+      "respiratory rate 20 breaths per minute",
+      "temperature 101°F"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Amoxicillin 500",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [
+      "CBC",
+      "blood culture"
+    ],
+    "advice": [
+      "rest",
+      "fluids",
+      "acetaminophen 500 mg",
+      "avoid penicillin"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 34,
+    "prompt_ms": 34.161,
+    "prompt_per_token_ms": 1.004735294117647,
+    "prompt_per_second": 995.2870232136061,
+    "predicted_n": 314,
+    "predicted_ms": 4475.646,
+    "predicted_per_token_ms": 14.299188498402556,
+    "predicted_per_second": 69.93403857230889
+  }
+}

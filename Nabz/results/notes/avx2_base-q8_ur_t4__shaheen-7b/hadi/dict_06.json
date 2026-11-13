@@ -1,0 +1,52 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"pelvic pain\",\n      \"duration\": \"3 years\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no nausea\",\n    \"no weight loss\",\n    \"no risk factors\"\n  ],\n  \"findings\": [\n    \"pelvic pain\",\n    \"constipation\",\n    \"diarrhea\",\n    \"no abdominal tenderness\",\n    \"no palpable masses\",\n    \"no weight loss\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce constipation\",\n    \"reduce diarrhea\",\n    \"avoid spicy food\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pelvic pain",
+        "duration": "3 years"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no nausea",
+      "no weight loss",
+      "no risk factors"
+    ],
+    "findings": [
+      "pelvic pain",
+      "constipation",
+      "diarrhea",
+      "no abdominal tenderness",
+      "no palpable masses",
+      "no weight loss"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce constipation",
+      "reduce diarrhea",
+      "avoid spicy food"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 135,
+    "prompt_ms": 66.046,
+    "prompt_per_token_ms": 0.4892296296296297,
+    "prompt_per_second": 2044.0299185416222,
+    "predicted_n": 200,
+    "predicted_ms": 2875.307,
+    "predicted_per_token_ms": 14.44877889447236,
+    "predicted_per_second": 69.21000087990605
+  }
+}

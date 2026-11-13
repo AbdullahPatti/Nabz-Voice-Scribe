@@ -1,0 +1,60 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 4\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"4 days\"\n        },\n        {\n            \"symptom\": \"cough\",\n            \"duration\": \"3 days\"\n        }\n    ],\n    \"negatives\": [\n        \"rash\"\n    ],\n    \"findings\": [\n        \"edema\"\n    ],\n    \"allergies\": [\n        \"penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Paracetamol\",\n            \"strength\": null,\n            \"dose\": \"5 days\",\n            \"frequency\": \"3 times a day\",\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"penicillin\"\n    ],\n    \"investigations_ordered\": [\n        \"xray\"\n    ],\n    \"advice\": [\n        \"Rest\"\n    ],\n    \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 4
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "4 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "rash"
+    ],
+    "findings": [
+      "edema"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "5 days",
+        "frequency": "3 times a day",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "xray"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 157,
+    "prompt_ms": 83.79,
+    "prompt_per_token_ms": 0.5336942675159236,
+    "prompt_per_second": 1873.7319489199185,
+    "predicted_n": 242,
+    "predicted_ms": 3781.661,
+    "predicted_per_token_ms": 15.691539419087137,
+    "predicted_per_second": 63.72861025882542
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 34\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 115,
+    "prompt_ms": 51.504,
+    "prompt_per_token_ms": 0.44786086956521737,
+    "prompt_per_second": 2232.8362845604224,
+    "predicted_n": 130,
+    "predicted_ms": 1992.531,
+    "predicted_per_token_ms": 15.445976744186046,
+    "predicted_per_second": 64.74177817057803
+  }
+}

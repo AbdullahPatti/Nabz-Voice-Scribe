@@ -1,0 +1,30 @@
+{
+  "transcript": "Mard, 50 saal, sugar ka purana mareez. Nihar mun sugar 180 aur khane ke baad 260. Pehle Glucophage 500 din mein do baar le raha tha. Ab Glucophage 1000 din mein do baar, khane ke saath. Teen mahine wala sugar test karwana hai. Pairon mein sun hona nahi hai.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 50\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 102,
+    "prompt_ms": 55.561,
+    "prompt_per_token_ms": 0.5447156862745098,
+    "prompt_per_second": 1835.820089631216,
+    "predicted_n": 120,
+    "predicted_ms": 1872.368,
+    "predicted_per_token_ms": 15.734184873949578,
+    "predicted_per_second": 63.55588217700794
+  }
+}

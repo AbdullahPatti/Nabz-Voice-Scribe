@@ -1,0 +1,60 @@
+{
+  "transcript": "Aurat sixty years, do mahine se knee pain, seerhiyon pe zyada buri. No swelling, no fever. Din mein Panadol ke do tablet. Halki exercise daily, aur ek mahine baad wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"knee pain\",\n      \"duration\": \"6 months\"\n    },\n    {\n      \"symptom\": \"worse in the evening\",\n      \"duration\": \"always\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"no swelling\"\n  ],\n  \"allergies\": [\n    \"no known\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"2 tablets daily\",\n      \"dose\": \"daily\",\n      \"frequency\": \"daytime\",\n      \"duration\": \"always\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"no known\"\n  ],\n  \"investigations_ordered\": [\n    \"no known\"\n  ],\n  \"advice\": [\n    \"light exercise daily\"\n  ],\n  \"follow_up\": \"1 month later\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "6 months"
+      },
+      {
+        "symptom": "worse in the evening",
+        "duration": "always"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "no swelling"
+    ],
+    "allergies": [
+      "no known"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "2 tablets daily",
+        "dose": "daily",
+        "frequency": "daytime",
+        "duration": "always",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "no known"
+    ],
+    "investigations_ordered": [
+      "no known"
+    ],
+    "advice": [
+      "light exercise daily"
+    ],
+    "follow_up": "1 month later"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 67,
+    "prompt_ms": 52.785,
+    "prompt_per_token_ms": 0.7878358208955223,
+    "prompt_per_second": 1269.2999905276122,
+    "predicted_n": 245,
+    "predicted_ms": 3850.751,
+    "predicted_per_token_ms": 15.781766393442624,
+    "predicted_per_second": 63.36426323073083
+  }
+}

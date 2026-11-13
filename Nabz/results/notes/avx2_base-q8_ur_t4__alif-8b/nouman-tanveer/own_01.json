@@ -1,0 +1,61 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 2\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"vomiting\",\n      \"duration\": \"1 day\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"headache\"\n  ],\n  \"findings\": [\n    \"normal\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"5ml 8 hourly\",\n      \"frequency\": \"8 hourly\",\n      \"duration\": \"5 days\",\n      \"instructions\": \"Give with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood count\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 2
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 day"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "headache"
+    ],
+    "findings": [
+      "normal"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "5ml 8 hourly",
+        "frequency": "8 hourly",
+        "duration": "5 days",
+        "instructions": "Give with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "blood count"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 242,
+    "prompt_n": 77,
+    "prompt_ms": 35.148,
+    "prompt_per_token_ms": 0.4564675324675325,
+    "prompt_per_second": 2190.7363150108113,
+    "predicted_n": 255,
+    "predicted_ms": 3929.675,
+    "predicted_per_token_ms": 15.471161417322836,
+    "predicted_per_second": 64.63638850541075
+  }
+}

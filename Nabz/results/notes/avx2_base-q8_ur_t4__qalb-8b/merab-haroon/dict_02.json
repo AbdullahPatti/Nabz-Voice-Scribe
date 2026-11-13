@@ -1,0 +1,30 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 30\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 179,
+    "prompt_ms": 75.708,
+    "prompt_per_token_ms": 0.42294972067039105,
+    "prompt_per_second": 2364.3472288265443,
+    "predicted_n": 128,
+    "predicted_ms": 1976.934,
+    "predicted_per_token_ms": 15.566409448818897,
+    "predicted_per_second": 64.24089018652116
+  }
+}

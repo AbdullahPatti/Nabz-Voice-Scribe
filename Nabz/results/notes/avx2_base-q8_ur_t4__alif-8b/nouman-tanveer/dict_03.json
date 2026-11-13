@@ -1,0 +1,56 @@
+{
+  "transcript": "مرضہ چاریس آر کال رات سے 10 تلکہ ہیں 8 نو دفا ہو چکے ہیں 10 تلکہ ہون نہیں ہیں جس میں تھوڑا تھوڑی پانی کی کمی ہیں ہر 10 کے بات اور از کا ایک گلاثت فلجل 400 دین میں 3 بار 5 دین دوڑ ہوڑ تلی ہوئی چیزے بان اگر پیشہ آپ کام ہو جائے تو فورن باکس اپنے\nاگئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 10\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"10 days\"\n        }\n    ],\n    \"negatives\": [\n        \"fever\"\n    ],\n    \"findings\": [\n        \"dehydrated\"\n    ],\n    \"allergies\": [\n        \"penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Paracetamol\",\n            \"strength\": \"400 mg\",\n            \"dose\": \"3 times a day\",\n            \"frequency\": \"5 days\",\n            \"duration\": \"3 days\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Nonsteroidal anti-inflammatory drugs\"\n    ],\n    \"investigations_ordered\": [\n        \"Urinalysis\"\n    ],\n    \"advice\": [\n        \"Rest\"\n    ],\n    \"follow_up\": \"In 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 10
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "10 days"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "dehydrated"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "400 mg",
+        "dose": "3 times a day",
+        "frequency": "5 days",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Nonsteroidal anti-inflammatory drugs"
+    ],
+    "investigations_ordered": [
+      "Urinalysis"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "In 3 days"
+  },
+  "timings": {
+    "cache_n": 242,
+    "prompt_n": 189,
+    "prompt_ms": 78.082,
+    "prompt_per_token_ms": 0.4131322751322751,
+    "prompt_per_second": 2420.5322609564305,
+    "predicted_n": 229,
+    "predicted_ms": 3572.949,
+    "predicted_per_token_ms": 15.670828947368422,
+    "predicted_per_second": 63.8128336004796
+  }
+}

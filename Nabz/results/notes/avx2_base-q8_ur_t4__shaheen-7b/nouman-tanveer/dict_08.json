@@ -1,0 +1,61 @@
+{
+  "transcript": "خطون شبی سال دو دین سے پیشا میں جلن ہے اور بار بار آتا ہے بوخار نہیں کمر میں درد ہے پرگنن نہیں ہے سیپرو پانسو دین میں دو بار 3 دین پانیز یادا پیئے شاو کو ٹیشٹ کروالے 3 دین میں فرقنا پرے تو دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"abdominal pain\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"boil\",\n    \"pregnancy\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"abdominal pain\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ciprofloxacin\",\n      \"strength\": \"500\",\n      \"dose\": \"2 times daily\",\n      \"frequency\": \"3 days\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Ciprofloxacin\"\n  ],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"Take medicine as prescribed\",\n    \"Follow up in 3 days\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "boil",
+      "pregnancy"
+    ],
+    "findings": [
+      "cough",
+      "abdominal pain"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "2 times daily",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ciprofloxacin"
+    ],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "Take medicine as prescribed",
+      "Follow up in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 132,
+    "prompt_ms": 63.329,
+    "prompt_per_token_ms": 0.47976515151515153,
+    "prompt_per_second": 2084.353139951681,
+    "predicted_n": 261,
+    "predicted_ms": 3789.547,
+    "predicted_per_token_ms": 14.57518076923077,
+    "predicted_per_second": 68.6097837023792
+  }
+}

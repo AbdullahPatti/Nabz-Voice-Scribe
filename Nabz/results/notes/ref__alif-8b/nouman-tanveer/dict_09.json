@@ -1,0 +1,61 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"shortness_of_breath\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"wheezing\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"normal\"\n  ],\n  \"allergies\": [\n    \"Zyrtec\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": null,\n      \"dose\": \"4 puffs\",\n      \"frequency\": \"as_needed\",\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"dust\",\n    \"fumes\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"avoid_dust_and_fumes\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness_of_breath",
+        "duration": "night"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "normal"
+    ],
+    "allergies": [
+      "Zyrtec"
+    ],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": null,
+        "dose": "4 puffs",
+        "frequency": "as_needed",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "dust",
+      "fumes"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "avoid_dust_and_fumes"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 342,
+    "prompt_n": 1,
+    "prompt_ms": 28.696,
+    "prompt_per_token_ms": 28.696,
+    "prompt_per_second": 34.848062447727905,
+    "predicted_n": 239,
+    "predicted_ms": 3692.994,
+    "predicted_per_token_ms": 15.516781512605043,
+    "predicted_per_second": 64.44635436721532
+  }
+}

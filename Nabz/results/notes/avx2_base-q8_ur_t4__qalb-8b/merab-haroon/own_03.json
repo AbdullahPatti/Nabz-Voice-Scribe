@@ -1,0 +1,30 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n        \t],\n    \"negatives\": [ \n        \t],\n    \"findings\": [ \n        \t],\n    \"allergies\": [ \n        \t],\n    \"medications\": [ \n        \t],\n    \"drugs_to_avoid\": [ \n        \t],\n    \"investigations_ordered\": [ \n        \t],\n    \"advice\": [ \n        \t],\n    \"follow_up\": \"next week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "next week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 51,
+    "prompt_ms": 31.841,
+    "prompt_per_token_ms": 0.6243333333333334,
+    "prompt_per_second": 1601.7084890549918,
+    "predicted_n": 132,
+    "predicted_ms": 2043.652,
+    "predicted_per_token_ms": 15.600396946564885,
+    "predicted_per_second": 64.10093303556575
+  }
+}

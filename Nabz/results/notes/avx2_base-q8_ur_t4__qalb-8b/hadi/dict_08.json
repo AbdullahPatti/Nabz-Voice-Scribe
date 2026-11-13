@@ -1,0 +1,30 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 40\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 146,
+    "prompt_ms": 66.462,
+    "prompt_per_token_ms": 0.4552191780821918,
+    "prompt_per_second": 2196.744004092564,
+    "predicted_n": 123,
+    "predicted_ms": 1945.127,
+    "predicted_per_token_ms": 15.94366393442623,
+    "predicted_per_second": 62.72084033587524
+  }
+}

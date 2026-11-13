@@ -1,0 +1,30 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 35\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 35
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 125,
+    "prompt_ms": 57.523,
+    "prompt_per_token_ms": 0.46018400000000004,
+    "prompt_per_second": 2173.0438259478815,
+    "predicted_n": 131,
+    "predicted_ms": 2051.829,
+    "predicted_per_token_ms": 15.7833,
+    "predicted_per_second": 63.35810635291732
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"weight loss\",\n            \"duration\": \"1 week\"\n        },\n        {\n            \"symptom\": \"fatigue\",\n            \"duration\": \"1 week\"\n        },\n        {\n            \"symptom\": \"dry skin\",\n            \"duration\": \"1 week\"\n        },\n        {\n            \"symptom\": \"dry skin\",\n            \"duration\": \"1 week\"\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"ulty nahi\"\n    ],\n    \"allergies\": [\n        \"augmentin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"giyavi\",\n            \"strength\": \"2 weeks\",\n            \"dose\": \"2 times a day\",\n            \"frequency\": \"night time\",\n            \"duration\": \"1 week\",\n            \"instructions\": \"son kae\"\n        },\n        {\n            \"name\": \"chay\",\n            \"strength\": \"2 weeks\",\n            \"dose\": \"2 times a day\",\n            \"frequency\": \"night time\",\n            \"duration\": \"1 week\",\n            \"instructions\": \"son kae\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"augmentin\"\n    ],\n    \"investigations_ordered\": [\n        \"weight\"\n    ],\n    \"advice\": [\n        \"weight\"\n    ],\n    \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "weight loss",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "dry skin",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "dry skin",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "ulty nahi"
+    ],
+    "allergies": [
+      "augmentin"
+    ],
+    "medications": [
+      {
+        "name": "giyavi",
+        "strength": "2 weeks",
+        "dose": "2 times a day",
+        "frequency": "night time",
+        "duration": "1 week",
+        "instructions": "son kae"
+      },
+      {
+        "name": "chay",
+        "strength": "2 weeks",
+        "dose": "2 times a day",
+        "frequency": "night time",
+        "duration": "1 week",
+        "instructions": "son kae"
+      }
+    ],
+    "drugs_to_avoid": [
+      "augmentin"
+    ],
+    "investigations_ordered": [
+      "weight"
+    ],
+    "advice": [
+      "weight"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 146,
+    "prompt_ms": 46.471,
+    "prompt_per_token_ms": 0.31829452054794516,
+    "prompt_per_second": 3141.7443136579805,
+    "predicted_n": 352,
+    "predicted_ms": 3007.099,
+    "predicted_per_token_ms": 8.567233618233619,
+    "predicted_per_second": 116.7237925987804
+  }
+}

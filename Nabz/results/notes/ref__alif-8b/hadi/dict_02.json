@@ -1,0 +1,66 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 34\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"3 days\"\n        },\n        {\n            \"symptom\": \"body pain\",\n            \"duration\": \"3 days\"\n        },\n        {\n            \"symptom\": \"eye pain\",\n            \"duration\": \"3 days\"\n        }\n    ],\n    \"negatives\": [\n        \"vomiting\",\n        \"nausea\"\n    ],\n    \"findings\": [\n        \"platelets_95k\"\n    ],\n    \"allergies\": [\n        \"aspirin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Panadol\",\n            \"strength\": null,\n            \"dose\": \"2 tablets\",\n            \"frequency\": \"3 times a day\",\n            \"duration\": \"3 days\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Brufen\",\n        \"Disprin\"\n    ],\n    \"investigations_ordered\": [\n        \"blood_test\"\n    ],\n    \"advice\": [\n        \"Increase water intake\"\n    ],\n    \"follow_up\": \"Repeat blood test tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "eye pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "nausea"
+    ],
+    "findings": [
+      "platelets_95k"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "3 times a day",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "blood_test"
+    ],
+    "advice": [
+      "Increase water intake"
+    ],
+    "follow_up": "Repeat blood test tomorrow"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 115,
+    "prompt_ms": 48.558,
+    "prompt_per_token_ms": 0.42224347826086955,
+    "prompt_per_second": 2368.3018246221013,
+    "predicted_n": 284,
+    "predicted_ms": 4257.52,
+    "predicted_per_token_ms": 15.044240282685514,
+    "predicted_per_second": 66.4706213946147
+  }
+}

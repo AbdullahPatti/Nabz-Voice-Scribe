@@ -1,0 +1,69 @@
+{
+  "transcript": "Mareez mard, 28 saal. Paanch din se tez bukhar hai, sar dard aur kamzori bhi hai. Kehnda ae raat nu bohat thand lagdi ae. Ulti nahi hai, dast bhi nahi. Typhoid ka test positive aaya hai. Azomax 500 rozana ek goli, saat din. Panadol do goli din mein teen baar, jab bukhar ho. Teen din baad dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"5 days\"\n    },\n    {\n      \"symptom\": \"malaise\",\n      \"duration\": \"5 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"fever\",\n    \"headache\",\n    \"malaise\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Azomax\",\n      \"strength\": \"500\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"daily\",\n      \"duration\": \"7 days\",\n      \"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Panadol\",\n    \"2 tablets\",\n    \"3 times daily\",\n    \"when fever\"\n  ],\n  \"investigations_ordered\": [\n    \"Typhoid test\",\n    \"positive\"\n  ],\n  \"advice\": [\n    \"Follow up in 3 days\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "malaise",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "fever",
+      "headache",
+      "malaise"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Azomax",
+        "strength": "500",
+        "dose": "1 tablet",
+        "frequency": "daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Panadol",
+      "2 tablets",
+      "3 times daily",
+      "when fever"
+    ],
+    "investigations_ordered": [
+      "Typhoid test",
+      "positive"
+    ],
+    "advice": [
+      "Follow up in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 350,
+    "prompt_n": 1,
+    "prompt_ms": 15.061,
+    "prompt_per_token_ms": 15.061,
+    "prompt_per_second": 66.39665360865813,
+    "predicted_n": 289,
+    "predicted_ms": 4162.132,
+    "predicted_per_token_ms": 14.45184722222222,
+    "predicted_per_second": 69.19530663611823
+  }
+}

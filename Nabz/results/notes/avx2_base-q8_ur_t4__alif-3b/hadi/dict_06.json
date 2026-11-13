@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون تیس سال پیٹ کیوں پر جلن ہوتی ہے کھانے گواتھ زیادہ کندی یہ کھٹے دکھا ہر اندے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیٹ دو تیر آت کو گیویس کون کے دو چھاہر میچ کم کریں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 35\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"کیلے کا درد\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک نہیں\",\n            \"duration\": \"زیادہ وقت سے\" },\n        {\n            \"symptom\": \"بھوک ن",
+  "note": null,
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 129,
+    "prompt_ms": 43.624,
+    "prompt_per_token_ms": 0.33817054263565893,
+    "prompt_per_second": 2957.087841555107,
+    "predicted_n": 800,
+    "predicted_ms": 6079.619,
+    "predicted_per_token_ms": 7.609035043804756,
+    "predicted_per_second": 131.4227092191139
+  }
+}

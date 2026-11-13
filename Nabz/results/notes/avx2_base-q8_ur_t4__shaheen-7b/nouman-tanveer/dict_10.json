@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 48\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"follow-up visit\",\n      \"duration\": \"8 years\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"sore throat\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fe",
+  "note": null,
+  "timings": {
+    "cache_n": 233,
+    "prompt_n": 155,
+    "prompt_ms": 65.139,
+    "prompt_per_token_ms": 0.42025161290322577,
+    "prompt_per_second": 2379.5268579499225,
+    "predicted_n": 800,
+    "predicted_ms": 10910.445,
+    "predicted_per_token_ms": 13.655125156445557,
+    "predicted_per_second": 73.23257667308712
+  }
+}

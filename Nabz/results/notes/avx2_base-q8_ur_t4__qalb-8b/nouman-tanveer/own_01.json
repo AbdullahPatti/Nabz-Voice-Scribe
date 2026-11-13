@@ -1,0 +1,30 @@
+{
+  "transcript": "او مین سکشٹی ایر نی پین فر two مرٹس ورٹس نوستیرس نوستوالی ایک او فیور پاند او دوٹیب لرٹسٹ ویسٹے لیٹ اکسسس دیلی کم بیکن one مینت",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 78,
+    "prompt_ms": 39.071,
+    "prompt_per_token_ms": 0.5009102564102564,
+    "prompt_per_second": 1996.3655908474316,
+    "predicted_n": 128,
+    "predicted_ms": 1959.03,
+    "predicted_per_token_ms": 15.425433070866141,
+    "predicted_per_second": 64.82800161304318
+  }
+}

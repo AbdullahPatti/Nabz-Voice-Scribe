@@ -1,0 +1,61 @@
+{
+  "transcript": "اتون تیشال پیرڈ کے پر جلد ہوتی ہے کھانے کے بارسیا تھا کہاں دیئے کرٹے دگار ہون دے نے اولٹی نہیں وزن کم نہیں ہوا ریسیک بھی سبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"itching\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"fatigue\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\"\n  ],\n  \"findings\": [\n    \"skin_rash\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": null,\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"as needed\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood_test\"\n  ],\n  \"advice\": [\n    \"rest\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "fatigue",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea"
+    ],
+    "findings": [
+      "skin_rash"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "as needed",
+        "duration": "as needed",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "blood_test"
+    ],
+    "advice": [
+      "rest"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 146,
+    "prompt_ms": 82.363,
+    "prompt_per_token_ms": 0.5641301369863013,
+    "prompt_per_second": 1772.6406274662168,
+    "predicted_n": 243,
+    "predicted_ms": 3724.968,
+    "predicted_per_token_ms": 15.392429752066114,
+    "predicted_per_second": 64.96700105880105
+  }
+}

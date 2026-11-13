@@ -1,0 +1,51 @@
+{
+  "transcript": "حردیک انگی ایبین پر one week بیپی one forty over ninety no problem with kaisard no vomitingی ایگی لسولد بیپی چک again after one week",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no kidney issues\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Lisinopril\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"repeat BP check after 1 week\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"monitor blood pressure\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no kidney issues"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Lisinopril",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "repeat BP check after 1 week"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "monitor blood pressure"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 53,
+    "prompt_ms": 89.157,
+    "prompt_per_token_ms": 1.6822075471698112,
+    "prompt_per_second": 594.4569691667508,
+    "predicted_n": 238,
+    "predicted_ms": 3116.322,
+    "predicted_per_token_ms": 13.149037974683544,
+    "predicted_per_second": 76.0511911156806
+  }
+}

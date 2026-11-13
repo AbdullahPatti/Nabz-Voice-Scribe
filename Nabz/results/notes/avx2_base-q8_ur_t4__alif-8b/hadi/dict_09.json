@@ -1,0 +1,58 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"shortness of breath at night\",\n      \"duration\": \"since 1 year\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\"\n  ],\n  \"findings\": [\n    \"oxygen saturation 92% on room air\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Levocetirizine 5mg\",\n      \"strength\": null,\n      \"dose\": \"1 tablet daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"indefinitely\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Rest\",\n    \"Stop smoking\"\n  ],\n  \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath at night",
+        "duration": "since 1 year"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough"
+    ],
+    "findings": [
+      "oxygen saturation 92% on room air"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Levocetirizine 5mg",
+        "strength": null,
+        "dose": "1 tablet daily",
+        "frequency": "daily",
+        "duration": "indefinitely",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Rest",
+      "Stop smoking"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 136,
+    "prompt_ms": 83.649,
+    "prompt_per_token_ms": 0.6150661764705883,
+    "prompt_per_second": 1625.8413131059547,
+    "predicted_n": 250,
+    "predicted_ms": 3839.022,
+    "predicted_per_token_ms": 15.417759036144577,
+    "predicted_per_second": 64.86026909978635
+  }
+}

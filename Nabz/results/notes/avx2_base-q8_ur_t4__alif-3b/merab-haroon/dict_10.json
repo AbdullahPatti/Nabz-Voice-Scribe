@@ -1,0 +1,56 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{ \"patient\": { \"sex\": \"male\", \"age_years\": 18 }, \"complaints\": [ { \"symptom\": \"headache\", \"duration\": \"more than 1 month\" } ], \"negatives\": [ \"bukhar nahi\" ],\"findings\": [ \"ulty nahi\" ],\"allergies\": [ \"pencillin\" ],\"medications\": [ { \"name\": \"Augmentin\", \"strength\": \"625\",\"dose\": \"2 times a day\",\"frequency\": \"every day\",\"duration\": \"1 month\",\"instructions\": \"dose\" } ],\"drugs_to_avoid\": [ \"pencillin\" ],\"investigations_ordered\": [ \"none\" ],\"advice\": [ \"dose\" ],\"follow_up\": \"1 month\" }",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 18
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "more than 1 month"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "ulty nahi"
+    ],
+    "allergies": [
+      "pencillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 times a day",
+        "frequency": "every day",
+        "duration": "1 month",
+        "instructions": "dose"
+      }
+    ],
+    "drugs_to_avoid": [
+      "pencillin"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "dose"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 123,
+    "prompt_ms": 44.607,
+    "prompt_per_token_ms": 0.36265853658536584,
+    "prompt_per_second": 2757.414755531643,
+    "predicted_n": 185,
+    "predicted_ms": 1679.644,
+    "predicted_per_token_ms": 9.1285,
+    "predicted_per_second": 109.54702305964835
+  }
+}

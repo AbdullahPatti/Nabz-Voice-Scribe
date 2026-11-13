@@ -1,0 +1,57 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"since 3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"nausea\"\n  ],\n  \"findings\": [\n    \"allergy to penicillin\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"twice a day\",\n      \"frequency\": \"twice a day\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Zyrtec\"\n  ],\n  \"investigations_ordered\": [\n    \"xray\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "since 3 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "nausea"
+    ],
+    "findings": [
+      "allergy to penicillin"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "twice a day",
+        "frequency": "twice a day",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Zyrtec"
+    ],
+    "investigations_ordered": [
+      "xray"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 126,
+    "prompt_ms": 55.904,
+    "prompt_per_token_ms": 0.44368253968253973,
+    "prompt_per_second": 2253.8637664567827,
+    "predicted_n": 233,
+    "predicted_ms": 3605.318,
+    "predicted_per_token_ms": 15.54016379310345,
+    "predicted_per_second": 64.34938610130924
+  }
+}

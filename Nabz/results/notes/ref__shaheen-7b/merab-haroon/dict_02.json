@@ -1,0 +1,59 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"body pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain behind the eyes\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no bleeding from any source\"\n  ],\n  \"findings\": [\n    \"platelets: 95,000\"\n  ],\n  \"allergies\": [\n    \"Panadol\",\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Panadol\",\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"repeat blood test\"\n  ],\n  \"advice\": [\n    \"increase fluid intake\"\n  ],\n  \"follow_up\": \"next day\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind the eyes",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no bleeding from any source"
+    ],
+    "findings": [
+      "platelets: 95,000"
+    ],
+    "allergies": [
+      "Panadol",
+      "Brufen",
+      "Disprin"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Panadol",
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "repeat blood test"
+    ],
+    "advice": [
+      "increase fluid intake"
+    ],
+    "follow_up": "next day"
+  },
+  "timings": {
+    "cache_n": 236,
+    "prompt_n": 104,
+    "prompt_ms": 52.14,
+    "prompt_per_token_ms": 0.5013461538461539,
+    "prompt_per_second": 1994.6298427311087,
+    "predicted_n": 236,
+    "predicted_ms": 3399.101,
+    "predicted_per_token_ms": 14.464259574468086,
+    "predicted_per_second": 69.13592741139496
+  }
+}

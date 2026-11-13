@@ -1,0 +1,60 @@
+{
+  "transcript": "مارض بائیس آل رات کو ساتھ کی تقلیف اور سیننے سے سیٹی کی آس آتی ہے کہ براہد ہون دیگے بخار نہیں ویلنٹولی انہیلر ضرورت پر دو پف دین میں چارد فاصر زیادہ نہیں رات کو رٹک ایک گولی دول ہور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Shortness of breath\",\n      \"duration\": \"All night\"\n    },\n    {\n      \"symptom\": \"Chest pain\",\n      \"duration\": \"With exertion\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"Shortness of breath\"\n  ],\n  \"allergies\": [\n    \"Penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin Inhaler\",\n      \"strength\": null,\n      \"dose\": \"As needed\",\n      \"frequency\": \"Prn\",\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Chlorpheniramine\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "Shortness of breath",
+        "duration": "All night"
+      },
+      {
+        "symptom": "Chest pain",
+        "duration": "With exertion"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "Shortness of breath"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Ventolin Inhaler",
+        "strength": null,
+        "dose": "As needed",
+        "frequency": "Prn",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Chlorpheniramine"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 133,
+    "prompt_ms": 81.18,
+    "prompt_per_token_ms": 0.6103759398496241,
+    "prompt_per_second": 1638.3345651638333,
+    "predicted_n": 248,
+    "predicted_ms": 3832.733,
+    "predicted_per_token_ms": 15.517137651821862,
+    "predicted_per_second": 64.44487523654792
+  }
+}

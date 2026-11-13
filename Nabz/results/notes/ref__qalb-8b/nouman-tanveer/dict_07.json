@@ -1,0 +1,90 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"cough\",\n            \"duration\": \"one_week\"\n        },\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"one_week\"\n        },\n        {\n            \"symptom\": \"sputum\",\n            \"duration\": \"one_week\"\n        },\n        {\n            \"symptom\": \"shortness_of_breath\",\n            \"duration\": \"one_week\"\n        },\n        {\n            \"symptom\": \"chest_pain\",\n            \"duration\": \"one_week\"\n        },\n        {\n            \"symptom\": \"cough_syrup\",\n            \"duration\": \"one_week\"\n        },\n        {\n            \"symptom\": \"cigarette_smoking\",\n            \"duration\": \"one_week\"\n        }\n    ],\n    \"negatives\": [\"bukhar nahi\", \"ulti nahi\"],\n    \"findings\": [\"chest_xray\"],\n    \"allergies\": [\"cigarette_smoking\"],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin\",\n            \"strength\": \"625\",\n            \"dose\": \"twice_daily\",\n            \"frequency\": \"five_days\",\n            \"duration\": \"five_days\",\n            \"instructions\": \"Augmentin 625 din mein do baar, paanch din.\"\n        },\n        {\n            \"name\": \"cough_syrup\",\n            \"strength\": \"three_times_daily\",\n            \"dose\": \"three_times_daily\",\n            \"frequency\": \"three_days\",\n            \"duration\": \"three_days\",\n            \"instructions\": \"cough_syrup do chamach din mein teen baar.\"\n        }\n    ],\n    \"drugs_to_avoid\": [\"cough_syrup\"],\n    \"investigations_ordered\": [\"chest_xray\"],\n    \"advice\": [\"chest_xray\", \"cigarette_smoking\"],\n    \"follow_up\": \"chest_xray\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "one_week"
+      },
+      {
+        "symptom": "fever",
+        "duration": "one_week"
+      },
+      {
+        "symptom": "sputum",
+        "duration": "one_week"
+      },
+      {
+        "symptom": "shortness_of_breath",
+        "duration": "one_week"
+      },
+      {
+        "symptom": "chest_pain",
+        "duration": "one_week"
+      },
+      {
+        "symptom": "cough_syrup",
+        "duration": "one_week"
+      },
+      {
+        "symptom": "cigarette_smoking",
+        "duration": "one_week"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi",
+      "ulti nahi"
+    ],
+    "findings": [
+      "chest_xray"
+    ],
+    "allergies": [
+      "cigarette_smoking"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice_daily",
+        "frequency": "five_days",
+        "duration": "five_days",
+        "instructions": "Augmentin 625 din mein do baar, paanch din."
+      },
+      {
+        "name": "cough_syrup",
+        "strength": "three_times_daily",
+        "dose": "three_times_daily",
+        "frequency": "three_days",
+        "duration": "three_days",
+        "instructions": "cough_syrup do chamach din mein teen baar."
+      }
+    ],
+    "drugs_to_avoid": [
+      "cough_syrup"
+    ],
+    "investigations_ordered": [
+      "chest_xray"
+    ],
+    "advice": [
+      "chest_xray",
+      "cigarette_smoking"
+    ],
+    "follow_up": "chest_xray"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 109,
+    "prompt_ms": 54.956,
+    "prompt_per_token_ms": 0.5041834862385322,
+    "prompt_per_second": 1983.404905742776,
+    "predicted_n": 432,
+    "predicted_ms": 6483.344,
+    "predicted_per_token_ms": 15.042561484918794,
+    "predicted_per_second": 66.47803972764672
+  }
+}

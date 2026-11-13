@@ -1,0 +1,68 @@
+{
+  "transcript": "مرد پنطالی سال ایک افتے سے کنسی پیلا بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثا مٹین چیسو پنجی دین میں دو بار پانچ دین کنسی کا سی رب دو چھمچ دین میں تین بار سیگر ادھا کرنی ہے چیسٹ ایک سرے کرو آیا کرو آلے\nاگر اگر اگر اگر اگر اگر اگر اگر اگر",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 41\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"concussion\",\n            \"duration\": \"1 day\"\n        },\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"since yesterday\"\n        },\n        {\n            \"symptom\": \"cough\",\n            \"duration\": \"since yesterday\"\n        },\n        {\n            \"symptom\": \"shortness of breath\",\n            \"duration\": \"since yesterday\"\n        }\n    ],\n    \"negatives\": [\n        \"bukhar nahi\"\n    ],\n    \"findings\": [\n        \"concussion\"\n    ],\n    \"allergies\": [\n        \"سڑک کے کھانے\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"2 times a day\",\n            \"frequency\": \"3 times a day for 3 days\",\n            \"duration\": \"3 days\",\n            \"instructions\": \"3 times a day for 3 days\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"سڑک کے کھانے\"\n    ],\n    \"investigations_ordered\": [\n        \"concussion\"\n    ],\n    \"advice\": [\n        \"کھڑکی کے اوپر بیٹھنا\"\n    ],\n    \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 41
+    },
+    "complaints": [
+      {
+        "symptom": "concussion",
+        "duration": "1 day"
+      },
+      {
+        "symptom": "fever",
+        "duration": "since yesterday"
+      },
+      {
+        "symptom": "cough",
+        "duration": "since yesterday"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "since yesterday"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "concussion"
+    ],
+    "allergies": [
+      "سڑک کے کھانے"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "2 times a day",
+        "frequency": "3 times a day for 3 days",
+        "duration": "3 days",
+        "instructions": "3 times a day for 3 days"
+      }
+    ],
+    "drugs_to_avoid": [
+      "سڑک کے کھانے"
+    ],
+    "investigations_ordered": [
+      "concussion"
+    ],
+    "advice": [
+      "کھڑکی کے اوپر بیٹھنا"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 145,
+    "prompt_ms": 44.09,
+    "prompt_per_token_ms": 0.3040689655172414,
+    "prompt_per_second": 3288.727602630982,
+    "predicted_n": 339,
+    "predicted_ms": 2806.76,
+    "predicted_per_token_ms": 8.304023668639054,
+    "predicted_per_second": 120.42354886060794
+  }
+}

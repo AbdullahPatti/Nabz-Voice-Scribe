@@ -1,0 +1,48 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 38\n    },\n    \"complaints\": [ ],\n    \"negatives\": [ \"fever\", \"cough\" ],\n    \"findings\": [ ],\n    \"allergies\": [ \"penicillin\" ],\n    \"medications\": [ { \"name\": \"Zyrtec\", \"strength\": \"1/2 tablet\", \"dose\": \"night\",\n        \"frequency\": \"daily\",\n        \"duration\": \"10 days\",\n        \"instructions\": \"Take as directed\" } ],\n    \"drugs_to_avoid\": [ \"Augmentin\" ],\n    \"investigations_ordered\": [ ],\n    \"advice\": [ \"Return in one month\" ],\n    \"follow_up\": \"One month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [
+      "fever",
+      "cough"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "1/2 tablet",
+        "dose": "night",
+        "frequency": "daily",
+        "duration": "10 days",
+        "instructions": "Take as directed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Return in one month"
+    ],
+    "follow_up": "One month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 108,
+    "prompt_ms": 56.548,
+    "prompt_per_token_ms": 0.5235925925925926,
+    "prompt_per_second": 1909.8818702695055,
+    "predicted_n": 176,
+    "predicted_ms": 2705.886,
+    "predicted_per_token_ms": 15.462205714285714,
+    "predicted_per_second": 64.6738258744086
+  }
+}

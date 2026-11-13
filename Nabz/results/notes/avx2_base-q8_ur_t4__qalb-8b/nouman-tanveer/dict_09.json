@@ -1,0 +1,30 @@
+{
+  "transcript": "مارض بائیس آل رات کو ساتھ کی تقلیف اور سیننے سے سیٹی کی آس آتی ہے کہ براہد ہون دیگے بخار نہیں ویلنٹولی انہیلر ضرورت پر دو پف دین میں چارد فاصر زیادہ نہیں رات کو رٹک ایک گولی دول ہور دوے سے بچے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 28\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 28
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 133,
+    "prompt_ms": 65.12,
+    "prompt_per_token_ms": 0.48962406015037596,
+    "prompt_per_second": 2042.3832923832922,
+    "predicted_n": 129,
+    "predicted_ms": 1986.28,
+    "predicted_per_token_ms": 15.5178125,
+    "predicted_per_second": 64.44207261816058
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "transcript": "مر چارے سال کل رات لی دست لگے ہیں اٹھنوں دفع ہو چکے ہیں دست میں ہون نہیں ہے جس میں پانی کی قمی ہے ہر دست کے بعد ویرس کے اگلاس رجل چار سدین میں 3 بار 5 دن دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 34\n    },\n    \"complaints\": [ \n        \t],\n    \"negatives\": [ \n        \t],\n    \"findings\": [ \n        \t],\n    \"allergies\": [ \n        \t],\n    \"medications\": [ \n        \t],\n    \"drugs_to_avoid\": [ \n        \t],\n    \"investigations_ordered\": [ \n        \t],\n    \"advice\": [ \n        \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 34
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 157,
+    "prompt_ms": 71.316,
+    "prompt_per_token_ms": 0.4542420382165605,
+    "prompt_per_second": 2201.4695159571484,
+    "predicted_n": 128,
+    "predicted_ms": 1989.194,
+    "predicted_per_token_ms": 15.662944881889764,
+    "predicted_per_second": 63.84495428801817
+  }
+}

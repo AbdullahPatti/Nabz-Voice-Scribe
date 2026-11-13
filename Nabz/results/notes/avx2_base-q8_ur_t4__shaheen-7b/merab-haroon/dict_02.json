@@ -1,0 +1,72 @@
+{
+  "transcript": "حاتوم چونٹے ساڑ تین دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرس ٹائنٹی فائف ٹاؤزن ہے کہیں سے ہمی آرہا سیراف پیناڈول دو گولی دن میں ٹین بار بروفل نے لینے دیسپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دوبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"redness\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"pain\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"eye pain\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no discharge\",\n    \"no vision loss\"\n  ],\n  \"findings\": [\n    \"redness in eyes\",\n    \"eye pain\",\n    \"no discharge\",\n    \"no vision loss\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Lidocaine\",\n      \"strength\": \"100 mg\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"every 4 hours\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"as needed for pain\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Penicillin\",\n    \"Amoxicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"no investigations ordered\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"cold compresses\",\n    \"avoid eye strain\"\n  ],\n  \"follow_up\": \"in 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "redness",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "eye pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no discharge",
+      "no vision loss"
+    ],
+    "findings": [
+      "redness in eyes",
+      "eye pain",
+      "no discharge",
+      "no vision loss"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Lidocaine",
+        "strength": "100 mg",
+        "dose": "2 tablets",
+        "frequency": "every 4 hours",
+        "duration": "3 days",
+        "instructions": "as needed for pain"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin",
+      "Amoxicillin"
+    ],
+    "investigations_ordered": [
+      "no investigations ordered"
+    ],
+    "advice": [
+      "rest",
+      "cold compresses",
+      "avoid eye strain"
+    ],
+    "follow_up": "in 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 165,
+    "prompt_ms": 74.344,
+    "prompt_per_token_ms": 0.45056969696969695,
+    "prompt_per_second": 2219.4124609921446,
+    "predicted_n": 311,
+    "predicted_ms": 4435.143,
+    "predicted_per_token_ms": 14.306912903225806,
+    "predicted_per_second": 69.8962806836217
+  }
+}

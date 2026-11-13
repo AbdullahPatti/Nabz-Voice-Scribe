@@ -1,0 +1,30 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی رہشنی وا کوئی ساید افتنی، مخارنے کانتینی پینیسیلین سے ایلرجی ہے اسی اگوینٹن نیویںی، زرٹیک آدی گولی راٹ کو دستنگ، ایک محینے بعد دکھائیں،",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 38\n    },\n    \"complaints\": [ \n       \t],\n    \"negatives\": [ \n       \t],\n    \"findings\": [ \n       \t],\n    \"allergies\": [ \n       \t],\n    \"medications\": [ \n       \t],\n    \"drugs_to_avoid\": [ \n       \t],\n    \"investigations_ordered\": [ \n       \t],\n    \"advice\": [ \n       \t],\n    \"follow_up\": \"next week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "next week"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 126,
+    "prompt_ms": 53.386,
+    "prompt_per_token_ms": 0.42369841269841274,
+    "prompt_per_second": 2360.169332783876,
+    "predicted_n": 123,
+    "predicted_ms": 1883.944,
+    "predicted_per_token_ms": 15.44216393442623,
+    "predicted_per_second": 64.7577635004013
+  }
+}

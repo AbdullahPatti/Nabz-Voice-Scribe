@@ -1,0 +1,16 @@
+{
+  "transcript": "Mareez mard, 28 saal. Paanch din se tez bukhar hai, sar dard aur kamzori bhi hai. Kehnda ae raat nu bohat thand lagdi ae. Ulti nahi hai, dast bhi nahi. Typhoid ka test positive aaya hai. Azomax 500 rozana ek goli, saat din. Panadol do goli din mein teen baar, jab bukhar ho. Teen din baad dobara aayein.",
+  "raw": "{\"patient\": {\"sex\": \"male\", \"age_years\": 28}, \"complaints\": [{\"symptom\": \"fever\", \"duration\": \"5 days\"}], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"dast nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\", \"raat nu thand lagdi ae\", \"typhoid ka test positive aaya hai\", \"azomax 500\", \"panadol 500 mg\", \"dast bhi nahi\", \"ulty nahi\", \"dast bhi nahi\",",
+  "note": null,
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 123,
+    "prompt_ms": 45.955,
+    "prompt_per_token_ms": 0.37361788617886177,
+    "prompt_per_second": 2676.5313894026767,
+    "predicted_n": 800,
+    "predicted_ms": 6094.275,
+    "predicted_per_token_ms": 7.627377972465582,
+    "predicted_per_second": 131.10665337550407
+  }
+}

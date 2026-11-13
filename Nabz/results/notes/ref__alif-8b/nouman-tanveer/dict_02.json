@@ -1,0 +1,66 @@
+{
+  "transcript": "Khatoon, 34 saal. Teen din se bukhar, jism mein dard, aur aankhon ke peeche dard. Platelets 95 hazaar hain. Kahin se khoon nahi aa raha. Sirf Panadol do goli din mein teen baar. Brufen bilkul nahi leni, Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test dobara karwana hai.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 34\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"3_days\"\n        },\n        {\n            \"symptom\": \"body_pain\",\n            \"duration\": \"3_days\"\n        },\n        {\n            \"symptom\": \"eye_pain\",\n            \"duration\": \"3_days\"\n        }\n    ],\n    \"negatives\": [\n        \"vomiting\",\n        \"nausea\"\n    ],\n    \"findings\": [\n        \"platelets_95k\"\n    ],\n    \"allergies\": [\n        \"aspirin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Panadol\",\n            \"strength\": null,\n            \"dose\": \"2_tabs_3times_a_day\",\n            \"frequency\": \"3times_a_day\",\n            \"duration\": \"3_days\",\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Brufen\",\n        \"Disprin\"\n    ],\n    \"investigations_ordered\": [\n        \"blood_test\"\n    ],\n    \"advice\": [\n        \"drink_more_water\"\n    ],\n    \"follow_up\": \"retest_blood\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3_days"
+      },
+      {
+        "symptom": "body_pain",
+        "duration": "3_days"
+      },
+      {
+        "symptom": "eye_pain",
+        "duration": "3_days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "nausea"
+    ],
+    "findings": [
+      "platelets_95k"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "2_tabs_3times_a_day",
+        "frequency": "3times_a_day",
+        "duration": "3_days",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "blood_test"
+    ],
+    "advice": [
+      "drink_more_water"
+    ],
+    "follow_up": "retest_blood"
+  },
+  "timings": {
+    "cache_n": 245,
+    "prompt_n": 111,
+    "prompt_ms": 52.037,
+    "prompt_per_token_ms": 0.4688018018018018,
+    "prompt_per_second": 2133.0976036281877,
+    "predicted_n": 288,
+    "predicted_ms": 4444.858,
+    "predicted_per_token_ms": 15.487310104529618,
+    "predicted_per_second": 64.56899185530786
+  }
+}

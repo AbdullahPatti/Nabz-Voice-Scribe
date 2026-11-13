@@ -1,0 +1,65 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{ \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"30 days\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"30 days\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"shortness_of_breath\"\n  ],\n  \"findings\": [\n    \"knee_pain\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": null,\n      \"dose\": \"1 tablet daily\",\n      \"frequency\": \"daily\",\n      \"duration\": \"1 month\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"xray_knee\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "30 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "30 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "shortness_of_breath"
+    ],
+    "findings": [
+      "knee_pain"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "1 tablet daily",
+        "frequency": "daily",
+        "duration": "1 month",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [
+      "xray_knee"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 184,
+    "prompt_ms": 90.904,
+    "prompt_per_token_ms": 0.49404347826086953,
+    "prompt_per_second": 2024.1133503476196,
+    "predicted_n": 277,
+    "predicted_ms": 4274.492,
+    "predicted_per_token_ms": 15.487289855072465,
+    "predicted_per_second": 64.56907627853789
+  }
+}

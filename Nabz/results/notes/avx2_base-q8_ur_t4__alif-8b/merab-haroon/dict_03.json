@@ -1,0 +1,61 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد اوارس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاب کامو جی تو فورن وفیسن\nایسا",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"chronic\"\n    },\n    {\n      \"symptom\": \"dry_skin\",\n      \"duration\": \"chronic\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"headache\"\n  ],\n  \"findings\": [\n    \"dry_skin\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 625\",\n      \"strength\": \"625\",\n      \"dose\": \"3 times a day\",\n      \"frequency\": \"3 days\",\n      \"duration\": \"3 days\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"urine_routine\"\n  ],\n  \"advice\": [\n    \"Apply moisturizer\"\n  ],\n  \"follow_up\": \"In 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "dizziness",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dry_skin",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "headache"
+    ],
+    "findings": [
+      "dry_skin"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "3 times a day",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "urine_routine"
+    ],
+    "advice": [
+      "Apply moisturizer"
+    ],
+    "follow_up": "In 3 days"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 153,
+    "prompt_ms": 69.467,
+    "prompt_per_token_ms": 0.4540326797385621,
+    "prompt_per_second": 2202.4846329912048,
+    "predicted_n": 257,
+    "predicted_ms": 3924.612,
+    "predicted_per_token_ms": 15.330515625,
+    "predicted_per_second": 65.22937808884038
+  }
+}

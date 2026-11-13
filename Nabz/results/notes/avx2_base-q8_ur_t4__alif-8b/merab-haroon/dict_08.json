@@ -1,0 +1,64 @@
+{
+  "transcript": "ہاتون چھپیسا۔ دو دم سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی۔ پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں۔ پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں۔",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 50\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"Urinary frequency\",\n            \"duration\": \"2 days\"\n        },\n        {\n            \"symptom\": \"Burning urination\",\n            \"duration\": \"2 days\"\n        },\n        {\n            \"symptom\": \"Back pain\",\n            \"duration\": \"2 days\"\n        }\n    ],\n    \"negatives\": [\n        \"Fever\"\n    ],\n    \"findings\": [\n        \"Urinary tract infection\"\n    ],\n    \"allergies\": [\n        \"Penicillin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Spasmo-PRO 500\",\n            \"strength\": \"500 mg\",\n            \"dose\": \"2 tablets daily\",\n            \"frequency\": \"2 days\",\n            \"duration\": \"3 days\",\n            \"instructions\": \"Take with food\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"Augmentin 625\"\n    ],\n    \"investigations_ordered\": [\n        \"Urinalysis\"\n    ],\n    \"advice\": [\n        \"Increase fluid intake\"\n    ],\n    \"follow_up\": \"In 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "Urinary frequency",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "Burning urination",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "Back pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "Fever"
+    ],
+    "findings": [
+      "Urinary tract infection"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Spasmo-PRO 500",
+        "strength": "500 mg",
+        "dose": "2 tablets daily",
+        "frequency": "2 days",
+        "duration": "3 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "Urinalysis"
+    ],
+    "advice": [
+      "Increase fluid intake"
+    ],
+    "follow_up": "In 2 days"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 140,
+    "prompt_ms": 68.144,
+    "prompt_per_token_ms": 0.4867428571428572,
+    "prompt_per_second": 2054.472880957971,
+    "predicted_n": 277,
+    "predicted_ms": 4258.321,
+    "predicted_per_token_ms": 15.428699275362318,
+    "predicted_per_second": 64.8142777399825
+  }
+}

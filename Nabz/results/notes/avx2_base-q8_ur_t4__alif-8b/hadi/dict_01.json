@@ -1,0 +1,69 @@
+{
+  "transcript": "مریز مرت اٹھائیس سال پہ اچن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھانلک دیئے بھولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوسٹے بایا ہے از میکس پانس رزانے گولی سات دن اور دولی دن میں تین بار جب وہ ہارو تین دن بات دبار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"days\"\n    },\n    {\n      \"symptom\": \"weakness\",\n      \"duration\": \"days\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"dyspnea\"\n  ],\n  \"findings\": [\n    \"hepatomegaly\"\n  ],\n  \"allergies\": [\n    \"azithromycin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"paracetamol\",\n      \"strength\": null,\n      \"dose\": \"3 times a day\",\n      \"frequency\": \"days\",\n      \"duration\": \"7 days\",\n      \"instructions\": null\n    },\n    {\n      \"name\": \"diphenhydramine\",\n      \"strength\": null,\n      \"dose\": \"3 times a day\",\n      \"frequency\": \"days\",\n      \"duration\": \"3 days\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"azithromycin\"\n  ],\n  \"investigations_ordered\": [\n    \"chest_xray\"\n  ],\n  \"advice\": [\n    \"rest\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "dyspnea"
+    ],
+    "findings": [
+      "hepatomegaly"
+    ],
+    "allergies": [
+      "azithromycin"
+    ],
+    "medications": [
+      {
+        "name": "paracetamol",
+        "strength": null,
+        "dose": "3 times a day",
+        "frequency": "days",
+        "duration": "7 days",
+        "instructions": null
+      },
+      {
+        "name": "diphenhydramine",
+        "strength": null,
+        "dose": "3 times a day",
+        "frequency": "days",
+        "duration": "3 days",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "azithromycin"
+    ],
+    "investigations_ordered": [
+      "chest_xray"
+    ],
+    "advice": [
+      "rest"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 164,
+    "prompt_ms": 75.301,
+    "prompt_per_token_ms": 0.45915243902439024,
+    "prompt_per_second": 2177.925923958513,
+    "predicted_n": 302,
+    "predicted_ms": 4613.065,
+    "predicted_per_token_ms": 15.32579734219269,
+    "predicted_per_second": 65.24945995775043
+  }
+}

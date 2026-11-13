@@ -1,0 +1,37 @@
+{
+  "transcript": "خاتون ارتیس سال، صرف فالو آپ کے لئے آئی ہیں، فیسلی دوائیسے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں، پینے سرن سے لڑی ہے ایسلیوں کو منتن نہیں دینی، سیٹے گادی گولی رات کو دستن ایک مینے بعد دکھے۔",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"female\",\n        \"age_years\": 45\n    },\n    \"complaints\": [ ],\n    \"negatives\": [ \"fever\", \"cough\" ],\n    \"findings\": [ ],\n    \"allergies\": [ ],\n    \"medications\": [ ],\n    \"drugs_to_avoid\": [ \"Augmentin 625\" ],\n    \"investigations_ordered\": [ ],\n    \"advice\": [ \"Do not give Augmentin 625\" ],\n    \"follow_up\": \"Follow up in 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [
+      "fever",
+      "cough"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Do not give Augmentin 625"
+    ],
+    "follow_up": "Follow up in 1 week"
+  },
+  "timings": {
+    "cache_n": 244,
+    "prompt_n": 159,
+    "prompt_ms": 70.029,
+    "prompt_per_token_ms": 0.44043396226415094,
+    "prompt_per_second": 2270.487940710277,
+    "predicted_n": 128,
+    "predicted_ms": 1952.008,
+    "predicted_per_token_ms": 15.370141732283464,
+    "predicted_per_second": 65.06120876553784
+  }
+}

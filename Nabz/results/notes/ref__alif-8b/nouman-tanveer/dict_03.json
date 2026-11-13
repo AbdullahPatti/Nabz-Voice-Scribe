@@ -1,0 +1,60 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lage hain, aath nau dafa ho chuke hain. Dast mein khoon nahi hai. Jism mein thori paani ki kami hai. Har dast ke baad ORS ka ek glass. Flagyl 400 din mein teen baar, paanch din. Doodh aur tali hui cheezein band. Agar peshab kam ho jaye to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dast\",\n      \"duration\": \"kal raat se\"\n    },\n    {\n      \"symptom\": \"aath nau dafa\",\n      \"duration\": \"ho chuke hain\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\"\n  ],\n  \"findings\": [\n    \"dast mein khoon nahi hai\"\n  ],\n  \"allergies\": [\n    \"na\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"ORS\",\n      \"strength\": null,\n      \"dose\": \"har dast ke baad\",\n      \"frequency\": \"paanch din\",\n      \"duration\": \"dina mein teen baar\",\n      \"instructions\": \"doodh aur tali hui cheezein band\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"flagyl\"\n  ],\n  \"investigations_ordered\": [\n    \"peshab kam ho jaye to foran wapas aayein\"\n  ],\n  \"advice\": [\n    \"na\"\n  ],\n  \"follow_up\": \"na\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "dast",
+        "duration": "kal raat se"
+      },
+      {
+        "symptom": "aath nau dafa",
+        "duration": "ho chuke hain"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "dast mein khoon nahi hai"
+    ],
+    "allergies": [
+      "na"
+    ],
+    "medications": [
+      {
+        "name": "ORS",
+        "strength": null,
+        "dose": "har dast ke baad",
+        "frequency": "paanch din",
+        "duration": "dina mein teen baar",
+        "instructions": "doodh aur tali hui cheezein band"
+      }
+    ],
+    "drugs_to_avoid": [
+      "flagyl"
+    ],
+    "investigations_ordered": [
+      "peshab kam ho jaye to foran wapas aayein"
+    ],
+    "advice": [
+      "na"
+    ],
+    "follow_up": "na"
+  },
+  "timings": {
+    "cache_n": 361,
+    "prompt_n": 1,
+    "prompt_ms": 29.557,
+    "prompt_per_token_ms": 29.557,
+    "prompt_per_second": 33.832932976959775,
+    "predicted_n": 278,
+    "predicted_ms": 4238.221,
+    "predicted_per_token_ms": 15.300436823104691,
+    "predicted_per_second": 65.35761112976412
+  }
+}

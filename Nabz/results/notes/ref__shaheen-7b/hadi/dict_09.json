@@ -1,0 +1,73 @@
+{
+  "transcript": "Mard, 22 saal. Raat ko saans ki takleef aur seene se seeti ki awaaz aati hai, ghabrahat hundi ae. Bukhar nahi. Ventolin inhaler, zaroorat par do puff, din mein chaar dafa se zyada nahi. Raat ko Zyrtec ek goli. Dhool aur dhuen se bachein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"shortness of breath\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"anxiety\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"allergy to dust and pollen\"\n  ],\n  \"findings\": [\n    \"Ventolin inhaler, 4 times a day, not more than 4 times a day\",\n    \"Zyrtec, 1 tablet at night\"\n  ],\n  \"allergies\": [\n    \"none\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": \"not specified\",\n      \"dose\": \"4 times a day, not more than 4 times a day\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"not specified\",\n      \"instructions\": \"use as needed\"\n    },\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"1 tablet\",\n      \"dose\": \"at night\",\n      \"frequency\": \"once a day\",\n      \"duration\": \"not specified\",\n      \"instructions\": \"take at night\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"none\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"avoid dust and pollen\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "night"
+      },
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "anxiety",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "allergy to dust and pollen"
+    ],
+    "findings": [
+      "Ventolin inhaler, 4 times a day, not more than 4 times a day",
+      "Zyrtec, 1 tablet at night"
+    ],
+    "allergies": [
+      "none"
+    ],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": "not specified",
+        "dose": "4 times a day, not more than 4 times a day",
+        "frequency": "as needed",
+        "duration": "not specified",
+        "instructions": "use as needed"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": "1 tablet",
+        "dose": "at night",
+        "frequency": "once a day",
+        "duration": "not specified",
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [
+      "none"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "avoid dust and pollen"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 95,
+    "prompt_ms": 44.868,
+    "prompt_per_token_ms": 0.47229473684210527,
+    "prompt_per_second": 2117.321922082553,
+    "predicted_n": 350,
+    "predicted_ms": 5035.983,
+    "predicted_per_token_ms": 14.429750716332379,
+    "predicted_per_second": 69.30126650546676
+  }
+}

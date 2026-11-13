@@ -1,0 +1,76 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi, peela balgham, aur halka bukhar. Saans nahi phoolta. Seene ki daayin taraf awaaz aa rahi hai. Augmentin 625 din mein do baar, paanch din. Khansi ka syrup do chamach din mein teen baar. Cigarette band karni hai. Chest X-ray karwa lein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 45\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"cough\",\n            \"duration\": \"1 week\"\n        },\n        {\n            \"symptom\": \"yellow_sputum\",\n            \"duration\": \"1 week\"\n        },\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"1 week\"\n        },\n        {\n            \"symptom\": \"shortness_of_breath\",\n            \"duration\": \"1 week\"\n        }\n    ],\n    \"negatives\": [\n        \"no_fever\"\n    ],\n    \"findings\": [\n        \"voice_from_lungs\"\n    ],\n    \"allergies\": [\n        \"no_allergy\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Augmentin 625\",\n            \"strength\": \"625\",\n            \"dose\": \"twice_a_day\",\n            \"frequency\": \"5_days\",\n            \"duration\": null,\n            \"instructions\": null\n        },\n        {\n            \"name\": \"cough_syrup\",\n            \"strength\": null,\n            \"dose\": null,\n            \"frequency\": \"3_times_a_day\",\n            \"duration\": \"5_days\",\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"cigarette\"\n    ],\n    \"investigations_ordered\": [\n        \"chest_xray\"\n    ],\n    \"advice\": [\n        \"stop_smoking\"\n    ],\n    \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow_sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fever",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness_of_breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no_fever"
+    ],
+    "findings": [
+      "voice_from_lungs"
+    ],
+    "allergies": [
+      "no_allergy"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 625",
+        "strength": "625",
+        "dose": "twice_a_day",
+        "frequency": "5_days",
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "cough_syrup",
+        "strength": null,
+        "dose": null,
+        "frequency": "3_times_a_day",
+        "duration": "5_days",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "cigarette"
+    ],
+    "investigations_ordered": [
+      "chest_xray"
+    ],
+    "advice": [
+      "stop_smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 349,
+    "prompt_n": 1,
+    "prompt_ms": 28.91,
+    "prompt_per_token_ms": 28.91,
+    "prompt_per_second": 34.59010722933241,
+    "predicted_n": 347,
+    "predicted_ms": 5264.217,
+    "predicted_per_token_ms": 15.2145,
+    "predicted_per_second": 65.72677380130797
+  }
+}

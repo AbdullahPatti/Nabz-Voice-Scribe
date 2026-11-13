@@ -1,0 +1,61 @@
+{
+  "transcript": "اورت 60 YEARS تو مہینے سنیپین سیڈیوں پیزاتا بوری نوس ویلگ نو فیور دین میں پیرنڈال کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپے سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"1 month\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"1 month\"\n    }\n  ],\n  \"negatives\": [\n    \"headache\",\n    \"nausea\"\n  ],\n  \"findings\": [\n    \"pneumonia\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": null,\n      \"dose\": \"4 tablets daily\",\n      \"frequency\": \"4 times daily\",\n      \"duration\": \"1 week\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"CXR\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "headache",
+      "nausea"
+    ],
+    "findings": [
+      "pneumonia"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": "4 tablets daily",
+        "frequency": "4 times daily",
+        "duration": "1 week",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "CXR"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 96,
+    "prompt_ms": 41.508,
+    "prompt_per_token_ms": 0.432375,
+    "prompt_per_second": 2312.807169702226,
+    "predicted_n": 249,
+    "predicted_ms": 3892.753,
+    "predicted_per_token_ms": 15.696584677419356,
+    "predicted_per_second": 63.708126356848226
+  }
+}

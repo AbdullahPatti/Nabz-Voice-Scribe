@@ -1,0 +1,64 @@
+{
+  "transcript": "مارض بائیس آل رات کو ساتھ کی تقلیف اور سیننے سے سیٹی کی آس آتی ہے کہ براہد ہون دیگے بخار نہیں ویلنٹولی انہیلر ضرورت پر دو پف دین میں چارد فاصر زیادہ نہیں رات کو رٹک ایک گولی دول ہور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 21\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"night\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"night\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"sweating\"\n  ],\n  \"findings\": [\n    \"wheezing\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Ventolin\",\n      \"strength\": null,\n      \"dose\": \"2 puffs as needed\",\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"chest x-ray\"\n  ],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"acetaminophen 500 mg\",\n    \"cough syrup\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 21
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "night"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "night"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "sweating"
+    ],
+    "findings": [
+      "wheezing"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": null,
+        "dose": "2 puffs as needed",
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [
+      "chest x-ray"
+    ],
+    "advice": [
+      "rest",
+      "fluids",
+      "acetaminophen 500 mg",
+      "cough syrup"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 131,
+    "prompt_ms": 67.636,
+    "prompt_per_token_ms": 0.5163053435114503,
+    "prompt_per_second": 1936.8383700987642,
+    "predicted_n": 257,
+    "predicted_ms": 3734.937,
+    "predicted_per_token_ms": 14.58959765625,
+    "predicted_per_second": 68.54198611649943
+  }
+}

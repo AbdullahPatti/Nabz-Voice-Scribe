@@ -1,0 +1,30 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے کہ براوٹ ہون دی گے وہ ہارڈ میں این ہیلار ضرورک پر دو پف دین میں چارڈ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچیں",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 30\n    },\n    \"complaints\": [ \n       \t\t],\n    \"negatives\": [ \n       \t\t],\n    \"findings\": [ \n       \t\t],\n    \"allergies\": [ \n       \t\t],\n    \"medications\": [ \n       \t\t],\n    \"drugs_to_avoid\": [ \n       \t\t],\n    \"investigations_ordered\": [ \n       \t\t],\n    \"advice\": [ \n       \t\t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 128,
+    "prompt_ms": 56.621,
+    "prompt_per_token_ms": 0.4423515625,
+    "prompt_per_second": 2260.645343600431,
+    "predicted_n": 129,
+    "predicted_ms": 1987.674,
+    "predicted_per_token_ms": 15.528703125,
+    "predicted_per_second": 64.39687795886046
+  }
+}

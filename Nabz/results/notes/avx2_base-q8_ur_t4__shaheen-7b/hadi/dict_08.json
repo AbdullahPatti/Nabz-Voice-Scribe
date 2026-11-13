@@ -1,0 +1,16 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمر میں در نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو تیشٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"2 days\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"coughing\",\n    \"coughing up blood\",\n    \"chest pain\",\n    \"nausea\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"fever\",\n    \"",
+  "note": null,
+  "timings": {
+    "cache_n": 234,
+    "prompt_n": 137,
+    "prompt_ms": 61.132,
+    "prompt_per_token_ms": 0.44621897810218975,
+    "prompt_per_second": 2241.052149447098,
+    "predicted_n": 800,
+    "predicted_ms": 10995.14,
+    "predicted_per_token_ms": 13.761126408010012,
+    "predicted_per_second": 72.66846988760489
+  }
+}

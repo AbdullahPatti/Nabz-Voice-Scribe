@@ -1,0 +1,77 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ ران نوٹ پوٹھانڈ لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹس پوڑیسی پوڑیڈی بایا ہے ایک سو میکس 500 روزانا ایک گولی سات دین پیرڈول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین بات دبارہ آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"3 days\"\n    },\n    {\n      \"symptom\": \"sore throat\",\n      \"duration\": \"3 days\"\n    }\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\",\n    \"no abdominal pain\",\n    \"no fever\",\n    \"no rash\"\n  ],\n  \"findings\": [\n    \"cough\",\n    \"headache\",\n    \"sore throat\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin 500\",\n      \"strength\": \"500\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"3 times a day\",\n      \"duration\": \"7 days\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Dol 500\",\n    \"Dol 500\"\n  ],\n  \"investigations_ordered\": [\n    \"throat swab\"\n  ],\n  \"advice\": [\n    \"Take Augmentin 500 1 tablet 3 times a day for 7 days with food\",\n    \"Take Dol 500 1 tablet 3 times a day for 7 days with food\",\n    \"Follow up in 7 days\"\n  ],\n  \"follow_up\": \"7 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea",
+      "no abdominal pain",
+      "no fever",
+      "no rash"
+    ],
+    "findings": [
+      "cough",
+      "headache",
+      "sore throat"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin 500",
+        "strength": "500",
+        "dose": "1 tablet",
+        "frequency": "3 times a day",
+        "duration": "7 days",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Dol 500",
+      "Dol 500"
+    ],
+    "investigations_ordered": [
+      "throat swab"
+    ],
+    "advice": [
+      "Take Augmentin 500 1 tablet 3 times a day for 7 days with food",
+      "Take Dol 500 1 tablet 3 times a day for 7 days with food",
+      "Follow up in 7 days"
+    ],
+    "follow_up": "7 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 187,
+    "prompt_ms": 76.285,
+    "prompt_per_token_ms": 0.4079411764705882,
+    "prompt_per_second": 2451.3338139870225,
+    "predicted_n": 384,
+    "predicted_ms": 5403.984,
+    "predicted_per_token_ms": 14.109618798955614,
+    "predicted_per_second": 70.87363693156752
+  }
+}

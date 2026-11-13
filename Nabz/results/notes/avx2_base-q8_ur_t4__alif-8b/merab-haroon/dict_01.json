@@ -1,0 +1,67 @@
+{
+  "transcript": "تیفورٹ مرد اٹھائی ساتھ پانچ دن سے تیس بہارے سر دردور کمزوری بھی ہے کندہی راتنوں بہت ہندہ لگ دیا ڈی نہیں ہے دست بھی نہیں ہے تیفورٹ کارٹی اس پوزگی بایا ہے ازو میکس 500 روزانہ ایک گولی ساتھیں پینے دول دولی دن میں تین بار جب ہارو تین دن بات دبار آئے",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 40\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"5 days\"\n        },\n        {\n            \"symptom\": \"headache\",\n            \"duration\": \"less\"\n        },\n        {\n            \"symptom\": \"weakness\",\n            \"duration\": \"less\"\n        }\n    ],\n    \"negatives\": [\n        \"cough\",\n        \"shortness_of_breath\"\n    ],\n    \"findings\": [\n        \"fever\",\n        \"headache\",\n        \"weakness\"\n    ],\n    \"allergies\": [\n        \"aspirin\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Paracetamol\",\n            \"strength\": \"500 mg\",\n            \"dose\": \"1 tablet daily\",\n            \"frequency\": \"3 times daily\",\n            \"duration\": \"3 days\",\n            \"instructions\": \"Take 3 tablets daily\"\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"aspirin\"\n    ],\n    \"investigations_ordered\": [\n        \"CXR\"\n    ],\n    \"advice\": [\n        \"Rest\"\n    ],\n    \"follow_up\": \"In 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "less"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "less"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "shortness_of_breath"
+    ],
+    "findings": [
+      "fever",
+      "headache",
+      "weakness"
+    ],
+    "allergies": [
+      "aspirin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "500 mg",
+        "dose": "1 tablet daily",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "Take 3 tablets daily"
+      }
+    ],
+    "drugs_to_avoid": [
+      "aspirin"
+    ],
+    "investigations_ordered": [
+      "CXR"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "In 3 days"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 178,
+    "prompt_ms": 79.032,
+    "prompt_per_token_ms": 0.444,
+    "prompt_per_second": 2252.252252252252,
+    "predicted_n": 287,
+    "predicted_ms": 4416.477,
+    "predicted_per_token_ms": 15.442227272727273,
+    "predicted_per_second": 64.75749788802251
+  }
+}

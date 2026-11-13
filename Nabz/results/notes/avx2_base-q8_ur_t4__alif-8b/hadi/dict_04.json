@@ -1,0 +1,66 @@
+{
+  "transcript": "خاتون پچپنسار آج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکر نہیں آتے سینی میں ترد نہیں ہے نورویس کپانچ رات کو ایک گلی شروع کر دی ہے نمکام کرنا ہے دوفت بات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"dizziness\",\n      \"duration\": \"ongoing\"\n    },\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"ongoing\"\n    },\n    {\n      \"symptom\": \"nausea\",\n      \"duration\": \"ongoing\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"no_cyanosis\",\n    \"no_edema\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Diphenhydramine\",\n      \"strength\": null,\n      \"dose\": \"1 tablet at bedtime\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"ongoing\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Aspirin\"\n  ],\n  \"investigations_ordered\": [\n    \"ECG\"\n  ],\n  \"advice\": [\n    \"Rest\"\n  ],\n  \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "dizziness",
+        "duration": "ongoing"
+      },
+      {
+        "symptom": "headache",
+        "duration": "ongoing"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "ongoing"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "no_cyanosis",
+      "no_edema"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Diphenhydramine",
+        "strength": null,
+        "dose": "1 tablet at bedtime",
+        "frequency": "as needed",
+        "duration": "ongoing",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Aspirin"
+    ],
+    "investigations_ordered": [
+      "ECG"
+    ],
+    "advice": [
+      "Rest"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 125,
+    "prompt_ms": 69.603,
+    "prompt_per_token_ms": 0.556824,
+    "prompt_per_second": 1795.8996020286484,
+    "predicted_n": 278,
+    "predicted_ms": 4255.123,
+    "predicted_per_token_ms": 15.361454873646208,
+    "predicted_per_second": 65.09800069234193
+  }
+}

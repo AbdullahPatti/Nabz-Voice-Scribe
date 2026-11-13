@@ -1,0 +1,30 @@
+{
+  "transcript": "انہیں 30 سورٹورکہ پر کچھ دوڑیس میں پر کچھ کچھ پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر کچھ دیڈیس میں پر",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 30\n    },\n    \"complaints\": [ \n        \t],\n    \"negatives\": [ \n        \t],\n    \"findings\": [ \n        \t],\n    \"allergies\": [ \n        \t],\n    \"medications\": [ \n        \t],\n    \"drugs_to_avoid\": [ \n        \t],\n    \"investigations_ordered\": [ \n        \t],\n    \"advice\": [ \n        \t],\n    \"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 171,
+    "prompt_ms": 83.882,
+    "prompt_per_token_ms": 0.49053801169590644,
+    "prompt_per_second": 2038.5780024319877,
+    "predicted_n": 128,
+    "predicted_ms": 1989.633,
+    "predicted_per_token_ms": 15.66640157480315,
+    "predicted_per_second": 63.83086730065294
+  }
+}

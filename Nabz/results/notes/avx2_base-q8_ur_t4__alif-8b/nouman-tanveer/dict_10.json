@@ -1,0 +1,61 @@
+{
+  "transcript": "خاتور آٹھتی سال، صرف فولو اپ کے لئے آئی ہے پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کنسی نہیں پینس لیلی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک مہین نے بات دکھائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 8\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"none\"\n    },\n    {\n      \"symptom\": \"cough\",\n      \"duration\": \"none\"\n    }\n  ],\n  \"negatives\": [\n    \"headache\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"no fever\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Paracetamol\",\n      \"strength\": \"none\",\n      \"dose\": \"none\",\n      \"frequency\": \"none\",\n      \"duration\": \"none\",\n      \"instructions\": \"none\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Zyrtec\"\n  ],\n  \"investigations_ordered\": [\n    \"none\"\n  ],\n  \"advice\": [\n    \"none\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 8
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "none"
+      },
+      {
+        "symptom": "cough",
+        "duration": "none"
+      }
+    ],
+    "negatives": [
+      "headache",
+      "vomiting"
+    ],
+    "findings": [
+      "no fever"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "none",
+        "dose": "none",
+        "frequency": "none",
+        "duration": "none",
+        "instructions": "none"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Zyrtec"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "none"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 157,
+    "prompt_ms": 87.354,
+    "prompt_per_token_ms": 0.5563949044585987,
+    "prompt_per_second": 1797.2846120383724,
+    "predicted_n": 239,
+    "predicted_ms": 3682.051,
+    "predicted_per_token_ms": 15.470802521008403,
+    "predicted_per_second": 64.6378879597268
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "transcript": "ایک سو ارسی اور کھانے کے بعد دوسو ساتھ پہلے گلائکہ فیش پانسو دن میں دو بار لے رہا ہے اب گلائکہ فیش پانسو دن میں دو بار کھانے کے ساتھ\nپہلے گلائکہ فیش پانسو دن",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"Urge to urinate\",\n      \"duration\": \"2 hours\"\n    },\n    {\n      \"symptom\": \"Frequent urination\",\n      \"duration\": \"2 hours\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"Diabetes\"\n  ],\n  \"allergies\": [\n    \"Penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Metformin\",\n      \"strength\": \"500\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"2 times a day\",\n      \"duration\": \"2 hours after meals\",\n      \"instructions\": \"Take with food\"\n    },\n    {\n      \"name\": \"Gliclazide\",\n      \"strength\": \"40\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"2 times a day\",\n      \"duration\": \"2 hours after meals\",\n      \"instructions\": \"Take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin 625\"\n  ],\n  \"investigations_ordered\": [\n    \"Fasting blood sugar\"\n  ],\n  \"advice\": [\n    \"Take metformin 500 2 tablets 2 times a day 2 hours after meals with food\"\n  ],\n  \"follow_up\": \"In 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "Urge to urinate",
+        "duration": "2 hours"
+      },
+      {
+        "symptom": "Frequent urination",
+        "duration": "2 hours"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "Diabetes"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Metformin",
+        "strength": "500",
+        "dose": "2 tablets",
+        "frequency": "2 times a day",
+        "duration": "2 hours after meals",
+        "instructions": "Take with food"
+      },
+      {
+        "name": "Gliclazide",
+        "strength": "40",
+        "dose": "1 tablet",
+        "frequency": "2 times a day",
+        "duration": "2 hours after meals",
+        "instructions": "Take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin 625"
+    ],
+    "investigations_ordered": [
+      "Fasting blood sugar"
+    ],
+    "advice": [
+      "Take metformin 500 2 tablets 2 times a day 2 hours after meals with food"
+    ],
+    "follow_up": "In 2 weeks"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 116,
+    "prompt_ms": 55.477,
+    "prompt_per_token_ms": 0.47824999999999995,
+    "prompt_per_second": 2090.9566126502873,
+    "predicted_n": 348,
+    "predicted_ms": 5221.664,
+    "predicted_per_token_ms": 15.048023054755042,
+    "predicted_per_second": 66.45391200965823
+  }
+}

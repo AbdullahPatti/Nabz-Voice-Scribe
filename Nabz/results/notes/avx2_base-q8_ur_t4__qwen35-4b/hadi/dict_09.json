@@ -1,0 +1,58 @@
+{
+  "transcript": "بیرد بائیش سال رات کو سانسی تکی فر سینے سے سیٹی کی یہ واضاتی ہے کہ بھر آٹ ہندی ہے وہ خار نہیں ونٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسی زیادہ نہیں رات کو زیٹیک ایک گولی دولوں دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 year\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"nighttime\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"nighttime\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Zopiclone\",\n      \"strength\": \"7.5\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"nighttime\",\"duration\": \"4 days\",\"instructions\": \"take only if needed\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"hydration\"\n  ],\"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "nighttime"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Zopiclone",
+        "strength": "7.5",
+        "dose": "2 tablets",
+        "frequency": "nighttime",
+        "duration": "4 days",
+        "instructions": "take only if needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "hydration"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 96.062,
+    "prompt_per_token_ms": 1.0329247311827956,
+    "prompt_per_second": 968.1247527638401,
+    "predicted_n": 255,
+    "predicted_ms": 3260.105,
+    "predicted_per_token_ms": 12.83505905511811,
+    "predicted_per_second": 77.91160100671604
+  }
+}

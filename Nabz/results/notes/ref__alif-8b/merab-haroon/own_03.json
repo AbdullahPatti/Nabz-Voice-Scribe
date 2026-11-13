@@ -1,0 +1,56 @@
+{
+  "transcript": "Woman 45 years, headache in the evening for one week. BP 140 over 90. No problem with eyesight, no vomiting. Panadol when needed, eat less salt. BP check again after one week.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"headache\",\n      \"duration\": \"1 week\"\n    }\n  ],\n  \"negatives\": [\n    \"bukhar nahi\"\n  ],\n  \"findings\": [\n    \"140 over 90\"\n  ],\n  \"allergies\": [\n    \"no\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": \"when needed\",\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"no\"\n  ],\n  \"investigations_ordered\": [\n    \"no\"\n  ],\n  \"advice\": [\n    \"eat less salt\"\n  ],\n  \"follow_up\": \"BP check again after one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "bukhar nahi"
+    ],
+    "findings": [
+      "140 over 90"
+    ],
+    "allergies": [
+      "no"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": null,
+        "frequency": "when needed",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "no"
+    ],
+    "investigations_ordered": [
+      "no"
+    ],
+    "advice": [
+      "eat less salt"
+    ],
+    "follow_up": "BP check again after one week"
+  },
+  "timings": {
+    "cache_n": 243,
+    "prompt_n": 56,
+    "prompt_ms": 31.551,
+    "prompt_per_token_ms": 0.5634107142857142,
+    "prompt_per_second": 1774.9041234826157,
+    "predicted_n": 214,
+    "predicted_ms": 3381.51,
+    "predicted_per_token_ms": 15.875633802816903,
+    "predicted_per_second": 62.98961115004835
+  }
+}

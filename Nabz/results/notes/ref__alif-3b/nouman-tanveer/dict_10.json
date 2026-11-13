@@ -1,0 +1,16 @@
+{
+  "transcript": "Khatoon, 38 saal, sirf follow up ke liye aayi hain. Pichhli dawai se koi rash nahi hua, koi side effect nahi. Bukhar nahi, khansi nahi. Penicillin se allergy hai, is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, das din. Ek mahine baad dikhayein.",
+  "raw": "{\"patient\": {\"sex\": \"female\", \"age_years\": 38}, \"complaints\": [], \"negatives\": [\"bukhar nahi\", \"ulti nahi\", \"penicillin se allergy hai\", \"bharat nahi\", \"khansi nahi\", \"koi rash nahi hua\", \"koi side effect nahi\"], \"findings\": [\"penicillin se allergy hai\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"rash nahi hua\", \"side effect nahi\", \"koi rash nahi hua\", \"koi side effect nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi\", \"bukhar nahi\", \"khansi nahi\", \"bharat nahi\", \"ulti nahi",
+  "note": null,
+  "timings": {
+    "cache_n": 348,
+    "prompt_n": 1,
+    "prompt_ms": 23.318,
+    "prompt_per_token_ms": 23.318,
+    "prompt_per_second": 42.88532464190754,
+    "predicted_n": 800,
+    "predicted_ms": 6062.328,
+    "predicted_per_token_ms": 7.587394242803505,
+    "predicted_per_second": 131.7975536790487
+  }
+}

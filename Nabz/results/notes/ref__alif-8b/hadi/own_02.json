@@ -1,0 +1,63 @@
+{
+  "transcript": "Man 35 years, sore throat aur fever for two days. Khansi nahi hai aur koi saans ka masla nahi hai. Panadol jab bhi fever ho. Warm salt water ke din mein teen baar gharare karein. Agar theek nahi hota to teen dinon mein wapas aayein.",
+  "raw": "{\n    \"patient\": {\n        \"sex\": \"male\",\n        \"age_years\": 35\n    },\n    \"complaints\": [\n        {\n            \"symptom\": \"sore throat\",\n            \"duration\": \"2 days\"\n        },\n        {\n            \"symptom\": \"fever\",\n            \"duration\": \"2 days\"\n        }\n    ],\n    \"negatives\": [\n        \"cough\",\n        \"shortness of breath\"\n    ],\n    \"findings\": [\n        \"no fever\"\n    ],\n    \"allergies\": [\n        \"Panadol\"\n    ],\n    \"medications\": [\n        {\n            \"name\": \"Panadol\",\n            \"strength\": null,\n            \"dose\": null,\n            \"frequency\": null,\n            \"duration\": null,\n            \"instructions\": null\n        }\n    ],\n    \"drugs_to_avoid\": [\n        \"salt water\"\n    ],\n    \"investigations_ordered\": [\n        \"none\"\n    ],\n    \"advice\": [\n        \"Take Panadol when fever is there\",\n        \"Take warm salt water three times a day at home\",\n        \"If not better come back in three days\"\n    ],\n    \"follow_up\": \"In three days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "sore throat",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "shortness of breath"
+    ],
+    "findings": [
+      "no fever"
+    ],
+    "allergies": [
+      "Panadol"
+    ],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "salt water"
+    ],
+    "investigations_ordered": [
+      "none"
+    ],
+    "advice": [
+      "Take Panadol when fever is there",
+      "Take warm salt water three times a day at home",
+      "If not better come back in three days"
+    ],
+    "follow_up": "In three days"
+  },
+  "timings": {
+    "cache_n": 241,
+    "prompt_n": 86,
+    "prompt_ms": 59.849,
+    "prompt_per_token_ms": 0.6959186046511627,
+    "prompt_per_second": 1436.9496566358669,
+    "predicted_n": 265,
+    "predicted_ms": 4137.758,
+    "predicted_per_token_ms": 15.673325757575757,
+    "predicted_per_second": 63.802668014900824
+  }
+}
