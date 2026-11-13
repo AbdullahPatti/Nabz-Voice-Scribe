@@ -1,3 +1,16 @@
+==========================================================================================
+UPDATE, 13 NOVEMBER 2026: READ NEXT_STEPS.md FIRST. IT OVERRIDES THIS FILE.
+==========================================================================================
+This plan was written for the RTX A4000 PC, which is gone. It is kept because NEXT_STEPS.md reuses steps 3 to 6
+(llama.cpp, model downloads, writing notes, scoring) for the rerun on the new PC. Where the two disagree,
+NEXT_STEPS.md wins. In particular, these parts no longer apply:
+  - "Do not collect data, fine-tune anything": the rerun includes speech recognition and fine-tuning.
+  - "must show the RTX A4000": use whatever CUDA GPU the PC has, and record it.
+  - "results/notes/ref__qwen35-4b/ already exists": still true, it came from the laptop.
+  - Step 7's heading and step 9: write up and report as NEXT_STEPS.md says.
+  - Step 8's "do NOT push if the repository is public": the user has decided that recordings, transcripts and
+    results are pushed to the public repository. Push as you go.
+
 NABZ SCRIBE: URDU NOTE-WRITER TEST ON THE RTX A4000 PC
 Written 9 November 2026. Claude Code: read all of this, then carry it out from start to finish without asking,
 except where a step says STOP. Work inside the Nabz folder (the folder this file is in).
