@@ -26,7 +26,7 @@ Use the kind of phone doctors actually carry (a mid-range Android with 6-8 GB RA
 4. **Open Termux** and run, one line at a time:
    ```
    termux-setup-storage            # tap Allow; gives Termux access to Download/
-   pkg update -y
+   pkg upgrade -y                  # a full upgrade; without it cmake fails with "cannot locate symbol"
    bash ~/storage/downloads/nabz/termux_bench.sh
    ```
    Keep the screen on and the phone plugged in, and close other apps. Compiling takes 15-30 minutes the first
