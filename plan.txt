@@ -1,0 +1,50 @@
+PLAN FOR 15 NOVEMBER 2026
+Written 14 November 2026, after the phone test. The older plan for the A4000 PC is Nabz/plan.txt; this file does
+not replace it.
+
+WHERE THINGS STAND
+The phone test ran on a Google Pixel 8 Pro (Tensor G3, 11.3 GB RAM, CPU only, 4 threads, one run).
+Results: Nabz/results/phone/google-pixel-8-pro.txt and the "Phone test" section of Nabz/results/RUN_NOTES.md.
+
+  Speech (fine-tuned Whisper base + stock base witness, one after the other):
+    24.2 s on the longest clip (37.6 s of audio). Budget 30 s. Fits, with a 6 s margin.
+  Note writer (Qwen3.5 4B IQ3_M):
+    3.98 tokens/s reading the prompt, 2.32 tokens/s writing.
+    A long note = 400 / 3.98 + 360 / 2.32 = 101 s + 155 s = 256 s (4 min 16 s). Budget 30 s. Does not fit.
+    Peak RAM 3.5 GB.
+
+The Pixel 8 Pro is a flagship. The target is a mid-range phone with 6-8 GB RAM, which will be slower.
+The note writer is the blocker for the Android app.
+
+WHAT TO DO, IN THIS ORDER
+
+1. Measure Qwen3.5 2B on the same phone.
+   Why first: it is the fallback already scored on the PC (weaker notes: RUN_NOTES "Phone-tier note writers"),
+   and it tells us whether any on-phone note writer is feasible.
+   How: download the 2B GGUF (about 1.4 GB) into Download/nabz/ on the phone, point the llama-bench line of
+   termux_bench.sh at it, rerun. The builds are already on the phone, so it takes a few minutes.
+   Record: prompt and generation tokens/s, seconds per note by the same formula, peak RAM.
+   Save as Nabz/results/phone/google-pixel-8-pro-qwen35-2b.txt and add it to RUN_NOTES.
+
+2. Decide on the note writer from that number.
+   a. If 2B fits 30 s (or is close): compare its note quality against 4B IQ3_M on the test speakers from the
+      existing PC runs, and decide whether the quality loss is acceptable.
+   b. If 2B is also too slow: accept a slow note. The transcript appears in about 25 s; the note is written in
+      the background and arrives minutes later. This changes the app design, not the models.
+   c. Optional, only if a and b are both unacceptable: try llama.cpp's GPU back end on Android. Untested here and
+      may not work on the Tensor chip.
+
+3. Run the same benchmark on a mid-range 6-8 GB phone, if one is available.
+   The speech margin (6 s on a flagship) may not hold there. Steps: Nabz/phone/README.md.
+
+STILL OPEN FROM BEFORE (need the user)
+- GitHub release upload of the chosen checkpoint: run  & "C:\Program Files\GitHub CLI\gh.exe" auth login  in
+  PowerShell, or upload Nabz\dl\ft-synth-full-s250.zip by hand as tag ft-s250. Then mark it done in PROGRESS.md.
+- Corrected own-words references, then rerun the scorers.
+- DRAP lexicon export to replace the 318-entry placeholder lexicon.txt, then recheck hints and the cross-check.
+- Android app: after the note-writer decision in step 2.
+
+RULES THAT STILL APPLY (from Nabz/NEXT_STEPS.md)
+Never edit scoring scripts, prompts, references or the answer key to improve a number. Never delete or overwrite
+results/a4000_snapshot/, recordings/, data/<speaker>/ or refs/. Never force-push. One GPU job at a time. Keep the
+Qwen3.5 4B IQ3_M file and models/ft-synth-full-s250/. Commit and push after each item; keep PROGRESS.md current.
