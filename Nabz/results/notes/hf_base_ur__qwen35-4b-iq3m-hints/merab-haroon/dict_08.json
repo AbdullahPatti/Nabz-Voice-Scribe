@@ -1,0 +1,55 @@
+{
+  "transcript": "ہاتون چب بیسان دو دن سے پیشاب میں جلنے اور بار بار آتا ہے وہ ہاں نہیں کمر میں درد میں ہی پر اگرن لئے سپرو 500 دن میں دو بار 3 دیں پانی زادہ پیشاب کا تیس کروالے 3 دن میں فرقنا پرے تو دبارا آئیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"burning on urination\", \"duration\": \"2 days\"},\n    {\"symptom\": \"recurrent symptoms\", \"duration\": \"2 days\"},\n    {\"symptom\": \"back pain\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Supro\", \"strength\": \"500\", \"dose\": \"2 tablets\", \"frequency\": \"3 times a day\", \"duration\": \"3 days\", \"instructions\": \"take with plenty of water\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink plenty of water\",\n    \"Avoid spicy food\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "burning on urination",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "recurrent symptoms",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "back pain",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Supro",
+        "strength": "500",
+        "dose": "2 tablets",
+        "frequency": "3 times a day",
+        "duration": "3 days",
+        "instructions": "take with plenty of water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink plenty of water",
+      "Avoid spicy food"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 142,
+    "prompt_ms": 90.344,
+    "prompt_per_token_ms": 0.6362253521126761,
+    "prompt_per_second": 1571.770123085097,
+    "predicted_n": 234,
+    "predicted_ms": 2952.601,
+    "predicted_per_token_ms": 12.672107296137339,
+    "predicted_per_second": 78.91347323935743
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے کے بعد دو سو خط پہلے گلوکو فیز پنسو دین میں دو بار لی رہا تھا اب لوکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر تشت کروائی ہے بیٹھوں میں سنھ ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"diabetes\", \"duration\": \"1 year\"},\n    {\"symptom\": \"hypoglycemia\", \"duration\": \"2 years\"}\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glucophage\", \"strength\": \"1000\", \"dose\": \"twice daily\", \"frequency\": \"twice daily\", \"duration\": \"2 years\", \"instructions\": \"with meals\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue current medication\",\n    \"monitor blood sugar\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "hypoglycemia",
+        "duration": "2 years"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 years",
+        "instructions": "with meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue current medication",
+      "monitor blood sugar"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 179,
+    "prompt_ms": 98.057,
+    "prompt_per_token_ms": 0.547804469273743,
+    "prompt_per_second": 1825.4688599488052,
+    "predicted_n": 230,
+    "predicted_ms": 3058.236,
+    "predicted_per_token_ms": 13.354742358078601,
+    "predicted_per_second": 74.87976729068653
+  }
+}

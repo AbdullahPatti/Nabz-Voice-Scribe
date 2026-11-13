@@ -1,0 +1,77 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی ریشنیوہ کوئی ساید افتنی، مخارنی کانتینی پینیسیلین سے ایلرجی ہے اسلی آگوینٹن نیویلی، زرٹیک آدی گولی رات کو دستنگ، ایک محینے بعد دکھائن،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"1 month\"},\n    {\"symptom\": \"headache\", \"duration\": \"1 month\"},\n    {\"symptom\": \"cough\", \"duration\": \"1 month\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 month\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no chest tightness\",\n    \"no chest congestion\",\n    \"no chest wheeze\",\n    \"no chest rales\",\n    \"no chest crackles\",\n    \"no chest friction rub\",\n    \"no chest pleurisy\",\n    \"no chest pleural effusion\",\n    \"no chest pneumothorax\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"twice daily\", \"frequency\": \"at night\", \"duration\": \"1 month\", \"instructions\": \"take after food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Augmentin 625 twice daily at night after food for 1 month\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "cough",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 month"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no chest tightness",
+      "no chest congestion",
+      "no chest wheeze",
+      "no chest rales",
+      "no chest crackles",
+      "no chest friction rub",
+      "no chest pleurisy",
+      "no chest pleural effusion",
+      "no chest pneumothorax"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "at night",
+        "duration": "1 month",
+        "instructions": "take after food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "take Augmentin 625 twice daily at night after food for 1 month"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 104,
+    "prompt_ms": 75.579,
+    "prompt_per_token_ms": 0.7267211538461538,
+    "prompt_per_second": 1376.0436099974863,
+    "predicted_n": 381,
+    "predicted_ms": 4497.078,
+    "predicted_per_token_ms": 11.834415789473685,
+    "predicted_per_second": 84.49931266480145
+  }
+}

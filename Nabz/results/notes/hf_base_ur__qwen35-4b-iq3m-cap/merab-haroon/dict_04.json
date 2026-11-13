@@ -1,0 +1,57 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلی میں دڑھ نہیں ہے نور بیسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"50 days\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"50 days\"}\n  ],\n  \"negatives\": [\n    \"no palpitations\",\n    \"no chest pain\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Shido\", \"strength\": \"1\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"salt\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue medication for 2 weeks\",\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "50 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "50 days"
+      }
+    ],
+    "negatives": [
+      "no palpitations",
+      "no chest pain",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Shido",
+        "strength": "1",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [
+      "salt"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "continue medication for 2 weeks",
+      "reduce salt intake"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 93,
+    "prompt_ms": 71.389,
+    "prompt_per_token_ms": 0.7676236559139784,
+    "prompt_per_second": 1302.7217078261356,
+    "predicted_n": 246,
+    "predicted_ms": 3083.945,
+    "predicted_per_token_ms": 12.5875306122449,
+    "predicted_per_second": 79.44369954717091
+  }
+}

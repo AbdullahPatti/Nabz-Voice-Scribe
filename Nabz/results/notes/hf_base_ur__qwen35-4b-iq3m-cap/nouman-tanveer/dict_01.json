@@ -1,0 +1,51 @@
+{
+  "transcript": "مریز مرد اٹھائی شاال پانچی دین سے تیس بخور ہے سر در دھور کمزوی بھی ہے کندہ رہا جو پوٹھ ہند لاغ دیئے اول ٹی نہیں ہے دست نہیں ہے دیفٹ کا ٹسپوڑیس پوڑیٹی بایا ہے ایک زوامکھ سوائے پہ دوڑھ روزانا ایک گولی سات دین پیردول دو گولی دین میں ٹین بار جب بخور ہو ٹین دین با دبارا آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"1 tablet twice daily\", \"frequency\": \"twice daily\", \"duration\": \"3 days\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Rest\",\n    \"Hydration\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet twice daily",
+        "frequency": "twice daily",
+        "duration": "3 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Rest",
+      "Hydration"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 135,
+    "prompt_ms": 87.419,
+    "prompt_per_token_ms": 0.6475481481481481,
+    "prompt_per_second": 1544.2867111268718,
+    "predicted_n": 211,
+    "predicted_ms": 2701.473,
+    "predicted_per_token_ms": 12.864157142857144,
+    "predicted_per_second": 77.73536881545735
+  }
+}

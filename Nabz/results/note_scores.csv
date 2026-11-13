@@ -1040,6 +1040,32 @@ hf_base_ur__qwen35-4b-iq3m-cap,hadi,dict_10,2.29,True,0.0,Zyrtec,,0,0,0.5,1,coug
 hf_base_ur__qwen35-4b-iq3m-cap,hadi,own_01,1.77,True,0.0,Panadol,,0,0,0.0,0,,True,False
 hf_base_ur__qwen35-4b-iq3m-cap,hadi,own_02,1.63,True,0.0,Panadol,,0,0,0.0,0,,False,False
 hf_base_ur__qwen35-4b-iq3m-cap,hadi,own_03,2.65,True,0.0,Panadol,,1,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_01,1.81,True,0.0,Azomax Panadol,0.0,0,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_02,3.24,True,1.0,,,0,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_03,2.06,True,0.0,ORS Flagyl,0.0,0,0,0.0,0,,True,True
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_04,3.19,True,0.0,Norvasc,0.0,1,0,0.5,1,dizziness,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_05,2.72,True,0.0,Glucophage,0.0,1,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_06,3.03,True,0.0,Risek Gaviscon,0.0,0,0,0.0,2,vomiting; weight loss,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_07,3.29,True,0.0,Augmentin Cough syrup,0.0,1,0,0.0,0,,True,True
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_08,2.89,True,1.0,,1.0,0,0,0.333,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,2.81,True,0.0,Ventolin Zyrtec,,1,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_10,4.63,True,0.0,Zyrtec,,1,1,0.0,2,fever; cough,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,own_01,2.38,True,0.0,Panadol,,1,0,0.0,0,,True,False
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,own_02,2.35,True,0.0,Panadol,,0,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,own_03,1.58,True,0.0,Panadol,,0,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,2.79,True,0.0,Azomax Panadol,0.0,1,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_02,3.22,True,0.0,Panadol,,0,0,0.0,1,bleeding,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,3.51,True,0.0,ORS Flagyl,0.0,1,0,1.0,0,,True,False
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_04,2.25,True,0.0,Norvasc,0.0,0,0,0.0,1,dizziness,False,True
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,2.79,True,0.0,Glucophage,0.0,1,0,0.0,0,,True,True
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_06,2.16,True,0.0,Risek Gaviscon,0.0,0,0,0.0,1,weight loss,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_07,3.32,True,0.0,Augmentin Cough syrup,0.0,1,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_08,3.41,True,0.0,Cipro,0.0,1,0,0.333,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_09,2.89,True,0.5,Zyrtec,,0,0,1.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_10,4.14,True,0.0,Zyrtec,,0,0,0.5,2,fever; cough,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_01,1.82,True,0.0,Panadol,,0,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_02,1.79,True,0.0,Panadol,,0,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_03,1.9,True,0.0,Panadol,,0,0,0.0,0,,False,True
 hf_base_ur__qwen35-4b-iq3m-hints,hadi,dict_01,2.91,True,0.5,Panadol,0.0,0,0,1.0,0,,False,True
 hf_base_ur__qwen35-4b-iq3m-hints,hadi,dict_02,2.61,True,0.0,Panadol,,0,0,0.0,1,bleeding,False,True
 hf_base_ur__qwen35-4b-iq3m-hints,hadi,dict_03,2.95,True,0.0,ORS Flagyl,0.0,0,0,0.0,0,,True,True
@@ -1053,6 +1079,32 @@ hf_base_ur__qwen35-4b-iq3m-hints,hadi,dict_10,2.5,True,0.0,Zyrtec,,0,0,0.5,0,,Fa
 hf_base_ur__qwen35-4b-iq3m-hints,hadi,own_01,2.45,True,0.0,Panadol,,1,0,0.0,0,,True,False
 hf_base_ur__qwen35-4b-iq3m-hints,hadi,own_02,2.01,True,0.0,Panadol,,0,0,0.0,0,,False,True
 hf_base_ur__qwen35-4b-iq3m-hints,hadi,own_03,2.77,True,0.0,Panadol,,1,0,0.5,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_01,2.97,True,0.0,Azomax Panadol,0.0,0,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_02,3.96,True,1.0,,,0,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_03,2.36,True,0.0,ORS Flagyl,0.0,0,0,0.0,0,,True,True
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_04,3.11,True,0.0,Norvasc,0.0,1,0,0.5,1,dizziness,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_05,2.9,True,1.0,,0.0,0,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_06,2.89,True,0.0,Risek Gaviscon,0.0,0,0,0.5,2,vomiting; weight loss,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_07,3.9,True,0.0,Augmentin Cough syrup,0.0,0,0,0.0,0,,True,True
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_08,3.1,True,1.0,,1.0,0,0,0.0,1,back pain,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_09,2.17,True,0.0,Ventolin Zyrtec,,0,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_10,2.95,True,0.0,Zyrtec,,1,1,0.5,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,own_01,2.82,True,0.0,Panadol,,1,0,0.0,1,fever,True,False
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,own_02,1.84,True,0.0,Panadol,,0,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,own_03,1.52,True,0.0,Panadol,,0,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_01,2.22,True,0.0,Azomax Panadol,0.0,0,0,0.5,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_02,3.93,True,0.0,Panadol,,0,0,0.0,1,bleeding,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_03,3.15,True,0.5,ORS,1.0,0,0,0.0,1,blood in stool,True,True
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_04,2.33,True,0.0,Norvasc,0.0,0,0,0.0,1,dizziness,False,True
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_05,3.16,True,1.0,,1.0,0,0,0.0,0,,True,True
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_06,2.72,True,0.0,Risek Gaviscon,0.0,0,0,0.5,1,weight loss,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_07,2.49,True,0.0,Augmentin Cough syrup,0.0,0,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_08,2.85,True,0.0,Cipro,0.0,0,0,0.333,1,back pain,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_09,2.28,True,0.0,Ventolin Zyrtec,,0,0,1.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_10,3.17,True,0.0,Zyrtec,,0,0,0.5,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,own_01,2.34,True,0.0,Panadol,,0,0,0.0,0,,False,False
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,own_02,1.54,True,0.0,Panadol,,0,0,0.0,0,,False,True
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,own_03,1.74,True,0.0,Panadol,,0,0,0.0,0,,False,True
 hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_01,3.48,True,0.0,Azomax Panadol,0.0,1,0,1.0,0,,True,True
 hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_02,3.49,True,0.0,Panadol,,1,0,0.0,0,,False,True
 hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_03,4.53,True,0.0,ORS Flagyl,0.0,4,0,0.0,0,,True,True
@@ -1105,6 +1157,32 @@ hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_10,3.79,True,0.0,Zyrtec,,1,0
 hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,own_01,2.99,True,0.0,Panadol,,1,0,0.5,0,,True,True
 hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,own_02,3.21,True,1.0,,,0,0,1.0,0,,True,False
 hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,own_03,3.62,True,1.0,,,1,0,0.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_01,4.43,True,0.5,Azomax,0.0,1,0,1.0,0,,False,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_02,4.84,True,1.0,,,1,0,0.0,0,,False,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_03,3.62,True,0.0,ORS Flagyl,0.0,1,0,0.0,0,,False,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_04,3.51,True,0.0,Norvasc,0.0,1,0,1.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_05,4.39,True,1.0,,0.0,3,0,0.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_06,3.13,True,0.0,Risek Gaviscon,0.0,1,0,1.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_07,3.87,True,0.5,Cough syrup,1.0,0,0,0.0,1,breathlessness,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_08,3.16,True,0.0,Cipro,0.0,1,0,0.667,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,5.18,True,0.5,Ventolin,,5,0,0.0,1,fever,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_10,3.88,True,1.0,,,0,0,0.5,2,fever; cough,False,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_01,2.88,True,1.0,,,0,0,1.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_02,4.83,True,0.0,Panadol,,4,0,1.0,0,,False,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_03,2.99,True,0.0,Panadol,,1,0,0.5,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,4.16,True,0.5,Azomax,0.0,1,0,0.0,1,vomiting,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_02,4.11,True,1.0,,,1,0,0.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,3.53,True,0.0,ORS Flagyl,0.0,1,0,0.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_04,3.25,True,0.0,Norvasc,0.0,1,0,1.0,1,chest pain,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,5.43,True,1.0,,0.0,3,0,0.0,0,,False,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_06,3.36,True,0.0,Risek Gaviscon,0.0,1,0,1.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_07,3.47,True,0.0,Augmentin Cough syrup,0.0,1,0,0.0,1,breathlessness,False,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_08,3.85,True,0.0,Cipro,0.0,1,0,0.667,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_09,3.51,True,0.5,Zyrtec,,0,0,1.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_10,3.11,True,1.0,,,0,0,0.25,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_01,2.87,True,0.0,Panadol,,1,0,1.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_02,2.82,True,1.0,,,0,0,1.0,0,,True,True
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_03,3.19,True,1.0,,,0,0,0.5,0,,True,True
 hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_01,4.14,True,1.0,,0.0,0,0,1.0,0,,True,True
 hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_02,4.68,True,0.0,Panadol,,3,0,0.0,0,,True,True
 hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_03,3.16,True,0.0,ORS Flagyl,0.0,1,0,0.0,0,,False,True

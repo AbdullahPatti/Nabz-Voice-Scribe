@@ -1,0 +1,64 @@
+{
+  "transcript": "ہاتھوں چونٹے سالد 3 دن سے بہا ہار جسم میں درد پر آنکھوں کے پیچھے درد لیٹلیرز 95.000 ہے کہیں سے ہومنی آرہا صرف پیرنڈول دو گولی دن میں 3 بار بروفلنی لینیڈی سپرن بھی نہیں پانی زیادہ پی ہیں کل ہوں کا کس دبارہ کروانہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"joint pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"},\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"BP 95/00\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Parnidol\", \"strength\": null, \"dose\": \"2 tablets\", \"frequency\": \"3 times a day\", \"duration\": null, \"instructions\": null}\n  ],\n  \"drugs_to_avoid\": [\n    \"Buprofene\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Drink more water\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "joint pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "BP 95/00"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Parnidol",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "3 times a day",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Buprofene"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Drink more water"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 73.895,
+    "prompt_per_token_ms": 0.6597767857142857,
+    "prompt_per_second": 1515.6641180052777,
+    "predicted_n": 262,
+    "predicted_ms": 3159.672,
+    "predicted_per_token_ms": 12.106022988505748,
+    "predicted_per_second": 82.60351074415318
+  }
+}

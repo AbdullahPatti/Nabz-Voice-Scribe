@@ -1,0 +1,58 @@
+{
+  "transcript": "Khatoon, 30 saal. Pairat ke par jalan hoti hai. Kharish ke baad se gata. Canadie khali dakaar. Ondene ulti nahi. Wazan kam nahi ho. Risek bhi subah khali pait, do hafte raat ko. Gavisod ke do chamachet chai aur mirac kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"heartburn\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"heartburn\", \"duration\": \"morning on empty stomach\"},\n    {\"symptom\": \"heartburn\", \"duration\": \"at night\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Mirac\",\n      \"strength\": null,\n      \"dose\": \"2 spoons of tea\",\n      \"frequency\": \"twice\",\"duration\": null,\n      \"instructions\": \"take after heartburn\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid spicy food\",\n    \"Avoid caffeine/alcohol\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "heartburn",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "heartburn",
+        "duration": "morning on empty stomach"
+      },
+      {
+        "symptom": "heartburn",
+        "duration": "at night"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Mirac",
+        "strength": null,
+        "dose": "2 spoons of tea",
+        "frequency": "twice",
+        "duration": null,
+        "instructions": "take after heartburn"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid spicy food",
+      "Avoid caffeine/alcohol"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 100,
+    "prompt_ms": 73.997,
+    "prompt_per_token_ms": 0.73997,
+    "prompt_per_second": 1351.4061380866792,
+    "predicted_n": 252,
+    "predicted_ms": 3229.507,
+    "predicted_per_token_ms": 12.866561752988048,
+    "predicted_per_second": 77.72084098284971
+  }
+}

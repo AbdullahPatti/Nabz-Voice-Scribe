@@ -1,10 +1,10 @@
 tag,clips,rtf_median,dict_proc_p90_s,peak_ram_mb,drug_recall,number_recall,neg_kept,neg_extra,drugs_inserted,sker,within_budget
 avx2_base-q8_ur_t4_whisper_drugs,39,0.19,9.6,334,76%,38%,30%,3,1,36%,yes
 avx2_turbo-q8_ur_t2,39,2.28,72.5,1141,73%,57%,75%,0,1,23%,no
+hf_synth-full-s250_ur,39,0.03,1.1,,73%,79%,89%,8,17,25%,yes
 avx2_small-q8_ur_t2,39,0.9,31.1,592,72%,55%,78%,0,3,24%,no
 hf_small_ur,39,0.07,1.7,,71%,48%,79%,0,4,25%,yes
 hf_synth-dec-s500_ur,13,0.04,1.2,,71%,83%,96%,8,15,39%,yes
-hf_synth-full-s250_ur,13,0.04,2.9,,71%,76%,96%,5,7,28%,yes
 avx2_small-q8_auto_t2,39,1.06,41.3,592,70%,61%,87%,1,2,19%,no
 hf_base_ur_bias3_cg,13,0.06,1.9,,69%,31%,83%,1,1,28%,yes
 avx2_base-q8_auto_t4_whisper_drugs,39,0.25,16.6,343,68%,37%,29%,2,1,38%,yes

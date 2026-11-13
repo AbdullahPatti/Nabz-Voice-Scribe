@@ -1,0 +1,48 @@
+{
+  "transcript": "مرد پیچا سال شگر کا پرانا مریس نی حال من شگر ایک سو ارسی اور کھانے کے بعد دوسو سات پہلے گلائکہ فیج پانسو دن میں پانسو دن میں دو بار لی رہا ہے اب گلائکہ فیج پانسو دن میں دو بار کھانے کے ساتھ پین میں ہینے والا شوبر کیس کر مانا ہے پیروں میں سنی پونہ نین ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"diabetes\",\n      \"duration\": \"long-standing\"\n    }\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"swelling in feet\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Glucophage\",\n      \"strength\": \"500\",\n      \"dose\": \"500\",\n      \"frequency\": \"twice daily\",\n      \"duration\": null,\n      \"instructions\": \"with meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue current medication regimen\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "long-standing"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "swelling in feet"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "500",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "with meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue current medication regimen"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 188,
+    "prompt_ms": 99.367,
+    "prompt_per_token_ms": 0.5285478723404256,
+    "prompt_per_second": 1891.976209405537,
+    "predicted_n": 216,
+    "predicted_ms": 2744.326,
+    "predicted_per_token_ms": 12.764306976744185,
+    "predicted_per_second": 78.34346211055102
+  }
+}

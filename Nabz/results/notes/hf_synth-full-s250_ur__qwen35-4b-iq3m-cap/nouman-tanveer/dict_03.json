@@ -1,0 +1,60 @@
+{
+  "transcript": "Mardar, 40 saal. Kal raat se dast lagin hai. Acyclovir dapha ho. Chukin hai. Dastimefru nahi hai. Jism mein thoraan. Thori paani ke kami hai. Hard dast ke baad. ORS ka ek golaast. Flaggjalk 400 din mein teen baar, 5 din. Doodh ho raha. Tali hui cheeze band. Agar peshab kam ho jai to foran wapas aadhi.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"body ache\", \"duration\": \"after hard diarrhea\"},\n    {\"symptom\": \"dehydration\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Acyclovir\", \"strength\": null, \"dose\": \"1 dose\", \"frequency\": null, \"duration\": null, \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Dastimefru\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink ORS (1 glass)\",\n    \"Stop milk\",\n    \"Stop oily foods\",\n    \"If urine decreases, return immediately and take half dose\",\n    \"Take Flagfalk 400 three times a day for 5 days\"\n  ],\n  \"follow_up\": \"if urine decreases\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "body ache",
+        "duration": "after hard diarrhea"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Acyclovir",
+        "strength": null,
+        "dose": "1 dose",
+        "frequency": null,
+        "duration": null,
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Dastimefru"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink ORS (1 glass)",
+      "Stop milk",
+      "Stop oily foods",
+      "If urine decreases, return immediately and take half dose",
+      "Take Flagfalk 400 three times a day for 5 days"
+    ],
+    "follow_up": "if urine decreases"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 135,
+    "prompt_ms": 88.266,
+    "prompt_per_token_ms": 0.6538222222222223,
+    "prompt_per_second": 1529.4677452246617,
+    "predicted_n": 275,
+    "predicted_ms": 3388.482,
+    "predicted_per_token_ms": 12.366722627737227,
+    "predicted_per_second": 80.86216777896415
+  }
+}

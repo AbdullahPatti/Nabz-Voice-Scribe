@@ -1,0 +1,53 @@
+{
+  "transcript": "خطور اٹھتی سال صرف فولو اپ کے لئے آئی ہیں پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کانسی نہیں پینسلی لی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک میں ہینے بات دیکھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"itching\",\n      \"duration\": \"1 year\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"cough\",\n    \"chest pain\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Zyrtec\",\n    \"Duphalac\",\n    \"Panadol\",\n    \"Tritace\",\n    \"Zantac\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid Zyrtec\",\n    \"Avoid Duphalac\",\n    \"Avoid Panadol\",\n    \"Avoid Tritace\",\n    \"Avoid Zantac\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "1 year"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "cough",
+      "chest pain",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Zyrtec",
+      "Duphalac",
+      "Panadol",
+      "Tritace",
+      "Zantac"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid Zyrtec",
+      "Avoid Duphalac",
+      "Avoid Panadol",
+      "Avoid Tritace",
+      "Avoid Zantac"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 183,
+    "prompt_ms": 94.999,
+    "prompt_per_token_ms": 0.519120218579235,
+    "prompt_per_second": 1926.336066695439,
+    "predicted_n": 245,
+    "predicted_ms": 3021.796,
+    "predicted_per_token_ms": 12.384409836065574,
+    "predicted_per_second": 80.7466817746797
+  }
+}

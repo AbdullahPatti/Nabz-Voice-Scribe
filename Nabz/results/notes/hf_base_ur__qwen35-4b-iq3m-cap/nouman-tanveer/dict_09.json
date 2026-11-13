@@ -1,0 +1,53 @@
+{
+  "transcript": "مارد بائیس آل رات کو ساتھ کی تقلیف اور سیننے سے سیٹی کی آس آتی ہے کہ براہد ہون دیئے بخار نہیں، ویلنٹولی انہیلر ضرورت پر دو پف دین میں چاہر دفاستہ زیادہ نہیں رات کو رٹک ایک گولی دول ہور دوے سے بچے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"all night\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"all night\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ventolin\", \"strength\": null, \"dose\": \"2 puffs\", \"frequency\": \"as needed\", \"duration\": null, \"instructions\": \"take inhaler\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take medicine at night\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "all night"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "all night"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": null,
+        "dose": "2 puffs",
+        "frequency": "as needed",
+        "duration": null,
+        "instructions": "take inhaler"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take medicine at night"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 99,
+    "prompt_ms": 75.275,
+    "prompt_per_token_ms": 0.7603535353535354,
+    "prompt_per_second": 1315.1776818332778,
+    "predicted_n": 210,
+    "predicted_ms": 2773.998,
+    "predicted_per_token_ms": 13.272717703349283,
+    "predicted_per_second": 75.34252007391497
+  }
+}

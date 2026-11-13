@@ -1,0 +1,54 @@
+{
+  "transcript": "Khatoon, 55 saal. 8 BP 100 saal. Thorsox aayein. Sarbhabi lexhat hai. Chakkar nahi. Atenc se seene mein dard nahi hai. Novorapid 5 raat ko. Egoli shurukardhi hai. Namak kam karna hai. Do hafte baad. Beepid 12 check up hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest pain\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain at rest\"\n  ],\n  \"findings\": [\n    \"BP 100\",\n    \"BP 80\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorapid\", \"strength\": \"5\", \"dose\": \"nighttime\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Beepid 12\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain at rest"
+    ],
+    "findings": [
+      "BP 100",
+      "BP 80"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorapid",
+        "strength": "5",
+        "dose": "nighttime",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Beepid 12"
+    ],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 77.168,
+    "prompt_per_token_ms": 0.7145185185185186,
+    "prompt_per_second": 1399.5438523740409,
+    "predicted_n": 233,
+    "predicted_ms": 3125.502,
+    "predicted_per_token_ms": 13.471991379310344,
+    "predicted_per_second": 74.22807600187106
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "transcript": "Khatoon, 68 saal. Serc aforloxate nahi hai. Pesicide 2 se koi raha. Cheeni waqt. Koi sargapak nahi. Bukhar nahi khansi nahi. Penicillin se allergy hai. Is liye augmentant nahi deni. Zyrtec aadhi goli raat ko. Dastan ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 68\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"unknown\"},\n    {\"symptom\": \"cough\", \"duration\": \"unknown\"},\n    {\"symptom\": \"sore throat\", \"duration\": \"unknown\"},\n    {\"symptom\": \"diarrhea\", \"duration\": \"unknown\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"sore throat\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\"name\": \"Zyrtec\", \"strength\": \"half tablet\", \"dose\": \"once at night\", \"frequency\": \"daily\", \"duration\": \"unknown\", \"instructions\": \"take half tablet at night\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"serofloxacin\",\n    \"penicillin\",\n    \"augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return in one month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 68
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "sore throat",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "sore throat",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half tablet",
+        "dose": "once at night",
+        "frequency": "daily",
+        "duration": "unknown",
+        "instructions": "take half tablet at night"
+      }
+    ],
+    "drugs_to_avoid": [
+      "serofloxacin",
+      "penicillin",
+      "augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return in one month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 76.522,
+    "prompt_per_token_ms": 0.7085370370370371,
+    "prompt_per_second": 1411.3588249130967,
+    "predicted_n": 299,
+    "predicted_ms": 3754.04,
+    "predicted_per_token_ms": 12.59744966442953,
+    "predicted_per_second": 79.38114671127639
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "transcript": "Mard, 22 saal. HB 8. Kulsaans ke taki. Falsine se silti ke eva. Zartenglia gabrahat ko. Ampigil bukhar ho. Mebventolin inhaler buzerogat par do puff din mein kaar. Deface zytoxane raat ko. Zyrtec ek goli doodh aur doodh se doofene se baqqin.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"unknown\"},\n    {\"symptom\": \"fever\", \"duration\": \"unknown\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Falsine\", \"strength\": \"unknown\", \"dose\": \"unknown\", \"frequency\": \"unknown\", \"duration\": \"unknown\", \"instructions\": \"take as prescribed\"},\n    {\"name\": \"Zartenglia\", \"strength\": \"unknown\", \"dose\": \"unknown\", \"frequency\": \"unknown\", \"duration\": \"unknown\", \"instructions\": \"take as prescribed\"},\n    {\"name\": \"Ampigil\", \"strength\": \"unknown\", \"dose\": \"unknown\", \"frequency\": \"unknown\", \"duration\": \"unknown\", \"instructions\": \"take as prescribed\"},\n    {\"name\": \"Mebventolin inhaler\", \"strength\": \"unknown\", \"dose\": \"2 puff\", \"frequency\": \"twice daily\", \"duration\": \"unknown\", \"instructions\": \"take as prescribed\"},\n    {\"name\": \"Deface\", \"strength\": \"unknown\", \"dose\": \"unknown\", \"frequency\": \"night\", \"duration\": \"unknown\", \"instructions\": \"take as prescribed\"},\n    {\"name\": \"Zyrtec\", \"strength\": \"unknown\", \"dose\": \"1 tablet\", \"frequency\": \"with milk\", \"duration\": \"unknown\", \"instructions\": \"take as prescribed\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Falsine",
+        "strength": "unknown",
+        "dose": "unknown",
+        "frequency": "unknown",
+        "duration": "unknown",
+        "instructions": "take as prescribed"
+      },
+      {
+        "name": "Zartenglia",
+        "strength": "unknown",
+        "dose": "unknown",
+        "frequency": "unknown",
+        "duration": "unknown",
+        "instructions": "take as prescribed"
+      },
+      {
+        "name": "Ampigil",
+        "strength": "unknown",
+        "dose": "unknown",
+        "frequency": "unknown",
+        "duration": "unknown",
+        "instructions": "take as prescribed"
+      },
+      {
+        "name": "Mebventolin inhaler",
+        "strength": "unknown",
+        "dose": "2 puff",
+        "frequency": "twice daily",
+        "duration": "unknown",
+        "instructions": "take as prescribed"
+      },
+      {
+        "name": "Deface",
+        "strength": "unknown",
+        "dose": "unknown",
+        "frequency": "night",
+        "duration": "unknown",
+        "instructions": "take as prescribed"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": "unknown",
+        "dose": "1 tablet",
+        "frequency": "with milk",
+        "duration": "unknown",
+        "instructions": "take as prescribed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 77.523,
+    "prompt_per_token_ms": 0.7112201834862385,
+    "prompt_per_second": 1406.0343381964062,
+    "predicted_n": 408,
+    "predicted_ms": 5065.31,
+    "predicted_per_token_ms": 12.445479115479117,
+    "predicted_per_second": 80.35046226193461
+  }
+}

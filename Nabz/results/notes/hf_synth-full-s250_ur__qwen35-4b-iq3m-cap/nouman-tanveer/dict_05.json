@@ -1,0 +1,83 @@
+{
+  "transcript": "Mard, 55 saal. Sugar Kaan. Primaveride nahar mun. Sugar 68. ORCANem hai baad. Doverfax 8 pait. Glucophage 500 din mein do baar, lena. Hath aadlucophage 1000 din mein do baar. Khane ke saal. 3 mahine baad liye. Sugar test karwaai hai. Pairon mein sun ho na nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"sugar kaan (likely 'sugar kaan' meaning sugar issues/diabetes symptoms)\",\"duration\": \"3 months\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"blood sugar 68\",\n    \"blood sugar 68\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Primaveride\", \"strength\": \"nahar mun\", \"dose\": \"morning and evening\", \"frequency\": \"daily\", \"duration\": \"3 months\", \"instructions\": \"take with food\"},\n    {\"name\": \"Orcanem\", \"strength\": \"8\", \"dose\": \"night\", \"frequency\": \"daily\", \"duration\": \"3 months\", \"instructions\": \"take with food\"},\n    {\"name\": \"Doverfax\", \"strength\": \"8\", \"dose\": \"night\", \"frequency\": \"daily\", \"duration\": \"3 months\", \"instructions\": \"take with food\"},\n    {\"name\": \"Glucophage\", \"strength\": \"500\", \"dose\": \"twice daily\", \"frequency\": \"daily\", \"duration\": \"3 months\", \"instructions\": \"take with food\"},\n    {\"name\": \"Glucophage\", \"strength\": \"1000\", \"dose\": \"twice daily\", \"frequency\": \"daily\", \"duration\": \"3 months\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"sugar test\"\n  ],\n  \"advice\": [\n    \"sugar test karwaai hai\"\n  ],\n  \"follow_up\": \"3 mahine baad\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "sugar kaan (likely 'sugar kaan' meaning sugar issues/diabetes symptoms)",
+        "duration": "3 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "blood sugar 68",
+      "blood sugar 68"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Primaveride",
+        "strength": "nahar mun",
+        "dose": "morning and evening",
+        "frequency": "daily",
+        "duration": "3 months",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Orcanem",
+        "strength": "8",
+        "dose": "night",
+        "frequency": "daily",
+        "duration": "3 months",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Doverfax",
+        "strength": "8",
+        "dose": "night",
+        "frequency": "daily",
+        "duration": "3 months",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "daily",
+        "duration": "3 months",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "twice daily",
+        "frequency": "daily",
+        "duration": "3 months",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "sugar test"
+    ],
+    "advice": [
+      "sugar test karwaai hai"
+    ],
+    "follow_up": "3 mahine baad"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 120,
+    "prompt_ms": 88.363,
+    "prompt_per_token_ms": 0.7363583333333333,
+    "prompt_per_second": 1358.0344714416667,
+    "predicted_n": 427,
+    "predicted_ms": 5307.825,
+    "predicted_per_token_ms": 12.45968309859155,
+    "predicted_per_second": 80.25886309364004
+  }
+}

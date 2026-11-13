@@ -1,0 +1,74 @@
+{
+  "transcript": "Khatoon, 14 saal. 3 din se bukhar jism mein dard par aankhone ke piye dard. Platelets 95 hazaar. Bukharine se humni aara hai. Serafx panadol do goli din mein teen baar. Brufolone lena. Disprin bhi nahi. Paani zyada piyein. Kal mun kar karein. Cresti baad raat kharwa na hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 14\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"eye pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"Platelets: 95,000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Serafex\", \"strength\": \"625\", \"dose\": \"3 times a day\", \"frequency\": \"twice a day (implied by 'din mein teen baar' but text says 3 times, keeping as spoken '3 times' or standardizing to '3 times daily' based on 'din mein teen baar')\", \"duration\": null, \"instructions\": \"take with water\"},\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": \"3 times a day\", \"frequency\": \"3 times daily\", \"duration\": null, \"instructions\": \"take with water\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufolone\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC (implied by platelet mention)\"\n  ],\n  \"advice\": [\n    \"Drink plenty of water\",\n    \"Return tomorrow\"\n  ],\n  \"follow_up\": \"tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 14
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "eye pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "Platelets: 95,000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Serafex",
+        "strength": "625",
+        "dose": "3 times a day",
+        "frequency": "twice a day (implied by 'din mein teen baar' but text says 3 times, keeping as spoken '3 times' or standardizing to '3 times daily' based on 'din mein teen baar')",
+        "duration": null,
+        "instructions": "take with water"
+      },
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "3 times a day",
+        "frequency": "3 times daily",
+        "duration": null,
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufolone",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "CBC (implied by platelet mention)"
+    ],
+    "advice": [
+      "Drink plenty of water",
+      "Return tomorrow"
+    ],
+    "follow_up": "tomorrow"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 81.241,
+    "prompt_per_token_ms": 0.6943675213675213,
+    "prompt_per_second": 1440.1595253628095,
+    "predicted_n": 384,
+    "predicted_ms": 4719.166,
+    "predicted_per_token_ms": 12.32158224543081,
+    "predicted_per_second": 81.15840807464708
+  }
+}

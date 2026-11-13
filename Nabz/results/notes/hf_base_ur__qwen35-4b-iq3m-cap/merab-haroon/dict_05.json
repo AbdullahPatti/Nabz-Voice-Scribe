@@ -1,0 +1,50 @@
+{
+  "transcript": "مرد پیچا سال شگر کا پرانا مریس نی حال من شگر ایک سو ارسی اور کھانے کے بعد دوسو سات پہلے گلائکہ فیج پانسو دن میں پانسو دن میں دو بار لی رہا ہے اب گلائکہ فیج پانسو دن میں دو بار کھانے کے ساتھ پین میں ہینے والا شوبر کیس کر مانا ہے پیروں میں سنی پونہ نین ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"diabetes\", \"duration\": \"long standing\"},\n    {\"symptom\": \"hypoglycemia\", \"duration\": \"after meals\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"swelling in feet\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glycine\", \"strength\": \"500\", \"dose\": \"500 mg\", \"frequency\": \"twice daily\", \"duration\": \"with meals\", \"instructions\": \"drink water\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "long standing"
+      },
+      {
+        "symptom": "hypoglycemia",
+        "duration": "after meals"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "swelling in feet"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glycine",
+        "strength": "500",
+        "dose": "500 mg",
+        "frequency": "twice daily",
+        "duration": "with meals",
+        "instructions": "drink water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 120,
+    "prompt_ms": 76.802,
+    "prompt_per_token_ms": 0.6400166666666667,
+    "prompt_per_second": 1562.4593109554437,
+    "predicted_n": 206,
+    "predicted_ms": 2590.754,
+    "predicted_per_token_ms": 12.637824390243901,
+    "predicted_per_second": 79.12754356453759
+  }
+}

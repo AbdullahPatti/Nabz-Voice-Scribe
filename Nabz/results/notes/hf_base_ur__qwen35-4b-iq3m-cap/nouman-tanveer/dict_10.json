@@ -1,0 +1,84 @@
+{
+  "transcript": "خطور اٹھتی سال صرف فولو اپ کے لئے آئی ہیں پیشلی دفا سے کوئی جیش نہیں ہوا کوئی سیڈیفک نہیں بخور نہیں کانسی نہیں پینسلی لی سے ایلڈ جی ہے اس لیے اقتھا مٹین نہیں دینی زرٹیک آدیگولی رات کو دست دین ایک میں ہینے بات دیکھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": null},\n    {\"symptom\": \"cough\", \"duration\": null},\n    {\"symptom\": \"chest pain\", \"duration\": null},\n    {\"symptom\": \"chest tightness\", \"duration\": null},\n    {\"symptom\": \"chest congestion\", \"duration\": null},\n    {\"symptom\": \"chest cold\", \"duration\": null},\n    {\"symptom\": \"chest infection\", \"duration\": null},\n    {\"symptom\": \"chest discharge\", \"duration\": null},\n    {\"symptom\": \"chest discharge color\", \"duration\": null},\n    {\"symptom\": \"chest discharge amount\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no chest pain\",\n    \"no chest tightness\",\n    \"no chest congestion\",\n    \"no chest cold\",\n    \"no chest infection\",\n    \"no chest discharge\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"diet\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": null
+      },
+      {
+        "symptom": "cough",
+        "duration": null
+      },
+      {
+        "symptom": "chest pain",
+        "duration": null
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": null
+      },
+      {
+        "symptom": "chest congestion",
+        "duration": null
+      },
+      {
+        "symptom": "chest cold",
+        "duration": null
+      },
+      {
+        "symptom": "chest infection",
+        "duration": null
+      },
+      {
+        "symptom": "chest discharge",
+        "duration": null
+      },
+      {
+        "symptom": "chest discharge color",
+        "duration": null
+      },
+      {
+        "symptom": "chest discharge amount",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no chest pain",
+      "no chest tightness",
+      "no chest congestion",
+      "no chest cold",
+      "no chest infection",
+      "no chest discharge"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids",
+      "diet"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 77.196,
+    "prompt_per_token_ms": 0.7568235294117647,
+    "prompt_per_second": 1321.311985076947,
+    "predicted_n": 335,
+    "predicted_ms": 4030.018,
+    "predicted_per_token_ms": 12.065922155688623,
+    "predicted_per_second": 82.87804173579374
+  }
+}

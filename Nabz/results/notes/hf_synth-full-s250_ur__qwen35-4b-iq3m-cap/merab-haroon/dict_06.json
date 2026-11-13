@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 30 saal. Percopad jalanotein a khane ke baad zyada. Candacex khacadri kaar. Ondane ulti nahi. Warzankam nahi wa hazaar. Risek 20 subahali pait, do hafte. raat ko. Gaviscon ke do chamach shaar. Myrgham karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"heartburn\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"heartburn\", \"duration\": \"morning\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"fever\",\n    \"weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Percopad\", \"strength\": null, \"dose\": \"2 tablets\", \"frequency\": \"after meals\", \"duration\": null, \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Gaviscon 2 spoons\",\n    \"Use Myrrh oil\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "heartburn",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "heartburn",
+        "duration": "morning"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "fever",
+      "weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Percopad",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "after meals",
+        "duration": null,
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Gaviscon 2 spoons",
+      "Use Myrrh oil"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 76.877,
+    "prompt_per_token_ms": 0.746378640776699,
+    "prompt_per_second": 1339.802541722492,
+    "predicted_n": 229,
+    "predicted_ms": 3007.504,
+    "predicted_per_token_ms": 13.19080701754386,
+    "predicted_per_second": 75.8103729870351
+  }
+}

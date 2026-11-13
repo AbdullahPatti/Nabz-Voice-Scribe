@@ -1,0 +1,75 @@
+{
+  "transcript": "9.35 saal. Throyton, fever for 2 days. No cough. No breathing. Propranolol band diarclinus fever. Warmsol to water. Gargolz, 3 din. Carbimacadil kam back. Cefzloin back to introduce.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 935\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"breathing\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Propranolol\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"band diarclinus\"\n    },\n    {\n      \"name\": \"Warmsol\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"to water\"\n    },\n    {\n      \"name\": \"Gargolz\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": \"3 din\",\"instructions\": null\n    },\n    {\n      \"name\": \"Carbimacadil\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"kam back\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Cefzloin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Cefzloin back to introduce\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 935
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "breathing"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Propranolol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "band diarclinus"
+      },
+      {
+        "name": "Warmsol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "to water"
+      },
+      {
+        "name": "Gargolz",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": "3 din",
+        "instructions": null
+      },
+      {
+        "name": "Carbimacadil",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "kam back"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Cefzloin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Cefzloin back to introduce"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 78,
+    "prompt_ms": 73.887,
+    "prompt_per_token_ms": 0.9472692307692308,
+    "prompt_per_second": 1055.666084696902,
+    "predicted_n": 390,
+    "predicted_ms": 4716.364,
+    "predicted_per_token_ms": 12.124329048843187,
+    "predicted_per_second": 82.47879086516647
+  }
+}

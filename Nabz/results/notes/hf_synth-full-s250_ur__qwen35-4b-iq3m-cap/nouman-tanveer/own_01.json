@@ -1,0 +1,50 @@
+{
+  "transcript": "Woman 60 years, knee pain for 2 months, words no stress, no swelling, no fever. Pantor do tablets twice a day, lagatar. Suicide daily. Come back in one month.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"knee pain\",\n      \"duration\": \"2 months\"\n    }\n  ],\n  \"negatives\": [\n    \"stress\",\n    \"swelling\",\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Pantor\",\n      \"strength\": null,\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice a day\",\n      \"duration\": \"lagatar\",\"instructions\": \"daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Come back in one month\"\n  ],\"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [
+      "stress",
+      "swelling",
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Pantor",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "twice a day",
+        "duration": "lagatar",
+        "instructions": "daily"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Come back in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 59,
+    "prompt_ms": 69.608,
+    "prompt_per_token_ms": 1.1797966101694917,
+    "prompt_per_second": 847.6037237099184,
+    "predicted_n": 224,
+    "predicted_ms": 2754.844,
+    "predicted_per_token_ms": 12.353560538116593,
+    "predicted_per_second": 80.94832230064569
+  }
+}

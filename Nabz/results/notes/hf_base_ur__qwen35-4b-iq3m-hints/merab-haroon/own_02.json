@@ -1,0 +1,35 @@
+{
+  "transcript": "30یر سے دل گھر دل دل گئیتکہ سے خمی بہت ہے ہم پر اجلس گاڑی سے ہم کس سے ماراہ ہے اور چلے جات دل ہمکتی نہیں میں کے لئے مندتورہ پیچھے میں نے کہتے۔ جو که تم اجلس کا حصہ ہوگہ سیتہ میں یہ سائح ٹھا سیتڈی اضبعہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest pain\", \"duration\": \"present\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "present"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 186,
+    "prompt_ms": 93.88,
+    "prompt_per_token_ms": 0.504731182795699,
+    "prompt_per_second": 1981.2526629740096,
+    "predicted_n": 121,
+    "predicted_ms": 1705.607,
+    "predicted_per_token_ms": 14.213391666666666,
+    "predicted_per_second": 70.35618404474184
+  }
+}

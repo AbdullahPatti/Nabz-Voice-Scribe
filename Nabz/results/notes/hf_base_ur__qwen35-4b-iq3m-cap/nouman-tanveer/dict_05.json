@@ -1,0 +1,48 @@
+{
+  "transcript": "مرد پنیا سال شوگر کا پر آنہ مریز نہار مو شوگر ایک سی اور کانے کے بعد دو سو خط پہلے گلوکو فیز پنسو دین میں دو بار لی رہا تھا اب لوکو فیز ہزار دین میں دو بار کانے کے ساتھ تین میں ہی نی وال لیے شوگر تشت کروائی ہے بیٹھوں میں سنھ ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"diabetes\", \"duration\": \"1 year\"},\n    {\"symptom\": \"hypoglycemia\", \"duration\": \"2 years\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glibenclamide\", \"strength\": \"2\", \"dose\": \"twice daily\", \"frequency\": \"twice daily\", \"duration\": \"2 years\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "1 year"
+      },
+      {
+        "symptom": "hypoglycemia",
+        "duration": "2 years"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glibenclamide",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 years",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 75.619,
+    "prompt_per_token_ms": 0.7201809523809524,
+    "prompt_per_second": 1388.5399172165726,
+    "predicted_n": 196,
+    "predicted_ms": 2678.491,
+    "predicted_per_token_ms": 13.735851282051282,
+    "predicted_per_second": 72.80218600697184
+  }
+}

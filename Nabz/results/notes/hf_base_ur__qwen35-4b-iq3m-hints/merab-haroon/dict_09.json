@@ -1,0 +1,42 @@
+{
+  "transcript": "مرد بائسان رات کو سانس کی تکلی پر سینے سے سیٹی کی اوازاتی ہے گبراؤٹ ہون دی گے وہ ہارڈ میں مینٹوانی این ہیلر ضرورت پر دو پف دین میں چارڑ دفع سے زادہنے رات کو زرٹیک اگلی دوڑ اور دنے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"overnight\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"chest area\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Augmentin\",\n    \"take Zyrtec\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "overnight"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "chest area"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take Augmentin",
+      "take Zyrtec"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 194,
+    "prompt_ms": 100.305,
+    "prompt_per_token_ms": 0.5170360824742268,
+    "prompt_per_second": 1934.1009919744777,
+    "predicted_n": 158,
+    "predicted_ms": 2024.096,
+    "predicted_per_token_ms": 12.892331210191083,
+    "predicted_per_second": 77.56549096485541
+  }
+}

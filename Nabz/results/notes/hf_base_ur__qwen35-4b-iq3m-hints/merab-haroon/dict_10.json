@@ -1,0 +1,52 @@
+{
+  "transcript": "ہاتن اتھتیس سال، سر فولوہ کی نیائنہ پچری دوائیسے کوئی ریشنیوہ کوئی ساید افتنی، مخارنی کانتینی پینیسیلین سے ایلرجی ہے اسلی آگوینٹن نیویلی، زرٹیک آدی گولی رات کو دستنگ، ایک محینے بعد دکھائن،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 25\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"rash\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"1 tablet\", \"frequency\": \"twice daily\", \"duration\": \"1 month\", \"instructions\": \"take at night\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 25
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "rash"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "1 month",
+        "instructions": "take at night"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 262,
+    "prompt_ms": 115.787,
+    "prompt_per_token_ms": 0.44193511450381684,
+    "prompt_per_second": 2262.7756138426594,
+    "predicted_n": 218,
+    "predicted_ms": 2792.15,
+    "predicted_per_token_ms": 12.86705069124424,
+    "predicted_per_second": 77.71788764930251
+  }
+}

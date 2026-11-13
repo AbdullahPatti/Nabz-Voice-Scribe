@@ -1,0 +1,67 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi piyla balgham aur halka bukhar. Saans mein phoolta seene pet dexam ke dain. Talaf hawa zaroorat hai. Augmentin 625 din mein do baar. 5 din khansi kar seeraf do chamach din mein teen baar. Cigarette band karniye check up. Crest X-ray karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellowish sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"mild fever\", \"duration\": \"1 week\"},\n    {\"symptom\": \"wheezing in chest\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"2 times daily\", \"frequency\": \"5 days\", \"duration\": \"5 days\", \"instructions\": \"take 2 teaspoons 3 times daily\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"cigarettes\"\n  ],\n  \"investigations_ordered\": [\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Stop smoking\",\n    \"Get a checkup\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellowish sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "mild fever",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "wheezing in chest",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take 2 teaspoons 3 times daily"
+      }
+    ],
+    "drugs_to_avoid": [
+      "cigarettes"
+    ],
+    "investigations_ordered": [
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Stop smoking",
+      "Get a checkup"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 116,
+    "prompt_ms": 83.353,
+    "prompt_per_token_ms": 0.7185603448275861,
+    "prompt_per_second": 1391.6715655105397,
+    "predicted_n": 292,
+    "predicted_ms": 3753.116,
+    "predicted_per_token_ms": 12.897305841924398,
+    "predicted_per_second": 77.53557310778564
+  }
+}

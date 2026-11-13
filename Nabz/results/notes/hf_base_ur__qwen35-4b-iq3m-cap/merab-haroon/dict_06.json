@@ -1,0 +1,54 @@
+{
+  "transcript": "ہا تو ان تیسہ پیچھو پڑ جلے نوطیاں کھانے کے بعد جادہ کندی ہے کھٹے دی کار ہون دے نے ڈلکی نہیں وزن کم نہیں ہوا حرایزک بی سبہ حالی پیڑ دوبتے رات کو گیبس کون کے دوچھمچ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain in lower abdomen\", \"duration\": \"3 days\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"after eating\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"present\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid eating spicy food\",\n    \"Avoid eating salty food\",\n    \"Avoid eating fried food\",\n    \"Avoid eating cold food\",\n    \"Avoid eating raw food\",\n    \"Avoid eating green food\",\n    \"Avoid eating sweet food\",\n    \"Avoid eating meat\",\n    \"Avoid eating eggs\",\n    \"Avoid eating milk products\"\n  ],\n  \"follow_up\": \"in 24 hours\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "pain in lower abdomen",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "after eating"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "present"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid eating spicy food",
+      "Avoid eating salty food",
+      "Avoid eating fried food",
+      "Avoid eating cold food",
+      "Avoid eating raw food",
+      "Avoid eating green food",
+      "Avoid eating sweet food",
+      "Avoid eating meat",
+      "Avoid eating eggs",
+      "Avoid eating milk products"
+    ],
+    "follow_up": "in 24 hours"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 104,
+    "prompt_ms": 75.209,
+    "prompt_per_token_ms": 0.7231634615384616,
+    "prompt_per_second": 1382.8132271403688,
+    "predicted_n": 242,
+    "predicted_ms": 2920.471,
+    "predicted_per_token_ms": 12.118136929460581,
+    "predicted_per_second": 82.52093583534985
+  }
+}

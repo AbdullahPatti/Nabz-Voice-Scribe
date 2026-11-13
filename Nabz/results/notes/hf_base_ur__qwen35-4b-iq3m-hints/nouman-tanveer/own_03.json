@@ -1,0 +1,35 @@
+{
+  "transcript": "بیپیی رہی دے گیایی بیں انہیں آوڑہیں نیگی تیکہ رہا ہوا کے بعد دوید پیو چیکہ اگین بعد اگیں یک",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": null}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": null
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 61,
+    "prompt_ms": 65.978,
+    "prompt_per_token_ms": 1.081606557377049,
+    "prompt_per_second": 924.5506077783505,
+    "predicted_n": 118,
+    "predicted_ms": 1622.77,
+    "predicted_per_token_ms": 13.86982905982906,
+    "predicted_per_second": 72.09894193262137
+  }
+}

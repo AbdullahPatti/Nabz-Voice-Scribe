@@ -1,0 +1,41 @@
+{
+  "transcript": "اتون تیشار پیرڈ کے اپر جلت ہوتی ہے کھانے کے باز یا تھا کہاں دیئے کتے دگار ہون دے نے ڈی نہیں وزن کم نہیں ہوا رائیسک بھی سوبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 37\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take 2 teaspoons of honey in warm water at night.\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 37
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take 2 teaspoons of honey in warm water at night."
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 99,
+    "prompt_ms": 73.172,
+    "prompt_per_token_ms": 0.739111111111111,
+    "prompt_per_second": 1352.9765484064944,
+    "predicted_n": 159,
+    "predicted_ms": 2054.925,
+    "predicted_per_token_ms": 13.005854430379747,
+    "predicted_per_second": 76.88845091670011
+  }
+}

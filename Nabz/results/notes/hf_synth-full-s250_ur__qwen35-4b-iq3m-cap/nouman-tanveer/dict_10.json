@@ -1,0 +1,49 @@
+{
+  "transcript": "Khatoon, 38 saal. Serf follow up ke liye aayein. Pesicide farq se koi dard nahi hoa. Koi shaar. Diflucan nahi bukhar nahi. Kharzix nahi. Penicillin se allergy hai. Is liye optamartin nahi deni. Zartac aadhi goli raat ko, 10 din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"pain\",\n    \"fever\",\n    \"vomiting\",\n    \"allergy to penicillin\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Zartac\",\n      \"strength\": \"1/2\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"once daily\",\n      \"duration\": \"10 days\",\n      \"instructions\": \"return in 1 month\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Optamartin\",\n    \"Diflucan\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [],
+    "negatives": [
+      "pain",
+      "fever",
+      "vomiting",
+      "allergy to penicillin"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zartac",
+        "strength": "1/2",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "10 days",
+        "instructions": "return in 1 month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Optamartin",
+      "Diflucan"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 81.903,
+    "prompt_per_token_ms": 0.700025641025641,
+    "prompt_per_second": 1428.5191018644005,
+    "predicted_n": 239,
+    "predicted_ms": 2978.408,
+    "predicted_per_token_ms": 12.514319327731092,
+    "predicted_per_second": 79.90846116448787
+  }
+}

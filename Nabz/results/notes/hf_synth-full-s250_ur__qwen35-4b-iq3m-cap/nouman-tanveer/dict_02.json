@@ -1,0 +1,73 @@
+{
+  "transcript": "Khatoon, 34 saal. 3 din se bukhar jism mein dard ho aankh ho. Keppi check dard. Platelets 95 hazaar hai. Kaafi se khoon nahi aana. Serc panadol do goli din mein teen baar. Brufen bilkul nahi lena. Disprin bhi nahi paani zyada piye. Kalofan ka test do baar. Akarabana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"eye pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"Platelets: 95,000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Serc\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"1 tablet 3 times daily\"},\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"1 tablet 3 times daily\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"Kalofan test\"\n  ],\n  \"advice\": [\n    \"Drink plenty of water\"\n  ],\n  \"follow_up\": \"Akarabana\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "eye pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "Platelets: 95,000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Serc",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "1 tablet 3 times daily"
+      },
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "1 tablet 3 times daily"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "Kalofan test"
+    ],
+    "advice": [
+      "Drink plenty of water"
+    ],
+    "follow_up": "Akarabana"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 116,
+    "prompt_ms": 75.077,
+    "prompt_per_token_ms": 0.6472155172413793,
+    "prompt_per_second": 1545.0803841389506,
+    "predicted_n": 316,
+    "predicted_ms": 3980.849,
+    "predicted_per_token_ms": 12.637615873015873,
+    "predicted_per_second": 79.12884914750597
+  }
+}

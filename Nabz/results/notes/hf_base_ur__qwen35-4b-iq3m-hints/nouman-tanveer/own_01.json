@@ -1,0 +1,41 @@
+{
+  "transcript": "او مین سکشتی ایر نی پین فر two مرٹس ورٹس نوستیرٹس نوستوالیگ نوستوالیگ نو فیور پنڈ او دو تبلرٹس تویسہ دے لیٹ اکسسیس دیلی کم بیکن one منت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"chest pain\",\n      \"duration\": \"2 months\"\n    }\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Oxidil daily\",\n    \"Take Lasix daily\",\n    \"Take Carvedilol daily\",\n    \"Take Calcium daily\",\n    \"Take Dalacin daily\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Oxidil daily",
+      "Take Lasix daily",
+      "Take Carvedilol daily",
+      "Take Calcium daily",
+      "Take Dalacin daily"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 180,
+    "prompt_ms": 94.277,
+    "prompt_per_token_ms": 0.5237611111111111,
+    "prompt_per_second": 1909.267371681322,
+    "predicted_n": 178,
+    "predicted_ms": 2197.088,
+    "predicted_per_token_ms": 12.412926553672317,
+    "predicted_per_second": 80.56117916078009
+  }
+}

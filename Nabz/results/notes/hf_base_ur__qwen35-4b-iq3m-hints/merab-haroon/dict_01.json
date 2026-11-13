@@ -1,0 +1,41 @@
+{
+  "transcript": "کیفورٹ ۔ मرد قتشہ عدد آیا مخطب حمد ہورر بھی ہے ، گندہی راضنا بوہوط سنانتہ گزنہ نہیں ہامی۔ کیفورٹ قورٹ خارت ہسکی بہیا ہے, ایسھو مäng سری ٹھکہ ساتیں. ہمیں گی دور آئے دل میں 3 بھارڈ بھی ہار ہو 30 دن بات دبار آئی،",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n   \n  ],\n  \"negatives\": [\n    \"no cough\",\n    \"no chest pain\",\n    \"no palpitations\",\n    \"no dizziness\",\n    \"no chest tightness\"\n  ],\n  \"findings\": [\n    \"chest pain for 30 days\",\n    \"pain described as heavy weight in chest (3 bhaar)\"\n  ],\n  \"allergies\": [\n    \"no known allergies\"\n  ],\n  \"medications\": [\n   \n  ],\n  \"drugs_to_avoid\": [\n   \n  ],\n  \"investigations_ordered\": [\n   \n  ],\n  \"advice\": [\n   \n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [],
+    "negatives": [
+      "no cough",
+      "no chest pain",
+      "no palpitations",
+      "no dizziness",
+      "no chest tightness"
+    ],
+    "findings": [
+      "chest pain for 30 days",
+      "pain described as heavy weight in chest (3 bhaar)"
+    ],
+    "allergies": [
+      "no known allergies"
+    ],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 0,
+    "prompt_n": 598,
+    "prompt_ms": 204.252,
+    "prompt_per_token_ms": 0.34155852842809364,
+    "prompt_per_second": 2927.7559093668606,
+    "predicted_n": 208,
+    "predicted_ms": 2726.883,
+    "predicted_per_token_ms": 13.173347826086955,
+    "predicted_per_second": 75.91084766013064
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "transcript": "مرضہ چاریسا اور کال رات سے 10 تلکہ ہیں 8 نو دفا ہو چکے ہیں 10 میں خون نہیں ہیں جس میں تھورا تھوڑی پانی کی کمی ہیں ہر 10 کے بات اور ایس کا ایک گلاثت فلجل 400 دین میں 3 بار 5 دین دوڑ ہوڑ تلی ہوئی چیزے بان اگر پیشاب کام ہو جائے تو فورن واقص آجیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"10 days\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"8 days\"},\n    {\"symptom\": \"diarrhea\", \"duration\": \"10 days\"},\n    {\"symptom\": \"dehydration\", \"duration\": \"10 days\"}\n  ],\n  \"negatives\": [\n    \"no blood in stool\"\n  ],\n  \"findings\": [\n    \"mild dehydration\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"400\", \"dose\": \"3 times daily\", \"frequency\": \"3 times/day\", \"duration\": \"5 days\", \"instructions\": \"continue until diarrhea stops\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue medication until diarrhea resolves\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "10 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "8 days"
+      },
+      {
+        "symptom": "diarrhea",
+        "duration": "10 days"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "10 days"
+      }
+    ],
+    "negatives": [
+      "no blood in stool"
+    ],
+    "findings": [
+      "mild dehydration"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "3 times/day",
+        "duration": "5 days",
+        "instructions": "continue until diarrhea stops"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue medication until diarrhea resolves"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 122,
+    "prompt_ms": 80.032,
+    "prompt_per_token_ms": 0.6559999999999999,
+    "prompt_per_second": 1524.3902439024391,
+    "predicted_n": 266,
+    "predicted_ms": 3395.978,
+    "predicted_per_token_ms": 12.815011320754717,
+    "predicted_per_second": 78.03348549372228
+  }
+}

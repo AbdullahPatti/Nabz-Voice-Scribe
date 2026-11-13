@@ -740,6 +740,32 @@ hf_synth-full-s250_ur,hadi,dict_10,dictation,15.7,0.62,0.04,,0.667,Augmentin,0.0
 hf_synth-full-s250_ur,hadi,own_01,free_dictation,12.54,0.46,0.037,,0.0,Panadol,1.0,,2,2,1.0,0,Serc,0.344
 hf_synth-full-s250_ur,hadi,own_02,free_dictation,16.04,0.54,0.033,,1.0,,1.0,,3,4,1.0,1,,0.208
 hf_synth-full-s250_ur,hadi,own_03,free_dictation,14.93,0.51,0.034,,1.0,,1.0,,2,1,0.5,0,,0.342
+hf_synth-full-s250_ur,merab-haroon,dict_01,dictation,29.7,1.07,0.036,,1.0,,0.5,28,2,2,1.0,0,,0.245
+hf_synth-full-s250_ur,merab-haroon,dict_02,dictation,25.34,0.72,0.028,,1.0,,0.5,34,3,2,0.667,0,,0.223
+hf_synth-full-s250_ur,merab-haroon,dict_03,dictation,30.29,0.98,0.032,,1.0,,0.5,40,1,1,1.0,0,,0.263
+hf_synth-full-s250_ur,merab-haroon,dict_04,dictation,24.15,0.58,0.024,,1.0,,0.75,160,2,3,1.0,1,,0.318
+hf_synth-full-s250_ur,merab-haroon,dict_05,dictation,37.63,0.72,0.019,,1.0,,0.4,180 260 500,1,1,1.0,0,Exforge Nexum Penicillin,0.5
+hf_synth-full-s250_ur,merab-haroon,dict_06,dictation,19.29,0.56,0.029,,1.0,,1.0,,2,2,1.0,0,,0.176
+hf_synth-full-s250_ur,merab-haroon,dict_07,dictation,28.59,0.64,0.022,,0.5,Cough syrup,1.0,,1,0,0.0,0,,0.186
+hf_synth-full-s250_ur,merab-haroon,dict_08,dictation,25.34,0.5,0.02,,1.0,,1.0,,4,4,1.0,0,,0.11
+hf_synth-full-s250_ur,merab-haroon,dict_09,dictation,24.75,0.61,0.025,,0.5,Ventolin,1.0,,2,0,0.0,0,,0.358
+hf_synth-full-s250_ur,merab-haroon,dict_10,dictation,19.2,0.62,0.032,,1.0,,0.0,38,5,5,1.0,0,Serc,0.203
+hf_synth-full-s250_ur,merab-haroon,own_01,free_dictation,14.17,0.33,0.023,,1.0,,1.0,,2,2,1.0,0,,0.145
+hf_synth-full-s250_ur,merab-haroon,own_02,free_dictation,16.47,2.92,0.177,,0.0,Panadol,1.0,,3,2,0.667,0,Propranolol,0.413
+hf_synth-full-s250_ur,merab-haroon,own_03,free_dictation,16.73,0.4,0.024,,1.0,,1.0,,2,2,1.0,0,,0.554
+hf_synth-full-s250_ur,nouman-tanveer,dict_01,dictation,28.84,0.65,0.022,,0.5,Azomax,1.0,,2,2,1.0,0,,0.302
+hf_synth-full-s250_ur,nouman-tanveer,dict_02,dictation,24.58,0.58,0.024,,1.0,,1.0,,3,3,1.0,0,Serc,0.117
+hf_synth-full-s250_ur,nouman-tanveer,dict_03,dictation,31.15,0.82,0.026,,0.5,Flagyl,1.0,,1,1,1.0,0,Acyclovir,0.192
+hf_synth-full-s250_ur,nouman-tanveer,dict_04,dictation,23.13,0.55,0.024,,0.0,Norvasc,0.75,160,2,2,1.0,0,Novorapid,0.333
+hf_synth-full-s250_ur,nouman-tanveer,dict_05,dictation,30.38,0.72,0.024,,1.0,,0.4,50 180 260,1,2,1.0,1,,0.209
+hf_synth-full-s250_ur,nouman-tanveer,dict_06,dictation,20.39,0.52,0.025,,0.5,Gaviscon,0.5,20,2,2,1.0,0,,0.162
+hf_synth-full-s250_ur,nouman-tanveer,dict_07,dictation,30.55,0.74,0.024,,0.0,Augmentin Cough syrup,0.5,45,1,0,0.0,0,Plavix,0.34
+hf_synth-full-s250_ur,nouman-tanveer,dict_08,dictation,20.91,0.58,0.028,,1.0,,1.0,,4,3,0.75,0,,0.154
+hf_synth-full-s250_ur,nouman-tanveer,dict_09,dictation,23.47,0.6,0.025,,1.0,,1.0,,2,2,1.0,0,,0.198
+hf_synth-full-s250_ur,nouman-tanveer,dict_10,dictation,23.13,0.54,0.023,,0.667,Augmentin,1.0,,5,5,1.0,0,Diflucan,0.228
+hf_synth-full-s250_ur,nouman-tanveer,own_01,free_dictation,12.12,0.3,0.025,,0.0,Panadol,1.0,,2,3,1.0,1,,0.136
+hf_synth-full-s250_ur,nouman-tanveer,own_02,free_dictation,17.15,0.35,0.02,,1.0,,1.0,,3,3,1.0,0,,0.085
+hf_synth-full-s250_ur,nouman-tanveer,own_03,free_dictation,14.68,0.31,0.021,,1.0,,1.0,,2,2,1.0,0,,0.054
 hf_synth-full-s500_ur,hadi,dict_01,dictation,20.57,1.02,0.049,,1.0,,0.5,500,2,3,1.0,1,,0.292
 hf_synth-full-s500_ur,hadi,dict_02,dictation,18.09,2.95,0.163,,0.667,Panadol,0.5,95,3,3,1.0,0,Lopressor Xanax,0.35
 hf_synth-full-s500_ur,hadi,dict_03,dictation,17.32,0.7,0.04,,0.0,ORS Flagyl,0.5,400,1,2,1.0,1,Novorapid,0.354

@@ -1,0 +1,30 @@
+{
+  "transcript": "اوناسنی آولی عام 1945 اس قادیق انی بین بھر فلن ہندو گٹزے ونگی آور ونگی آور رہے ہیں۔ انز محامیت و نانم لرین ہے کہیستہ سالج ویسی تحسام دونگی آورہ آوری بھیی سے خوایقے میں آورہ عام نجتکہ سے خوایقے پیر ایک یا لازساتا کیا ہونا چکا ہے۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 1945\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 1945
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 178,
+    "prompt_ms": 96.504,
+    "prompt_per_token_ms": 0.5421573033707865,
+    "prompt_per_second": 1844.4831302329437,
+    "predicted_n": 102,
+    "predicted_ms": 1422.148,
+    "predicted_per_token_ms": 14.080673267326732,
+    "predicted_per_second": 71.01933132135333
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "transcript": "Mard, 50 saal. Sugar Kaafi rana. Mareez. Nexum harnon sugar. Exforge asixx ur khane ke baad, 200 saal. Penicillin glycofez paanch ml din mein paanch ml din mein do baar. Levetirac abg, glycofex 1000 din mein do baar, khane ke saad. 3 mahine wala Sugar test karwana hai. Pairon mein sun khoonna nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"sugar control issues\", \"duration\": \"3 months\"}\n  ],\n  \"negatives\": [\n    \"no joint pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Nexum\", \"strength\": \"200\", \"dose\": \"once daily after meals\", \"frequency\": \"once daily\", \"duration\": null, \"instructions\": \"after meals\"},\n    {\"name\": \"Exforge\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"after meals\"},\n    {\"name\": \"Penicillin glycofez\", \"strength\": \"5ml\", \"dose\": \"5ml\", \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": \"twice daily\"},\n    {\"name\": \"Levetirac abg\", \"strength\": \"1000\", \"dose\": null, \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": \"with meals\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood sugar test\"\n  ],\n  \"advice\": [],\n  \"follow_up\": \"3 months\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sugar control issues",
+        "duration": "3 months"
+      }
+    ],
+    "negatives": [
+      "no joint pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nexum",
+        "strength": "200",
+        "dose": "once daily after meals",
+        "frequency": "once daily",
+        "duration": null,
+        "instructions": "after meals"
+      },
+      {
+        "name": "Exforge",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "after meals"
+      },
+      {
+        "name": "Penicillin glycofez",
+        "strength": "5ml",
+        "dose": "5ml",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "twice daily"
+      },
+      {
+        "name": "Levetirac abg",
+        "strength": "1000",
+        "dose": null,
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "with meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood sugar test"
+    ],
+    "advice": [],
+    "follow_up": "3 months"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 131,
+    "prompt_ms": 81.112,
+    "prompt_per_token_ms": 0.619175572519084,
+    "prompt_per_second": 1615.050793963902,
+    "predicted_n": 332,
+    "predicted_ms": 4270.481,
+    "predicted_per_token_ms": 12.901755287009063,
+    "predicted_per_second": 77.50883331409273
+  }
+}

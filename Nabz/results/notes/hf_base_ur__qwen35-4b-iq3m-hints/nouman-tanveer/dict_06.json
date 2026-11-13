@@ -1,0 +1,50 @@
+{
+  "transcript": "اتون تیشار پیرڈ کے اپر جلت ہوتی ہے کھانے کے باز یا تھا کہاں دیئے کتے دگار ہون دے نے ڈی نہیں وزن کم نہیں ہوا رائیسک بھی سوبا خالی پیرڈ دو ہفتے رات کو گیوی سون کے دو چمچے چائے اور مجھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain\", \"duration\": \"3 weeks\"},\n    {\"symptom\": \"pain\", \"duration\": \"after meals\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"weight loss\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take 2 teaspoons of honey before bed at night\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "3 weeks"
+      },
+      {
+        "symptom": "pain",
+        "duration": "after meals"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "weight loss"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take 2 teaspoons of honey before bed at night"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 181,
+    "prompt_ms": 94.306,
+    "prompt_per_token_ms": 0.5210276243093922,
+    "prompt_per_second": 1919.2840328293005,
+    "predicted_n": 199,
+    "predicted_ms": 2566.897,
+    "predicted_per_token_ms": 12.964126262626262,
+    "predicted_per_second": 77.13593494401997
+  }
+}

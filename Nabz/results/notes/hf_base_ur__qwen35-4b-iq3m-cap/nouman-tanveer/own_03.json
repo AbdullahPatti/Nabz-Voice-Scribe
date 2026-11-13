@@ -1,0 +1,37 @@
+{
+  "transcript": "بیپیی رہی دے گیایی بیں انہیں آوڑہیں نیگی تیکہ رہا ہوا کے بعد دوید پیو چیکہ اگین بعد اگیں یک",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": null}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take medicine again after 2 days\"\n  ],\n  \"follow_up\": \"in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": null
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take medicine again after 2 days"
+    ],
+    "follow_up": "in 2 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 61,
+    "prompt_ms": 70.807,
+    "prompt_per_token_ms": 1.1607704918032786,
+    "prompt_per_second": 861.4967446721369,
+    "predicted_n": 137,
+    "predicted_ms": 1797.662,
+    "predicted_per_token_ms": 13.21810294117647,
+    "predicted_per_second": 75.65382146365668
+  }
+}

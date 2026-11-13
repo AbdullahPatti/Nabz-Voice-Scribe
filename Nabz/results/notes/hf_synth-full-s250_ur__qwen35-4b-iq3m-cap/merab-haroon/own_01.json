@@ -1,0 +1,47 @@
+{
+  "transcript": "Woman, 60 years, knee pain for 2 months. Warsons years. No swelling. No fever. Panadol total fever twice a day. Larki exercise really come back in one month.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"knee pain\",\n      \"duration\": \"2 months\"\n    }\n  ],\n  \"negatives\": [\n    \"swelling\",\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadol\",\n      \"strength\": \"total\",\n      \"dose\": \"twice a day\",\"frequency\": \"twice a day\",\"duration\": \"Warsons years\",\"instructions\": \"exercise really come back in one month\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "knee pain",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [
+      "swelling",
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": "total",
+        "dose": "twice a day",
+        "frequency": "twice a day",
+        "duration": "Warsons years",
+        "instructions": "exercise really come back in one month"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 58,
+    "prompt_ms": 66.838,
+    "prompt_per_token_ms": 1.1523793103448274,
+    "prompt_per_second": 867.7698315329603,
+    "predicted_n": 210,
+    "predicted_ms": 2772.509,
+    "predicted_per_token_ms": 13.265593301435407,
+    "predicted_per_second": 75.38298342764622
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "transcript": "ہا دون پشپن سال آج بیپی ایک سو ساتھ اور سو آیا ہے سر بھاری رہتا ہے چکر نہیں آتے سیلی میں دڑھ نہیں ہے نور بیسک پانچ رات کو ایک گولی شدو کر دی ہے نمک کم کرنا ہے دو ہفتے بات دیپی دبارہ چکر میں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"chronic\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"chronic\"}\n  ],\n  \"negatives\": [\n    \"no palpitations\",\n    \"no chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Buscopan\", \"strength\": \"5\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"reduce salt intake\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "chronic"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "chronic"
+      }
+    ],
+    "negatives": [
+      "no palpitations",
+      "no chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Buscopan",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "reduce salt intake"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 166,
+    "prompt_ms": 92.056,
+    "prompt_per_token_ms": 0.5545542168674699,
+    "prompt_per_second": 1803.2501955331538,
+    "predicted_n": 222,
+    "predicted_ms": 2978.085,
+    "predicted_per_token_ms": 13.47549773755656,
+    "predicted_per_second": 74.20876167067092
+  }
+}

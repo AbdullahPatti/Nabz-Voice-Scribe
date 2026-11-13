@@ -1,0 +1,47 @@
+{
+  "transcript": "ہمیں 60 ایرز نیپن فر 2 منز ورسن سٹیرز نوز ویلن نو فیور پانے دول ٹو ٹیبڑرٹز ٹوائز اڑے لائیت اکسرس از دیلی کم بیکن 1 منگت",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"fever\",\n      \"duration\": \"2 days\"\n    }\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Vastarel\",\n      \"strength\": \"2\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"2 days\",\"instructions\": \"take with food\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\"\n  ],\"follow_up\": \"in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Vastarel",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids"
+    ],
+    "follow_up": "in 2 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 185,
+    "prompt_ms": 96.965,
+    "prompt_per_token_ms": 0.5241351351351351,
+    "prompt_per_second": 1907.9049141442788,
+    "predicted_n": 209,
+    "predicted_ms": 2675.545,
+    "predicted_per_token_ms": 12.863197115384615,
+    "predicted_per_second": 77.7411704904982
+  }
+}

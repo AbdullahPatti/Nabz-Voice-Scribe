@@ -1,0 +1,54 @@
+{
+  "transcript": "Mard, 44 saal. Kal raat se dast hai. Atenol dapha ho chukin hai. Dastimefrom nahi. Jism mein torythroxiparni ke kami hai. HB 10 ke baad. ORS ek khala. Flagyl 400 din mein teen baar, 5 din. Doodh Urtele hui cheezein band. Agar peshab kam ho jalan to foran Kaafi saal.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 44\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"since last night\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"history of hypothyroxiparni (low thyroid hormone)\",\n    \"Hb 10\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Atenolol\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"doodh\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"ORS one glass\",\n    \"Flagyl 400 three times a day for 5 days\",\n    \"stop eating foods that cause loose stools\",\n    \"if urine output decreases or burning occurs, come immediately\"\n  ],\n  \"follow_up\": \"if symptoms of dehydration or burning occur\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 44
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "since last night"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "history of hypothyroxiparni (low thyroid hormone)",
+      "Hb 10"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Atenolol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "doodh"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "ORS one glass",
+      "Flagyl 400 three times a day for 5 days",
+      "stop eating foods that cause loose stools",
+      "if urine output decreases or burning occurs, come immediately"
+    ],
+    "follow_up": "if symptoms of dehydration or burning occur"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 122,
+    "prompt_ms": 81.557,
+    "prompt_per_token_ms": 0.6685,
+    "prompt_per_second": 1495.8863126402393,
+    "predicted_n": 278,
+    "predicted_ms": 3501.62,
+    "predicted_per_token_ms": 12.641227436823105,
+    "predicted_per_second": 79.10624225358548
+  }
+}

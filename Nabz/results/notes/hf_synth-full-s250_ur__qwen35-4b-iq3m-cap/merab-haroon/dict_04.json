@@ -1,0 +1,61 @@
+{
+  "transcript": "Khatoon, 55 saal. Acycline BP 100 saal. Suwa hai. Sarbhabi rata hai. Chakkar nahi. Atencine mein dard nahi hai. No risk 5 raat ko. Ek goli subah nahar dikhayein. Namak kam karna hai. Do hafte baad dikhayein. Cbc 12 check up.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"100 days\"},\n    {\"symptom\": \"nausea\", \"duration\": \"100 days\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"BP 100\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Acycline\", \"strength\": \"100\", \"dose\": \"1 tablet morning with food\", \"frequency\": \"once daily\", \"duration\": null, \"instructions\": \"Continue\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"salt\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC 12\"\n  ],\n  \"advice\": [\n    \"Reduce salt intake\",\n    \"Return in 2 weeks\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "100 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "100 days"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain",
+      "vomiting"
+    ],
+    "findings": [
+      "BP 100"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Acycline",
+        "strength": "100",
+        "dose": "1 tablet morning with food",
+        "frequency": "once daily",
+        "duration": null,
+        "instructions": "Continue"
+      }
+    ],
+    "drugs_to_avoid": [
+      "salt"
+    ],
+    "investigations_ordered": [
+      "CBC 12"
+    ],
+    "advice": [
+      "Reduce salt intake",
+      "Return in 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 79.702,
+    "prompt_per_token_ms": 0.7448785046728972,
+    "prompt_per_second": 1342.5008155378787,
+    "predicted_n": 268,
+    "predicted_ms": 3390.188,
+    "predicted_per_token_ms": 12.697333333333333,
+    "predicted_per_second": 78.75669431901711
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "transcript": "Woman 45 years, kharabia kendi. Ibupin for 1 week. BP 140 over 90. No problem. 5 saal. No vomiting. Pranadol band negrit. Erythrolazoz bilkul check a dena. Cbc karwaan dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"kharabia kendi\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ibupin\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": \"1 week\", \"instructions\": null}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\",\n    \"Erythrolazoz\"\n  ],\n  \"advice\": [\n    \"Pranadol band negrit\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "kharabia kendi",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "vomiting"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ibupin",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": "1 week",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC",
+      "Erythrolazoz"
+    ],
+    "advice": [
+      "Pranadol band negrit"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 84,
+    "prompt_ms": 71.247,
+    "prompt_per_token_ms": 0.8481785714285714,
+    "prompt_per_second": 1178.997010400438,
+    "predicted_n": 220,
+    "predicted_ms": 2865.043,
+    "predicted_per_token_ms": 13.082388127853882,
+    "predicted_per_second": 76.43864332926242
+  }
+}

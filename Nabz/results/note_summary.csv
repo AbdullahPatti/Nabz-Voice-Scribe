@@ -26,12 +26,12 @@ avx2_small-q8_ur_t2__qwen35-4b-cap,39,100%,3.3,4.4,10977,28%,24%,25,4,52%,6,yes
 avx2_small-q8_ur_t2__qwen35-4b-hints,39,100%,3.2,3.7,11746,31%,33%,13,2,49%,10,yes
 avx2_small-q8_ur_t2__qwen35-4b-iq3m-cap,39,100%,3.0,3.3,11113,23%,14%,11,2,31%,7,yes
 avx2_small-q8_ur_t2__qwen35-4b-iq3m-hints,39,100%,2.6,3.6,11229,21%,10%,7,0,38%,10,yes
-hf_base_ur__qwen35-4b-iq3m-cap,13,100%,2.4,3.0,4322,12%,0%,2,0,27%,3,yes
-hf_base_ur__qwen35-4b-iq3m-hints,13,100%,2.5,2.9,10171,12%,0%,2,0,23%,3,yes
+hf_base_ur__qwen35-4b-iq3m-cap,39,100%,2.6,3.4,6183,10%,5%,13,1,18%,13,yes
+hf_base_ur__qwen35-4b-iq3m-hints,39,100%,2.6,3.2,11223,15%,14%,5,1,19%,13,yes
 hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,13,100%,3.5,4.5,5519,42%,29%,17,0,56%,1,yes
 hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,13,100%,3.4,4.2,6545,35%,43%,13,0,49%,2,yes
 hf_synth-dec_ur__qwen35-4b-iq3m-cap,13,100%,3.4,4.7,7409,23%,29%,17,0,41%,1,yes
-hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,13,100%,3.8,4.5,8098,46%,29%,16,0,49%,3,yes
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,39,100%,3.6,4.6,8244,45%,14%,46,0,50%,10,yes
 hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,13,100%,3.3,4.6,8616,31%,14%,15,0,51%,2,yes
 hf_synth-full_ur__qwen35-4b-iq3m-cap,13,100%,3.2,4.7,9136,31%,14%,13,0,44%,1,yes
 ref__alif-3b,39,62%,3.8,6.2,3816,88%,75%,14,6,69%,6,yes

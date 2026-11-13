@@ -1,0 +1,47 @@
+{
+  "transcript": "30یر سے دل گھر دل دل گئیتکہ سے خمی بہت ہے ہم پر اجلس گاڑی سے ہم کس سے ماراہ ہے اور چلے جات دل ہمکتی نہیں میں کے لئے مندتورہ پیچھے میں نے کہتے۔ جو که تم اجلس کا حصہ ہوگہ سیتہ میں یہ سائح ٹھا سیتڈی اضبعہ ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest pain\", \"duration\": \"30 years\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"30 years\"},\n    {\"symptom\": \"chest heaviness\", \"duration\": \"30 years\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"30 years\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "30 years"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "30 years"
+      },
+      {
+        "symptom": "chest heaviness",
+        "duration": "30 years"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "30 years"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 75.936,
+    "prompt_per_token_ms": 0.7232000000000001,
+    "prompt_per_second": 1382.7433628318583,
+    "predicted_n": 176,
+    "predicted_ms": 2237.249,
+    "predicted_per_token_ms": 12.784279999999999,
+    "predicted_per_second": 78.22106524575496
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "transcript": "ہا تو ان تیسہ پیچھو پڑ جلے نوطیاں کھانے کے بعد جادہ کندی ہے کھٹے دی کار ہون دے نے ڈلکی نہیں وزن کم نہیں ہوا حرایزک بی سبہ حالی پیڑ دوبتے رات کو گیبس کون کے دوچھمچ شائر میں شکم کریں گے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain in lower abdomen\", \"duration\": \"3 days\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"after meals\"},\n    {\"symptom\": \"weight loss\", \"duration\": \"present\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting at night\"\n  ],\n  \"findings\": [\n    \"abdominal tenderness\",\n    \"rebound tenderness\",\n    \"guarding\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"dietary advice\",\n    \"fluid intake\"\n  ],\n  \"follow_up\": \"in 24 hours\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "pain in lower abdomen",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "after meals"
+      },
+      {
+        "symptom": "weight loss",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting at night"
+    ],
+    "findings": [
+      "abdominal tenderness",
+      "rebound tenderness",
+      "guarding"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "dietary advice",
+      "fluid intake"
+    ],
+    "follow_up": "in 24 hours"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 200,
+    "prompt_ms": 101.03,
+    "prompt_per_token_ms": 0.50515,
+    "prompt_per_second": 1979.610016826685,
+    "predicted_n": 221,
+    "predicted_ms": 2734.484,
+    "predicted_per_token_ms": 12.429472727272726,
+    "predicted_per_second": 80.45393573339614
+  }
+}

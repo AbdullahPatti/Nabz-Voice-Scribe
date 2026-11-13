@@ -1,0 +1,60 @@
+{
+  "transcript": "Mardapastan 40 saal, ek hafta se khansi. Plavix balgham aur halka. Bukhar saans raha. Fulta Cinnin ke dain. Tatar awaz aadhi hai. Otamartin 625 din mein do baar, 5 din. Khansi Cigarette 2 saal. 2 din mein teen baar. Sugar 90 hai. Crest X se karwa aayein. Cbc karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"},\n    {\"symptom\": \"hoarseness\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Otamartin\", \"strength\": \"625\", \"dose\": \"twice daily\", \"frequency\": \"5 days\", \"duration\": \"5 days\", \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Plavix\",\n    \"Cinnin\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\",\n    \"Chest X-ray\"\n  ],\n  \"advice\": [\n    \"Stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "hoarseness",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Otamartin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Plavix",
+      "Cinnin"
+    ],
+    "investigations_ordered": [
+      "CBC",
+      "Chest X-ray"
+    ],
+    "advice": [
+      "Stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 124,
+    "prompt_ms": 88.452,
+    "prompt_per_token_ms": 0.7133225806451613,
+    "prompt_per_second": 1401.8902907791796,
+    "predicted_n": 252,
+    "predicted_ms": 3347.009,
+    "predicted_per_token_ms": 13.334697211155378,
+    "predicted_per_second": 74.99232897192687
+  }
+}

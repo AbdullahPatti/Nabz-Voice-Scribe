@@ -1,0 +1,57 @@
+{
+  "transcript": "مرضہ پنتالی سال ایک افتے سے کنسی پیلہ بلگم اور خلقہ بخار سا سنحی پھولتا سینن کی دائی طرف اواز آر ہی ہے اوثہ مٹین چیزوں پنجی دین میں دو بار پانچ دین کنسی کا سیرہ دو چھمچ دین میں دین بار سیگر ادھا کرنی ہے چاست ایک سڑے کروئے آیا کروالی",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"5 days\"},\n    {\"symptom\": \"sputum production\", \"duration\": \"5 days\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"wheezing on the right side of the chest\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Siro\", \"strength\": \"1/2\", \"dose\": \"2 times a day\", \"frequency\": \"twice daily\", \"duration\": \"5 days\", \"instructions\": \"take with water\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"continue taking medicine\",\n    \"take medicine with water\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "sputum production",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "wheezing on the right side of the chest"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Siro",
+        "strength": "1/2",
+        "dose": "2 times a day",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take with water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "continue taking medicine",
+      "take medicine with water"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 75.505,
+    "prompt_per_token_ms": 0.6681858407079646,
+    "prompt_per_second": 1496.5896298258394,
+    "predicted_n": 247,
+    "predicted_ms": 3204.77,
+    "predicted_per_token_ms": 13.027520325203252,
+    "predicted_per_second": 76.76057876228248
+  }
+}

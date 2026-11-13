@@ -1,0 +1,74 @@
+{
+  "transcript": "خطوون چونتی سال تین دین سے بخا ہے جسم میں دارت اور آنکھوں کے پیچھے دارت پیٹلس پچانوے ہزار ہے کہ ہی سے خون نہیں آرہا صرف پنے دول دو گلی دین میں تین بات بروفین بلکل نہیں لنا دیسپرین بھی نہیں پانی زیادہ پیے کل خون کا ٹیس دبارہ کر منا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"},\n    {\"symptom\": \"pain behind eyes\", \"duration\": \"3 days\"},\n    {\"symptom\": \"abdominal pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"nausea\", \"duration\": \"3 days\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"3 days\"},\n    {\"symptom\": \"blood in stool\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [\n    \"Panadol\",\n    \"Brufen\",\n    \"Disprin\",\n    \"Ecosprin\",\n    \"Aspirin\",\n    \"Colchicine\",\n    \"Xylocaine\",\n    \"Concor\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink plenty of water\"\n  ],\n  \"follow_up\": \"None\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "pain behind eyes",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "blood in stool",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [
+      "Panadol",
+      "Brufen",
+      "Disprin",
+      "Ecosprin",
+      "Aspirin",
+      "Colchicine",
+      "Xylocaine",
+      "Concor"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink plenty of water"
+    ],
+    "follow_up": "None"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 248,
+    "prompt_ms": 108.677,
+    "prompt_per_token_ms": 0.4382137096774194,
+    "prompt_per_second": 2281.991589756802,
+    "predicted_n": 315,
+    "predicted_ms": 3771.074,
+    "predicted_per_token_ms": 12.009789808917198,
+    "predicted_per_second": 83.2654039671457
+  }
+}

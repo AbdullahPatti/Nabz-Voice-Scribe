@@ -1,0 +1,53 @@
+{
+  "transcript": "Woman, 45 years, her day in the evening. For one week BP 140 or 90, no problem. With eyesight, no vomiting. Panadolvan needed 8 less salt. BP check again, after one week.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"high blood pressure\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"eye problems\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Panadolvan\",\n      \"strength\": \"8\",\n      \"dose\": \"less salt\",\"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"BP check again after one week\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check\"\n  ],\n  \"advice\": [\n    \"BP check again after one week\"\n  ],\"follow_up\": \"after one week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "high blood pressure",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "eye problems"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadolvan",
+        "strength": "8",
+        "dose": "less salt",
+        "frequency": null,
+        "duration": null,
+        "instructions": "BP check again after one week"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check"
+    ],
+    "advice": [
+      "BP check again after one week"
+    ],
+    "follow_up": "after one week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 69,
+    "prompt_ms": 69.184,
+    "prompt_per_token_ms": 1.0026666666666666,
+    "prompt_per_second": 997.3404255319149,
+    "predicted_n": 238,
+    "predicted_ms": 3075.144,
+    "predicted_per_token_ms": 12.975291139240506,
+    "predicted_per_second": 77.06956162052899
+  }
+}

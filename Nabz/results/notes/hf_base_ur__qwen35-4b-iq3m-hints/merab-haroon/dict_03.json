@@ -1,0 +1,40 @@
+{
+  "transcript": "مرد چالیسال قل رہد سے دست لگی ہیں آتنو دفا ہو چکیں ہیں دست میں ہون نہیں ہیں جس میں تھوری تھوری پانی کی کمی ہے ہر دست کے بعد عورس ایک گلس فلیجل چارسو دین میں تین بار پانچ دین دوڑ اور تلیوی چیزیں بند اگر پیشاپ کموجہ تو فورن وفیسن۔",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain in hands\", \"duration\": \"continuous\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink small amounts of water frequently.\",\n    \"After each hand movement, drink a glass of Flegyl.\",\n    \"Take Flegyl three times a day.\",\n    \"Stop taking Flegyl if there is any stomach pain.\"\n  ],\n  \"follow_up\": \"None\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "pain in hands",
+        "duration": "continuous"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink small amounts of water frequently.",
+      "After each hand movement, drink a glass of Flegyl.",
+      "Take Flegyl three times a day.",
+      "Stop taking Flegyl if there is any stomach pain."
+    ],
+    "follow_up": "None"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 205,
+    "prompt_ms": 101.321,
+    "prompt_per_token_ms": 0.49424878048780485,
+    "prompt_per_second": 2023.2725693587706,
+    "predicted_n": 179,
+    "predicted_ms": 2211.291,
+    "predicted_per_token_ms": 12.422983146067416,
+    "predicted_per_second": 80.49596367009136
+  }
+}
