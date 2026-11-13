@@ -1,0 +1,71 @@
+{
+  "transcript": "Khatoon, 30 saal. Percopad jalanofi na khane ke baad zyada. Candidate khacadri kaar. Ondane ulti nahi. Warzaar kam nahi waqt. HB 2. HB 20. Pesubahali pait, do hafte. raat ko. Gaviscon ke do chamach shaar. Ivermectin kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"dizziness\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"nausea\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"headache\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no palpitations\",\n    \"no chest tightness\",\n    \"no chest congestion\",\n    \"no chest discharge\",\n    \"no chest cough\",\n    \"no chest wheeze\",\n    \"no chest rales\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Percopad\", \"strength\": \"10\", \"dose\": \"1 tablet\", \"frequency\": \"twice daily\", \"duration\": \"as prescribed\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Ivermectin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Gaviscon 2 spoons at night\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "dizziness",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "nausea",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "headache",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no chest pain",
+      "no shortness of breath",
+      "no palpitations",
+      "no chest tightness",
+      "no chest congestion",
+      "no chest discharge",
+      "no chest cough",
+      "no chest wheeze",
+      "no chest rales"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Percopad",
+        "strength": "10",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "as prescribed",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ivermectin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Gaviscon 2 spoons at night"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 76.872,
+    "prompt_per_token_ms": 0.7321142857142857,
+    "prompt_per_second": 1365.906962222916,
+    "predicted_n": 335,
+    "predicted_ms": 3988.288,
+    "predicted_per_token_ms": 11.940982035928144,
+    "predicted_per_second": 83.74520596305983
+  }
+}

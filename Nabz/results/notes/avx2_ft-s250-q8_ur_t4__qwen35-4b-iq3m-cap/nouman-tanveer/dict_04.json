@@ -1,0 +1,52 @@
+{
+  "transcript": "Khatoon, 55 saal. 8 BP 118 for 100 ayaan. Sarbhabi lehatta hai. Chakkar nahi. Atenc se seene mein dard nahi hai. Novorak 5 raat ko. Egoli shurukardhi hai. Namak kam karna hai. Do hafte baad. Bipid baad acha karni hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"10 days\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"BP 118/80\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorak\", \"strength\": \"5\", \"dose\": \"night\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"maintain healthy diet\"\n  ],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "10 days"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain"
+    ],
+    "findings": [
+      "BP 118/80"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorak",
+        "strength": "5",
+        "dose": "night",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake",
+      "maintain healthy diet"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 79.089,
+    "prompt_per_token_ms": 0.7323055555555555,
+    "prompt_per_second": 1365.5502029359332,
+    "predicted_n": 223,
+    "predicted_ms": 3032.498,
+    "predicted_per_token_ms": 13.659900900900901,
+    "predicted_per_second": 73.20697326098814
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "transcript": "Mard, 22 saal. raat ko. Saans ke takbef aur seene se siti ke waqt. Acycd hai. Cbc raat hoondi hai. Bukhar nahi. Valantolix inhaler zaroorat par do puff din mein 4 dafasar. Zyada nahi raat ko. Erythrax ek goli dolorodium se backein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"nighttime\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"during shortness of breath\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [\n    \"CBC done at night\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Valantolix\", \"strength\": \"4\", \"dose\": \"2 puffs\", \"frequency\": \"twice daily\", \"duration\": \"as needed at night\", \"instructions\": \"take only when needed\"},\n    {\"name\": \"Dolorodium\", \"strength\": \"1\", \"dose\": \"1 tablet\", \"frequency\": \"once daily\", \"duration\": \"as needed\", \"instructions\": \"take only when needed\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "during shortness of breath"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [
+      "CBC done at night"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Valantolix",
+        "strength": "4",
+        "dose": "2 puffs",
+        "frequency": "twice daily",
+        "duration": "as needed at night",
+        "instructions": "take only when needed"
+      },
+      {
+        "name": "Dolorodium",
+        "strength": "1",
+        "dose": "1 tablet",
+        "frequency": "once daily",
+        "duration": "as needed",
+        "instructions": "take only when needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 76.802,
+    "prompt_per_token_ms": 0.7529607843137256,
+    "prompt_per_second": 1328.0904143121272,
+    "predicted_n": 274,
+    "predicted_ms": 3539.444,
+    "predicted_per_token_ms": 12.964996336996338,
+    "predicted_per_second": 77.13075839030085
+  }
+}

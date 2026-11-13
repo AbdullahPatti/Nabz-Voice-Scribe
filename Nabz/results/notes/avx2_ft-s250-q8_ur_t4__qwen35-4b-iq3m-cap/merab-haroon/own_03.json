@@ -1,0 +1,60 @@
+{
+  "transcript": "Woman 45 years, Khadzaiq & Ibupin for 1 week. BP 140/90. No problem. 5 saal. No vomiting. Pranadol 1000 injured. Erythrola sold. Depet check again after 1 week.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"injury\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"blood_pressure_140_90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Khadzaiq\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": \"1 week\",\"instructions\": null\n    },\n    {\n      \"name\": \"Ibupin\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": \"1 week\",\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Depet\"\n  ],\n  \"advice\": [\n    \"check again after 1 week\"\n  ],\"follow_up\": \"after 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "injury",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "vomiting"
+    ],
+    "findings": [
+      "blood_pressure_140_90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Khadzaiq",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": "1 week",
+        "instructions": null
+      },
+      {
+        "name": "Ibupin",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": "1 week",
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Depet"
+    ],
+    "advice": [
+      "check again after 1 week"
+    ],
+    "follow_up": "after 1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 80,
+    "prompt_ms": 69.225,
+    "prompt_per_token_ms": 0.8653124999999999,
+    "prompt_per_second": 1155.651859877212,
+    "predicted_n": 280,
+    "predicted_ms": 3577.207,
+    "predicted_per_token_ms": 12.82153046594982,
+    "predicted_per_second": 77.9938091365694
+  }
+}

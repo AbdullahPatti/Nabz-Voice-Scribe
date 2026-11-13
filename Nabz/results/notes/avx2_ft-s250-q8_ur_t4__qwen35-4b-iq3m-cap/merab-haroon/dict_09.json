@@ -1,0 +1,72 @@
+{
+  "transcript": "Mard, 22 saal. HB 8. Kulsaans ke taki. Pursune se silti ke eva. Zartem jab gabrahat ko. Amitriax bukhar ho. Nexum mentolin inhaler buzirorat par do puff din mein kaar. Deface zytoxane raat ko. Zartek ek goli doodh aur doodh se doofene se baqqin.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"breathlessness\", \"duration\": \"since 8 hours\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"hemoglobin 8\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Amitriax\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take when breathlessness occurs\"},\n    {\"name\": \"Nexum\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"2 puffs twice daily\"},\n    {\"name\": \"Mentolin inhaler\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take when breathlessness occurs\"},\n    {\"name\": \"Zytoxane\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"at night\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take one tablet with milk and drink milk twice daily\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "breathlessness",
+        "duration": "since 8 hours"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "hemoglobin 8"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Amitriax",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take when breathlessness occurs"
+      },
+      {
+        "name": "Nexum",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "2 puffs twice daily"
+      },
+      {
+        "name": "Mentolin inhaler",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take when breathlessness occurs"
+      },
+      {
+        "name": "Zytoxane",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "take one tablet with milk and drink milk twice daily"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 74.819,
+    "prompt_per_token_ms": 0.6927685185185185,
+    "prompt_per_second": 1443.483607105147,
+    "predicted_n": 321,
+    "predicted_ms": 3932.096,
+    "predicted_per_token_ms": 12.2878,
+    "predicted_per_second": 81.38153290255374
+  }
+}

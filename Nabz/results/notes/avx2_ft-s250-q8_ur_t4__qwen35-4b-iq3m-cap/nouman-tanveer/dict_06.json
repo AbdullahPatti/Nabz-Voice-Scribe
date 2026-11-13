@@ -1,0 +1,70 @@
+{
+  "transcript": "Khatoon, 30 saal. Pairat ke par jalan hoti hai. Kharish khane ke baad. Sercat ka karein. Kaafi deni. Ulti nahi. Warzankam nahi ho. Risek bhi subah khali pait, do hafte raat ko. Gavisod ke do chamche karein. Chai aur mirac kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"itching\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"worse after eating\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"worse at night\", \"duration\": \"2 weeks\"},\n    {\"symptom\": \"worse on empty stomach in morning\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Sercat\", \"strength\": null, \"dose\": \"2 tablets\", \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": \"take with food\"},\n    {\"name\": \"Gavisod\", \"strength\": null, \"dose\": \"2 teaspoons\", \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": \"take with tea and Mirac\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid tea\",\n    \"avoid Mirac\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "worse after eating",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "worse at night",
+        "duration": "2 weeks"
+      },
+      {
+        "symptom": "worse on empty stomach in morning",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Sercat",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "take with food"
+      },
+      {
+        "name": "Gavisod",
+        "strength": null,
+        "dose": "2 teaspoons",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "take with tea and Mirac"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid tea",
+      "avoid Mirac"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 78.849,
+    "prompt_per_token_ms": 0.7369065420560748,
+    "prompt_per_second": 1357.0241854684268,
+    "predicted_n": 306,
+    "predicted_ms": 3817.608,
+    "predicted_per_token_ms": 12.516747540983607,
+    "predicted_per_second": 79.89295915138484
+  }
+}

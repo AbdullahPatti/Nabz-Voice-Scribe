@@ -1,0 +1,56 @@
+{
+  "transcript": "Mareem, 35 saal. Trotor fever for 2 days. Khansi nahi. HB 9. Kaafi saans kamisla nahi hai. Panadol jab pi fever ho. Warms hot water 15 din. Metin baar garare karein. Evlorothiazolide 3 din. Dramyx wapas nahi.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"warming with hot water for 15 days\",\n    \"dramyx\"\n  ],\n  \"findings\": [\n    \"blood pressure 90/60 mmHg\",\n    \"breathless\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take when fever occurs\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Evlorothiazolide\",\n    \"Dramyx\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Metin baar garare\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "warming with hot water for 15 days",
+      "dramyx"
+    ],
+    "findings": [
+      "blood pressure 90/60 mmHg",
+      "breathless"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take when fever occurs"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Evlorothiazolide",
+      "Dramyx"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "take Metin baar garare"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 70.963,
+    "prompt_per_token_ms": 0.7315773195876288,
+    "prompt_per_second": 1366.909516226766,
+    "predicted_n": 253,
+    "predicted_ms": 3002.937,
+    "predicted_per_token_ms": 11.916416666666667,
+    "predicted_per_second": 83.91784443030274
+  }
+}

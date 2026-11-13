@@ -1,0 +1,77 @@
+{
+  "transcript": "Mardar, 40 saal. Kal raat se dast lagna hai. Acyclovir dapha ho karein. Dastimex khoon nahi hai. Jism mein thoraan. Thori paani ke kami hai. Hard dast ke baad. ORAS ka ek goliast. Flagyl 400 din mein teen baar, 5 din. Doodh ho raha. Tali hui cheeze band. Agar peshab kam ho jai. Toforan wapas aayein.\nGah, Gah.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"mild dehydration\",\n    \"no blood in stool\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Acyclovir\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take as directed\"},\n    {\"name\": \"Dastimex\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take as directed\"},\n    {\"name\": \"ORAS\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take 1 tablet\"},\n    {\"name\": \"Flagyl\", \"strength\": \"400\", \"dose\": null, \"frequency\": \"3 times a day\", \"duration\": \"5 days\", \"instructions\": \"take as directed\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"doodh\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid hard foods\",\n    \"avoid salty foods\",\n    \"return if urine output decreases\"\n  ],\n  \"follow_up\": \"return if urine output decreases\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "mild dehydration",
+      "no blood in stool"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Acyclovir",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as directed"
+      },
+      {
+        "name": "Dastimex",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as directed"
+      },
+      {
+        "name": "ORAS",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take 1 tablet"
+      },
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": null,
+        "frequency": "3 times a day",
+        "duration": "5 days",
+        "instructions": "take as directed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "doodh"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid hard foods",
+      "avoid salty foods",
+      "return if urine output decreases"
+    ],
+    "follow_up": "return if urine output decreases"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 142,
+    "prompt_ms": 90.232,
+    "prompt_per_token_ms": 0.6354366197183099,
+    "prompt_per_second": 1573.7210745633479,
+    "predicted_n": 352,
+    "predicted_ms": 4302.357,
+    "predicted_per_token_ms": 12.257427350427351,
+    "predicted_per_second": 81.58318800601624
+  }
+}

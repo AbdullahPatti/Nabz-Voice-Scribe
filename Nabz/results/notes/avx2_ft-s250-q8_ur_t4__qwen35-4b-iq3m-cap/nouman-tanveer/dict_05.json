@@ -1,0 +1,70 @@
+{
+  "transcript": "Mard, 55 saal. Sugar ka praanam arse. Nexat mo chugarexasas se aur khane ke baad. Doverfax harto paani. Glucophage 500 din mein do baar lena. Hath aadlucophage 1000 din mein do baar. Khane ke saath, 3 mahine waqt. Sugar test karwa hai. Pairon mein sun ho na nahi hai.\nMareeza.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain in feet\", \"duration\": \"3 months\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Chugarexasas\", \"strength\": \"N/A\", \"dose\": \"after meals\", \"frequency\": \"N/A\", \"duration\": \"N/A\", \"instructions\": \"take with water\"},\n    {\"name\": \"Doverfax\", \"strength\": \"N/A\", \"dose\": \"N/A\", \"frequency\": \"N/A\", \"duration\": \"N/A\", \"instructions\": \"take with water\"},\n    {\"name\": \"Glucophage\", \"strength\": \"500\", \"dose\": \"N/A\", \"frequency\": \"twice a day\", \"duration\": \"N/A\", \"instructions\": \"take with meals\"},\n    {\"name\": \"Glucophage\", \"strength\": \"1000\", \"dose\": \"N/A\", \"frequency\": \"twice a day\", \"duration\": \"N/A\", \"instructions\": \"take with meals\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood sugar test\"\n  ],\n  \"advice\": [],\n  \"follow_up\": \"N/A\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "pain in feet",
+        "duration": "3 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Chugarexasas",
+        "strength": "N/A",
+        "dose": "after meals",
+        "frequency": "N/A",
+        "duration": "N/A",
+        "instructions": "take with water"
+      },
+      {
+        "name": "Doverfax",
+        "strength": "N/A",
+        "dose": "N/A",
+        "frequency": "N/A",
+        "duration": "N/A",
+        "instructions": "take with water"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "N/A",
+        "frequency": "twice a day",
+        "duration": "N/A",
+        "instructions": "take with meals"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "1000",
+        "dose": "N/A",
+        "frequency": "twice a day",
+        "duration": "N/A",
+        "instructions": "take with meals"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood sugar test"
+    ],
+    "advice": [],
+    "follow_up": "N/A"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 81.797,
+    "prompt_per_token_ms": 0.6650162601626016,
+    "prompt_per_second": 1503.7226304143185,
+    "predicted_n": 337,
+    "predicted_ms": 4288.082,
+    "predicted_per_token_ms": 12.762148809523811,
+    "predicted_per_second": 78.3567105293229
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "transcript": "Khatoon, 30 saal. Percopra jalan hoti hai. Kharish baad zyada kaan dikharti. Dicveran deni. Ulti nahi. Vazan kam nahi waqt. Risac 20 subah khali pait, do aath ko. Gaviscon ke do chamach chakkar. Mixte kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"periorbital pain\", \"duration\": null},\n    {\"symptom\": \"itching\", \"duration\": null},\n    {\"symptom\": \"eye discharge\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Rasac\", \"strength\": \"20\", \"dose\": \"1 tablet\", \"frequency\": \"morning on empty stomach\", \"duration\": null, \"instructions\": \"take with food\"},\n    {\"name\": \"Gaviscon\", \"strength\": null, \"dose\": \"2 spoons\", \"frequency\": \"after meals\", \"duration\": null, \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Mixture\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid taking mixture\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "periorbital pain",
+        "duration": null
+      },
+      {
+        "symptom": "itching",
+        "duration": null
+      },
+      {
+        "symptom": "eye discharge",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Rasac",
+        "strength": "20",
+        "dose": "1 tablet",
+        "frequency": "morning on empty stomach",
+        "duration": null,
+        "instructions": "take with food"
+      },
+      {
+        "name": "Gaviscon",
+        "strength": null,
+        "dose": "2 spoons",
+        "frequency": "after meals",
+        "duration": null,
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Mixture"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid taking mixture"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 100,
+    "prompt_ms": 71.097,
+    "prompt_per_token_ms": 0.71097,
+    "prompt_per_second": 1406.5291081198927,
+    "predicted_n": 281,
+    "predicted_ms": 3215.784,
+    "predicted_per_token_ms": 11.484942857142858,
+    "predicted_per_second": 87.07052463722687
+  }
+}

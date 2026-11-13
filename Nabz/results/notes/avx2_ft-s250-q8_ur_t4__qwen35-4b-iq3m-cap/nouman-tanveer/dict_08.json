@@ -1,0 +1,61 @@
+{
+  "transcript": "Khatoon, 26 saal. 2 din se peshab mein jalan hai. HB 12 baar. Atax hai. Bukhar nahi. Kamar mein dard hai. Pregnant nahi hai. Cipro 500 din mein do baar, 3 din. Paani zyada piye shaam ko. Tast karwa lein. 3 din mein farq na pare to do baar. Aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"dysuria\", \"duration\": \"2 days\"},\n    {\"symptom\": \"frequency of urination\", \"duration\": \"12 times\"},\n    {\"symptom\": \"ataxia\", \"duration\": \"present\"},\n    {\"symptom\": \"lower abdominal pain\", \"duration\": \"present\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"pregnancy\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Ciprofloxacin\",\n      \"strength\": \"500\",\n      \"dose\": \"500 mg twice daily\",\n      \"frequency\": \"for 3 days\",\"duration\": \"3 days\",\"instructions\": \"Drink plenty of water in the evening. If no improvement in 3 days, repeat twice.\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink plenty of water in the evening.\"\n  ],\"follow_up\": \"If no improvement in 3 days, return.\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "frequency of urination",
+        "duration": "12 times"
+      },
+      {
+        "symptom": "ataxia",
+        "duration": "present"
+      },
+      {
+        "symptom": "lower abdominal pain",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "pregnancy"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "500 mg twice daily",
+        "frequency": "for 3 days",
+        "duration": "3 days",
+        "instructions": "Drink plenty of water in the evening. If no improvement in 3 days, repeat twice."
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink plenty of water in the evening."
+    ],
+    "follow_up": "If no improvement in 3 days, return."
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 81.842,
+    "prompt_per_token_ms": 0.7242654867256637,
+    "prompt_per_second": 1380.709171330124,
+    "predicted_n": 299,
+    "predicted_ms": 3743.11,
+    "predicted_per_token_ms": 12.560771812080537,
+    "predicted_per_second": 79.61294217909706
+  }
+}

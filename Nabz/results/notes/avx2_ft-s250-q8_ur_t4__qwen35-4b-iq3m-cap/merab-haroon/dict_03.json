@@ -1,0 +1,54 @@
+{
+  "transcript": "Mard, 44 saal. Kal raat se dast lagna hai. Atenol dava ho chukin hai. Dast mein khoon nahi hai. Jism mein torythrocin paani ke kami hai. HB 10 ke baad. ORS eklaz flagell 400 din mein teen baar, 5 din. Doodh Urtelewex cheezein band. Agar peshab karmoja to foran wapas aayein.\nMareeza.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 44\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [\n    \"blood in stool\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Atenolol\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Doodh\",\n    \"Urtelewex\"\n  ],\n  \"investigations_ordered\": [\n    \"Hb\"\n  ],\n  \"advice\": [\n    \"ORS eklaz flagell 400 din mein teen baar, 5 din\",\n    \"Agar peshab karmoja to foran wapas aayein\"\n  ],\n  \"follow_up\": \"if urine becomes dark\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 44
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [
+      "blood in stool"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Atenolol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Doodh",
+      "Urtelewex"
+    ],
+    "investigations_ordered": [
+      "Hb"
+    ],
+    "advice": [
+      "ORS eklaz flagell 400 din mein teen baar, 5 din",
+      "Agar peshab karmoja to foran wapas aayein"
+    ],
+    "follow_up": "if urine becomes dark"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 127,
+    "prompt_ms": 80.673,
+    "prompt_per_token_ms": 0.6352204724409449,
+    "prompt_per_second": 1574.2565666331982,
+    "predicted_n": 264,
+    "predicted_ms": 3099.4,
+    "predicted_per_token_ms": 11.784790874524715,
+    "predicted_per_second": 84.85513325159708
+  }
+}

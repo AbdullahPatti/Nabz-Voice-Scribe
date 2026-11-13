@@ -1,0 +1,72 @@
+{
+  "transcript": "Mard, 22 saal. Rahaat ko. Saansi taki hai. Fucinec se siti ke waqt. Serti hai. Caprax thandi hai. Bukhar nahi. Ventolin hai leir. Hydroxychlorothiaxin 5 din mein 4 chamach zyada nahi. Rahaat ko. Zyrtecreg goli doloxin subah nahar subah nahar.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"ongoing\"},\n    {\"symptom\": \"dyspnea on exertion\", \"duration\": \"during exertion\"}\n  ],\n  \"negatives\": [\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"cold chest\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ventolin\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take as needed\"},\n    {\"name\": \"Hydroxychlorothiazide\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take 4 spoons 4 times a day\"},\n    {\"name\": \"Zyrtec\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take with breakfast and lunch\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Caprax\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid exertion\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "ongoing"
+      },
+      {
+        "symptom": "dyspnea on exertion",
+        "duration": "during exertion"
+      }
+    ],
+    "negatives": [
+      "no fever"
+    ],
+    "findings": [
+      "cold chest"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ventolin",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed"
+      },
+      {
+        "name": "Hydroxychlorothiazide",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take 4 spoons 4 times a day"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take with breakfast and lunch"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Caprax"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid exertion"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 75.996,
+    "prompt_per_token_ms": 0.6972110091743119,
+    "prompt_per_second": 1434.2860150534239,
+    "predicted_n": 318,
+    "predicted_ms": 3841.693,
+    "predicted_per_token_ms": 12.118905362776026,
+    "predicted_per_second": 82.51570336307455
+  }
+}

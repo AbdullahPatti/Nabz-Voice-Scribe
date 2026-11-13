@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 68 saal. Serc a follow up ke liye aayein. Fexclinatobariz se koi raatz nahi hoa. Koi sitefax nahi. Bukhar nahi. Khansi nahi. Penicillin se allergy hai. Is liye augmentin nahi deni. Zyrtec aadhi goli raat ko. Dastan ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 68\n  },\n  \"complaints\": [\n    {\"symptom\": \"follow up for Serc\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": null,\n      \"dose\": \"half tablet\",\n      \"frequency\": \"at night\",\n      \"duration\": null,\n      \"instructions\": \"continue\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 68
+    },
+    "complaints": [
+      {
+        "symptom": "follow up for Serc",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": null,
+        "dose": "half tablet",
+        "frequency": "at night",
+        "duration": null,
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [
+      "augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 111,
+    "prompt_ms": 75.418,
+    "prompt_per_token_ms": 0.6794414414414415,
+    "prompt_per_second": 1471.7971836961997,
+    "predicted_n": 243,
+    "predicted_ms": 2808.354,
+    "predicted_per_token_ms": 11.604768595041321,
+    "predicted_per_second": 86.1714726847114
+  }
+}

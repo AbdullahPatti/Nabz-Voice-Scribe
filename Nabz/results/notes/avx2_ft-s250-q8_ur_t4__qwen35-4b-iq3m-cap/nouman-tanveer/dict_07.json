@@ -1,0 +1,67 @@
+{
+  "transcript": "Mardapam, 45 saal. Ek hafte se khansi piye balgham aur halka. Bukhar saans raha. Fulta Sinenec ek daane tarar. Avvaz aadhi hai. Ottermectin 625 din mein do baar, 5 din. Khansi gasi raat do chamach din mein teen baar. Sugar band karni hai. Crest X se karewa aayein. Cbc karwa lein.\nDekk.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"mild fever\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"},\n    {\"symptom\": \"hoarseness of voice\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ottermectin\", \"strength\": \"625\", \"dose\": \"2 times daily\", \"frequency\": \"5 days\", \"duration\": \"5 days\", \"instructions\": \"Take 2 tablets at night\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Khansi gasi\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Control sugar levels\",\n    \"Take Crest X\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "mild fever",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "hoarseness of voice",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ottermectin",
+        "strength": "625",
+        "dose": "2 times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "Take 2 tablets at night"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Khansi gasi"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Control sugar levels",
+      "Take Crest X"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 128,
+    "prompt_ms": 78.694,
+    "prompt_per_token_ms": 0.614796875,
+    "prompt_per_second": 1626.55348565329,
+    "predicted_n": 289,
+    "predicted_ms": 3681.21,
+    "predicted_per_token_ms": 12.781979166666666,
+    "predicted_per_second": 78.23514550922116
+  }
+}

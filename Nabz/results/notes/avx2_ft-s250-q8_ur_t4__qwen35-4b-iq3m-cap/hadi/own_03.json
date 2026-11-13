@@ -1,0 +1,62 @@
+{
+  "transcript": "Aurat, 45 saal. Shabgat hai. Deltacac hafte se BP 140. Xobar 90 aayein. Seretimil koi mascar nahi. HB 9. Novorapid penadol jab zaroorat karein. Namak kam karein. BP ek hafte baad ke check karwa hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"hypertension\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no dyspnea\"\n  ],\n  \"findings\": [\n    \"BP 140/90\",\n    \"Hb 9\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorapid\", \"strength\": null, \"dose\": \"as needed\", \"frequency\": null, \"duration\": null, \"instructions\": \"take as needed\"},\n    {\"name\": \"Penadol\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take as needed\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"BP check in 1 week\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no dyspnea"
+    ],
+    "findings": [
+      "BP 140/90",
+      "Hb 9"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorapid",
+        "strength": null,
+        "dose": "as needed",
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed"
+      },
+      {
+        "name": "Penadol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "BP check in 1 week"
+    ],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 70.906,
+    "prompt_per_token_ms": 0.7309896907216495,
+    "prompt_per_second": 1368.008349081883,
+    "predicted_n": 272,
+    "predicted_ms": 3369.891,
+    "predicted_per_token_ms": 12.435022140221403,
+    "predicted_per_second": 80.41803132504879
+  }
+}

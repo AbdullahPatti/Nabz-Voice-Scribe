@@ -1,0 +1,58 @@
+{
+  "transcript": "Khatoon, 55 saal. Acycline BP 167. Suwa hai. Sarbhabi raat raat hai. Chakkar nahi. Atencine mein dard nahi hai. Norvasc 5 raat ko. Ek goli sudo karni hai. Namak kam karna hai. Do hafte baad dikhayein. Cbc 12 check up.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"vomiting\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"blood pressure 167\",\n    \"pulse 50\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Atencine\", \"strength\": \"5\", \"dose\": \"once at night\", \"frequency\": \"once daily\", \"duration\": null, \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"salt\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC 12\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"follow up in 2 weeks\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting",
+      "chest pain"
+    ],
+    "findings": [
+      "blood pressure 167",
+      "pulse 50"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Atencine",
+        "strength": "5",
+        "dose": "once at night",
+        "frequency": "once daily",
+        "duration": null,
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [
+      "salt"
+    ],
+    "investigations_ordered": [
+      "CBC 12"
+    ],
+    "advice": [
+      "reduce salt intake",
+      "follow up in 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 106,
+    "prompt_ms": 75.708,
+    "prompt_per_token_ms": 0.7142264150943396,
+    "prompt_per_second": 1400.116236064881,
+    "predicted_n": 253,
+    "predicted_ms": 3159.794,
+    "predicted_per_token_ms": 12.53886507936508,
+    "predicted_per_second": 79.75203446806975
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "transcript": "Aurat, 60 saal. 2 mahine se neepend. Sujan pesartan goli no swelling, no fever. Dexamepaira doalka do tabla. Halki aksa. Serc deli aur ek mahine baad, wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"neopend\", \"duration\": \"2 mahine\"}\n  ],\n  \"negatives\": [\n    \"sujan\",\n    \"pesartan\",\n    \"goli\",\n    \"no swelling\",\n    \"no fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Dexamethasone\", \"strength\": \"0.5\", \"dose\": \"do tabla\", \"frequency\": \"twice daily\", \"duration\": \"2 mahine\", \"instructions\": \"Halki aksa\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Serc deli aur ek mahine baad, wapas aayein\"\n  ],\n  \"follow_up\": \"ek mahine baad\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "neopend",
+        "duration": "2 mahine"
+      }
+    ],
+    "negatives": [
+      "sujan",
+      "pesartan",
+      "goli",
+      "no swelling",
+      "no fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Dexamethasone",
+        "strength": "0.5",
+        "dose": "do tabla",
+        "frequency": "twice daily",
+        "duration": "2 mahine",
+        "instructions": "Halki aksa"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Serc deli aur ek mahine baad, wapas aayein"
+    ],
+    "follow_up": "ek mahine baad"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 79,
+    "prompt_ms": 69.477,
+    "prompt_per_token_ms": 0.8794556962025317,
+    "prompt_per_second": 1137.0669430171135,
+    "predicted_n": 245,
+    "predicted_ms": 2894.073,
+    "predicted_per_token_ms": 11.860954918032787,
+    "predicted_per_second": 84.31024372916647
+  }
+}

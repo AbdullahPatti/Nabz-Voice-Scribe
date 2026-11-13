@@ -1,0 +1,52 @@
+{
+  "transcript": "Mard, 50 saal. Sugar Kaafi rana. Mareez nahar mun. Sugar 111. Cbc khane ke baad. 200 saal. Pairlil Glucophage paanch ml mein do baar, lena. HB 7. Glucophage 7 din mein do baar. Cbc khane ka saal. 3 meinye walaam. Sugar test karwana hai. Paramix sun ho na nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"diabetes\", \"duration\": \"long standing\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"blood sugar 111\",\n    \"CBC done\",\n    \"Hb 7\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glucophage\", \"strength\": \"500\", \"dose\": \"twice daily\", \"frequency\": \"for 7 days\", \"duration\": \"ongoing\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"sugar test\"\n  ],\n  \"advice\": [\n    \"avoid Paramix\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "diabetes",
+        "duration": "long standing"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "blood sugar 111",
+      "CBC done",
+      "Hb 7"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "for 7 days",
+        "duration": "ongoing",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "sugar test"
+    ],
+    "advice": [
+      "avoid Paramix"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 122,
+    "prompt_ms": 76.298,
+    "prompt_per_token_ms": 0.6253934426229508,
+    "prompt_per_second": 1598.9934205352695,
+    "predicted_n": 223,
+    "predicted_ms": 2780.684,
+    "predicted_per_token_ms": 12.525603603603605,
+    "predicted_per_second": 79.83647188965017
+  }
+}

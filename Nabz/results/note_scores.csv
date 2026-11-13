@@ -779,6 +779,45 @@ avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,dict_10,10.99,False,,,,,,,,,,
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,own_01,10.96,False,,,,,,,,,,
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,own_02,5.07,True,0.0,Panadol,,1,0,0.0,1,cough,False,True
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,own_03,4.66,True,0.0,Panadol,,1,0,0.5,0,,False,False
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_01,3.89,True,0.5,Panadol,1.0,1,0,1.0,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_02,3.41,True,0.0,Panadol,,1,0,0.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_03,3.18,True,0.0,ORS Flagyl,0.0,1,0,0.0,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_04,3.06,True,0.0,Norvasc,0.0,1,0,0.0,1,chest pain,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_05,2.89,True,1.0,,0.0,0,0,0.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_06,3.34,True,1.0,,1.0,0,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_07,3.65,True,0.5,Cough syrup,1.0,1,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_08,3.08,True,0.0,Cipro,0.0,1,0,0.333,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,3.98,True,1.0,,,1,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_10,2.93,True,1.0,,,0,0,0.5,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_01,3.0,True,0.0,Panadol,,1,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_02,3.11,True,1.0,,,0,0,0.5,0,,True,False
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_03,3.49,True,1.0,,,1,0,0.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_01,3.98,True,0.5,Azomax,0.0,1,0,1.0,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_02,4.59,True,1.0,,,2,1,0.0,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_03,3.23,True,0.0,ORS Flagyl,0.0,1,0,1.0,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_04,3.27,True,0.0,Norvasc,0.0,1,0,0.5,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_05,5.7,True,1.0,,0.0,2,0,0.0,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_06,4.12,True,0.0,Risek Gaviscon,0.0,1,0,0.0,1,vomiting,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_07,3.86,True,0.5,Cough syrup,1.0,0,0,0.0,1,breathlessness,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_08,3.07,True,0.0,Cipro,0.0,1,0,0.667,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_09,4.04,True,0.5,Zyrtec,,3,0,0.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_10,3.19,True,1.0,,,0,0,0.5,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_01,2.94,True,1.0,,,0,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_02,2.94,True,1.0,,,0,0,1.0,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_03,3.69,True,0.0,Panadol,,2,0,0.5,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,4.54,True,0.5,Azomax,0.0,1,0,0.0,2,vomiting; diarrhoea,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_02,4.0,True,0.0,Panadol,,1,0,0.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,4.44,True,1.0,,1.0,2,0,0.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_04,3.16,True,1.0,,1.0,0,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,4.41,True,1.0,,0.0,2,0,0.0,0,,False,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_06,3.95,True,0.0,Risek Gaviscon,0.0,2,0,0.5,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_07,3.8,True,0.0,Augmentin Cough syrup,0.0,1,0,0.0,1,breathlessness,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_08,3.87,True,0.0,Cipro,0.0,1,0,0.667,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_09,3.67,True,0.0,Ventolin Zyrtec,,2,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_10,3.45,True,1.0,,,0,0,0.5,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_01,2.69,True,0.0,Panadol,,1,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_02,2.86,True,1.0,,,0,0,1.0,0,,True,True
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_03,3.22,True,1.0,,,0,0,0.5,0,,True,True
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_01,65.41,True,0.0,Azomax Panadol,0.0,1,0,1.0,0,,False,False
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_02,53.07,True,0.0,Panadol,,0,0,0.0,1,bleeding,False,True
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_03,59.8,True,0.0,ORS Flagyl,0.0,0,0,0.0,0,,False,True

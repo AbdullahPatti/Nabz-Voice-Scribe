@@ -1,0 +1,68 @@
+{
+  "transcript": "Mareez mardat, 23 saal. 5 din se test bukhar hai. Sar dastra kamzori bhi hai. Cairn dard nahi. Rahat nahi. Bhook thand lagi liye. Ulti nahi hai. Dastry nahi. Typhoid khali pait. Pulse hai. Azamlac paanch ml rozana. Renqually 7 din. Paradal do goli din mein teen baar. jab bukhar ho, 3 din. baad dobara hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 23\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"5 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"5 days\"},\n    {\"symptom\": \"loss of appetite\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [\n    \"no chest pain\",\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [\n    \"pulse present\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Azomax\", \"strength\": \"500mg\", \"dose\": \"1 tablet daily\", \"frequency\": \"for 5 days\", \"duration\": \"5 days\", \"instructions\": \"take on empty stomach\"},\n    {\"name\": \"Paracetamol\", \"strength\": \"500mg\", \"dose\": \"3 tablets\", \"frequency\": \"3 times daily\", \"duration\": \"for 2 days\", \"instructions\": \"if fever persists\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Monitor for recurrence of fever\"\n  ],\n  \"follow_up\": \"in 7 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 23
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "loss of appetite",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "no chest pain",
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [
+      "pulse present"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Azomax",
+        "strength": "500mg",
+        "dose": "1 tablet daily",
+        "frequency": "for 5 days",
+        "duration": "5 days",
+        "instructions": "take on empty stomach"
+      },
+      {
+        "name": "Paracetamol",
+        "strength": "500mg",
+        "dose": "3 tablets",
+        "frequency": "3 times daily",
+        "duration": "for 2 days",
+        "instructions": "if fever persists"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Monitor for recurrence of fever"
+    ],
+    "follow_up": "in 7 days"
+  },
+  "timings": {
+    "cache_n": 0,
+    "prompt_n": 363,
+    "prompt_ms": 181.891,
+    "prompt_per_token_ms": 0.5010771349862259,
+    "prompt_per_second": 1995.7007218608949,
+    "predicted_n": 312,
+    "predicted_ms": 3701.225,
+    "predicted_per_token_ms": 11.90104501607717,
+    "predicted_per_second": 84.0262345574776
+  }
+}

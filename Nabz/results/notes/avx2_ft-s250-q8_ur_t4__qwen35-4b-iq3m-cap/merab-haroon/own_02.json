@@ -1,0 +1,50 @@
+{
+  "transcript": "9.35 saal. Throxacan fever for 2 days. No coughing. No breathing problem. Penadol bandarilis fever. Wansolv to water gargals, 3 din. Carbimaxe kam back. Is not better in 3 days.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 9\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"breathing difficulty\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Penadol\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"bandarilis fever\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Wansolv to water gargles for 3 days\",\n    \"Carbimaxe kam back\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 9
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "breathing difficulty"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Penadol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "bandarilis fever"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Wansolv to water gargles for 3 days",
+      "Carbimaxe kam back"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 73,
+    "prompt_ms": 69.493,
+    "prompt_per_token_ms": 0.9519589041095889,
+    "prompt_per_second": 1050.465514512253,
+    "predicted_n": 225,
+    "predicted_ms": 2829.869,
+    "predicted_per_token_ms": 12.63334375,
+    "predicted_per_second": 79.15560755639218
+  }
+}

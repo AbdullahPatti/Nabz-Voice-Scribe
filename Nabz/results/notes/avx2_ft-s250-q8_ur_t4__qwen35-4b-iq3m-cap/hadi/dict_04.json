@@ -1,0 +1,57 @@
+{
+  "transcript": "Khatoon, 55 saal. Aadhi piyeksu 7 hazaar. Bhareli hai. Cbc kar nahi. Atencine mein dard nahi hai. Novorapid 5 raat ko. Ek goli se bukhar dikhayein. Namak kam karna hai. Doft baad bilkul bukharwa chakkar hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest pain\", \"duration\": \"7 hours\"},\n    {\"symptom\": \"fever\", \"duration\": \"7 hours\"}\n  ],\n  \"negatives\": [\n    \"no abdominal pain\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"CBC not done\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorapid\", \"strength\": \"5\", \"dose\": \"1\", \"frequency\": \"night\", \"duration\": null, \"instructions\": \"take if fever\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"salt\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "chest pain",
+        "duration": "7 hours"
+      },
+      {
+        "symptom": "fever",
+        "duration": "7 hours"
+      }
+    ],
+    "negatives": [
+      "no abdominal pain",
+      "no vomiting"
+    ],
+    "findings": [
+      "CBC not done"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorapid",
+        "strength": "5",
+        "dose": "1",
+        "frequency": "night",
+        "duration": null,
+        "instructions": "take if fever"
+      }
+    ],
+    "drugs_to_avoid": [
+      "salt"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 72.312,
+    "prompt_per_token_ms": 0.7454845360824742,
+    "prompt_per_second": 1341.409447947782,
+    "predicted_n": 230,
+    "predicted_ms": 2938.177,
+    "predicted_per_token_ms": 12.830467248908297,
+    "predicted_per_second": 77.93948424482255
+  }
+}

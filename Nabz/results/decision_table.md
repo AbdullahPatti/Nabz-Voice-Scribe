@@ -7,9 +7,12 @@ Speakers scored: 3 (hadi, merab-haroon, nouman-tanveer)
 | tag | clips | rtf_median | dict_proc_p90_s | peak_ram_mb | drug_recall | number_recall | neg_kept | sker | within_budget |
 |---|---|---|---|---|---|---|---|---|---|
 | avx2_base-q8_ur_t4_whisper_drugs | 39 | 0.19 | 9.6 | 334 | 76% | 38% | 30% | 36% | yes |
+| avx2_ft-s250-q8_ur_t4 | 39 | 0.06 | 1.8 | 280 | 75% | 77% | 90% | 25% | yes |
 | avx2_turbo-q8_ur_t2 | 39 | 2.28 | 72.5 | 1141 | 73% | 57% | 75% | 23% | no |
+| hf_synth-full-s250_ur | 39 | 0.03 | 1.1 |  | 73% | 79% | 89% | 25% | yes |
 | avx2_small-q8_ur_t2 | 39 | 0.9 | 31.1 | 592 | 72% | 55% | 78% | 24% | no |
 | hf_small_ur | 39 | 0.07 | 1.7 |  | 71% | 48% | 79% | 25% | yes |
+| hf_synth-dec-s500_ur | 13 | 0.04 | 1.2 |  | 71% | 83% | 96% | 39% | yes |
 | avx2_small-q8_auto_t2 | 39 | 1.06 | 41.3 | 592 | 70% | 61% | 87% | 19% | no |
 | hf_base_ur_bias3_cg | 13 | 0.06 | 1.9 |  | 69% | 31% | 83% | 28% | yes |
 | avx2_base-q8_auto_t4_whisper_drugs | 39 | 0.25 | 16.6 | 343 | 68% | 37% | 29% | 38% | yes |
@@ -17,12 +20,16 @@ Speakers scored: 3 (hadi, merab-haroon, nouman-tanveer)
 | avx2_base-q8_ur_t4 | 39 | 0.14 | 6.1 | 272 | 67% | 30% | 61% | 33% | yes |
 | hf_base_ur_bias2 | 13 | 0.06 | 3.6 |  | 67% | 28% | 83% | 26% | yes |
 | hf_base_ur_bias2_cg | 13 | 0.06 | 3.5 |  | 67% | 28% | 83% | 26% | yes |
+| hf_synth-dec-s250_ur | 13 | 0.04 | 4.5 |  | 67% | 71% | 77% | 32% | yes |
+| hf_synth-full_ur | 13 | 0.05 | 3.5 |  | 67% | 70% | 100% | 39% | yes |
 | avx2_base-q8_ur_t2 | 39 | 0.36 | 11.7 | 271 | 61% | 23% | 60% | 32% | yes |
 | hf_base_ur | 39 | 0.04 | 3.2 |  | 61% | 26% | 59% | 32% | yes |
 | hf_base_ur_bias4 | 13 | 0.06 | 11.9 |  | 60% | 23% | 60% | 168% | yes |
+| hf_synth-full-s500_ur | 13 | 0.04 | 3.5 |  | 60% | 74% | 92% | 35% | yes |
 | avx2_base-q8_auto_t4 | 39 | 0.19 | 8.0 | 263 | 58% | 41% | 66% | 29% | yes |
 | avx2_base-q8_auto_t2 | 39 | 0.43 | 15.9 | 263 | 56% | 35% | 62% | 30% | yes |
 | avx2_base-q8_auto_t4_whisper_drugs_nokey | 39 | 0.22 | 14.7 | 335 | 56% | 32% | 35% | 36% | yes |
+| hf_synth-dec_ur | 13 | 0.04 | 2.5 |  | 55% | 92% | 91% | 46% | yes |
 | hf_base_ur_bias1_cg | 13 | 0.06 | 3.3 |  | 51% | 27% | 79% | 25% | yes |
 | avx2_base-q8_en_t2 | 39 | 0.26 | 26.4 | 261 | 35% | 36% | 56% | 68% | yes |
 | avx2_small-q8_en_t2 | 39 | 0.58 | 18.8 | 557 | 32% | 46% | 48% | 63% | yes |
@@ -56,6 +63,7 @@ SkER is a rough, script-independent error rate on consonant skeletons. Compare i
 | avx2_base-q8_ur_t4__qwen35-4b-iq3m-cap | 39 | 100% | 2.8 | 3.5 | 8573 | 9% | 10% | 14 | 1 | 16% | 13 | yes |
 | avx2_base-q8_ur_t4__qwen35-4b-iq3m-hints | 39 | 100% | 2.6 | 3.4 | 11239 | 17% | 14% | 5 | 1 | 20% | 10 | yes |
 | avx2_base-q8_ur_t4__shaheen-7b | 39 | 49% | 10.9 | 11.1 | 6681 | 13% | 11% | 12 | 2 | 44% | 5 | yes |
+| avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap | 39 | 100% | 3.5 | 4.4 | 5562 | 51% | 29% | 36 | 1 | 48% | 6 | yes |
 | avx2_small-q8_ur_t2__gemma4-e2b | 39 | 100% | 50.5 | 67.4 | 4664 | 12% | 0% | 5 | 1 | 36% | 29 | no |
 | avx2_small-q8_ur_t2__qwen25-7b-ollama | 14 | 93% | 4.5 | 8.9 | 1467 | 4% | 0% | 2 | 0 | 58% | 0 | yes |
 | avx2_small-q8_ur_t2__qwen35-4b | 39 | 97% | 68.2 | 207.8 | 5937 | 24% | 14% | 23 | 4 | 46% | 5 | no |
@@ -63,6 +71,14 @@ SkER is a rough, script-independent error rate on consonant skeletons. Compare i
 | avx2_small-q8_ur_t2__qwen35-4b-hints | 39 | 100% | 3.2 | 3.7 | 11746 | 31% | 33% | 13 | 2 | 49% | 10 | yes |
 | avx2_small-q8_ur_t2__qwen35-4b-iq3m-cap | 39 | 100% | 3.0 | 3.3 | 11113 | 23% | 14% | 11 | 2 | 31% | 7 | yes |
 | avx2_small-q8_ur_t2__qwen35-4b-iq3m-hints | 39 | 100% | 2.6 | 3.6 | 11229 | 21% | 10% | 7 | 0 | 38% | 10 | yes |
+| hf_base_ur__qwen35-4b-iq3m-cap | 39 | 100% | 2.6 | 3.4 | 6183 | 10% | 5% | 13 | 1 | 18% | 13 | yes |
+| hf_base_ur__qwen35-4b-iq3m-hints | 39 | 100% | 2.6 | 3.2 | 11223 | 15% | 14% | 5 | 1 | 19% | 13 | yes |
+| hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap | 13 | 100% | 3.5 | 4.5 | 5519 | 42% | 29% | 17 | 0 | 56% | 1 | yes |
+| hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap | 13 | 100% | 3.4 | 4.2 | 6545 | 35% | 43% | 13 | 0 | 49% | 2 | yes |
+| hf_synth-dec_ur__qwen35-4b-iq3m-cap | 13 | 100% | 3.4 | 4.7 | 7409 | 23% | 29% | 17 | 0 | 41% | 1 | yes |
+| hf_synth-full-s250_ur__qwen35-4b-iq3m-cap | 39 | 100% | 3.6 | 4.6 | 8244 | 45% | 14% | 46 | 0 | 50% | 10 | yes |
+| hf_synth-full-s500_ur__qwen35-4b-iq3m-cap | 13 | 100% | 3.3 | 4.6 | 8616 | 31% | 14% | 15 | 0 | 51% | 2 | yes |
+| hf_synth-full_ur__qwen35-4b-iq3m-cap | 13 | 100% | 3.2 | 4.7 | 9136 | 31% | 14% | 13 | 0 | 44% | 1 | yes |
 | ref__alif-3b | 39 | 62% | 3.8 | 6.2 | 3816 | 88% | 75% | 14 | 6 | 69% | 6 | yes |
 | ref__alif-3b-cap | 39 | 92% | 2.8 | 4.7 | 3429 | 86% | 71% | 11 | 3 | 65% | 6 | yes |
 | ref__alif-3b-dry | 39 | 82% | 2.3 | 6.1 | 3393 | 80% | 60% | 16 | 6 | 67% | 8 | yes |

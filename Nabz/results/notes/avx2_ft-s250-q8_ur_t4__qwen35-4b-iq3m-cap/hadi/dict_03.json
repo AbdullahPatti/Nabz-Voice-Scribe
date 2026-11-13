@@ -1,0 +1,58 @@
+{
+  "transcript": "Mard, 44 saal. Kal raat le dast lagar hai. 8 raat neendafavogcuk hai. Dast mahul nahi hai. Jismetoril paani khali kami hai. HB 10. Quadroxeras karein. Glastrofax lagzal 400 din mein teen baar, 5 din. Dulcolax farq liye cheezein band. Dagrabexaxab kam hojit. Foran wapas nahi.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 44\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"fever\", \"duration\": \"8 nights\"}\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"dehydration\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Quadroxeras\", \"strength\": \"400\", \"dose\": \"3 times a day\", \"frequency\": \"5 days\", \"duration\": \"3 days\", \"instructions\": \"continue Dulcolax\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Hb\"\n  ],\n  \"advice\": [\n    \"continue Dulcolax\",\n    \"stop taking other medicines\"\n  ],\n  \"follow_up\": \"return if not better\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 44
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "fever",
+        "duration": "8 nights"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting"
+    ],
+    "findings": [
+      "dehydration"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Quadroxeras",
+        "strength": "400",
+        "dose": "3 times a day",
+        "frequency": "5 days",
+        "duration": "3 days",
+        "instructions": "continue Dulcolax"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Hb"
+    ],
+    "advice": [
+      "continue Dulcolax",
+      "stop taking other medicines"
+    ],
+    "follow_up": "return if not better"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 127,
+    "prompt_ms": 77.557,
+    "prompt_per_token_ms": 0.6106850393700788,
+    "prompt_per_second": 1637.50531866885,
+    "predicted_n": 252,
+    "predicted_ms": 3064.606,
+    "predicted_per_token_ms": 12.20958565737052,
+    "predicted_per_second": 81.90286124872169
+  }
+}

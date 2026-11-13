@@ -1,0 +1,62 @@
+{
+  "transcript": "Khatoon, 34 saal. 3 din se bukhar jism mein dard hai. HB 5. Aankh ho ke piye dard. Platelets 95 hazaar hai. Kaafi se khoon nahi aana. Serc paani do goli din mein teen baar. Brufen bilkul nahi lena. Disprin bhi nahi. Paani zyada piye. Kalofan ka test dobara karwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"eye pain\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"Hemoglobin: 5 g/dL\",\n    \"Platelets: 95,000/mm3\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Serc\", \"strength\": null, \"dose\": \"3 times daily\", \"frequency\": \"twice daily (implied by 'din mein teen baar' context or literal '3 times' - assuming literal 3 times based on text 'teen baar')\", \"duration\": null, \"instructions\": \"drink with water\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Brufen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"Kalofan test\"\n  ],\n  \"advice\": [\n    \"Drink plenty of water\"\n  ],\n  \"follow_up\": \"Kalofan test repeat\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "eye pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "Hemoglobin: 5 g/dL",
+      "Platelets: 95,000/mm3"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Serc",
+        "strength": null,
+        "dose": "3 times daily",
+        "frequency": "twice daily (implied by 'din mein teen baar' context or literal '3 times' - assuming literal 3 times based on text 'teen baar')",
+        "duration": null,
+        "instructions": "drink with water"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Brufen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "Kalofan test"
+    ],
+    "advice": [
+      "Drink plenty of water"
+    ],
+    "follow_up": "Kalofan test repeat"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 118,
+    "prompt_ms": 77.312,
+    "prompt_per_token_ms": 0.655186440677966,
+    "prompt_per_second": 1526.2831125827815,
+    "predicted_n": 309,
+    "predicted_ms": 3870.786,
+    "predicted_per_token_ms": 12.567487012987014,
+    "predicted_per_second": 79.57040249706391
+  }
+}

@@ -341,6 +341,70 @@ avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,dict_08,Ciprofloxacin,wrong,False,
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,dict_09,Ventolin,prescribed,False,False,
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,own_02,Augmentin 625,wrong,False,False,
 avx2_base-q8_ur_t4__shaheen-7b,nouman-tanveer,own_03,Augmentin 625,wrong,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_01,Azomax,prescribed,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_01,Paracetamol,wrong,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_02,Serc,wrong,True,False,serc paradol do goli din
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_03,Quadroxeras,wrong,True,False,quadroxeras karein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_04,Novorapid,wrong,True,False,novorapid raat ko
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_05,Glucophage,prescribed,True,False,glucophage paanch ml mein do
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_06,Rasac,prescribed,True,False,risac subah khali pait
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_06,Gaviscon,prescribed,True,False,gaviscon ke do chamach chakkar
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_07,Terafax,wrong,True,False,terafax baad aadhi hai
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_07,Augmentin,prescribed,True,False,augmentin din mein do baar
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_08,Ciprofloxacin,wrong,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,Ventolin,prescribed,True,False,ventolin hai leir
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,Hydroxychlorothiazide,wrong,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_09,Zyrtec,prescribed,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,dict_10,Zyrtec,prescribed,True,False,zyrtec aadhi goli raat ko
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_01,Dexamethasone,wrong,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_02,Panadol,prescribed,True,False,panadol jab pi fever ho
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_03,Novorapid,wrong,True,False,novorapid penadol jab zaroorat karein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,hadi,own_03,Penadol,prescribed,True,False,penadol jab zaroorat karein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_01,Cefspoctin,wrong,True,False,cefspositi baad hai
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_01,Panadol,prescribed,True,False,panadol do goli din mein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_02,Serafex,wrong,True,False,serafx panadol do goli din
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_02,Panadol,prescribed,True,False,panadol do goli din mein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_02,Brufolone,AVOID,True,False,brufolone lena
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_03,Atenolol,wrong,True,False,atenol dava ho chukin hai
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_04,Atencine,wrong,True,True,atencine mein dard nahi hai
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Nexum,wrong,True,False,nexum harnon
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Exofasil,wrong,True,False,eksofasil aur khane ke baad
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Penicillin Glycofez,prescribed,True,False,penicillin glycofez paanch ml din mein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Glycofec,prescribed,True,False,glycofez paanch ml din mein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_06,Percopad,wrong,True,False,percopad jalanofi na khane ke
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_07,Augmentin,prescribed,True,False,augmentin din mein do baar
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_08,Ciprofloxacin,wrong,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Amitriax,wrong,True,False,amitriax bukhar ho
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Nexum,wrong,True,False,nexum mentolin inhaler buzirorat par
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Mentolin inhaler,prescribed,True,False,mentolin inhaler buzirorat par do puff
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Zytoxane,wrong,True,False,zytoxane raat ko
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,dict_10,Zyrtec,prescribed,True,False,zyrtec aadhi goli raat ko
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_01,Panadolol,prescribed,True,False,panadolol tablets twice a day
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_02,Penadol,prescribed,True,False,penadol bandarilis fever
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_03,Khadzaiq,wrong,True,False,khadzaiq ibupin for week
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,merab-haroon,own_03,Ibupin,wrong,True,False,ibupin for week
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,Exomex,wrong,True,False,exomex rozana
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,Paradol,prescribed,True,False,paradol do goli din mein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_02,Serc,wrong,True,False,serc paani do goli din
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,Acyclovir,wrong,True,False,acyclovir dapha ho karein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,Dastimex,wrong,True,True,dastimex khoon nahi hai
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,ORAS,prescribed,True,False,oras ka ek goliast
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,Flagyl,prescribed,True,False,flagyl din mein teen baar
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_04,Novorak,prescribed,True,False,novorak raat ko
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Chugarexasas,wrong,True,False,chugarexasas se aur khane ke
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Doverfax,wrong,True,False,doverfax harto paani
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_06,Sercat,wrong,True,False,sercat ka karein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_06,Gavisod,wrong,True,False,gavisod ke do chamche karein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_07,Ottermectin,wrong,True,False,ottermectin din mein do baar
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_08,Ciprofloxacin,wrong,False,False,
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_09,Valantolix,wrong,True,False,valantolix inhaler zaroorat par do
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_09,Dolorodium,wrong,True,False,dolorodium se backein
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,dict_10,Zyrtec,prescribed,True,False,zyrtec aadhi goli raat ko
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_01,Pantor,wrong,True,False,pain for months
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_02,Panadolvan,prescribed,True,False,panadolvan deres fever
+avx2_ft-s250-q8_ur_t4__qwen35-4b-iq3m-cap,nouman-tanveer,own_03,Panadolvan,prescribed,True,False,panadolvan needed less salt
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_01,Saban,wrong,True,False,سبان سرزان ایک گولی ساتھ
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,dict_05,Glucophage,prescribed,True,False,گلوکو فیج دن میں دو بار
 avx2_small-q8_ur_t2__gemma4-e2b,hadi,own_01,Pindadal,prescribed,True,False,پیناڈال کے دو تیبلیٹ
@@ -496,6 +560,212 @@ avx2_small-q8_ur_t2__qwen35-4b-iq3m-hints,nouman-tanveer,dict_01,Azomax,prescrib
 avx2_small-q8_ur_t2__qwen35-4b-iq3m-hints,nouman-tanveer,dict_02,Panadol,prescribed,True,False,پناڈول دو گولی دن میں
 avx2_small-q8_ur_t2__qwen35-4b-iq3m-hints,nouman-tanveer,dict_05,Glucophage,prescribed,True,False,گلوکو فیز پانسو دین میں دو
 avx2_small-q8_ur_t2__qwen35-4b-iq3m-hints,nouman-tanveer,dict_06,Diacarboxyl,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Augmentin,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Glucofage,prescribed,True,False,گلوکو فیج پانسہ دن میں دو
+hf_base_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Zantac,prescribed,True,False,زیٹیک ایک گولی دول اور
+hf_base_ur__qwen35-4b-iq3m-cap,hadi,own_03,Augmentin,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_02,Parnidol,prescribed,True,False,پیرنڈول دو گولی دن میں
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_04,Shido,wrong,True,False,شدو کر دی ہے نمک
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Glycine,wrong,True,False,گلائکہ فیج پانسو دن میں
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_07,Cetirizine,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_08,Supro,prescribed,True,False,سپرو دن میں دو بار
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Montevan,wrong,True,False,مینٹوانی این ہیلر ضرورت پر
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_10,Augmentin,AVOID,True,False,آگوینٹن نیویلی
+hf_base_ur__qwen35-4b-iq3m-cap,merab-haroon,own_01,Naproxen,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,Augmentin,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,Augmentin,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Glibenclamide,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_07,Siro,wrong,True,False,سیرہ دو چھمچ دین میں
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_08,Ciprofloxacin,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_09,Ventolin,prescribed,False,False,
+hf_base_ur__qwen35-4b-iq3m-hints,hadi,dict_01,Azomax,prescribed,True,False,میکس پونس رزانے گولی سات
+hf_base_ur__qwen35-4b-iq3m-hints,hadi,dict_05,Glucophage,prescribed,True,False,گلوکو فیج پانسہ دن میں دو
+hf_base_ur__qwen35-4b-iq3m-hints,hadi,own_01,Ponstan,wrong,True,False,پین سیڈیوں پیزاتا بوری نوس ویلنگ
+hf_base_ur__qwen35-4b-iq3m-hints,hadi,own_03,Bepanthen,wrong,False,False,
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_02,Parnadol,prescribed,True,False,پیرنڈول دو گولی دن میں
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_04,Buscopan,wrong,True,False,بیسک پانچ رات کو ایک گولی
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_05,Glucophage,prescribed,True,False,گلائکہ فیج پانسو دن میں پانسو
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_08,Supro,prescribed,True,False,سپرو دن میں دو بار
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,dict_10,Augmentin,AVOID,True,False,آگوینٹن نیویلی
+hf_base_ur__qwen35-4b-iq3m-hints,merab-haroon,own_01,Vastarel,wrong,True,False,سٹیرز نوز ویلن نو فیور
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_03,Flagyl,prescribed,True,False,فلجل دین میں بار دین
+hf_base_ur__qwen35-4b-iq3m-hints,nouman-tanveer,dict_05,Glucophage,prescribed,True,False,گلوکو فیز پنسو دین میں دو
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Typhoid,wrong,True,False,typhoid ka test paanch ml
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Serc,wrong,True,False,serc par aadol do goli
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Cefixime,wrong,True,False,cefixime ek goliin
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Gliclazide,wrong,True,False,gliclazac din
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Metformin,wrong,False,False,
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Novorapid,wrong,True,False,novorapid aadhi goli haro
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_04,Norvasc,prescribed,True,False,norvasc paanch ml raat ko
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Mucicort,wrong,True,False,mucicort aadhi goli khane ke
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Pairla,wrong,True,False,pairla bilkul paanch ml din
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Glucophage,prescribed,True,False,glucophage harzaad din mein do
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_06,Risper,wrong,True,False,risper subah khali pait
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_06,Gaviscon,prescribed,True,False,gaviscon do chamach aayein
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_07,Fexofenadine,wrong,True,False,fexofenacinide dard hai
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_07,Paracetamol,wrong,True,False,paracetamol din mein do baar
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_07,Sarbahar,wrong,True,False,sarabhar do chamach din mein
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_08,Cipro,prescribed,True,False,cipro din mein do baar
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Fucine,wrong,True,False,fucine se ceti hai
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Ventolin,prescribed,True,True,ventolin nahi lal hai
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Rivotal,wrong,True,False,rivotal do puff din mein
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Zyrtec,prescribed,True,False,zyrtec ek goli dolorin
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_10,Zyrtec,prescribed,True,False,zyrtec aadhi goli raat ko
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,own_01,Dexamethasone,wrong,False,False,
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,own_02,Paracetamol,wrong,False,False,
+hf_synth-dec-s250_ur__qwen35-4b-iq3m-cap,hadi,own_03,Valsartan,wrong,True,False,valsartan hai
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Azomax,prescribed,True,False,azomax paanch ml karwa lein
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Serc,wrong,True,False,serc par daadol do goli
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Cefspanol,wrong,True,False,cefspanol ek mahina
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Lyrica,wrong,True,False,lyrica zyada piyein
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Daonil,wrong,True,False,daonil band karwa subah hai
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Tryptanol,wrong,True,False,tryptanol paanch ml din mein
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_04,Norvasc,prescribed,True,False,norvasc paanch ml raat ko
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Aspirin,wrong,True,True,pairon mein sun kharab nahi
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Pregliflozin,wrong,True,False,pregliflozin din mein do baar
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_06,Gravinate,wrong,True,False,gravinate do chamach aayein
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_07,Augmentin,prescribed,True,False,augmentin din mein do baar
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_08,Synflex,wrong,True,False,synflex din mein do baar
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Dapagliflozin,wrong,True,False,dapagliflozin paanch ml raat ko
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Zyrtec,prescribed,True,False,zyrtec ek goli do goli
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_10,Fucicort,wrong,True,False,fucicort paanch ml raat se
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,own_01,Dexamethasillin,wrong,True,False,dexamethasicillin bandadol do tableter
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,own_02,Panadol,prescribed,True,False,panadol jab bi fever ho
+hf_synth-dec-s500_ur__qwen35-4b-iq3m-cap,hadi,own_03,Valsartan,wrong,True,False,valsartan hai
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Rocephin,wrong,True,False,rocephin band band kar dein
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Telfast,wrong,True,False,telfast test karwa lein
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Azomax,prescribed,True,False,azomax aadhi goli din
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Haldol,wrong,True,False,haldol do goli din mein
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Serc,wrong,True,False,serc do goli din mein
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Duphaston,wrong,True,False,duphaston din mein teen baar
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_04,Novorapid,wrong,True,False,novorapid paanch ml raat ko
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Paracetamol,wrong,True,False,paracetamol do puff paanch ml
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_06,Gravinate,wrong,True,False,gravinate do chamach jab bukhar
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_07,Augmentin,prescribed,True,False,augmentin din mein do baar
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_08,Ciprofloxacin,wrong,False,False,
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Fasigyn,wrong,True,False,fasigyn se seene se seene
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,dict_10,Fucidin,wrong,True,False,fucidin ek goli raat ko
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,own_01,Dandardol,wrong,True,False,dandardol ek goli jab bukhar
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,own_01,Serc,wrong,True,False,serc din mein do baar
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,own_01,Warfarin,wrong,True,False,warfarin ek goli subah nahar
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,own_02,Zovirax,wrong,True,False,zovirax twice a day for
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,own_02,Warfarin,wrong,True,False,warfarin twice a day for
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,own_02,Malarone,wrong,True,False,malarone paanch ml din mein
+hf_synth-dec_ur__qwen35-4b-iq3m-cap,hadi,own_03,Panadol,prescribed,True,False,panadol jab zaroorat ke waqt
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Azomax,prescribed,True,False,azomax paanch ml rozana
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Paracetamol,wrong,False,False,
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Serc,wrong,True,False,serc paradol do goli din
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Quadroxeras,wrong,True,False,quadroxeras karein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Glastrofax,wrong,True,False,glastrofax lagazal din mein teen
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Dulcolax,wrong,True,False,dulcolax parliogel cheezein band
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_04,Novorapid,wrong,True,False,novorapid raat ko
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Parliploprofage,wrong,True,False,parliploprofage din mein do baar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_06,Rasac,prescribed,True,False,risac subah khali pait
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_06,Gaviscon,prescribed,True,False,gaviscon ke do chamach chakkar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_06,Mixtard,wrong,True,False,mixtard karein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_07,Terafax,wrong,True,False,terafax baad aadhi hai
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_07,Augmentin,prescribed,True,False,augmentin din mein do baar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_08,Ciprofloxacin,wrong,False,False,
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Tac-Cfx4,wrong,True,False,tac cfx se cittriki waqt
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Zastix,wrong,True,False,zastix hai
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Ventolin,prescribed,True,False,ventolin hai leir
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Rizad-Balto,wrong,True,False,rizad balto paaf din mein damas
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Zyrtec,prescribed,True,False,zyrtec ek goli do lontum
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,dict_10,Lioxquantin,wrong,True,True,lioxoquantin nahi deni
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,own_01,Dexamethasone,wrong,False,False,
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,own_02,Panadol,prescribed,True,False,panadol jab pi fever ho
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,own_03,Hironolol,wrong,True,False,hironolol d penadol jab zaroorat
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,hadi,own_03,Penadol,prescribed,True,False,penadol jab zaroorat karein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_01,Cefsepositi,wrong,True,False,cefspositi baad hai
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_01,Panadol,prescribed,True,False,panadol do goli din mein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_02,Serafex,wrong,True,False,serafx panadol do goli din
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_02,Panadol,prescribed,True,False,panadol do goli din mein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_03,Atenolol,wrong,True,False,atenol dapha ho chukin hai
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_04,Acycline,wrong,True,False,acycline bp saal
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Nexum,wrong,True,False,nexum harnon sugar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Exforge,wrong,True,False,exforge asixx ur khane ke
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Penicillin glycofez,prescribed,True,False,penicillin glycofez paanch ml din mein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_05,Levetirac abg,wrong,True,False,levetirac abg
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_06,Percopad,wrong,True,False,percopad jalanotein a khane ke
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_07,Augmentin,prescribed,True,False,augmentin din mein do baar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_08,Ciprofloxacin,wrong,False,False,
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Falsine,wrong,True,False,falsine se silti ke eva
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Zartenglia,wrong,True,False,zartenglia gabrahat ko
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Ampigil,wrong,True,False,ampigil bukhar ho
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Mebventolin inhaler,wrong,True,False,mebventolin inhaler buzerogat par do puff
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Deface,wrong,True,False,deface zytoxane raat ko
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_09,Zyrtec,prescribed,True,False,zyrtec ek goli doodh aur
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,dict_10,Zyrtec,prescribed,True,False,zyrtec aadhi goli raat ko
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_01,Panadol,prescribed,True,False,panadol total fever twice a
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_02,Propranolol,wrong,True,False,propranolol band diarclinus fever
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_02,Warmsol,wrong,True,False,warmsol to water
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_02,Gargolz,wrong,True,False,gargolz
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_02,Carbimacadil,wrong,True,False,carbimacadil kam back
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,merab-haroon,own_03,Ibupin,wrong,True,False,ibupin for week
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,Exomex,wrong,True,False,exomex rozana
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_01,Paradol,prescribed,True,False,paradol do goli din mein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_02,Serc,wrong,True,False,serc panadol do goli din
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_02,Panadol,prescribed,True,False,panadol do goli din mein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_03,Acyclovir,wrong,True,False,acyclovir dapha ho
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_04,Novorapid,wrong,True,False,novorapid raat ko
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Primaveride,wrong,True,False,primaveride nahar mun
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Orcanem,wrong,True,False,orcanem hai baad
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Doverfax,wrong,True,False,doverfax pait
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_06,Mirac,wrong,True,False,mirac kam karein
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_07,Otamartin,wrong,True,False,otamartin din mein do baar
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_08,Ciprofloxacin,wrong,False,False,
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_09,Valantolin,prescribed,True,False,valantolin hai
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,dict_10,Zartac,prescribed,True,False,zartac aadhi goli raat ko
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_01,Pantor,wrong,True,False,pain for months
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_02,Panadolvan,prescribed,True,False,panadolvan deres fever
+hf_synth-full-s250_ur__qwen35-4b-iq3m-cap,nouman-tanveer,own_03,Panadolvan,prescribed,True,False,panadolvan needed less salt
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Azomax,prescribed,True,False,azomax paanch ml rozana
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Paradol,prescribed,True,False,paradol do goli din mein
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Lisomal,wrong,True,False,lisomal do raat ko
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Lopressor,wrong,True,False,lopressor plaid
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Xanax,wrong,True,False,xanax se do goli din
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Novorapid,wrong,True,False,novorapid karein
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_04,Novorapid,wrong,True,False,novorapid raat ko
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Ferrous,wrong,True,False,ferrous paanch ml din mein
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_06,Gaviscon,prescribed,True,False,gaviscon ke do chamach chakkar
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_07,Augmentin,prescribed,True,False,augmentin din mein do baar
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_08,Ciprofloxacin,wrong,False,False,
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Ciprofloxacin,wrong,False,False,
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Hydrochlorothiazide,wrong,False,False,
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,dict_10,Zyrtec,prescribed,True,False,zyrtec aadhi goli raat ko
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,own_01,Dermovate,wrong,True,False,dermovate do taprardol
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,own_01,Plavix,wrong,True,False,plavixolal ke zylocard
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,own_01,Zocard,wrong,True,False,zylocard
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,own_01,Cac-Sac,wrong,False,False,
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,own_01,Warfarin,wrong,False,False,
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,own_02,Panadol,prescribed,True,False,panadol jab pi fever ho
+hf_synth-full-s500_ur__qwen35-4b-iq3m-cap,hadi,own_03,Nexum,wrong,True,False,nexum kam karein
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Tavanic,wrong,True,False,tavanic khali pait
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Azomax,prescribed,True,False,azomax paanch ml rozana
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Ventolin,wrong,True,False,ventolin din
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_01,Ranadol,prescribed,True,False,ranadol do goli din mein
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Plavix,wrong,True,False,plavix hazaar hai
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_02,Xanax,wrong,True,False,xanax se do goli din
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Co-trimoxazole,wrong,False,False,
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_03,Flagyl,prescribed,True,False,flagyl din mein teen baar
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_04,Novorapid,wrong,True,False,novorapid paanch ml raat ko
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_05,Glucophage,prescribed,True,False,glucophage din mein do baar
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_08,Ciprofloxacin,wrong,False,False,
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Zantac,prescribed,True,False,zantac hai
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_09,Zyrtec,prescribed,True,False,zantac hai
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,dict_10,Zyrtec,prescribed,True,False,zyrtec aadhi goli raat ko
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,own_01,Sunny D,wrong,True,False,sunny d pen rozana
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,own_01,Zantac,wrong,True,False,zantac goli na sujan hai
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,own_01,Dexamethasone,wrong,True,False,dexamethasone do tapas aadhi khali
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,own_01,Cac-Syxtril,wrong,True,False,syxtril do goli aur hai
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,own_02,Zoloft,wrong,True,False,zoloft se fever for days
+hf_synth-full_ur__qwen35-4b-iq3m-cap,hadi,own_03,Deltacin,wrong,True,False,deltacin hafte se bp
 ref__alif-3b,hadi,dict_02,panadol,prescribed,True,False,panadol do goli din mein
 ref__alif-3b,hadi,dict_02,brufen,AVOID,True,True,brufen bilkul nahi leni
 ref__alif-3b,hadi,dict_02,disprin,AVOID,True,True,disprin bhi nahi

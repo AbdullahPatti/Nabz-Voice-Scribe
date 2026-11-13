@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 68 saal. Serafolov ke nahi hai. Pucrex twice koi raat sun waqt. Koi sargapak nahi. Bukhar nahi khansi nahi. Penicillin se allergy hai. Is liye augmentant nahi deni. Zyrtec aadhi goli raat ko. Dastan ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 68\n  },\n  \"complaints\": [\n    {\"symptom\": \"sleep disturbance\", \"duration\": \"twice a night\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"sore throat\",\n    \"penicillin allergy\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Zyrtec\",\n      \"strength\": \"half tablet\",\n      \"dose\": \"half tablet at night\",\n      \"frequency\": \"once daily\",\"duration\": \"one month\",\"instructions\": \"return in one month\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return in one month\"\n  ],\"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 68
+    },
+    "complaints": [
+      {
+        "symptom": "sleep disturbance",
+        "duration": "twice a night"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "sore throat",
+      "penicillin allergy"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half tablet",
+        "dose": "half tablet at night",
+        "frequency": "once daily",
+        "duration": "one month",
+        "instructions": "return in one month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 104,
+    "prompt_ms": 78.614,
+    "prompt_per_token_ms": 0.7559038461538462,
+    "prompt_per_second": 1322.919581753886,
+    "predicted_n": 250,
+    "predicted_ms": 3063.163,
+    "predicted_per_token_ms": 12.301859437751004,
+    "predicted_per_second": 81.28852431294057
+  }
+}
