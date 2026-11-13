@@ -1,0 +1,73 @@
+{
+  "transcript": "Mard, 50 saal. Sugar Kaan dard nahi. Neend na aaram ho raha. BP 111 by 106. Paracetamol do puff paanch ml din mein do baar, lagatar. Glucophage 500 din mein do baar, lagatar. Glucophage harzaad dikhayein. Do baad khane ke baad, ek hafta. Tenormin nahi lena. Sugar test karwana hai. Pairon mein sun kharab nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"nausea\", \"duration\": null},\n    {\"symptom\": \"dizziness\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"no headache\",\n    \"no fever\",\n    \"no vomiting\",\n    \"no chest pain\",\n    \"no shortness of breath\",\n    \"no palpitations\",\n    \"no chest tightness\",\n    \"no chest congestion\",\n    \"no chest cold\",\n    \"no chest infection\"\n  ],\n  \"findings\": [\n    \"BP 111/106\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Paracetamol\", \"strength\": \"500\", \"dose\": \"5ml\", \"frequency\": \"twice daily\", \"duration\": \"continuous\", \"instructions\": \"continue\"},\n    {\"name\": \"Glucophage\", \"strength\": \"500\", \"dose\": \"twice daily\", \"frequency\": \"continuous\", \"duration\": \"one week\", \"instructions\": \"take after meals\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Tenormin\"\n  ],\n  \"investigations_ordered\": [\n    \"sugar test\"\n  ],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "nausea",
+        "duration": null
+      },
+      {
+        "symptom": "dizziness",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "no headache",
+      "no fever",
+      "no vomiting",
+      "no chest pain",
+      "no shortness of breath",
+      "no palpitations",
+      "no chest tightness",
+      "no chest congestion",
+      "no chest cold",
+      "no chest infection"
+    ],
+    "findings": [
+      "BP 111/106"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": "500",
+        "dose": "5ml",
+        "frequency": "twice daily",
+        "duration": "continuous",
+        "instructions": "continue"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "continuous",
+        "duration": "one week",
+        "instructions": "take after meals"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Tenormin"
+    ],
+    "investigations_ordered": [
+      "sugar test"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 133,
+    "prompt_ms": 89.388,
+    "prompt_per_token_ms": 0.6720902255639098,
+    "prompt_per_second": 1487.8954669530585,
+    "predicted_n": 342,
+    "predicted_ms": 4222.873,
+    "predicted_per_token_ms": 12.383791788856303,
+    "predicted_per_second": 80.75071166004756
+  }
+}

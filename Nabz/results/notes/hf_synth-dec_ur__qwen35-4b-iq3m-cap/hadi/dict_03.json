@@ -1,0 +1,58 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast hai. Aankh lal dapha hai. Dast nahi hai. Jism par daane ek mahina. HB 8. Dast ke waqt. Duphaston 400 din mein teen baar, 5 din. Doodh aur dahi kam. Balgham lagatar. Lyrica band karwa lein. Do hafte baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"red eyes\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fever\"\n  ],\n  \"findings\": [\n    \"skin lesions on body for 1 month\",\n    \"hemoglobin 8\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Duphaston\", \"strength\": \"400\", \"dose\": \"3 times daily\", \"frequency\": \"5 days\", \"duration\": \"1 night\", \"instructions\": \"take with milk and curd, avoid balgham\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Lyrica\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return in 2 weeks\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "red eyes",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fever"
+    ],
+    "findings": [
+      "skin lesions on body for 1 month",
+      "hemoglobin 8"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Duphaston",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "5 days",
+        "duration": "1 night",
+        "instructions": "take with milk and curd, avoid balgham"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Lyrica"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "return in 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 85.338,
+    "prompt_per_token_ms": 0.7293846153846153,
+    "prompt_per_second": 1371.018772410884,
+    "predicted_n": 262,
+    "predicted_ms": 3295.143,
+    "predicted_per_token_ms": 12.625068965517242,
+    "predicted_per_second": 79.20748811204855
+  }
+}

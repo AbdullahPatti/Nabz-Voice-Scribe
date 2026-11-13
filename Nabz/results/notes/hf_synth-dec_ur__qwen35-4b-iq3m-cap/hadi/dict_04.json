@@ -1,0 +1,50 @@
+{
+  "transcript": "Khatoon, 55 saal. 8 din se saans phoolna hai. Sar dard bhi nahi hai. Chakkar nahi. HB 8. Seene mein dard nahi hai. Novorapid paanch ml raat ko. Ek goli zaroorat khali pait. Namak kam karni hai. Do hafte baad bilkul nahi. Chakkar hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"dyspnea\", \"duration\": \"8 days\"}\n  ],\n  \"negatives\": [\n    \"headache\",\n    \"syncope\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"hemoglobin 8\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorapid\", \"strength\": \"5 ml\", \"dose\": \"night\", \"frequency\": \"once daily\", \"duration\": \"2 weeks\", \"instructions\": \"take on empty stomach, reduce salt intake\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": \"in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "dyspnea",
+        "duration": "8 days"
+      }
+    ],
+    "negatives": [
+      "headache",
+      "syncope",
+      "chest pain"
+    ],
+    "findings": [
+      "hemoglobin 8"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorapid",
+        "strength": "5 ml",
+        "dose": "night",
+        "frequency": "once daily",
+        "duration": "2 weeks",
+        "instructions": "take on empty stomach, reduce salt intake"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 77.148,
+    "prompt_per_token_ms": 0.7143333333333333,
+    "prompt_per_second": 1399.9066728884743,
+    "predicted_n": 215,
+    "predicted_ms": 2884.322,
+    "predicted_per_token_ms": 13.478140186915889,
+    "predicted_per_second": 74.19421271272763
+  }
+}

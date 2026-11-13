@@ -1,0 +1,62 @@
+{
+  "transcript": "مریز مرد اٹھائیس سال پاہتن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھان لگ دیئے گولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوزٹے بایا ہے از میکس پونس رزانے گولی سات دن اور دو گولی دن میں ٹین بار جب وہ ہارو ٹین دن بات بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 19\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"19 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"19 days\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"sputum\",\n    \"chest pain\",\n    \"shortness of breath\",\n    \"swelling\",\n    \"vomiting\",\n    \"diarrhea\",\n    \"headache\",\n    \"joint pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"2 tablets\", \"frequency\": \"twice daily\", \"duration\": \"7 days\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\",\n    \"diet\"\n  ],\n  \"follow_up\": \"19 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 19
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "19 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "sputum",
+      "chest pain",
+      "shortness of breath",
+      "swelling",
+      "vomiting",
+      "diarrhea",
+      "headache",
+      "joint pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "7 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids",
+      "diet"
+    ],
+    "follow_up": "19 days"
+  },
+  "timings": {
+    "cache_n": 0,
+    "prompt_n": 341,
+    "prompt_ms": 177.024,
+    "prompt_per_token_ms": 0.5191319648093842,
+    "prompt_per_second": 1926.2924801156905,
+    "predicted_n": 277,
+    "predicted_ms": 3195.619,
+    "predicted_per_token_ms": 11.578329710144928,
+    "predicted_per_second": 86.36824352339875
+  }
+}

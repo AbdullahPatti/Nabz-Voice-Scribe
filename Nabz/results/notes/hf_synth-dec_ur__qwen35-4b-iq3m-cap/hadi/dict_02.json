@@ -1,0 +1,67 @@
+{
+  "transcript": "Khatoon, 34 saal. 3 din se bukhar hai. Jism par daane hai. Aankh lal ke pet se dard hai. Platelets 95 hazaar. Kaafi se khoon nahi. HB 11. Serc 12 do goli din mein teen baar. Profen bilkul nahi leni. Disprin bhi nahi deni. Paani zyada piyein. Calcium ka test 12 paanch ml raat ko.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"skin rash\", \"duration\": \"3 days\"},\n    {\"symptom\": \"eye redness\", \"duration\": \"3 days\"},\n    {\"symptom\": \"abdominal pain\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"platelets: 95,000\",\n    \"hemoglobin: 11\",\n    \"serum calcium: 12 mg/dL\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Serc\", \"strength\": \"12\", \"dose\": \"3 times daily\", \"frequency\": \"twice daily (per transcript 'din mein teen baar' implies frequency instruction, though phrasing is slightly ambiguous, interpreted as dosing instruction) -> '3 times daily' is explicit in text 'teen baar' but 'din mein' suggests frequency. Let's stick to text: 'din mein teen baar' = 3 times a day.\",\"duration\": null, \"instructions\": \"drink plenty of water\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Profen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"calcium test\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "skin rash",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "eye redness",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "platelets: 95,000",
+      "hemoglobin: 11",
+      "serum calcium: 12 mg/dL"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Serc",
+        "strength": "12",
+        "dose": "3 times daily",
+        "frequency": "twice daily (per transcript 'din mein teen baar' implies frequency instruction, though phrasing is slightly ambiguous, interpreted as dosing instruction) -> '3 times daily' is explicit in text 'teen baar' but 'din mein' suggests frequency. Let's stick to text: 'din mein teen baar' = 3 times a day.",
+        "duration": null,
+        "instructions": "drink plenty of water"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Profen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "calcium test"
+    ],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 126,
+    "prompt_ms": 82.365,
+    "prompt_per_token_ms": 0.6536904761904762,
+    "prompt_per_second": 1529.775997086141,
+    "predicted_n": 372,
+    "predicted_ms": 4656.183,
+    "predicted_per_token_ms": 12.550358490566039,
+    "predicted_per_second": 79.67899887096362
+  }
+}

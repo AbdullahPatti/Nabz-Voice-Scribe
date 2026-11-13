@@ -1,0 +1,53 @@
+{
+  "transcript": "Khatoon, 55 saal. Aadhi bilkul hai. Suxtar 100 aad hai. Sar ghabrahat hai. Chakkar nahi. Atencine mein dard nahi hai. Novorapid 5 raat ko. Ek goli subah nahar dikhayein. Namak kam karni hai. Doft baad bilkul do baar. Chakkar hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"10 days\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"10 days\"}\n  ],\n  \"negatives\": [\n    \"no dizziness\",\n    \"no headache in abdomen\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorapid\", \"strength\": \"5\", \"dose\": \"1 tablet in the morning with breakfast\", \"frequency\": \"once at night\", \"duration\": null, \"instructions\": \"take with breakfast\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "10 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "10 days"
+      }
+    ],
+    "negatives": [
+      "no dizziness",
+      "no headache in abdomen"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorapid",
+        "strength": "5",
+        "dose": "1 tablet in the morning with breakfast",
+        "frequency": "once at night",
+        "duration": null,
+        "instructions": "take with breakfast"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 78.219,
+    "prompt_per_token_ms": 0.72425,
+    "prompt_per_second": 1380.7386952019333,
+    "predicted_n": 222,
+    "predicted_ms": 2912.206,
+    "predicted_per_token_ms": 13.177402714932127,
+    "predicted_per_second": 75.88748872847594
+  }
+}

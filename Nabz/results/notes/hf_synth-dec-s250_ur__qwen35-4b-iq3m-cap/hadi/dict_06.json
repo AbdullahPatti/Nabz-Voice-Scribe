@@ -1,0 +1,72 @@
+{
+  "transcript": "Khatoon, 30 saal. Pairn kewpast jalan hoti hai. Kharna baad zyada hai. Kaan dard hai. Dicacinol dard hai. Nexolate nahi. Voltron nahi. Vazan kam nahi ho. Risper 20 subah khali pait, do hafte. Rath ko. Gaviscon do chamach aayein. Mixtard kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain in lower back\", \"duration\": \"present\"},\n    {\"symptom\": \"increased appetite\", \"duration\": \"present\"},\n    {\"symptom\": \"ear pain\", \"duration\": \"present\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"present\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Risper\", \"strength\": \"20\", \"dose\": \"morning on empty stomach\", \"frequency\": \"twice a week\", \"duration\": \"2 weeks\", \"instructions\": \"take with food\"},\n    {\"name\": \"Gaviscon\", \"strength\": \"\", \"dose\": \"2 spoons\", \"frequency\": \"as needed\", \"duration\": \"\",\"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Diclofenac\",\n    \"Voltaren\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Reduce Mixtard dosage\"\n  ],\"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pain in lower back",
+        "duration": "present"
+      },
+      {
+        "symptom": "increased appetite",
+        "duration": "present"
+      },
+      {
+        "symptom": "ear pain",
+        "duration": "present"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Risper",
+        "strength": "20",
+        "dose": "morning on empty stomach",
+        "frequency": "twice a week",
+        "duration": "2 weeks",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Gaviscon",
+        "strength": "",
+        "dose": "2 spoons",
+        "frequency": "as needed",
+        "duration": "",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Diclofenac",
+      "Voltaren"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Reduce Mixtard dosage"
+    ],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 109,
+    "prompt_ms": 79.148,
+    "prompt_per_token_ms": 0.7261284403669724,
+    "prompt_per_second": 1377.166826704402,
+    "predicted_n": 309,
+    "predicted_ms": 3926.825,
+    "predicted_per_token_ms": 12.749431818181817,
+    "predicted_per_second": 78.43486786398681
+  }
+}

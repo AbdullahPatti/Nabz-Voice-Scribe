@@ -1,0 +1,54 @@
+{
+  "transcript": "Mard, 50 saal. Sugar 99. Mareez nahar mun. Sugar 180. Cac-1000 ek puff khane ke baad. 200 saal. Pairon bilkul khali pait. 5 din mein do baar, lagatar. Glucophage 7 din mein do baar. Cahanax na ek sachet din mein do baar. Cahanax na dein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"5 days\"},\n    {\"symptom\": \"cough\", \"duration\": \"twice daily\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"blood_sugar_fasting_mg_dl_180\",\n    \"blood_sugar_random_mg_dl_99\",\n    \"chest_cad_1000_ppf\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glucophage\", \"strength\": null, \"dose\": \"twice daily\", \"frequency\": \"every 7 days\", \"duration\": null, \"instructions\": \"on empty stomach\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Cahanax\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "twice daily"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "blood_sugar_fasting_mg_dl_180",
+      "blood_sugar_random_mg_dl_99",
+      "chest_cad_1000_ppf"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": null,
+        "dose": "twice daily",
+        "frequency": "every 7 days",
+        "duration": null,
+        "instructions": "on empty stomach"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Cahanax"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 76.705,
+    "prompt_per_token_ms": 0.6788053097345133,
+    "prompt_per_second": 1473.1764552506356,
+    "predicted_n": 250,
+    "predicted_ms": 3368.65,
+    "predicted_per_token_ms": 13.528714859437752,
+    "predicted_per_second": 73.91685096403604
+  }
+}

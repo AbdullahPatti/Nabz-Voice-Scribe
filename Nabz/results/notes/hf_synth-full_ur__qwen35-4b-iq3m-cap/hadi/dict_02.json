@@ -1,0 +1,67 @@
+{
+  "transcript": "Khatoon, 34 saal. 3 din se bukhar hai. Jism par daane se raat ko. BP 96 by 86. Plavix 525 hazaar hai. Kaafi se khoon nahi. Xanax se 12 do goli din mein teen baar. Profen bilkul nahi leni. Disprin bhi nahi hai. Paani zyada piyein. Calcium ka test 12 paanch ml raat ko.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"skin rash\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"BP 96/86\",\n    \"skin rash present\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Plavix\",\n      \"strength\": \"525\",\n      \"dose\": \"1000 mg\",\n      \"frequency\": \"once daily\",\"duration\": null,\n      \"instructions\": null\n    },\n    {\n      \"name\": \"Xanax\",\n      \"strength\": null,\n      \"dose\": \"12\",\n      \"frequency\": \"3 times daily\",\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Profen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"Calcium test\"\n  ],\n  \"advice\": [\n    \"Drink plenty of water\",\n    \"Calcium test 12 paanch ml at night\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "skin rash",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "BP 96/86",
+      "skin rash present"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Plavix",
+        "strength": "525",
+        "dose": "1000 mg",
+        "frequency": "once daily",
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "Xanax",
+        "strength": null,
+        "dose": "12",
+        "frequency": "3 times daily",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Profen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "Calcium test"
+    ],
+    "advice": [
+      "Drink plenty of water",
+      "Calcium test 12 paanch ml at night"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 124,
+    "prompt_ms": 81.563,
+    "prompt_per_token_ms": 0.6577661290322581,
+    "prompt_per_second": 1520.2971935804226,
+    "predicted_n": 324,
+    "predicted_ms": 3985.327,
+    "predicted_per_token_ms": 12.338473684210527,
+    "predicted_per_second": 81.04730176469835
+  }
+}

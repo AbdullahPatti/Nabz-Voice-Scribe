@@ -688,3 +688,81 @@ hf_small_ur,nouman-tanveer,dict_10,dictation,23.13,1.27,0.055,,0.667,Augmentin,1
 hf_small_ur,nouman-tanveer,own_01,free_dictation,12.12,10.36,0.855,,0.0,Panadol,0.0,60,2,0,0.0,0,,0.746
 hf_small_ur,nouman-tanveer,own_02,free_dictation,17.15,11.84,0.69,,0.0,Panadol,1.0,,3,0,0.0,0,,0.662
 hf_small_ur,nouman-tanveer,own_03,free_dictation,14.68,10.76,0.733,,0.0,Panadol,0.0,45 140 90,2,1,0.5,0,,0.821
+hf_synth-dec-s250_ur,hadi,dict_01,dictation,20.57,4.16,0.202,,0.0,Azomax Panadol,0.5,500,2,3,1.0,1,,0.255
+hf_synth-dec-s250_ur,hadi,dict_02,dictation,18.09,0.7,0.039,,0.667,Panadol,0.0,34 95,3,3,1.0,0,Serc,0.184
+hf_synth-dec-s250_ur,hadi,dict_03,dictation,17.32,7.3,0.422,,0.5,Flagyl,1.0,,1,0,0.0,0,Cefixime Novorapid,0.596
+hf_synth-dec-s250_ur,hadi,dict_04,dictation,13.74,0.52,0.038,,1.0,,0.5,160 100,2,3,1.0,1,Serc,0.348
+hf_synth-dec-s250_ur,hadi,dict_05,dictation,17.66,0.64,0.036,,1.0,,0.2,180 260 500 1000,1,2,1.0,1,,0.349
+hf_synth-dec-s250_ur,hadi,dict_06,dictation,14.42,3.12,0.216,,0.5,Risek,1.0,,2,3,1.0,1,Mixtard,0.365
+hf_synth-dec-s250_ur,hadi,dict_07,dictation,17.66,0.59,0.034,,0.0,Augmentin Cough syrup,1.0,,1,0,0.0,0,Paracetamol,0.268
+hf_synth-dec-s250_ur,hadi,dict_08,dictation,13.82,0.58,0.042,,1.0,,1.0,,4,4,1.0,0,,0.165
+hf_synth-dec-s250_ur,hadi,dict_09,dictation,14.25,0.56,0.039,,1.0,,1.0,,2,4,1.0,2,,0.321
+hf_synth-dec-s250_ur,hadi,dict_10,dictation,15.7,0.58,0.037,,1.0,,0.0,38,5,4,0.8,0,,0.19
+hf_synth-dec-s250_ur,hadi,own_01,free_dictation,12.54,0.45,0.036,,0.0,Panadol,1.0,,2,2,1.0,0,Serc,0.281
+hf_synth-dec-s250_ur,hadi,own_02,free_dictation,16.04,0.57,0.036,,1.0,,1.0,,3,2,0.667,0,,0.403
+hf_synth-dec-s250_ur,hadi,own_03,free_dictation,14.93,0.52,0.035,,1.0,,1.0,,2,1,0.5,0,Serc Valsartan,0.461
+hf_synth-dec-s500_ur,hadi,dict_01,dictation,20.57,0.99,0.048,,0.5,Panadol,0.5,500,2,4,1.0,2,,0.283
+hf_synth-dec-s500_ur,hadi,dict_02,dictation,18.09,0.68,0.038,,0.667,Panadol,1.0,,3,3,1.0,0,Serc,0.252
+hf_synth-dec-s500_ur,hadi,dict_03,dictation,17.32,3.07,0.177,,0.0,ORS Flagyl,0.5,40,1,1,1.0,0,Daonil Lyrica Tryptanol,0.636
+hf_synth-dec-s500_ur,hadi,dict_04,dictation,13.74,0.57,0.042,,1.0,,0.5,160 100,2,3,1.0,1,Ativan,0.485
+hf_synth-dec-s500_ur,hadi,dict_05,dictation,17.66,0.73,0.041,,1.0,,0.6,180 260,1,1,1.0,0,Cac-1000,0.43
+hf_synth-dec-s500_ur,hadi,dict_06,dictation,14.42,0.62,0.043,,0.5,Gaviscon,1.0,,2,3,1.0,1,Gravinate Mixtard,0.365
+hf_synth-dec-s500_ur,hadi,dict_07,dictation,17.66,0.65,0.037,,0.5,Cough syrup,1.0,,1,1,1.0,0,,0.34
+hf_synth-dec-s500_ur,hadi,dict_08,dictation,13.82,0.61,0.044,,0.0,Cipro,1.0,,4,5,1.0,1,Plaquenil Synflex,0.209
+hf_synth-dec-s500_ur,hadi,dict_09,dictation,14.25,0.59,0.041,,1.0,,1.0,,2,4,1.0,2,Dapagliflozin,0.383
+hf_synth-dec-s500_ur,hadi,dict_10,dictation,15.7,0.62,0.039,,1.0,,1.0,,5,4,0.8,0,,0.266
+hf_synth-dec-s500_ur,hadi,own_01,free_dictation,12.54,6.64,0.529,,1.0,,1.0,,2,3,1.0,1,Zantac,0.531
+hf_synth-dec-s500_ur,hadi,own_02,free_dictation,16.04,0.62,0.039,,1.0,,1.0,,3,2,0.667,0,,0.416
+hf_synth-dec-s500_ur,hadi,own_03,free_dictation,14.93,0.57,0.038,,1.0,,0.667,90,2,2,1.0,0,Nexum Serc Valsartan,0.474
+hf_synth-dec_ur,hadi,dict_01,dictation,20.57,0.97,0.047,,0.5,Panadol,1.0,,2,4,1.0,2,Haldol Rocephin Telfast,0.321
+hf_synth-dec_ur,hadi,dict_02,dictation,18.09,0.67,0.037,,0.667,Panadol,1.0,,3,3,1.0,0,Serc,0.272
+hf_synth-dec_ur,hadi,dict_03,dictation,17.32,2.55,0.147,,0.0,ORS Flagyl,1.0,,1,1,1.0,0,Duphaston Lyrica,0.556
+hf_synth-dec_ur,hadi,dict_04,dictation,13.74,0.59,0.043,,0.0,Norvasc,0.5,160 100,2,4,1.0,2,Novorapid,0.485
+hf_synth-dec_ur,hadi,dict_05,dictation,17.66,0.74,0.042,,1.0,,0.4,180 260 1000,1,4,1.0,3,Paracetamol,0.547
+hf_synth-dec_ur,hadi,dict_06,dictation,14.42,2.48,0.172,,0.5,Gaviscon,1.0,,2,3,1.0,1,Gravinate,0.392
+hf_synth-dec_ur,hadi,dict_07,dictation,17.66,0.78,0.044,,0.5,Cough syrup,1.0,,1,3,1.0,2,Doxycycline Warfarin,0.443
+hf_synth-dec_ur,hadi,dict_08,dictation,13.82,0.62,0.045,,1.0,,1.0,,4,4,1.0,0,Plaquenil,0.253
+hf_synth-dec_ur,hadi,dict_09,dictation,14.25,0.62,0.044,,1.0,,1.0,,2,4,1.0,2,Azithromycin Fasigyn Risek,0.432
+hf_synth-dec_ur,hadi,dict_10,dictation,15.7,0.62,0.039,,0.0,Zyrtec Augmentin Penicillin,1.0,,5,1,0.2,0,Fucidin,0.544
+hf_synth-dec_ur,hadi,own_01,free_dictation,12.54,10.2,0.813,,0.0,Panadol,1.0,,2,2,1.0,0,Serc Warfarin,0.625
+hf_synth-dec_ur,hadi,own_02,free_dictation,16.04,2.24,0.14,,1.0,,1.0,,3,2,0.667,0,Malarone Warfarin Zovirax,0.662
+hf_synth-dec_ur,hadi,own_03,free_dictation,14.93,0.46,0.031,,1.0,,1.0,,2,2,1.0,0,Valsartan,0.474
+hf_synth-full-s250_ur,hadi,dict_01,dictation,20.57,1.21,0.059,,1.0,,0.5,500,2,4,1.0,2,,0.274
+hf_synth-full-s250_ur,hadi,dict_02,dictation,18.09,0.63,0.035,,1.0,,1.0,,3,3,1.0,0,Serc,0.175
+hf_synth-full-s250_ur,hadi,dict_03,dictation,17.32,3.33,0.192,,0.0,ORS Flagyl,0.5,40,1,2,1.0,1,Dulcolax,0.394
+hf_synth-full-s250_ur,hadi,dict_04,dictation,13.74,0.6,0.044,,0.0,Norvasc,0.5,160 100,2,2,1.0,0,Novorapid Zovirax,0.394
+hf_synth-full-s250_ur,hadi,dict_05,dictation,17.66,0.65,0.037,,1.0,,0.4,180 260 1000,1,2,1.0,1,,0.267
+hf_synth-full-s250_ur,hadi,dict_06,dictation,14.42,0.65,0.045,,1.0,,1.0,,2,2,1.0,0,Mixtard,0.203
+hf_synth-full-s250_ur,hadi,dict_07,dictation,17.66,0.55,0.031,,0.5,Cough syrup,1.0,,1,1,1.0,0,,0.216
+hf_synth-full-s250_ur,hadi,dict_08,dictation,13.82,0.55,0.04,,1.0,,1.0,,4,4,1.0,0,Plaquenil,0.187
+hf_synth-full-s250_ur,hadi,dict_09,dictation,14.25,2.82,0.198,,1.0,,1.0,,2,2,1.0,0,,0.457
+hf_synth-full-s250_ur,hadi,dict_10,dictation,15.7,0.62,0.04,,0.667,Augmentin,0.0,38,5,5,1.0,0,,0.215
+hf_synth-full-s250_ur,hadi,own_01,free_dictation,12.54,0.46,0.037,,0.0,Panadol,1.0,,2,2,1.0,0,Serc,0.344
+hf_synth-full-s250_ur,hadi,own_02,free_dictation,16.04,0.54,0.033,,1.0,,1.0,,3,4,1.0,1,,0.208
+hf_synth-full-s250_ur,hadi,own_03,free_dictation,14.93,0.51,0.034,,1.0,,1.0,,2,1,0.5,0,,0.342
+hf_synth-full-s500_ur,hadi,dict_01,dictation,20.57,1.02,0.049,,1.0,,0.5,500,2,3,1.0,1,,0.292
+hf_synth-full-s500_ur,hadi,dict_02,dictation,18.09,2.95,0.163,,0.667,Panadol,0.5,95,3,3,1.0,0,Lopressor Xanax,0.35
+hf_synth-full-s500_ur,hadi,dict_03,dictation,17.32,0.7,0.04,,0.0,ORS Flagyl,0.5,400,1,2,1.0,1,Novorapid,0.354
+hf_synth-full-s500_ur,hadi,dict_04,dictation,13.74,0.61,0.044,,0.0,Norvasc,0.75,160,2,2,1.0,0,Novorapid,0.364
+hf_synth-full-s500_ur,hadi,dict_05,dictation,17.66,8.21,0.465,,0.0,Glucophage,0.4,260 500 1000,1,0,0.0,0,Mixtard,0.593
+hf_synth-full-s500_ur,hadi,dict_06,dictation,14.42,0.67,0.046,,1.0,,1.0,,2,3,1.0,1,Mixtard,0.216
+hf_synth-full-s500_ur,hadi,dict_07,dictation,17.66,0.72,0.041,,0.5,Cough syrup,1.0,,1,2,1.0,1,,0.268
+hf_synth-full-s500_ur,hadi,dict_08,dictation,13.82,0.6,0.043,,1.0,,1.0,,4,4,1.0,0,Plaquenil,0.22
+hf_synth-full-s500_ur,hadi,dict_09,dictation,14.25,0.63,0.044,,1.0,,1.0,,2,3,1.0,1,,0.395
+hf_synth-full-s500_ur,hadi,dict_10,dictation,15.7,0.68,0.043,,0.667,Augmentin,0.0,38,5,5,1.0,0,,0.215
+hf_synth-full-s500_ur,hadi,own_01,free_dictation,12.54,2.85,0.227,,0.0,Panadol,1.0,,2,2,1.0,0,Dermovate,0.469
+hf_synth-full-s500_ur,hadi,own_02,free_dictation,16.04,0.55,0.034,,1.0,,1.0,,3,3,1.0,0,Avelox,0.325
+hf_synth-full-s500_ur,hadi,own_03,free_dictation,14.93,0.48,0.032,,1.0,,1.0,,2,2,1.0,0,Nexum,0.553
+hf_synth-full_ur,hadi,dict_01,dictation,20.57,1.17,0.057,,1.0,,0.5,500,2,5,1.0,3,Tavanic Ventolin,0.34
+hf_synth-full_ur,hadi,dict_02,dictation,18.09,0.68,0.038,,0.667,Panadol,0.5,95,3,3,1.0,0,Plavix Xanax,0.33
+hf_synth-full_ur,hadi,dict_03,dictation,17.32,5.25,0.303,,0.5,ORS,0.5,40,1,2,1.0,1,Cozaar Daonil,0.465
+hf_synth-full_ur,hadi,dict_04,dictation,13.74,0.59,0.043,,0.0,Norvasc,0.5,160 100,2,2,1.0,0,Novorapid,0.379
+hf_synth-full_ur,hadi,dict_05,dictation,17.66,3.28,0.186,,1.0,,0.6,260 500,1,2,1.0,1,Cac-1000,0.419
+hf_synth-full_ur,hadi,dict_06,dictation,14.42,3.1,0.215,,0.5,Gaviscon,1.0,,2,2,1.0,0,Keppra,0.351
+hf_synth-full_ur,hadi,dict_07,dictation,17.66,0.69,0.039,,0.0,Augmentin Cough syrup,0.5,625,1,1,1.0,0,Lasix,0.32
+hf_synth-full_ur,hadi,dict_08,dictation,13.82,0.62,0.045,,1.0,,1.0,,4,4,1.0,0,Plaquenil,0.154
+hf_synth-full_ur,hadi,dict_09,dictation,14.25,0.72,0.05,,1.0,,1.0,,2,3,1.0,1,,0.457
+hf_synth-full_ur,hadi,dict_10,dictation,15.7,0.68,0.043,,1.0,,0.0,38,5,5,1.0,0,Serc,0.278
+hf_synth-full_ur,hadi,own_01,free_dictation,12.54,3.29,0.262,,0.0,Panadol,1.0,,2,3,1.0,1,Dexamethasone Sunny D Zantac,0.594
+hf_synth-full_ur,hadi,own_02,free_dictation,16.04,6.85,0.427,,1.0,,1.0,,3,3,1.0,0,Neurobion Zoloft,0.506
+hf_synth-full_ur,hadi,own_03,free_dictation,14.93,0.46,0.031,,1.0,,1.0,,2,2,1.0,0,ORS,0.474

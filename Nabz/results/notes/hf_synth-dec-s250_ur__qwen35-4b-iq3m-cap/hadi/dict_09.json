@@ -1,0 +1,78 @@
+{
+  "transcript": "Mbarn, 22 saal. raat ko saansi dard hai. Fucine se ceti hai. Ghabrahat bhi nahi hai. Bukhar nahi. Ventolin nahi lal hai. Rivotal do puff din mein 4 chamach zyada nahi. raat ko. Zyrtec ek goli dolorin. Come back.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"wheezing\", \"duration\": \"nighttime\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"nighttime\"}\n  ],\n  \"negatives\": [\n    \"fear/anxiety\",\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Fucine\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take as needed at night\"},\n    {\"name\": \"Ventolin\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take as needed at night\"},\n    {\"name\": \"Rivotal\", \"strength\": null, \"dose\": \"4\", \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": \"limit to less than 4 cups\"},\n    {\"name\": \"Zyrtec\", \"strength\": null, \"dose\": \"1\", \"frequency\": null, \"duration\": null, \"instructions\": \"take as needed\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return if symptoms worsen\"\n  ],\n  \"follow_up\": \"return\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "wheezing",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "nighttime"
+      }
+    ],
+    "negatives": [
+      "fear/anxiety",
+      "fever",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Fucine",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed at night"
+      },
+      {
+        "name": "Ventolin",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed at night"
+      },
+      {
+        "name": "Rivotal",
+        "strength": null,
+        "dose": "4",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "limit to less than 4 cups"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": null,
+        "dose": "1",
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "return if symptoms worsen"
+    ],
+    "follow_up": "return"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 95,
+    "prompt_ms": 71.645,
+    "prompt_per_token_ms": 0.754157894736842,
+    "prompt_per_second": 1325.9822737106567,
+    "predicted_n": 350,
+    "predicted_ms": 4364.891,
+    "predicted_per_token_ms": 12.506851002865329,
+    "predicted_per_second": 79.95617759985302
+  }
+}

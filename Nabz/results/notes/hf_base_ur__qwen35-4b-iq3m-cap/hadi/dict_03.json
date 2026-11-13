@@ -1,0 +1,41 @@
+{
+  "transcript": "مر چارے سال کل رات لے دست لگے ہیں اٹنوں دفع ہو چکے ہیں دست میں حون نہیں ہے جس میں پانی کی قمی ہے ار دست کے بعد ورس کے ایک گلاث رجل چار سدین میں ٹین بار پاچھ دین دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"hand pain\", \"duration\": \"past 40 days\"},\n    {\"symptom\": \"hand swelling\", \"duration\": \"past 40 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Rest the hand.\"\n  ],\n  \"follow_up\": \"None\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hand pain",
+        "duration": "past 40 days"
+      },
+      {
+        "symptom": "hand swelling",
+        "duration": "past 40 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Rest the hand."
+    ],
+    "follow_up": "None"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 78.406,
+    "prompt_per_token_ms": 0.768686274509804,
+    "prompt_per_second": 1300.9208478942937,
+    "predicted_n": 156,
+    "predicted_ms": 1880.849,
+    "predicted_per_token_ms": 12.134509677419354,
+    "predicted_per_second": 82.40959268925894
+  }
+}

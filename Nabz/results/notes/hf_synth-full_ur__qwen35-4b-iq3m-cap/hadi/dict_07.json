@@ -1,0 +1,57 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi hai. Pila balgham ho raha. Lft hai. Kharab hai. Saans nahi. HB 9. Seene mein dard hai. HB 11. Lasix 25 din mein do baar, 5 din. Halki warzish rozana. Do chamach din mein teen baar. Cigarette band karni hai. Cbc ka test karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"sputum production\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"hemoglobin 9 g/dL\",\n    \"hemoglobin 11 g/dL\"\n  ],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Lasix 25 mg twice daily for 5 days\",\n    \"Light exercise daily\",\n    \"Take two spoons three times daily\",\n    \"Stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "sputum production",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "hemoglobin 9 g/dL",
+      "hemoglobin 11 g/dL"
+    ],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Lasix 25 mg twice daily for 5 days",
+      "Light exercise daily",
+      "Take two spoons three times daily",
+      "Stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 122,
+    "prompt_ms": 78.281,
+    "prompt_per_token_ms": 0.6416475409836067,
+    "prompt_per_second": 1558.488011139357,
+    "predicted_n": 254,
+    "predicted_ms": 3071.249,
+    "predicted_per_token_ms": 12.139324110671936,
+    "predicted_per_second": 82.37690919883083
+  }
+}

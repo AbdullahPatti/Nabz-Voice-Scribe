@@ -1,0 +1,51 @@
+{
+  "transcript": "Khatoon, 30 saal. Pet qabz har jalan hoti hai. Khane baad zyada khane dikhayein. Dicat lagatar aadhi aadhi nahi. Ulti nahi. Vazan kam nahi waqt. Risek 20 subah khali pait. Doft 3 raat ko. Gaviscon ke do chamach chakkar. Mixtard kam karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"abdominal pain\", \"duration\": \"continuous\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Gaviscon\",\n      \"strength\": null,\n      \"dose\": \"2 spoons\",\n      \"frequency\": \"after meals\",\"duration\": null,\n      \"instructions\": \"take after meals\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Mixtard\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"eat less after meals\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "continuous"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Gaviscon",
+        "strength": null,
+        "dose": "2 spoons",
+        "frequency": "after meals",
+        "duration": null,
+        "instructions": "take after meals"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Mixtard"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "eat less after meals"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 76.63,
+    "prompt_per_token_ms": 0.6781415929203539,
+    "prompt_per_second": 1474.6182957066424,
+    "predicted_n": 216,
+    "predicted_ms": 2669.416,
+    "predicted_per_token_ms": 12.415888372093024,
+    "predicted_per_second": 80.54196123796366
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "transcript": "Marein, 35 saal. Sarthroxol fever for 2 days. Khansi nahi hai. Koi saans kamar sar nahi hai. Panadol jab pi fever ho. Warms hot water 15 din mein teen baar. Agar aayein karein. Avelox aadhi nahi waqt. Azithromyrax mein wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"chest tightness\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take when fever occurs\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Avelox\",\n    \"Azithromycin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take warm water wash 3 times a day\",\n    \"Return if symptoms recur\"\n  ],\n  \"follow_up\": \"Return if symptoms recur\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "chest tightness"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take when fever occurs"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Avelox",
+      "Azithromycin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Take warm water wash 3 times a day",
+      "Return if symptoms recur"
+    ],
+    "follow_up": "Return if symptoms recur"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 76.409,
+    "prompt_per_token_ms": 0.7418349514563107,
+    "prompt_per_second": 1348.0087424256303,
+    "predicted_n": 227,
+    "predicted_ms": 2864.025,
+    "predicted_per_token_ms": 12.672676991150443,
+    "predicted_per_second": 78.90992571643055
+  }
+}

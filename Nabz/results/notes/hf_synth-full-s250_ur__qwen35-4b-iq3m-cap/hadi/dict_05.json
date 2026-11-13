@@ -1,0 +1,63 @@
+{
+  "transcript": "Mard, 50 saal. Sugar Kalpurana. Mareez nahar mun. Sugar 111. Cbc khane ke baad. 200 saal. Parliploprofage 500 din mein do baar, lena. HB 7. Glucophage 7 din mein do baar. Cbc khane ke saal. 3 meinye wala subah test karwana hai. Paramix sun ho na nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"sugar\", \"duration\": \"kalpurana\"}\n  ],\n  \"negatives\": [\n    \"bukhar\",\n    \"ulti\"\n  ],\n  \"findings\": [\n    \"sugar_level_111\",\n    \"h_b_7\",\n    \"cbc_after_nahar_mun\"\n  ],\n  \"allergies\": [\n    \"paramix\"\n  ],\n  \"medications\": [\n    {\"name\": \"Parliploprofage\", \"strength\": \"500\", \"dose\": \"din mein do baar\", \"frequency\": \"din mein do baar\", \"duration\": null, \"instructions\": \"subah test karwana hai\"},\n    {\"name\": \"Glucophage\", \"strength\": \"7\", \"dose\": \"din mein do baar\", \"frequency\": \"din mein do baar\", \"duration\": null, \"instructions\": \"subah test karwana hai\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"cbc\"\n  ],\n  \"advice\": [],\n  \"follow_up\": \"3 meinye\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sugar",
+        "duration": "kalpurana"
+      }
+    ],
+    "negatives": [
+      "bukhar",
+      "ulti"
+    ],
+    "findings": [
+      "sugar_level_111",
+      "h_b_7",
+      "cbc_after_nahar_mun"
+    ],
+    "allergies": [
+      "paramix"
+    ],
+    "medications": [
+      {
+        "name": "Parliploprofage",
+        "strength": "500",
+        "dose": "din mein do baar",
+        "frequency": "din mein do baar",
+        "duration": null,
+        "instructions": "subah test karwana hai"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "7",
+        "dose": "din mein do baar",
+        "frequency": "din mein do baar",
+        "duration": null,
+        "instructions": "subah test karwana hai"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "cbc"
+    ],
+    "advice": [],
+    "follow_up": "3 meinye"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 121,
+    "prompt_ms": 79.92,
+    "prompt_per_token_ms": 0.660495867768595,
+    "prompt_per_second": 1514.0140140140138,
+    "predicted_n": 305,
+    "predicted_ms": 3844.703,
+    "predicted_per_token_ms": 12.647049342105262,
+    "predicted_per_second": 79.06982672003534
+  }
+}

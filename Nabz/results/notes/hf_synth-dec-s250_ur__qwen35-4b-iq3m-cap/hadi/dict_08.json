@@ -1,0 +1,52 @@
+{
+  "transcript": "Khatoon, 26 saal. 2 din se peshab mein jalan hai. HB par baad raat hai. Bukhar nahi. Kamarim dard nahi. Plaquenet nahi hai. Cipro 500 din mein do baar, 3 din. Paani zyada piyein. Peshab ko, test karwa lein. 3 din mein farq na pare to do baar, raat ko.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"dysuria\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"lower abdominal pain\",\n    \"plaque\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Cipro\",\n      \"strength\": \"500\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"3 days\",\"duration\": \"3 days\",\"instructions\": \"drink plenty of water\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"If no improvement in 3 days, repeat test and continue medication at night.\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "lower abdominal pain",
+      "plaque"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Cipro",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "drink plenty of water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "If no improvement in 3 days, repeat test and continue medication at night."
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 81.388,
+    "prompt_per_token_ms": 0.7077217391304348,
+    "prompt_per_second": 1412.9847151914287,
+    "predicted_n": 241,
+    "predicted_ms": 3137.74,
+    "predicted_per_token_ms": 13.073916666666666,
+    "predicted_per_second": 76.48817301624736
+  }
+}

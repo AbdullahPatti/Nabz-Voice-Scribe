@@ -1,0 +1,65 @@
+{
+  "transcript": "Mard, 22 saal. 6 raat ko. Saansi ek khali. Fasine se ciproxychlorothiazide hai. Kaafi raha. Thand liye bukhar ho nahi. Ventolin nahi lal raat. Flucanolol do puff din mein 4 chamach zyada nahi. raat ko. Zyrtec ek goli do goli montelukin subah shaam.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"6 nights\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ciprofloxacin\", \"strength\": \"500\", \"dose\": \"not specified\", \"frequency\": \"not specified\", \"duration\": \"not specified\", \"instructions\": \"take with food\"},\n    {\"name\": \"Hydrochlorothiazide\", \"strength\": \"25\", \"dose\": \"not specified\", \"frequency\": \"not specified\", \"duration\": \"not specified\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Ventolin\",\n    \"Flucanolol\",\n    \"Zyrtec\",\n    \"Montelukast\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Avoid taking Ventolin\",\n    \"Avoid taking Flucanolol\",\n    \"Avoid taking Zyrtec\",\n    \"Avoid taking Montelukast\"\n  ],\n  \"follow_up\": \"not specified\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "6 nights"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "not specified",
+        "frequency": "not specified",
+        "duration": "not specified",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "strength": "25",
+        "dose": "not specified",
+        "frequency": "not specified",
+        "duration": "not specified",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ventolin",
+      "Flucanolol",
+      "Zyrtec",
+      "Montelukast"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Avoid taking Ventolin",
+      "Avoid taking Flucanolol",
+      "Avoid taking Zyrtec",
+      "Avoid taking Montelukast"
+    ],
+    "follow_up": "not specified"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 110,
+    "prompt_ms": 75.81,
+    "prompt_per_token_ms": 0.6891818181818182,
+    "prompt_per_second": 1450.9959108297057,
+    "predicted_n": 316,
+    "predicted_ms": 3869.857,
+    "predicted_per_token_ms": 12.285260317460317,
+    "predicted_per_second": 81.39835658010102
+  }
+}

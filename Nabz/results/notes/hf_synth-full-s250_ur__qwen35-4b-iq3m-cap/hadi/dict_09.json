@@ -1,0 +1,83 @@
+{
+  "transcript": "Mbaraat, 22 saal. Raat ko saansi. Tac-Cfx4 se cittriki waqt. Zastix hai. Cbc kb raat hoondi hai. Bukhar nahi. Ventolin hai leir. Rizad-Balto paaf din mein 4 damas jalan nahi. Raat ko. Zyrtec ek goli do lontum hai. Subahem se baad hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"nighttime\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Tac-Cfx4\", \"strength\": \"4\", \"dose\": \"as needed\", \"frequency\": \"at night\", \"duration\": \"continuous\", \"instructions\": \"take with food\"},\n    {\"name\": \"Zastix\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": null},\n    {\"name\": \"Ventolin\", \"strength\": null, \"dose\": null, \"frequency\": \"as needed\", \"duration\": null, \"instructions\": null},\n    {\"name\": \"Rizad-Balto\", \"strength\": null, \"dose\": \"4 puffs\", \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": \"take at night\"},\n    {\"name\": \"Zyrtec\", \"strength\": null, \"dose\": \"one tablet\", \"frequency\": \"at night\", \"duration\": null, \"instructions\": null}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Take Zyrtec at night.\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "nighttime"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Tac-Cfx4",
+        "strength": "4",
+        "dose": "as needed",
+        "frequency": "at night",
+        "duration": "continuous",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Zastix",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "Ventolin",
+        "strength": null,
+        "dose": null,
+        "frequency": "as needed",
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "Rizad-Balto",
+        "strength": null,
+        "dose": "4 puffs",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "take at night"
+      },
+      {
+        "name": "Zyrtec",
+        "strength": null,
+        "dose": "one tablet",
+        "frequency": "at night",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Take Zyrtec at night."
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 77.417,
+    "prompt_per_token_ms": 0.7235233644859813,
+    "prompt_per_second": 1382.1253729800947,
+    "predicted_n": 368,
+    "predicted_ms": 4482.264,
+    "predicted_per_token_ms": 12.21325340599455,
+    "predicted_per_second": 81.87826509103435
+  }
+}

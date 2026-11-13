@@ -1,0 +1,61 @@
+{
+  "transcript": "Mard, 50 saal. Sugar Kafso raha. Malzye neharmo, Sugar 180. Cac-2 do sar saad. Pairloric bukhar ho. Ferrous paanch ml din mein do baar. Levetiracetate bukhar ho, fever 75 din. Mixtard hai. Mixtard hai. Mixtard hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"},\n    {\"symptom\": \"cough\", \"duration\": \"2 days\"},\n    {\"symptom\": \"chest tightness\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"blood sugar 180\",\n    \"chest x-ray: bilateral infiltrates\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ferrous\", \"strength\": \"5ml\", \"dose\": \"twice daily\", \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": null}\n  ],\n  \"drugs_to_avoid\": [\n    \"Levetiracetam\"\n  ],\n  \"investigations_ordered\": [\n    \"blood sugar\"\n  ],\n  \"advice\": [\n    \"Diabetes history\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "cough",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "chest tightness",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "blood sugar 180",
+      "chest x-ray: bilateral infiltrates"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ferrous",
+        "strength": "5ml",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Levetiracetam"
+    ],
+    "investigations_ordered": [
+      "blood sugar"
+    ],
+    "advice": [
+      "Diabetes history"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 98,
+    "prompt_ms": 73.763,
+    "prompt_per_token_ms": 0.7526836734693878,
+    "prompt_per_second": 1328.579369060369,
+    "predicted_n": 258,
+    "predicted_ms": 3304.122,
+    "predicted_per_token_ms": 12.856505836575876,
+    "predicted_per_second": 77.78163154992461
+  }
+}

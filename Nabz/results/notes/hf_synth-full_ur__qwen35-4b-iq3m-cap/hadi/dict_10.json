@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 80 saal. Serc har aana hai. Koi jalan aayein. Fucicort twice se koi raat nahi. HB 9. Koi saal. Dapaglifloxac nahi. Bukhar nahi. Khansi nahi. Penicillin se allergy hai. Is liye augmentin nahi deni. Zyrtec aadhi goli raat ko. Dastin ek mahina baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 80\n  },\n  \"complaints\": [\n    {\"symptom\": \"itching\", \"duration\": \"continuous\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"penicillin allergy\"\n  ],\n  \"findings\": [\n    \"Hb 9\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\"name\": \"Zyrtec\", \"strength\": \"half tablet\", \"dose\": \"once at night\", \"frequency\": \"as prescribed\", \"duration\": \"1 month\", \"instructions\": \"return in 1 month\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Dapaglifloxac\",\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 80
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "continuous"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "penicillin allergy"
+    ],
+    "findings": [
+      "Hb 9"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half tablet",
+        "dose": "once at night",
+        "frequency": "as prescribed",
+        "duration": "1 month",
+        "instructions": "return in 1 month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Dapaglifloxac",
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 122,
+    "prompt_ms": 80.236,
+    "prompt_per_token_ms": 0.657672131147541,
+    "prompt_per_second": 1520.514482277282,
+    "predicted_n": 240,
+    "predicted_ms": 3032.587,
+    "predicted_per_token_ms": 12.688648535564854,
+    "predicted_per_second": 78.81059966292806
+  }
+}

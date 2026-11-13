@@ -1,0 +1,80 @@
+{
+  "transcript": "Mard, 44 saal. Kal raat se dast hai. 8 mahine da fahor hai. Dast nahi hai. Jism par daane ek mahina hai. HB 10. Cefspanol ek mahina. HB 10. Cefspanol 400 din mein teen baar. 5 din do doodh aur khali pait. Lyrica zyada piyein. Daonil band karwa subah hai. Kamar ho raha. Tryptanol paanch ml din mein ek baar.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 44\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"skin rash\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"hemoglobin 10\",\n    \"skin rash on body\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Cefspanol\", \"strength\": \"400\", \"dose\": \"3 times daily\", \"frequency\": \"5 days\", \"duration\": \"1 month\", \"instructions\": \"on empty stomach with milk\"},\n    {\"name\": \"Lyrica\", \"strength\": \"\", \"dose\": \"increase dose\", \"frequency\": \"\",\"duration\": \"\",\"instructions\": \"\"},\n    {\"name\": \"Daonil\", \"strength\": \"\", \"dose\": \"\", \"frequency\": \"\", \"duration\": \"\", \"instructions\": \"stop in the morning\"},\n    {\"name\": \"Tryptanol\", \"strength\": \"5ml\", \"dose\": \"\", \"frequency\": \"once daily\", \"duration\": \"\", \"instructions\": \"\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Daonil\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": \"\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 44
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "skin rash",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "hemoglobin 10",
+      "skin rash on body"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Cefspanol",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "5 days",
+        "duration": "1 month",
+        "instructions": "on empty stomach with milk"
+      },
+      {
+        "name": "Lyrica",
+        "strength": "",
+        "dose": "increase dose",
+        "frequency": "",
+        "duration": "",
+        "instructions": ""
+      },
+      {
+        "name": "Daonil",
+        "strength": "",
+        "dose": "",
+        "frequency": "",
+        "duration": "",
+        "instructions": "stop in the morning"
+      },
+      {
+        "name": "Tryptanol",
+        "strength": "5ml",
+        "dose": "",
+        "frequency": "once daily",
+        "duration": "",
+        "instructions": ""
+      }
+    ],
+    "drugs_to_avoid": [
+      "Daonil"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": ""
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 137,
+    "prompt_ms": 90.429,
+    "prompt_per_token_ms": 0.6600656934306569,
+    "prompt_per_second": 1515.0007187959613,
+    "predicted_n": 344,
+    "predicted_ms": 4346.207,
+    "predicted_per_token_ms": 12.671157434402334,
+    "predicted_per_second": 78.91938879119195
+  }
+}

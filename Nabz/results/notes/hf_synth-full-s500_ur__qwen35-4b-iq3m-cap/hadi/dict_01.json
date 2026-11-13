@@ -1,0 +1,75 @@
+{
+  "transcript": "Mareez mard, 28 saal. 8 din se test bhook har aana. Sar datar kamzori bhi hai. Kaan dard hai. Rahat nahi. Bhook thand lagi. Gliclai ulti nahi hai. Dast bhi nahi hai. Typhoid ka test twice a day. Azomax paanch ml rozana. Renqually 7 din. Paradol do goli din mein teen baar. jab bukhar ho. 3 din baad dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\"symptom\": \"testicular pain\", \"duration\": \"8 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"8 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"8 days\"},\n    {\"symptom\": \"ear pain\", \"duration\": \"8 days\"},\n    {\"symptom\": \"feeling of cold\", \"duration\": \"8 days\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Azomax\", \"strength\": \"5ml\", \"dose\": \"once daily\", \"frequency\": \"7 days\", \"duration\": \"7 days\", \"instructions\": \"continue\"},\n    {\"name\": \"Paradol\", \"strength\": \"\", \"dose\": \"3 times daily\", \"frequency\": \"as needed\", \"duration\": \"\", \"instructions\": \"for fever\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Typhoid test twice a day\"\n  ],\n  \"advice\": [\n    \"Return after 3 days\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "testicular pain",
+        "duration": "8 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "8 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "8 days"
+      },
+      {
+        "symptom": "ear pain",
+        "duration": "8 days"
+      },
+      {
+        "symptom": "feeling of cold",
+        "duration": "8 days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Azomax",
+        "strength": "5ml",
+        "dose": "once daily",
+        "frequency": "7 days",
+        "duration": "7 days",
+        "instructions": "continue"
+      },
+      {
+        "name": "Paradol",
+        "strength": "",
+        "dose": "3 times daily",
+        "frequency": "as needed",
+        "duration": "",
+        "instructions": "for fever"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Typhoid test twice a day"
+    ],
+    "advice": [
+      "Return after 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 135,
+    "prompt_ms": 88.334,
+    "prompt_per_token_ms": 0.654325925925926,
+    "prompt_per_second": 1528.2903525256413,
+    "predicted_n": 325,
+    "predicted_ms": 3999.363,
+    "predicted_per_token_ms": 12.343712962962963,
+    "predicted_per_second": 81.01290130453275
+  }
+}

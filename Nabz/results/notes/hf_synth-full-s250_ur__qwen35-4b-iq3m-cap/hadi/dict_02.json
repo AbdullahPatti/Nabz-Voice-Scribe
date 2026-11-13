@@ -1,0 +1,60 @@
+{
+  "transcript": "Khatoon, 34 saal. 3 din se bukhar. Jismat 10 do raat khoon ke piye dard. Platelets 95 hazaar hai. Kaafi se khoon nahi yara. Serc paradol do goli din mein teen baar. Profen bilkul nahi leni. Disprin bhi nahi paani zyada piye. Calcium ka test bukharwa parwana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"abdominal pain\", \"duration\": \"10-12 hours\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no dysuria\"\n  ],\n  \"findings\": [\n    \"platelets: 95,000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Serc\", \"strength\": \"paradol\", \"dose\": \"3 times daily\", \"frequency\": \"3 times/day\", \"duration\": null, \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Profen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"calcium test\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": \"calcium test pending\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "10-12 hours"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no dysuria"
+    ],
+    "findings": [
+      "platelets: 95,000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Serc",
+        "strength": "paradol",
+        "dose": "3 times daily",
+        "frequency": "3 times/day",
+        "duration": null,
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Profen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "calcium test"
+    ],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "calcium test pending"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 79.6,
+    "prompt_per_token_ms": 0.7044247787610619,
+    "prompt_per_second": 1419.5979899497488,
+    "predicted_n": 266,
+    "predicted_ms": 3389.692,
+    "predicted_per_token_ms": 12.791290566037736,
+    "predicted_per_second": 78.17819436102158
+  }
+}

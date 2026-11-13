@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 26 saal. 2 din se peshab mein jalan hai. HB 12. Bukhar nahi. Kamarim dard nahi. Plaquenil nahi hai. Sipro 500 din mein do baar, 3 din. Paani zyada piyein. Peshab ka test karwa lein. 3 din mein farq na pareta dobara hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"dysuria\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"lumbar pain\"\n  ],\n  \"findings\": [\n    \"Hb 12\"\n  ],\n  \"allergies\": [\n    \"Plaquenil\"\n  ],\n  \"medications\": [\n    {\"name\": \"Ciprofloxacin\", \"strength\": \"500\", \"dose\": \"twice daily\", \"frequency\": \"3 days\", \"duration\": \"3 days\", \"instructions\": \"drink plenty of water\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"If no improvement in 3 days, return.\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "lumbar pain"
+    ],
+    "findings": [
+      "Hb 12"
+    ],
+    "allergies": [
+      "Plaquenil"
+    ],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "drink plenty of water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "If no improvement in 3 days, return."
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 75.726,
+    "prompt_per_token_ms": 0.7011666666666666,
+    "prompt_per_second": 1426.1944378416924,
+    "predicted_n": 246,
+    "predicted_ms": 3116.353,
+    "predicted_per_token_ms": 12.719808163265306,
+    "predicted_per_second": 78.61753787199332
+  }
+}

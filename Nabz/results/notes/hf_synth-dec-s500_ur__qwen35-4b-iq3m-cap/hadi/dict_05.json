@@ -1,0 +1,72 @@
+{
+  "transcript": "Mard, 50 saal. Sugar Kaafi raha. Mareez nahar mun. Sugar 100. Aspirin khane ke baad. 200 saal. Pregliflozin 500 din mein do baar, lagatar. Glucophage 500 din mein do baar, lagatar. Glucophage harzaad din mein do baar. Cac-1000 ek mahina wa lal. Sugar test karwa lein. Pairon mein sun kharab nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"sugar control issues\", \"duration\": \"unknown\"}\n  ],\n  \"negatives\": [\n    \"no foot pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Aspirin\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take after meals\"},\n    {\"name\": \"Pregliflozin\", \"strength\": \"500\", \"dose\": \"2\", \"frequency\": \"twice daily\", \"duration\": \"continuous\", \"instructions\": \"continue\"},\n    {\"name\": \"Glucophage\", \"strength\": \"500\", \"dose\": \"2\", \"frequency\": \"twice daily\", \"duration\": \"continuous\", \"instructions\": \"continue\"},\n    {\"name\": \"Glucophage\", \"strength\": \"500\", \"dose\": \"2\", \"frequency\": \"twice daily\", \"duration\": \"continuous\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"sugar test\"\n  ],\n  \"advice\": [],\n  \"follow_up\": \"sugar test pending\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sugar control issues",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no foot pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Aspirin",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take after meals"
+      },
+      {
+        "name": "Pregliflozin",
+        "strength": "500",
+        "dose": "2",
+        "frequency": "twice daily",
+        "duration": "continuous",
+        "instructions": "continue"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "2",
+        "frequency": "twice daily",
+        "duration": "continuous",
+        "instructions": "continue"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "500",
+        "dose": "2",
+        "frequency": "twice daily",
+        "duration": "continuous",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "sugar test"
+    ],
+    "advice": [],
+    "follow_up": "sugar test pending"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 133,
+    "prompt_ms": 92.241,
+    "prompt_per_token_ms": 0.6935413533834587,
+    "prompt_per_second": 1441.8750880844743,
+    "predicted_n": 327,
+    "predicted_ms": 4141.58,
+    "predicted_per_token_ms": 12.704233128834355,
+    "predicted_per_second": 78.71392077419729
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "transcript": "امرت وائش سال رات کو سانسی تکیف ارسی نیسے سیٹی کی عوااز آتی ہے کہ رات ہندی ہے وہ خار نہیں وانٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسے زیادہ نہیں رات کو زیٹیک ایک گولی دول اور دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 42\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"nighttime\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"nighttime\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take one tablet at night.\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 42
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "nighttime"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take one tablet at night."
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 139,
+    "prompt_ms": 91.872,
+    "prompt_per_token_ms": 0.6609496402877698,
+    "prompt_per_second": 1512.974573319401,
+    "predicted_n": 158,
+    "predicted_ms": 1996.772,
+    "predicted_per_token_ms": 12.718292993630573,
+    "predicted_per_second": 78.62690382276995
+  }
+}

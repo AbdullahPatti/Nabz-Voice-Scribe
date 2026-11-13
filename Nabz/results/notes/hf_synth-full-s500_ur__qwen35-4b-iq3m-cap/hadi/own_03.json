@@ -1,0 +1,50 @@
+{
+  "transcript": "Aurat, 45 saal. Shyam hai. HB 13. BP 140 over 90. Avecid nahi. Koi mastra nahi. HB 9. Ulti paradol jab zaroorat ko. Nexum kam karein. BP ek puff se baad. Fexil check up.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"Hemoglobin 13\",\n    \"Hemoglobin 9\",\n    \"Blood pressure 140 over 90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Nexum\",\n      \"strength\": \"as needed\",\n      \"dose\": \"reduce\",\"frequency\": \"as needed\",\"duration\": null,\"instructions\": \"reduce\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Fexil check up\"\n  ],\n  \"advice\": [\n    \"BP check after one puff\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [
+      "Hemoglobin 13",
+      "Hemoglobin 9",
+      "Blood pressure 140 over 90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Nexum",
+        "strength": "as needed",
+        "dose": "reduce",
+        "frequency": "as needed",
+        "duration": null,
+        "instructions": "reduce"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Fexil check up"
+    ],
+    "advice": [
+      "BP check after one puff"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 90,
+    "prompt_ms": 72.977,
+    "prompt_per_token_ms": 0.8108555555555556,
+    "prompt_per_second": 1233.2652753607301,
+    "predicted_n": 228,
+    "predicted_ms": 2852.367,
+    "predicted_per_token_ms": 12.565493392070485,
+    "predicted_per_second": 79.58302700879655
+  }
+}

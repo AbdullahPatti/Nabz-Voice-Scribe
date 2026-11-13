@@ -1,0 +1,47 @@
+{
+  "transcript": "Khatoon, 38 saal. Sarf warzish bilkul nahi. HB 5. Lft karwa lein. Fucidin 20 ek goli raat ko. Dastin ek mahina baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\"symptom\": \"exercise intolerance\", \"duration\": \"unknown\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Fucidin\", \"strength\": \"20\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily\", \"duration\": \"1 month\", \"instructions\": \"return in 1 month\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Hemoglobin (HB)\",\n    \"Liver Function Test (LFT)\"\n  ],\n  \"advice\": [],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "exercise intolerance",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Fucidin",
+        "strength": "20",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "1 month",
+        "instructions": "return in 1 month"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Hemoglobin (HB)",
+      "Liver Function Test (LFT)"
+    ],
+    "advice": [],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 72,
+    "prompt_ms": 68.619,
+    "prompt_per_token_ms": 0.9530416666666667,
+    "prompt_per_second": 1049.2720675031696,
+    "predicted_n": 201,
+    "predicted_ms": 2608.209,
+    "predicted_per_token_ms": 13.041044999999999,
+    "predicted_per_second": 76.68097150190036
+  }
+}

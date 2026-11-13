@@ -1,0 +1,72 @@
+{
+  "transcript": "Aurat, 60 years, 2 mahine. Sunny D pen rozana. Zantac goli na sujan hai. No fever. Dexamethasone do tapas aadhi khali pait. Halki hai. Cac-Syxtril do goli aur hai. Mebapas aadhi goli nahi.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"dyspepsia\", \"duration\": \"2 months\"}\n  ],\n  \"negatives\": [\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Sunny D\",\n      \"strength\": \"1\",\n      \"dose\": \"once daily\",\n      \"frequency\": \"daily\",\"duration\": \"2 months\",\"instructions\": \"as prescribed\"\n    },\n    {\n      \"name\": \"Zantac\",\n      \"strength\": \"1\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"as needed\",\n      \"duration\": \"as needed\",\n      \"instructions\": \"at bedtime\"\n    },\n    {\n      \"name\": \"Dexamethasone\",\n      \"strength\": \"0.5\",\n      \"dose\": \"half tablet\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"2 days\",\n      \"instructions\": \"on empty stomach\"\n    },\n    {\n      \"name\": \"Cac-Syxtril\",\n      \"strength\": \"1\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"as prescribed\",\n      \"instructions\": \"as prescribed\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Mebapas\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "dyspepsia",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Sunny D",
+        "strength": "1",
+        "dose": "once daily",
+        "frequency": "daily",
+        "duration": "2 months",
+        "instructions": "as prescribed"
+      },
+      {
+        "name": "Zantac",
+        "strength": "1",
+        "dose": "1 tablet",
+        "frequency": "as needed",
+        "duration": "as needed",
+        "instructions": "at bedtime"
+      },
+      {
+        "name": "Dexamethasone",
+        "strength": "0.5",
+        "dose": "half tablet",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "on empty stomach"
+      },
+      {
+        "name": "Cac-Syxtril",
+        "strength": "1",
+        "dose": "1 tablet",
+        "frequency": "twice daily",
+        "duration": "as prescribed",
+        "instructions": "as prescribed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Mebapas"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 91,
+    "prompt_ms": 73.111,
+    "prompt_per_token_ms": 0.8034175824175824,
+    "prompt_per_second": 1244.6827426789403,
+    "predicted_n": 393,
+    "predicted_ms": 4677.537,
+    "predicted_per_token_ms": 11.932492346938776,
+    "predicted_per_second": 83.80478871679689
+  }
+}

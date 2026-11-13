@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 38 saal. Sarf warzab hai. Aayein. Fucicort 20 paanch ml raat se koi raat se kharab nahi. Kharab nahi. Khansi nahi. Penicillin se allergy hai. Is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko. Dastin ek mahina baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 38\n  },\n  \"complaints\": [\n    {\"symptom\": \"skin rash\", \"duration\": \"5 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\"name\": \"Fucicort\", \"strength\": \"20mg\", \"dose\": \"5ml\", \"frequency\": \"nightly\", \"duration\": \"5 days\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Zyrtec half tablet at night\",\n    \"return in 1 month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 38
+    },
+    "complaints": [
+      {
+        "symptom": "skin rash",
+        "duration": "5 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Fucicort",
+        "strength": "20mg",
+        "dose": "5ml",
+        "frequency": "nightly",
+        "duration": "5 days",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Zyrtec half tablet at night",
+      "return in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 114,
+    "prompt_ms": 79.743,
+    "prompt_per_token_ms": 0.6995,
+    "prompt_per_second": 1429.5925661186564,
+    "predicted_n": 238,
+    "predicted_ms": 2970.557,
+    "predicted_per_token_ms": 12.533995780590717,
+    "predicted_per_second": 79.78301712439789
+  }
+}

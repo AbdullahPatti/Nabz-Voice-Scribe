@@ -1,0 +1,79 @@
+{
+  "transcript": "Mard, 44 saal. Kal raat le dast lagi hai. 8 raat neendafoxi hai. Dast mahul nahi hai. Jismatori paani ke kami hai. HB 10. Quadroxeras karein. Glastrofax lagazal 400 din mein teen baar, 5 din. Dulcolax parliogel cheezein band. Dagorbexaxab kam ho. Lactu foran wapas nahi.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 44\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"insomnia\", \"duration\": \"8 hours\"}\n  ],\n  \"negatives\": [\n    \"no abdominal pain\",\n    \"no dehydration\"\n  ],\n  \"findings\": [\n    \"hemoglobin 10\"\n  ],\n  \"allergies\": [\n    \"Lactu\"\n  ],\n  \"medications\": [\n    {\"name\": \"Quadroxeras\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": \"5 days\", \"instructions\": \"take orally\"},\n    {\"name\": \"Glastrofax\", \"strength\": \"400\", \"dose\": null, \"frequency\": \"3 times a day\", \"duration\": \"5 days\", \"instructions\": \"take orally\"},\n    {\"name\": \"Dulcolax\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"stop taking\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Lactu\"\n  ],\n  \"investigations_ordered\": [\n    \"Quadroxeras\"\n  ],\n  \"advice\": [\n    \"take Quadroxeras\",\n    \"take Glastrofax 400 three times a day for 5 days\",\n    \"stop Dulcolax parliogel\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 44
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "insomnia",
+        "duration": "8 hours"
+      }
+    ],
+    "negatives": [
+      "no abdominal pain",
+      "no dehydration"
+    ],
+    "findings": [
+      "hemoglobin 10"
+    ],
+    "allergies": [
+      "Lactu"
+    ],
+    "medications": [
+      {
+        "name": "Quadroxeras",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": "5 days",
+        "instructions": "take orally"
+      },
+      {
+        "name": "Glastrofax",
+        "strength": "400",
+        "dose": null,
+        "frequency": "3 times a day",
+        "duration": "5 days",
+        "instructions": "take orally"
+      },
+      {
+        "name": "Dulcolax",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "stop taking"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Lactu"
+    ],
+    "investigations_ordered": [
+      "Quadroxeras"
+    ],
+    "advice": [
+      "take Quadroxeras",
+      "take Glastrofax 400 three times a day for 5 days",
+      "stop Dulcolax parliogel"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 80.813,
+    "prompt_per_token_ms": 0.6570162601626016,
+    "prompt_per_second": 1522.0323462809201,
+    "predicted_n": 370,
+    "predicted_ms": 4445.223,
+    "predicted_per_token_ms": 12.046674796747967,
+    "predicted_per_second": 83.01045864290724
+  }
+}

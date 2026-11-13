@@ -1,0 +1,77 @@
+{
+  "transcript": "Mard, 40 saal. Kal raat se dast lalki hai. 8 mahada lena phoolna hai. Jism par daane ek mahina. HB 10. Cefixime 200 ek goliin. HB 10. Doveraston ek goli arse aath ghante raat. Gliclazac 400 din. Metinem baad, 5 din. Doodh aur tali ho, check up. Veshab kam. HB 14. Novorapid 500 aadhi goli haro.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"skin rash\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"hemoglobin 10 g/dL\",\n    \"hemoglobin 14 g/dL\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Cefixime\", \"strength\": \"200\", \"dose\": \"1 tablet\", \"frequency\": \"once\", \"duration\": \"as needed (every 8 hours at night)\",\"instructions\": \"with milk and turmeric\"},\n    {\"name\": \"Gliclazide\", \"strength\": \"400\", \"dose\": \"1 tablet\", \"frequency\": \"morning\", \"duration\": \"5 days\", \"instructions\": \"after Metformin\"},\n    {\"name\": \"Metformin\", \"strength\": \"\", \"dose\": \"\", \"frequency\": \"\", \"duration\": \"\", \"instructions\": \"\"},\n    {\"name\": \"Novorapid\", \"strength\": \"500\", \"dose\": \"half dose\", \"frequency\": \"\", \"duration\": \"\", \"instructions\": \"\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"check up\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "skin rash",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "hemoglobin 10 g/dL",
+      "hemoglobin 14 g/dL"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Cefixime",
+        "strength": "200",
+        "dose": "1 tablet",
+        "frequency": "once",
+        "duration": "as needed (every 8 hours at night)",
+        "instructions": "with milk and turmeric"
+      },
+      {
+        "name": "Gliclazide",
+        "strength": "400",
+        "dose": "1 tablet",
+        "frequency": "morning",
+        "duration": "5 days",
+        "instructions": "after Metformin"
+      },
+      {
+        "name": "Metformin",
+        "strength": "",
+        "dose": "",
+        "frequency": "",
+        "duration": "",
+        "instructions": ""
+      },
+      {
+        "name": "Novorapid",
+        "strength": "500",
+        "dose": "half dose",
+        "frequency": "",
+        "duration": "",
+        "instructions": ""
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "check up"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 147,
+    "prompt_ms": 87.226,
+    "prompt_per_token_ms": 0.5933741496598639,
+    "prompt_per_second": 1685.2773255680645,
+    "predicted_n": 360,
+    "predicted_ms": 4407.107,
+    "predicted_per_token_ms": 12.276064066852367,
+    "predicted_per_second": 81.45933375341238
+  }
+}

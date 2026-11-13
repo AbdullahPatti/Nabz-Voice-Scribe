@@ -1,0 +1,65 @@
+{
+  "transcript": "Mareez mard, 28 saal. 5 din se test bukhar hai. Sar dard hai. Kamzori bhi hai. Kaan dard hai. Rahat nahi. Bhook na lagna bilkul nahi hai. Dast bhi nahi hai. Typhoid ka test karwa lein. Azomax paanch ml karwa lein. 7 din baadol do goli din mein teen baar. jab bukhar ho, 3 din. baad dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"5 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"present\"},\n    {\"symptom\": \"weakness\", \"duration\": \"present\"},\n    {\"symptom\": \"ear pain\", \"duration\": \"present\"},\n    {\"symptom\": \"anorexia\", \"duration\": \"present\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Azomax\", \"strength\": \"500mg\", \"dose\": \"5ml\", \"frequency\": \"3 times daily\", \"duration\": \"7 days\", \"instructions\": \"continue for 3 days if fever persists, return if symptoms recur\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Typhoid test\"\n  ],\n  \"advice\": [],\n  \"follow_up\": \"Return if symptoms recur\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "5 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "present"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "present"
+      },
+      {
+        "symptom": "ear pain",
+        "duration": "present"
+      },
+      {
+        "symptom": "anorexia",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Azomax",
+        "strength": "500mg",
+        "dose": "5ml",
+        "frequency": "3 times daily",
+        "duration": "7 days",
+        "instructions": "continue for 3 days if fever persists, return if symptoms recur"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Typhoid test"
+    ],
+    "advice": [],
+    "follow_up": "Return if symptoms recur"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 131,
+    "prompt_ms": 81.155,
+    "prompt_per_token_ms": 0.6195038167938931,
+    "prompt_per_second": 1614.195058838026,
+    "predicted_n": 281,
+    "predicted_ms": 3400.377,
+    "predicted_per_token_ms": 12.144203571428571,
+    "predicted_per_second": 82.34381070098993
+  }
+}

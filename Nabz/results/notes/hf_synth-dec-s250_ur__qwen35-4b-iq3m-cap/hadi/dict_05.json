@@ -1,0 +1,64 @@
+{
+  "transcript": "Mard, 50 saal. Sugar parana mein sun hai. Mucicort 100 aadhi goli khane ke baad, 200 saal. Pairla bilkul 5 paanch ml din mein do baar, lagatar. Glucophage harzaad din mein do baar, khane ke saal. 3 mahine walaam. Sugar test karwa lein. Pairon mein sun ho na nahi hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"sugar control\", \"duration\": \"3 months\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Mucicort\", \"strength\": \"100\", \"dose\": \"half tablet\", \"frequency\": \"twice daily\", \"duration\": \"continue\", \"instructions\": \"after food\"},\n    {\"name\": \"Pairla\", \"strength\": \"5ml\", \"dose\": \"2 times\", \"frequency\": \"daily\", \"duration\": \"continue\", \"instructions\": \"after food\"},\n    {\"name\": \"Glucophage\", \"strength\": \"\", \"dose\": \"\", \"frequency\": \"twice daily\", \"duration\": \"\", \"instructions\": \"with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"sugar test\"\n  ],\n  \"advice\": [\n    \"check for swelling in feet\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "sugar control",
+        "duration": "3 months"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Mucicort",
+        "strength": "100",
+        "dose": "half tablet",
+        "frequency": "twice daily",
+        "duration": "continue",
+        "instructions": "after food"
+      },
+      {
+        "name": "Pairla",
+        "strength": "5ml",
+        "dose": "2 times",
+        "frequency": "daily",
+        "duration": "continue",
+        "instructions": "after food"
+      },
+      {
+        "name": "Glucophage",
+        "strength": "",
+        "dose": "",
+        "frequency": "twice daily",
+        "duration": "",
+        "instructions": "with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "sugar test"
+    ],
+    "advice": [
+      "check for swelling in feet"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 119,
+    "prompt_ms": 77.413,
+    "prompt_per_token_ms": 0.6505294117647058,
+    "prompt_per_second": 1537.2095126141605,
+    "predicted_n": 276,
+    "predicted_ms": 3422.635,
+    "predicted_per_token_ms": 12.445945454545456,
+    "predicted_per_second": 80.34745159796472
+  }
+}

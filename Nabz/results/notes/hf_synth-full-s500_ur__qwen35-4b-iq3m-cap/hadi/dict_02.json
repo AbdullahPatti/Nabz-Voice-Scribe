@@ -1,0 +1,70 @@
+{
+  "transcript": "Khatoon, 34 saal. 3 din subah nahar. Lisomal 10 do raat ko. Lopressor 96 plaid. Larki 50 hazaar. HB 6. Khoon nahi. Xanax 11 se 12 do goli din mein teen baar. Profen bilkul nahi leni. Disprin bhi nahi paani zyada piye. Califax karni ka das. Tobara aadhi warna hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\",\n    \"no chest pain\"\n  ],\n  \"findings\": [\n    \"Hemoglobin 6 g/dL\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Lisomal\",\n      \"strength\": \"10\",\n      \"dose\": \"1 tablet at night\",\n      \"frequency\": \"once daily\",\"duration\": \"3 days\",\"instructions\": \"take at night\"\n    },\n    {\n      \"name\": \"Lopressor\",\n      \"strength\": \"96\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"3 times daily\",\"duration\": \"3 days\",\"instructions\": \"take 3 times a day\"\n    },\n    {\n      \"name\": \"Xanax\",\n      \"strength\": \"11\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"3 times daily\",\"duration\": \"3 days\",\"instructions\": \"take 3 times a day\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Paracetamol\",\n    \"Aspirin\",\n    \"Califax\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Drink plenty of water\",\n    \"Take half a tablet of Tobara\"\n  ],\"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [],
+    "negatives": [
+      "no fever",
+      "no vomiting",
+      "no chest pain"
+    ],
+    "findings": [
+      "Hemoglobin 6 g/dL"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Lisomal",
+        "strength": "10",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "3 days",
+        "instructions": "take at night"
+      },
+      {
+        "name": "Lopressor",
+        "strength": "96",
+        "dose": "1 tablet",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take 3 times a day"
+      },
+      {
+        "name": "Xanax",
+        "strength": "11",
+        "dose": "1 tablet",
+        "frequency": "3 times daily",
+        "duration": "3 days",
+        "instructions": "take 3 times a day"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Paracetamol",
+      "Aspirin",
+      "Califax"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Drink plenty of water",
+      "Take half a tablet of Tobara"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 125,
+    "prompt_ms": 81.229,
+    "prompt_per_token_ms": 0.649832,
+    "prompt_per_second": 1538.859274397075,
+    "predicted_n": 382,
+    "predicted_ms": 4546.908,
+    "predicted_per_token_ms": 11.934141732283466,
+    "predicted_per_second": 83.7932062843585
+  }
+}

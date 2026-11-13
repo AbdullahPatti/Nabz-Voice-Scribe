@@ -1,0 +1,57 @@
+{
+  "transcript": "Aurat, 60 saal. 9 mahine se neepine se ulti hai. Zantac aadhi goli bhi nahi ho raha. No swelling. No fever. Dexamethasicillin bandadol do tableter. Halki arse se sarwa se dali hai. Ek mahine baad baad baar. Peshab hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"heartburn\", \"duration\": \"9 months\"},\n    {\"symptom\": \"regurgitation\", \"duration\": \"9 months\"}\n  ],\n  \"negatives\": [\n    \"swelling\",\n    \"fever\"\n  ],\n  \"findings\": [\n    \"history of epigastric pain radiating to back\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Dexamethasillin\", \"strength\": \"bandadol do tableter\", \"dose\": \"bandadol\", \"frequency\": \"twice daily\", \"duration\": \"prescribed\", \"instructions\": \"stop current Zantac\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Zantac\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Follow up in 1 month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "heartburn",
+        "duration": "9 months"
+      },
+      {
+        "symptom": "regurgitation",
+        "duration": "9 months"
+      }
+    ],
+    "negatives": [
+      "swelling",
+      "fever"
+    ],
+    "findings": [
+      "history of epigastric pain radiating to back"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Dexamethasillin",
+        "strength": "bandadol do tableter",
+        "dose": "bandadol",
+        "frequency": "twice daily",
+        "duration": "prescribed",
+        "instructions": "stop current Zantac"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Zantac"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Follow up in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 78.459,
+    "prompt_per_token_ms": 0.8088556701030928,
+    "prompt_per_second": 1236.3145082144813,
+    "predicted_n": 256,
+    "predicted_ms": 3288.6,
+    "predicted_per_token_ms": 12.896470588235294,
+    "predicted_per_second": 77.5405947819741
+  }
+}

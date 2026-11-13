@@ -1,0 +1,28 @@
+{
+  "name": "synth-full",
+  "base": "openai/whisper-base",
+  "lang": "ur",
+  "real": null,
+  "real_repeat": 20,
+  "train_encoder": true,
+  "steps": 2000,
+  "batch": 16,
+  "lr": 2e-05,
+  "seed": 13,
+  "save_at": [
+    250,
+    500
+  ],
+  "log": [
+    {
+      "step": 250,
+      "train_loss": 0.0544,
+      "val_loss": 0.03
+    },
+    {
+      "step": 500,
+      "train_loss": 0.0166,
+      "val_loss": 0.0128
+    }
+  ]
+}

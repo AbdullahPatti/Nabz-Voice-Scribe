@@ -1,0 +1,51 @@
+{
+  "transcript": "Marend, 35 saal. Thyroxol fever for 2 days. Khansi nahi hai. Koi saans kamar zaroorat nahi hai. Pairnadol jab bukhar ho. Warms hot water 13 din. Metin baar. Garare karein. Avilax aath ghante baad, do hafte. Dramatron mein wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"chest tightness\",\n    \"shortness of breath\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Paracetamol\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"Take when fever occurs\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Drink warm water\",\n    \"Return if symptoms recur\"\n  ],\n  \"follow_up\": \"Return in 2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "chest tightness",
+      "shortness of breath"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "Take when fever occurs"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Drink warm water",
+      "Return if symptoms recur"
+    ],
+    "follow_up": "Return in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 77.819,
+    "prompt_per_token_ms": 0.7555242718446602,
+    "prompt_per_second": 1323.5842146519487,
+    "predicted_n": 211,
+    "predicted_ms": 2631.083,
+    "predicted_per_token_ms": 12.528966666666667,
+    "predicted_per_second": 79.81504194280453
+  }
+}

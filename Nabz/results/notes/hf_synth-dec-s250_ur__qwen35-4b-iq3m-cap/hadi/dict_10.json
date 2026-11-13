@@ -1,0 +1,54 @@
+{
+  "transcript": "Khatoon, 28 saal. Saraf, follow up. Celix aayein. Fesli dard hai. Koi raat se koi raha. Xytoffat nahi. Bukhar nahi. Khansi nahi. Paani saran se allergy hai. Is liye Augmentin nahi deni. Zyrtec aadhi goli raat ko, 10 din. Ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"cough\",\n    \"allergic reaction to water\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"water\"\n  ],\n  \"medications\": [\n    {\"name\": \"Zyrtec\", \"strength\": \"half tablet\", \"dose\": \"1 time at night\", \"frequency\": \"10 days\", \"duration\": \"10 days\", \"instructions\": \"continue current medication, return in 1 month\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Augmentin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Return in 1 month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "cough",
+      "allergic reaction to water"
+    ],
+    "findings": [],
+    "allergies": [
+      "water"
+    ],
+    "medications": [
+      {
+        "name": "Zyrtec",
+        "strength": "half tablet",
+        "dose": "1 time at night",
+        "frequency": "10 days",
+        "duration": "10 days",
+        "instructions": "continue current medication, return in 1 month"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Augmentin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "Return in 1 month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 115,
+    "prompt_ms": 76.533,
+    "prompt_per_token_ms": 0.6655043478260869,
+    "prompt_per_second": 1502.619784929377,
+    "predicted_n": 240,
+    "predicted_ms": 3111.742,
+    "predicted_per_token_ms": 13.019841004184102,
+    "predicted_per_second": 76.80585344157709
+  }
+}

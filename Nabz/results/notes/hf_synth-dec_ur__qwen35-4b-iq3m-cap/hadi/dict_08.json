@@ -1,0 +1,59 @@
+{
+  "transcript": "Khatoon, 26 saal. 2 din se peshab mein jalan hai. HB 12. Ghabrahat hai. Bukhar nahi. Kamar dard nahi. Plaquenil nahi hai. Sipro 500 din mein do baar, 3 din. Paani zyada piyein. Peshab ko test karwa lein. 3 din na pare to foran wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"dysuria\", \"duration\": \"2 days\"},\n    {\"symptom\": \"anxiety/ghabrahat\", \"duration\": \"present\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"lower abdominal pain\"\n  ],\n  \"findings\": [\n    \"hemoglobin 12\"\n  ],\n  \"allergies\": [\n    \"Plaquenil\"\n  ],\n  \"medications\": [\n    {\"name\": \"Ciprofloxacin\", \"strength\": \"500\", \"dose\": \"twice daily\", \"frequency\": \"3 days\", \"duration\": \"3 days\", \"instructions\": \"drink plenty of water\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"return if symptoms persist after 3 days\"\n  ],\n  \"follow_up\": \"if symptoms persist after 3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "anxiety/ghabrahat",
+        "duration": "present"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "lower abdominal pain"
+    ],
+    "findings": [
+      "hemoglobin 12"
+    ],
+    "allergies": [
+      "Plaquenil"
+    ],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "drink plenty of water"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "return if symptoms persist after 3 days"
+    ],
+    "follow_up": "if symptoms persist after 3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 113,
+    "prompt_ms": 78.638,
+    "prompt_per_token_ms": 0.6959115044247788,
+    "prompt_per_second": 1436.9643175055317,
+    "predicted_n": 270,
+    "predicted_ms": 3406.508,
+    "predicted_per_token_ms": 12.663598513011152,
+    "predicted_per_second": 78.96649589550356
+  }
+}

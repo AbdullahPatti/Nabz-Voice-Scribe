@@ -1,0 +1,58 @@
+{
+  "transcript": "Mard, 44 saal. Kal raat se dast lagi hai. Aadhi mard aafi ho. Chakkar hai. Dast nahi hai. Jism matole paani ke kami hai. Haldast ke waqt. Novorapid karein. Glast 40 din mein teen baar. 5 din do goli karwa lein. Cigarette band lagar. Peshab kam ho raha. To foran wapas nahi.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 44\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"1 night\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"1 night\"},\n    {\"symptom\": \"dehydration\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorapid\", \"strength\": null, \"dose\": \"40 units\", \"frequency\": \"3 times a week for 5 days\", \"duration\": null, \"instructions\": \"stop smoking\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Stop smoking\"\n  ],\n  \"follow_up\": \"return if symptoms persist\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 44
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "dehydration",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorapid",
+        "strength": null,
+        "dose": "40 units",
+        "frequency": "3 times a week for 5 days",
+        "duration": null,
+        "instructions": "stop smoking"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Stop smoking"
+    ],
+    "follow_up": "return if symptoms persist"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 121,
+    "prompt_ms": 80.299,
+    "prompt_per_token_ms": 0.6636280991735538,
+    "prompt_per_second": 1506.8680805489482,
+    "predicted_n": 240,
+    "predicted_ms": 3033.791,
+    "predicted_per_token_ms": 12.69368619246862,
+    "predicted_per_second": 78.77932263626597
+  }
+}

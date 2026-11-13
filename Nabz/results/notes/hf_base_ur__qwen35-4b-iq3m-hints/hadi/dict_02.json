@@ -1,0 +1,51 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بحار جس میں دیار درانکوں کے پیچے درد پلےٹلٹس پچانوے ہزار ہے کہیں سے خون نہیں آرہ صرف پر ادال دو بھوری دن میں تین بار پر او فیلکل نہیں لینی دیسپنی نہیں پانی زدادا پیئے کل خون کا تس دبارہ پر آہ پر آہا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"back pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"lower abdominal pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"vaginal bleeding\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no discharge from vagina\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "back pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "lower abdominal pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "vaginal bleeding",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no discharge from vagina"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 246,
+    "prompt_ms": 109.697,
+    "prompt_per_token_ms": 0.44592276422764227,
+    "prompt_per_second": 2242.540816977675,
+    "predicted_n": 198,
+    "predicted_ms": 2461.49,
+    "predicted_per_token_ms": 12.4948730964467,
+    "predicted_per_second": 80.03282564625492
+  }
+}

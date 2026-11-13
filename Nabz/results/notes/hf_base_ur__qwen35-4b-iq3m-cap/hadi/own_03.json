@@ -1,0 +1,43 @@
+{
+  "transcript": "او رتقنطالیس سال شام کے ٹیم احیدے کے قفتے سے بیپی 14یوبر 90 ایسرٹ میں کوئی مسرہ نہیں ہو نوو روڑی بیرنٹال جب ضرورت پڑے اور نمک کام کائیں بیپی ایک قفت سے بعد پھر چیک کرویں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 14\n  },\n  \"complaints\": [],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"twice daily\",\n      \"frequency\": \"twice daily\",\"duration\": \"as needed\",\"instructions\": \"continue current medication\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Continue current medication (Augmentin 625 twice daily).\",\n    \"Check BP again after 14 days.\",\n    \"Continue current medication.\"\n  ],\"follow_up\": \"in 14 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 14
+    },
+    "complaints": [],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "as needed",
+        "instructions": "continue current medication"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Continue current medication (Augmentin 625 twice daily).",
+      "Check BP again after 14 days.",
+      "Continue current medication."
+    ],
+    "follow_up": "in 14 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 94,
+    "prompt_ms": 74.361,
+    "prompt_per_token_ms": 0.7910744680851064,
+    "prompt_per_second": 1264.1034951116849,
+    "predicted_n": 211,
+    "predicted_ms": 2572.607,
+    "predicted_per_token_ms": 12.250509523809523,
+    "predicted_per_second": 81.62925779180419
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "transcript": "Aurat, 45 saal. 7 saal hai. Kaan dard hai. Kaafi hai. Serc hai. BP 140 by 190. Valsartan hai. Koi mastra nahi. No ulti hai. Panadol jab zaroorat ko. Nexum kam karein. BP ek hafta baad, check up.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"ear pain\", \"duration\": \"7 days\"}\n  ],\n  \"negatives\": [\n    \"nausea\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"blood_pressure_systolic_mmhg_140\",\n    \"blood_pressure_diastolic_mmhg_190\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Valsartan\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take as needed for pain\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Nexum\"\n  ],\n  \"investigations_ordered\": [\n    \"blood_pressure_check\"\n  ],\n  \"advice\": [\n    \"return for check up in 1 week\"\n  ],\n  \"follow_up\": \"1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "ear pain",
+        "duration": "7 days"
+      }
+    ],
+    "negatives": [
+      "nausea",
+      "vomiting"
+    ],
+    "findings": [
+      "blood_pressure_systolic_mmhg_140",
+      "blood_pressure_diastolic_mmhg_190"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Valsartan",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed for pain"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Nexum"
+    ],
+    "investigations_ordered": [
+      "blood_pressure_check"
+    ],
+    "advice": [
+      "return for check up in 1 week"
+    ],
+    "follow_up": "1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 98,
+    "prompt_ms": 73.552,
+    "prompt_per_token_ms": 0.750530612244898,
+    "prompt_per_second": 1332.3906895801608,
+    "predicted_n": 252,
+    "predicted_ms": 3225.77,
+    "predicted_per_token_ms": 12.851673306772907,
+    "predicted_per_second": 77.81087926293567
+  }
+}

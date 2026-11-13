@@ -1,0 +1,46 @@
+{
+  "transcript": "اورت 60 ایرس تو مہینے سنی پین سیڈیوں پیزاتا بوری نوس ویلنگ نو فیور دین میں پیرنا دول کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپی سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Ponstan\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": null}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Take Rosuvastatin for 1 month.\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Ponstan",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Take Rosuvastatin for 1 month."
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 196,
+    "prompt_ms": 93.9,
+    "prompt_per_token_ms": 0.47908163265306125,
+    "prompt_per_second": 2087.326943556975,
+    "predicted_n": 180,
+    "predicted_ms": 2353.144,
+    "predicted_per_token_ms": 13.146055865921786,
+    "predicted_per_second": 76.06844290022201
+  }
+}

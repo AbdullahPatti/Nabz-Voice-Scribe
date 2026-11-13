@@ -1,0 +1,49 @@
+{
+  "transcript": "Khatoon, 55 saal. Agar farq se sar hai. Sar dard hai. Chakkar nahi. Aadhi seene mein dard nahi hai. Novorapid paanch ml raat ko. Ek goli subah nahar mun. Namak kam karni hai. Doft baad bilkul do baar. Chakkar hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"since farq\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorapid\", \"strength\": \"5 ml\", \"dose\": \"night\", \"frequency\": \"once daily\", \"duration\": null, \"instructions\": \"take with breakfast\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "since farq"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorapid",
+        "strength": "5 ml",
+        "dose": "night",
+        "frequency": "once daily",
+        "duration": null,
+        "instructions": "take with breakfast"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 96,
+    "prompt_ms": 73.004,
+    "prompt_per_token_ms": 0.7604583333333333,
+    "prompt_per_second": 1314.9964385513122,
+    "predicted_n": 195,
+    "predicted_ms": 2634.241,
+    "predicted_per_token_ms": 13.578561855670102,
+    "predicted_per_second": 73.6455016834071
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "transcript": "Khatoon, 14 saal. 3 din subah hai. Jism par daar. Do raha. Koi ke pet se dard hai. Platelets 75 hazaar hai. Koi se khoon nahi aara. Serc par aadol do goli din. Metin baar. Profen bilkul nahi leni. Disprin bhi nahi. Paani zyada piyein. Kal khoon ka test. Do baar. HB 12.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 14\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"3 days\"},\n    {\"symptom\": \"body pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"abdominal pain\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [\n    \"platelets: 75,000\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Serc\", \"strength\": \"2\", \"dose\": \"1 tablet twice daily\", \"frequency\": \"twice daily\", \"duration\": null, \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Profen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"blood test (CBC)\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": \"tomorrow\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 14
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "body pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "abdominal pain",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [],
+    "findings": [
+      "platelets: 75,000"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Serc",
+        "strength": "2",
+        "dose": "1 tablet twice daily",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Profen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "blood test (CBC)"
+    ],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "tomorrow"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 122,
+    "prompt_ms": 80.188,
+    "prompt_per_token_ms": 0.6572786885245901,
+    "prompt_per_second": 1521.424652067641,
+    "predicted_n": 280,
+    "predicted_ms": 3368.841,
+    "predicted_per_token_ms": 12.074698924731182,
+    "predicted_per_second": 82.81779994959692
+  }
+}

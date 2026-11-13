@@ -1,0 +1,35 @@
+{
+  "transcript": "اورت 60 ایرس تو مہینے سنی پین سیڈیوں پیزاتا بوری نوس ویلنگ نو فیور دین میں پیرنا دول کے دور ٹیب لیٹ حلکی ایک سیس دیلی اور ایک مہینے بعد باپی سائیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"headache\", \"duration\": \"1 month\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": \"in 1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "headache",
+        "duration": "1 month"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": "in 1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 81,
+    "prompt_ms": 69.456,
+    "prompt_per_token_ms": 0.8574814814814815,
+    "prompt_per_second": 1166.2059433310296,
+    "predicted_n": 126,
+    "predicted_ms": 1661.776,
+    "predicted_per_token_ms": 13.294208000000001,
+    "predicted_per_second": 75.22072770337277
+  }
+}

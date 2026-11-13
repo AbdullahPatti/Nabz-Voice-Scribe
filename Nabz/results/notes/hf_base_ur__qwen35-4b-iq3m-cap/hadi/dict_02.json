@@ -1,0 +1,48 @@
+{
+  "transcript": "خاتون چونتے سال تین دن سے بحار جس میں دیار درانکوں کے پیچے درد پلےٹلٹس پچانوے ہزار ہے کہیں سے خون نہیں آرہ صرف پر ادال دو بھوری دن میں تین بار پر او فیلکل نہیں لینی دیسپنی نہیں پانی زدادا پیئے کل خون کا تس دبارہ پر آہ پر آہا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"back pain\", \"duration\": \"3 days\"},\n    {\"symptom\": \"bloody discharge\", \"duration\": \"3 days\"}\n  ],\n  \"negatives\": [\n    \"no vaginal discharge\",\n    \"no urinary symptoms\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "back pain",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "bloody discharge",
+        "duration": "3 days"
+      }
+    ],
+    "negatives": [
+      "no vaginal discharge",
+      "no urinary symptoms"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 111,
+    "prompt_ms": 75.832,
+    "prompt_per_token_ms": 0.6831711711711711,
+    "prompt_per_second": 1463.762000210993,
+    "predicted_n": 186,
+    "predicted_ms": 2222.675,
+    "predicted_per_token_ms": 12.014459459459461,
+    "predicted_per_second": 83.23304126784167
+  }
+}

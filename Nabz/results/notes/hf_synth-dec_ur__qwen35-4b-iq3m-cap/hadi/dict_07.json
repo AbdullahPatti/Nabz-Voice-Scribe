@@ -1,0 +1,60 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi. Pala bilkul nahi. Ghabrahat nahi. Bukhar hai. Saans phoolna seene mein dard hai. Ghabrahat nahi hai. Augmentin 625 din mein do baar, 5 din. Halki warzish rozana. Doxycycline mat dein. Warfarin se reaction hota hai. Cbc karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no chest pain on palpation\",\n    \"no anxiety/fear\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"twice daily\", \"frequency\": \"5 days\", \"duration\": \"5 days\", \"instructions\": \"mild exercise daily\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Doxycycline\",\n    \"Warfarin\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no chest pain on palpation",
+      "no anxiety/fear"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "mild exercise daily"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Doxycycline",
+      "Warfarin"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 117,
+    "prompt_ms": 83.145,
+    "prompt_per_token_ms": 0.7106410256410256,
+    "prompt_per_second": 1407.1802273137291,
+    "predicted_n": 253,
+    "predicted_ms": 3231.445,
+    "predicted_per_token_ms": 12.823194444444445,
+    "predicted_per_second": 77.98368841184052
+  }
+}

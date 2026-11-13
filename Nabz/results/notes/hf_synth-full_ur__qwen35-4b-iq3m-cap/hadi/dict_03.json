@@ -1,0 +1,71 @@
+{
+  "transcript": "Mard, 44 saal. Kal raat se dast hai. Aankh lal da fahwa hai. Dast nahi hai. Jism par daane ek kam hai. HB 10. Cozaar zaroorat ke englaz hai. Flagyl 400 din mein teen baar, 5 din. Doodh aur dahi kam. Daonil nahi lena.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 44\n  },\n  \"complaints\": [\n    {\"symptom\": \"diarrhea\", \"duration\": \"1 night\"},\n    {\"symptom\": \"red eyes\", \"duration\": \"1 night\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no fever\",\n    \"no joint pain\"\n  ],\n  \"findings\": [\n    \"skin rash\"\n  ],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\"name\": \"Co-trimoxazole\", \"strength\": \"162.5/250\", \"dose\": \"1 tab 3 times daily\", \"frequency\": \"5 days\", \"duration\": \"5 days\", \"instructions\": \"take with food\"},\n    {\"name\": \"Flagyl\", \"strength\": \"400\", \"dose\": \"3 times daily\", \"frequency\": \"5 days\", \"duration\": \"5 days\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Penicillin\"\n  ],\n  \"investigations_ordered\": [\n    \"Hemoglobin\"\n  ],\n  \"advice\": [\n    \"Avoid milk and curd\",\n    \"Avoid daonil\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 44
+    },
+    "complaints": [
+      {
+        "symptom": "diarrhea",
+        "duration": "1 night"
+      },
+      {
+        "symptom": "red eyes",
+        "duration": "1 night"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no fever",
+      "no joint pain"
+    ],
+    "findings": [
+      "skin rash"
+    ],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Co-trimoxazole",
+        "strength": "162.5/250",
+        "dose": "1 tab 3 times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take with food"
+      },
+      {
+        "name": "Flagyl",
+        "strength": "400",
+        "dose": "3 times daily",
+        "frequency": "5 days",
+        "duration": "5 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Penicillin"
+    ],
+    "investigations_ordered": [
+      "Hemoglobin"
+    ],
+    "advice": [
+      "Avoid milk and curd",
+      "Avoid daonil"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 78.132,
+    "prompt_per_token_ms": 0.7302056074766355,
+    "prompt_per_second": 1369.4772948343827,
+    "predicted_n": 333,
+    "predicted_ms": 4003.018,
+    "predicted_per_token_ms": 12.05728313253012,
+    "predicted_per_second": 82.93742371380793
+  }
+}

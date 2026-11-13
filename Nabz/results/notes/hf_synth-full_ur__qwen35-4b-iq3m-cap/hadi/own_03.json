@@ -1,0 +1,54 @@
+{
+  "transcript": "Aurat, 45 saal. Kamar dard hai. Deltacin hafte se BP 140. ORS 90 aayein. Sertral nahi ho raha. No pain. Panadol jab zaroorat ke waqt. Namak kam karein. BP ek puff se baad. Cbc karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"abdominal pain\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Deltacin\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": \"1 week\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"take ORS\",\n    \"take Panadol as needed\",\n    \"reduce salt intake\",\n    \"check BP after taking puff\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "abdominal pain",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Deltacin",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": "1 week",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "take ORS",
+      "take Panadol as needed",
+      "reduce salt intake",
+      "check BP after taking puff"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 92,
+    "prompt_ms": 74.192,
+    "prompt_per_token_ms": 0.8064347826086956,
+    "prompt_per_second": 1240.0258788009492,
+    "predicted_n": 223,
+    "predicted_ms": 2809.336,
+    "predicted_per_token_ms": 12.654666666666666,
+    "predicted_per_second": 79.02223158782004
+  }
+}

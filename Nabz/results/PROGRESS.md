@@ -12,7 +12,7 @@ At the start of every session: read this and continue from the first item that i
 | Step 1.2 Phone-tier note writers, cap, dry, hints | done (13 Nov 2026, after 400c70c) | 30 runs x 39 notes via rerun_notes.py phone: Qwen3.5 0.8B, 2B, 4B Q4_K_M, Alif 3B (plain, -dry, -cap), 4B IQ3_M (-cap), hints for 4B and IQ3_M on ref, base, small. Every row of note_summary.csv equals the A4000 snapshot. negation_guard.csv written: 0 prescribed medicines moved. |
 | Step 1.3 PyTorch Whisper parity (hf base, hf small) | done (13 Nov 2026, after b66e87b) | done before 1.1 and 1.2 while the note-writer models downloaded (GPU was free). hf_base_ur and hf_small_ur, 39 clips each. |
 | Step 1.4 Lexicon biasing (Hadi, λ grid) | done (13 Nov 2026, after eed52d5) | Hadi only. Guarded λ 1, 2, 3 (run_asr_hf.py --bias λ --tag-suffix cg); unguarded λ 2, 4, 6, 8, 10 (rerun_bias_noguard.py, since asr_bias.py now always applies the guard). Not tuned. |
-| Step 1.5 Synthetic fine-tune (texts, audio, synth-dec, synth-full, Hadi transcripts) | todo | |
+| Step 1.5 Synthetic fine-tune (texts, audio, synth-dec, synth-full, Hadi transcripts) | done (13 Nov 2026, after 4161b33) | texts.jsonl regenerated with no diff; 5,634 of 6,000 items rendered (5,434 train, 200 val); synth-dec and synth-full trained 2000 steps with checkpoints at 250 and 500 (val loss 3.12 -> 0.012 and 0.003; logs in results/train_logs/); all 6 checkpoints transcribed on Hadi. |
 | Step 1.6 End to end, checkpoint choice, test speakers | todo | |
 | Step 1.7 ASR confidence and base cross-check | todo | |
 | Step 1.8 Phone pair in whisper.cpp | todo | |

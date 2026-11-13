@@ -1,0 +1,56 @@
+{
+  "transcript": "Mareezan, 35 saal. Zoloft se fever for 2 days. Khansi nahi. Koi saans kamar saane hai. Panadol jab bukhar ho. Wansomot 14 din mein teen baar. Agar aayein. Neurobion aadhi nahi ho raha. Tavanicol paanch ml din nahi lena. Cbc karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"shortness of breath\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Zoloft\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": null\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Panadol\",\n    \"Wansomot\",\n    \"Neurobion\",\n    \"Tavanicol\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Return if symptoms recur within 14 days\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "shortness of breath"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Zoloft",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Panadol",
+      "Wansomot",
+      "Neurobion",
+      "Tavanicol"
+    ],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Return if symptoms recur within 14 days"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 105,
+    "prompt_ms": 79.917,
+    "prompt_per_token_ms": 0.7611142857142857,
+    "prompt_per_second": 1313.863133000488,
+    "predicted_n": 247,
+    "predicted_ms": 3003.16,
+    "predicted_per_token_ms": 12.207967479674796,
+    "predicted_per_second": 81.91371755084646
+  }
+}

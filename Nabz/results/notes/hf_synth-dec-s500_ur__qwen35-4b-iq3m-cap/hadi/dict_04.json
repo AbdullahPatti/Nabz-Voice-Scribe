@@ -1,0 +1,50 @@
+{
+  "transcript": "Khatoon, 55 saal. Aadhi bilkul hai. Saans phoolna hai. Saans phoolna hai. Chakkar nahi. Ativan se neend na dard nahi hai. Norvasc paanch ml raat ko. Ek goli zaroorat karni hai. Namak kam karni hai. Do hafte baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"dyspnea\", \"duration\": \"2 weeks\"}\n  ],\n  \"negatives\": [\n    \"dizziness\",\n    \"headache\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Norvasc\",\n      \"strength\": \"5 mg\",\n      \"dose\": \"1 tablet at night\",\"frequency\": \"once daily\",\"duration\": \"ongoing\",\"instructions\": \"continue\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"reduce salt intake\",\n    \"return in 2 weeks\"\n  ],\"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "dyspnea",
+        "duration": "2 weeks"
+      }
+    ],
+    "negatives": [
+      "dizziness",
+      "headache"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5 mg",
+        "dose": "1 tablet at night",
+        "frequency": "once daily",
+        "duration": "ongoing",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "reduce salt intake",
+      "return in 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 78.753,
+    "prompt_per_token_ms": 0.7720882352941176,
+    "prompt_per_second": 1295.1887547141062,
+    "predicted_n": 218,
+    "predicted_ms": 2798.503,
+    "predicted_per_token_ms": 12.896327188940093,
+    "predicted_per_second": 77.54145698611006
+  }
+}

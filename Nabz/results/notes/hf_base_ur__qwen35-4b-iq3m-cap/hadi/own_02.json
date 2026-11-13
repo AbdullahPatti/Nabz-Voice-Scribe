@@ -1,0 +1,35 @@
+{
+  "transcript": "ایڈ رہا اور فیورہ لیے ہوتیہ لھائے ڈیال ہے کریں گے۔ آپ کو اطلاقی حرم میں عائدانی ہوت سوکی ہے میں گوڑوںی ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": null}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": null
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 63,
+    "prompt_ms": 68.939,
+    "prompt_per_token_ms": 1.094269841269841,
+    "prompt_per_second": 913.8513758540159,
+    "predicted_n": 115,
+    "predicted_ms": 1556.85,
+    "predicted_per_token_ms": 13.65657894736842,
+    "predicted_per_second": 73.22478080739955
+  }
+}

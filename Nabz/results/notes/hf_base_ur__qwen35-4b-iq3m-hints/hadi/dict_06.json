@@ -1,0 +1,47 @@
+{
+  "transcript": "آتون تیس آل پیڑ کیوں پر جلن ہوتی ہے کھانے گبت زیادہ کندی یہ کھٹے دکھا ہر انڈے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیڑ دو اف تیرات کو گیویس کون کے دوچہ مچھ ہے اور مچھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 23\n  },\n  \"complaints\": [\n    {\"symptom\": \"itching\", \"duration\": \"23 years\"},\n    {\"symptom\": \"burning sensation\", \"duration\": \"after eating\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no weight loss\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid spicy food\",\n    \"avoid sour food\",\n    \"avoid peanuts\",\n    \"avoid eggs\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 23
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "23 years"
+      },
+      {
+        "symptom": "burning sensation",
+        "duration": "after eating"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no weight loss"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid spicy food",
+      "avoid sour food",
+      "avoid peanuts",
+      "avoid eggs"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 251,
+    "prompt_ms": 111.894,
+    "prompt_per_token_ms": 0.445792828685259,
+    "prompt_per_second": 2243.194451891969,
+    "predicted_n": 189,
+    "predicted_ms": 2387.918,
+    "predicted_per_token_ms": 12.701691489361703,
+    "predicted_per_second": 78.72967162188986
+  }
+}

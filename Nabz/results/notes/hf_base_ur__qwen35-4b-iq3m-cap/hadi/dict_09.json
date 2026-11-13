@@ -1,0 +1,55 @@
+{
+  "transcript": "امرت وائش سال رات کو سانسی تکیف ارسی نیسے سیٹی کی عوااز آتی ہے کہ رات ہندی ہے وہ خار نہیں وانٹولی نے نحیلہ رضرورت پر دو پف دنے چار دمسے زیادہ نہیں رات کو زیٹیک ایک گولی دول اور دونے سے بچھیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath\", \"duration\": \"nighttime\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"nighttime\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"vomiting\",\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Zantac\", \"strength\": \"10\", \"dose\": \"one tablet\", \"frequency\": \"twice daily\", \"duration\": \"2 days\", \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"rest\",\n    \"fluids\"\n  ],\n  \"follow_up\": \"as needed\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath",
+        "duration": "nighttime"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "nighttime"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "vomiting",
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Zantac",
+        "strength": "10",
+        "dose": "one tablet",
+        "frequency": "twice daily",
+        "duration": "2 days",
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "rest",
+      "fluids"
+    ],
+    "follow_up": "as needed"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 95,
+    "prompt_ms": 73.383,
+    "prompt_per_token_ms": 0.7724526315789473,
+    "prompt_per_second": 1294.5777632421677,
+    "predicted_n": 232,
+    "predicted_ms": 2900.21,
+    "predicted_per_token_ms": 12.555021645021645,
+    "predicted_per_second": 79.64940469828048
+  }
+}

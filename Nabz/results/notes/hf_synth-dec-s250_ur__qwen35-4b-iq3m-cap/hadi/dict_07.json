@@ -1,0 +1,81 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi. Pala balgham warahul ka bukhar. Saans raha. Fexofenacinide dard hai. Paracetamol 625 din mein do baar, 5 din. Khansi hazaar. Sarabhar do chamach din mein teen baar. Cigarette band karni hai. Cefix test karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"},\n    {\"symptom\": \"headache\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Fexofenadine\", \"strength\": \"625\", \"dose\": \"twice daily for 5 days\", \"frequency\": \"twice daily\", \"duration\": \"5 days\", \"instructions\": \"take for headache\"},\n    {\"name\": \"Paracetamol\", \"strength\": \"625\", \"dose\": \"twice daily\", \"frequency\": \"twice daily\", \"duration\": \"5 days\", \"instructions\": \"take for headache\"},\n    {\"name\": \"Sarbahar\", \"strength\": \"2 chashkas\", \"dose\": \"three times daily\", \"frequency\": \"three times daily\", \"duration\": \"5 days\", \"instructions\": \"take for headache\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"cigarettes\"\n  ],\n  \"investigations_ordered\": [\n    \"Cefix test\"\n  ],\n  \"advice\": [\n    \"stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "headache",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Fexofenadine",
+        "strength": "625",
+        "dose": "twice daily for 5 days",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take for headache"
+      },
+      {
+        "name": "Paracetamol",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take for headache"
+      },
+      {
+        "name": "Sarbahar",
+        "strength": "2 chashkas",
+        "dose": "three times daily",
+        "frequency": "three times daily",
+        "duration": "5 days",
+        "instructions": "take for headache"
+      }
+    ],
+    "drugs_to_avoid": [
+      "cigarettes"
+    ],
+    "investigations_ordered": [
+      "Cefix test"
+    ],
+    "advice": [
+      "stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 77.147,
+    "prompt_per_token_ms": 0.7143240740740742,
+    "prompt_per_second": 1399.9248188523209,
+    "predicted_n": 380,
+    "predicted_ms": 4736.374,
+    "predicted_per_token_ms": 12.497029023746702,
+    "predicted_per_second": 80.01901876836584
+  }
+}

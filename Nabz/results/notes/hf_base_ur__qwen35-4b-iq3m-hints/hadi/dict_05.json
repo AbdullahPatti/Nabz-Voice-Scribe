@@ -1,0 +1,53 @@
+{
+  "transcript": "مرد 50 سالشوگر کا پر آنہ مریس نحار مشوگر ایک سو اصیر کھانے گا دوستہ ساتھ پہلے گلوکو فیج پانسہ دن میں دو بار لے رہا تھا پلوکو فیچ ہاتھ ساتھ دن میں دو بار کھانے گے چاہتا تھا تین مینے والا شوگر ٹیش کروان ہے پیروں میں سون ہونہ نہیں ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"high blood sugar\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"vomiting\",\n    \"leg pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Glucophage\", \"strength\": \"2\", \"dose\": \"twice daily\", \"frequency\": null, \"duration\": null, \"instructions\": \"take with food\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"blood sugar test\"\n  ],\n  \"advice\": [\n    \"diet control\",\n    \"exercise\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "high blood sugar",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "fever",
+      "vomiting",
+      "leg pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Glucophage",
+        "strength": "2",
+        "dose": "twice daily",
+        "frequency": null,
+        "duration": null,
+        "instructions": "take with food"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "blood sugar test"
+    ],
+    "advice": [
+      "diet control",
+      "exercise"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 163,
+    "prompt_ms": 89.024,
+    "prompt_per_token_ms": 0.546159509202454,
+    "prompt_per_second": 1830.9669302659956,
+    "predicted_n": 214,
+    "predicted_ms": 2860.534,
+    "predicted_per_token_ms": 13.429737089201879,
+    "predicted_per_second": 74.46162150143994
+  }
+}

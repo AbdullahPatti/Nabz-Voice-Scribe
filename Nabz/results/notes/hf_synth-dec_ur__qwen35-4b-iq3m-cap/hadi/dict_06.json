@@ -1,0 +1,58 @@
+{
+  "transcript": "Khatoon, 30 saal. Pet kewpast jalan hai. Kharish baad zyada hai. Kaan dard hai. Kaan dard hai. Ghabrahat nahi. Ulti nahi. Warzac nahi ho raha. Risek 20 subah khali pait, do hafte. raat ko. Gravinate do chamach jab bukhar ho. Cbc karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 30\n  },\n  \"complaints\": [\n    {\"symptom\": \"pet pain\", \"duration\": \"20 days\"},\n    {\"symptom\": \"itching\", \"duration\": \"20 days\"},\n    {\"symptom\": \"ear pain\", \"duration\": \"20 days\"}\n  ],\n  \"negatives\": [\n    \"no anxiety\",\n    \"no vomiting\",\n    \"no fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Gravinate\", \"strength\": \"2\", \"dose\": \"2 spoons\", \"frequency\": \"when fever present\", \"duration\": null, \"instructions\": \"take on empty stomach in the morning\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 30
+    },
+    "complaints": [
+      {
+        "symptom": "pet pain",
+        "duration": "20 days"
+      },
+      {
+        "symptom": "itching",
+        "duration": "20 days"
+      },
+      {
+        "symptom": "ear pain",
+        "duration": "20 days"
+      }
+    ],
+    "negatives": [
+      "no anxiety",
+      "no vomiting",
+      "no fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Gravinate",
+        "strength": "2",
+        "dose": "2 spoons",
+        "frequency": "when fever present",
+        "duration": null,
+        "instructions": "take on empty stomach in the morning"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 107,
+    "prompt_ms": 83.218,
+    "prompt_per_token_ms": 0.7777383177570094,
+    "prompt_per_second": 1285.779518854094,
+    "predicted_n": 240,
+    "predicted_ms": 3028.948,
+    "predicted_per_token_ms": 12.67342259414226,
+    "predicted_per_second": 78.90528328647439
+  }
+}

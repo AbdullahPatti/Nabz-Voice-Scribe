@@ -1,0 +1,42 @@
+{
+  "transcript": "خطون 50 سال اج بیپیکس ساتر سو آیا سار بھاری رہتا ہے چکڑ نہیں آتے سینے میں ترد نہیں ہے نورویس کپانچ رات کوئی گولی شروع کر دی ہے نمکام کرنا ہے دو افتبات بیپی دوارہ چکھا ہے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 50\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest heaviness\", \"duration\": \"50 years\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"sputum\",\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Start taking medicine at night\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 50
+    },
+    "complaints": [
+      {
+        "symptom": "chest heaviness",
+        "duration": "50 years"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "sputum",
+      "fever",
+      "vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Start taking medicine at night"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 120,
+    "prompt_ms": 83.762,
+    "prompt_per_token_ms": 0.6980166666666666,
+    "prompt_per_second": 1432.6305484587283,
+    "predicted_n": 165,
+    "predicted_ms": 2059.941,
+    "predicted_per_token_ms": 12.560615853658536,
+    "predicted_per_second": 79.61393069024793
+  }
+}

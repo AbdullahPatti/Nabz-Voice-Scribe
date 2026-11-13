@@ -1,0 +1,58 @@
+{
+  "transcript": "Aurat, 45 saal. Aankh lal hai. Kaan dard hai. Kaafi arse se BP 140 by 90. Valsartan nahi. No ulti hai. Panadol jab zaroorat ke waqt. Namak kam karein. BP ek hafta. baad check up.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"red eyes\", \"duration\": null},\n    {\"symptom\": \"ear pain\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"no vomiting\"\n  ],\n  \"findings\": [\n    \"blood pressure 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": \"as needed\", \"frequency\": null, \"duration\": null, \"instructions\": \"take as needed\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Valsartan\"\n  ],\n  \"investigations_ordered\": [\n    \"blood pressure check in 1 week\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\n  \"follow_up\": \"blood pressure check in 1 week\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "red eyes",
+        "duration": null
+      },
+      {
+        "symptom": "ear pain",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "no vomiting"
+    ],
+    "findings": [
+      "blood pressure 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "as needed",
+        "frequency": null,
+        "duration": null,
+        "instructions": "take as needed"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Valsartan"
+    ],
+    "investigations_ordered": [
+      "blood pressure check in 1 week"
+    ],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": "blood pressure check in 1 week"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 91,
+    "prompt_ms": 72.577,
+    "prompt_per_token_ms": 0.7975494505494505,
+    "prompt_per_second": 1253.8407484464776,
+    "predicted_n": 245,
+    "predicted_ms": 3155.144,
+    "predicted_per_token_ms": 12.930918032786884,
+    "predicted_per_second": 77.33402976219153
+  }
+}

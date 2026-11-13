@@ -1,0 +1,65 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi. Pi lalab balgham ho raha. Luka buhar. Saans nahi. Fulta seene get dard hai. Trifor aadhi aadhi nahi. Augmentin 625 din mein do baar. 5 din khansi raat. Seraport do chamach din mein teen baar. Cigarette band karni hai. Cbc test check up. Lft karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"sputum production\", \"duration\": \"1 week\"},\n    {\"symptom\": \"fever\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"},\n    {\"symptom\": \"shortness of breath\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Augmentin\", \"strength\": \"625\", \"dose\": \"twice daily\", \"frequency\": \"5 days duration\", \"duration\": \"5 days\", \"instructions\": \"continue\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\",\n    \"LFT\"\n  ],\n  \"advice\": [\n    \"Stop smoking\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "sputum production",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "fever",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "shortness of breath",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "twice daily",
+        "frequency": "5 days duration",
+        "duration": "5 days",
+        "instructions": "continue"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC",
+      "LFT"
+    ],
+    "advice": [
+      "Stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 127,
+    "prompt_ms": 82.66,
+    "prompt_per_token_ms": 0.6508661417322834,
+    "prompt_per_second": 1536.4142269537867,
+    "predicted_n": 268,
+    "predicted_ms": 3375.561,
+    "predicted_per_token_ms": 12.642550561797753,
+    "predicted_per_second": 79.0979632718828
+  }
+}

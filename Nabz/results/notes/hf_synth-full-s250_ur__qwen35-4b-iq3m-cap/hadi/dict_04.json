@@ -1,0 +1,62 @@
+{
+  "transcript": "Khatoon, 55 saal. Aadhi piyeksu 60 saal. Zovirax saal bhabi raita hai. Cbc kar nahi. Atencine mein dard nahi hai. Novorapid 5 raat ko. Ek goli shiruk har dikhayein. Namak kam karni hai. Doft baad bilkul bukharwa chakkar hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\"symptom\": \"pain\", \"duration\": \"6 months\"},\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"},\n    {\"symptom\": \"dizziness\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"pain in abdomen\",\n    \"fever\",\n    \"vomiting\"\n  ],\n  \"findings\": [\n    \"CBC not done\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Novorapid\", \"strength\": \"5\", \"dose\": \"1 tablet at night\", \"frequency\": \"once daily at night\", \"duration\": null, \"instructions\": \"Take 1 tablet at night\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Reduce salt intake\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "pain",
+        "duration": "6 months"
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "dizziness",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "pain in abdomen",
+      "fever",
+      "vomiting"
+    ],
+    "findings": [
+      "CBC not done"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Novorapid",
+        "strength": "5",
+        "dose": "1 tablet at night",
+        "frequency": "once daily at night",
+        "duration": null,
+        "instructions": "Take 1 tablet at night"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Reduce salt intake"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 108,
+    "prompt_ms": 76.679,
+    "prompt_per_token_ms": 0.7099907407407408,
+    "prompt_per_second": 1408.4690723666192,
+    "predicted_n": 259,
+    "predicted_ms": 3342.686,
+    "predicted_per_token_ms": 12.956147286821706,
+    "predicted_per_second": 77.183438707674
+  }
+}

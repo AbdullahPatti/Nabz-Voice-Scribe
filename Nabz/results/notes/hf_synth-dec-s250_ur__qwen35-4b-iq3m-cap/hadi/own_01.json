@@ -1,0 +1,49 @@
+{
+  "transcript": "Aurat, 60 saal. 2 mahine se neepain. Sujan pesaata goli no swelling. No fever. Dexamepanadol do tablet. Halki aksa. Serc deli aur ek mahina baad, wapas aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"neepain\", \"duration\": \"2 mahine\"}\n  ],\n  \"negatives\": [\n    \"swelling\",\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Dexamethasone\", \"strength\": \"do tablet\", \"dose\": \"do tablet\", \"frequency\": null, \"duration\": null, \"instructions\": \"Halki aksa\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Serc deli aur ek mahina baad, wapas aayein\"\n  ],\n  \"follow_up\": \"ek mahina baad\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "neepain",
+        "duration": "2 mahine"
+      }
+    ],
+    "negatives": [
+      "swelling",
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Dexamethasone",
+        "strength": "do tablet",
+        "dose": "do tablet",
+        "frequency": null,
+        "duration": null,
+        "instructions": "Halki aksa"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Serc deli aur ek mahina baad, wapas aayein"
+    ],
+    "follow_up": "ek mahina baad"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 77,
+    "prompt_ms": 70.974,
+    "prompt_per_token_ms": 0.9217402597402597,
+    "prompt_per_second": 1084.9043311635246,
+    "predicted_n": 219,
+    "predicted_ms": 2837.198,
+    "predicted_per_token_ms": 13.014669724770641,
+    "predicted_per_second": 76.83637165964448
+  }
+}

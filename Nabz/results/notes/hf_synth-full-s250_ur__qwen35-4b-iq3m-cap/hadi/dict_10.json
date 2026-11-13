@@ -1,0 +1,65 @@
+{
+  "transcript": "Khatoon, 68 saal. Seraf forloxap ke liye aayein. Fexicleta bare se koi raat nahi hoa. Koi sitefak nahi. Bukhar nahi. Khansi nahi. Penicillin se allergy hai. Is lioxoquantin nahi deni. Zyrtec aadhi goli raat ko. Dastan ek mahine baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 68\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"unknown\"},\n    {\"symptom\": \"cough\", \"duration\": \"unknown\"},\n    {\"symptom\": \"vomiting\", \"duration\": \"unknown\"}\n  ],\n  \"negatives\": [\n    \"no fever\",\n    \"no cough\",\n    \"no vomiting\",\n    \"no penicillin allergy\"\n  ],\n  \"findings\": [],\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"Lioxquantin\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"do not give\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"penicillin\",\n    \"Lioxquantin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"take Zyrtec half tablet at night\",\n    \"return in one month\"\n  ],\n  \"follow_up\": \"one month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 68
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "cough",
+        "duration": "unknown"
+      },
+      {
+        "symptom": "vomiting",
+        "duration": "unknown"
+      }
+    ],
+    "negatives": [
+      "no fever",
+      "no cough",
+      "no vomiting",
+      "no penicillin allergy"
+    ],
+    "findings": [],
+    "allergies": [
+      "penicillin"
+    ],
+    "medications": [
+      {
+        "name": "Lioxquantin",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "do not give"
+      }
+    ],
+    "drugs_to_avoid": [
+      "penicillin",
+      "Lioxquantin"
+    ],
+    "investigations_ordered": [],
+    "advice": [
+      "take Zyrtec half tablet at night",
+      "return in one month"
+    ],
+    "follow_up": "one month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 112,
+    "prompt_ms": 78.356,
+    "prompt_per_token_ms": 0.6996071428571428,
+    "prompt_per_second": 1429.3736280565624,
+    "predicted_n": 298,
+    "predicted_ms": 3659.098,
+    "predicted_per_token_ms": 12.320195286195286,
+    "predicted_per_second": 81.1675445697273
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "transcript": "Aurat, 60 years, 2 mahine. Sunny Pane se urion. Pazatar goli no swelling. No fever. Dermovate do taprardol. Plavixolal ke zylocard. Cac-Sacar-Six deli aur ek mahina baad. Warfax saal.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 60\n  },\n  \"complaints\": [\n    {\"symptom\": \"urinary retention\", \"duration\": \"2 months\"}\n  ],\n  \"negatives\": [\n    \"swelling\",\n    \"fever\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Dermovate\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"twice daily\"\n    },\n    {\n      \"name\": \"Plavix\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take for one month\"\n    },\n    {\n      \"name\": \"Zocard\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take for one month\"\n    },\n    {\n      \"name\": \"Cac-Sac\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take for one month\"\n    },\n    {\n      \"name\": \"Warfarin\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"take for one month\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Return after one month\"\n  ],\n  \"follow_up\": \"1 month\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 60
+    },
+    "complaints": [
+      {
+        "symptom": "urinary retention",
+        "duration": "2 months"
+      }
+    ],
+    "negatives": [
+      "swelling",
+      "fever"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Dermovate",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "twice daily"
+      },
+      {
+        "name": "Plavix",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take for one month"
+      },
+      {
+        "name": "Zocard",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take for one month"
+      },
+      {
+        "name": "Cac-Sac",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take for one month"
+      },
+      {
+        "name": "Warfarin",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take for one month"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Return after one month"
+    ],
+    "follow_up": "1 month"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 83,
+    "prompt_ms": 72.246,
+    "prompt_per_token_ms": 0.870433734939759,
+    "prompt_per_second": 1148.8525316280488,
+    "predicted_n": 435,
+    "predicted_ms": 5102.441,
+    "predicted_per_token_ms": 11.756776497695853,
+    "predicted_per_second": 85.05732844338621
+  }
+}

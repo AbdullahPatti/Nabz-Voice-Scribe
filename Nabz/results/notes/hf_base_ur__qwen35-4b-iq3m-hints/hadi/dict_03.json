@@ -1,0 +1,54 @@
+{
+  "transcript": "مر چارے سال کل رات لے دست لگے ہیں اٹنوں دفع ہو چکے ہیں دست میں حون نہیں ہے جس میں پانی کی قمی ہے ار دست کے بعد ورس کے ایک گلاث رجل چار سدین میں ٹین بار پاچھ دین دور طلیوی چیزیں بان دگر بشاب کام ہو جی تو فورا نواپیز ہیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 40\n  },\n  \"complaints\": [\n    {\"symptom\": \"hand pain\", \"duration\": \"past 4 years\"},\n    {\"symptom\": \"hand pain\", \"duration\": \"last night\"},\n    {\"symptom\": \"hand pain\", \"duration\": \"10 times\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid water in hand\",\n    \"avoid cold water\",\n    \"avoid cold drinks\",\n    \"avoid cold food\",\n    \"avoid cold air\",\n    \"avoid cold wind\",\n    \"avoid cold floor\",\n    \"avoid cold clothes\",\n    \"avoid cold water\",\n    \"avoid cold tea\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 40
+    },
+    "complaints": [
+      {
+        "symptom": "hand pain",
+        "duration": "past 4 years"
+      },
+      {
+        "symptom": "hand pain",
+        "duration": "last night"
+      },
+      {
+        "symptom": "hand pain",
+        "duration": "10 times"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid water in hand",
+      "avoid cold water",
+      "avoid cold drinks",
+      "avoid cold food",
+      "avoid cold air",
+      "avoid cold wind",
+      "avoid cold floor",
+      "avoid cold clothes",
+      "avoid cold water",
+      "avoid cold tea"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 151,
+    "prompt_ms": 88.813,
+    "prompt_per_token_ms": 0.5881655629139073,
+    "prompt_per_second": 1700.2015470708116,
+    "predicted_n": 233,
+    "predicted_ms": 2809.864,
+    "predicted_per_token_ms": 12.11148275862069,
+    "predicted_per_second": 82.56627367018476
+  }
+}

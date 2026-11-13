@@ -1,0 +1,53 @@
+{
+  "transcript": "Marendra, 35 saal. Protol fever for 2 days. Khansi nahi hai. Koi saans kamar sa aana nahi hai. Panadol jab bi fever ho. Warms hot water ke teen din. Metzin baad lagrahat karein. Viagra aath ghante baad dikhayein. Typhoid ka test karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"dyspnea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": \"as needed\", \"frequency\": \"when fever occurs\", \"duration\": null, \"instructions\": \"take after meals\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Viagra\"\n  ],\n  \"investigations_ordered\": [\n    \"Typhoid test\"\n  ],\n  \"advice\": [\n    \"Take warm water for 3 days\"\n  ],\n  \"follow_up\": \"in 8 hours\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "dyspnea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": "as needed",
+        "frequency": "when fever occurs",
+        "duration": null,
+        "instructions": "take after meals"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Viagra"
+    ],
+    "investigations_ordered": [
+      "Typhoid test"
+    ],
+    "advice": [
+      "Take warm water for 3 days"
+    ],
+    "follow_up": "in 8 hours"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 99,
+    "prompt_ms": 72.524,
+    "prompt_per_token_ms": 0.7325656565656565,
+    "prompt_per_second": 1365.0653576747009,
+    "predicted_n": 223,
+    "predicted_ms": 2853.451,
+    "predicted_per_token_ms": 12.853382882882883,
+    "predicted_per_second": 77.80052995478107
+  }
+}

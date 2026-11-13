@@ -1,0 +1,59 @@
+{
+  "transcript": "Mard, 22 saal. raat ko saans se khali pait. Seene se seene ek hai. Ghabrahat bhi nahi hai. Bukhar nahi. Ventolin nahi lal nahi lal raat ko. Dapagliflozin paanch ml raat ko. Zyrtec ek goli do goli do goli subah shaam.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 22\n  },\n  \"complaints\": [\n    {\"symptom\": \"shortness of breath at night\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"chest pain\",\n    \"fear/anxiety\",\n    \"fever\",\n    \"asthma symptoms (wheezing/shortness of breath with Ventolin)\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Dapagliflozin\", \"strength\": \"5ml\", \"dose\": \"once at night\", \"frequency\": null, \"duration\": null, \"instructions\": null},\n    {\"name\": \"Zyrtec\", \"strength\": null, \"dose\": \"2 tablets\", \"frequency\": \"morning and evening\", \"duration\": null, \"instructions\": null}\n  ],\n  \"drugs_to_avoid\": [\n    \"Ventolin\"\n  ],\n  \"investigations_ordered\": [],\n  \"advice\": [],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 22
+    },
+    "complaints": [
+      {
+        "symptom": "shortness of breath at night",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "chest pain",
+      "fear/anxiety",
+      "fever",
+      "asthma symptoms (wheezing/shortness of breath with Ventolin)"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Dapagliflozin",
+        "strength": "5ml",
+        "dose": "once at night",
+        "frequency": null,
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "Zyrtec",
+        "strength": null,
+        "dose": "2 tablets",
+        "frequency": "morning and evening",
+        "duration": null,
+        "instructions": null
+      }
+    ],
+    "drugs_to_avoid": [
+      "Ventolin"
+    ],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 75.359,
+    "prompt_per_token_ms": 0.738813725490196,
+    "prompt_per_second": 1353.521145450444,
+    "predicted_n": 265,
+    "predicted_ms": 3400.574,
+    "predicted_per_token_ms": 12.880962121212121,
+    "predicted_per_second": 77.63395238568548
+  }
+}

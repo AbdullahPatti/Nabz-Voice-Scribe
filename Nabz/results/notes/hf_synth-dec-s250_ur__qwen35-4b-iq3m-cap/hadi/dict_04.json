@@ -1,0 +1,55 @@
+{
+  "transcript": "Khatoon, 55 saal. 8 BP 168 twice a day. Saar bhi nahi hai. Chakkar nahi. HB 13. Seene mein dard nahi hai. Norvasc paanch ml raat ko, ek goli. Serc karwa lein. Namak kam karni hai. Do hafte baad. BP twice a day.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 55\n  },\n  \"complaints\": [\n    {\n      \"symptom\": \"hypertension\",\n      \"duration\": \"twice a day\"\n    }\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"dizziness\",\n    \"chest pain\"\n  ],\n  \"findings\": [\n    \"blood_pressure_sitting_mmhg_168\",\n    \"hemoglobin_gdl_13\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Norvasc\",\n      \"strength\": \"5ml\",\n      \"dose\": \"1 tablet\",\n      \"frequency\": \"night\",\"duration\": \"2 weeks\",\"instructions\": \"take Serc\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"Serc\"\n  ],\n  \"advice\": [\n    \"reduce salt intake\"\n  ],\"follow_up\": \"in 2 weeks\"}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 55
+    },
+    "complaints": [
+      {
+        "symptom": "hypertension",
+        "duration": "twice a day"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "dizziness",
+      "chest pain"
+    ],
+    "findings": [
+      "blood_pressure_sitting_mmhg_168",
+      "hemoglobin_gdl_13"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Norvasc",
+        "strength": "5ml",
+        "dose": "1 tablet",
+        "frequency": "night",
+        "duration": "2 weeks",
+        "instructions": "take Serc"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "Serc"
+    ],
+    "advice": [
+      "reduce salt intake"
+    ],
+    "follow_up": "in 2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 103,
+    "prompt_ms": 74.702,
+    "prompt_per_token_ms": 0.7252621359223301,
+    "prompt_per_second": 1378.8118122674093,
+    "predicted_n": 262,
+    "predicted_ms": 3321.168,
+    "predicted_per_token_ms": 12.724781609195404,
+    "predicted_per_second": 78.58681042332096
+  }
+}

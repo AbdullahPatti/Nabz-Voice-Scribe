@@ -1,0 +1,63 @@
+{
+  "transcript": "Mard, 45 saal. Ek hafte se khansi. Pila balgham ho raha. Bukhar saans nahi. Fulta sinegi dain. Terafax baad aadhi hai. Augmentin 625 din mein do baar. 5 din khansi raat do chamach din mein teen baar. Cigarette band karni hai. Cbc test check karwa lein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"sputum production\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"dyspnea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Terafax\",\n      \"strength\": null,\n      \"dose\": \"half tablet\",\n      \"frequency\": \"twice daily\",\"duration\": null,\n      \"instructions\": \"stop smoking\"\n    },\n    {\n      \"name\": \"Augmentin\",\n      \"strength\": \"625\",\n      \"dose\": \"2 tablets\",\n      \"frequency\": \"twice daily\",\n      \"duration\": \"5 days\",\"instructions\": \"take 2 teaspoons of cough syrup 3 times daily\"\n    }\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"CBC\"\n  ],\n  \"advice\": [\n    \"Stop smoking\"\n  ],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "sputum production",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "dyspnea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Terafax",
+        "strength": null,
+        "dose": "half tablet",
+        "frequency": "twice daily",
+        "duration": null,
+        "instructions": "stop smoking"
+      },
+      {
+        "name": "Augmentin",
+        "strength": "625",
+        "dose": "2 tablets",
+        "frequency": "twice daily",
+        "duration": "5 days",
+        "instructions": "take 2 teaspoons of cough syrup 3 times daily"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "CBC"
+    ],
+    "advice": [
+      "Stop smoking"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 111,
+    "prompt_ms": 76.968,
+    "prompt_per_token_ms": 0.6934054054054054,
+    "prompt_per_second": 1442.1577798565636,
+    "predicted_n": 302,
+    "predicted_ms": 3718.126,
+    "predicted_per_token_ms": 12.3525780730897,
+    "predicted_per_second": 80.95476054334898
+  }
+}

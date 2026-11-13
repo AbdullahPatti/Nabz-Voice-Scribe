@@ -1,0 +1,48 @@
+{
+  "transcript": "خاتون شبب سال دو دن سے پشاب میں جلن ہے اور پار بار آتا ہے وہ کار نہیں کمارے میں ترد نہیں پیکنٹ نہیں ہے سائپ روک پانسو دن میں دو بار تین دن پانی زیادہ پیئے پشاب کو ٹیسٹ کروالے ہیں تین دن میں فرکنہ پڑے تو دو بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 2\n    },\n  \"complaints\": [\n    {\"symptom\": \"burning in urine\", \"duration\": \"2 days\"},\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"no vomiting\",\n    \"no cough\",\n    \"no chest pain\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"urine test\"\n  ],\n  \"advice\": [\n    \"drink more water\",\n    \"if fever returns in 2 days, come back\"\n  ],\n  \"follow_up\": \"if fever returns in 2 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 2
+    },
+    "complaints": [
+      {
+        "symptom": "burning in urine",
+        "duration": "2 days"
+      },
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "no vomiting",
+      "no cough",
+      "no chest pain"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "urine test"
+    ],
+    "advice": [
+      "drink more water",
+      "if fever returns in 2 days, come back"
+    ],
+    "follow_up": "if fever returns in 2 days"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 130,
+    "prompt_ms": 81.691,
+    "prompt_per_token_ms": 0.6283923076923077,
+    "prompt_per_second": 1591.362573600519,
+    "predicted_n": 204,
+    "predicted_ms": 2476.229,
+    "predicted_per_token_ms": 12.198172413793102,
+    "predicted_per_second": 81.97949381902886
+  }
+}

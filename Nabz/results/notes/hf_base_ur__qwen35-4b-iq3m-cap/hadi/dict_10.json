@@ -1,0 +1,43 @@
+{
+  "transcript": "خاتون ارتسال صرف فالو آپ کے لئے آئی ہیں فیسلی دوائی سے کوئی راش نہیں ہوا کوئی سائیٹ افیک نہیں بخارڈ نہیں خانسی نہیں پہنے سرن سے لڑی ہے اس لیوکمانٹن نہیں دینی سے اٹے گادی گولی رات کو 10 دن ایک مینے بعد دیکھئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"10 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"coughing up sputum\",\n    \"chest pain\",\n    \"leukopenia\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"follow-up in 10 days\"\n  ],\n  \"follow_up\": \"10 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "10 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "coughing up sputum",
+      "chest pain",
+      "leukopenia",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "follow-up in 10 days"
+    ],
+    "follow_up": "10 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 100,
+    "prompt_ms": 74.083,
+    "prompt_per_token_ms": 0.74083,
+    "prompt_per_second": 1349.8373445999757,
+    "predicted_n": 179,
+    "predicted_ms": 2161.75,
+    "predicted_per_token_ms": 12.144662921348315,
+    "predicted_per_second": 82.34069619521222
+  }
+}

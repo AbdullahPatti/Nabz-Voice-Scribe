@@ -1,0 +1,51 @@
+{
+  "transcript": "مریز مرد اٹھائیس سال پاہتن سے تیز وہ ہار ہے سردتر کمزوری بھی ہے کندہ راتن بوٹھان لگ دیئے گولٹی نہیں ہے دستوی نہیں ٹیفٹ کٹیس پوزٹے بایا ہے از میکس پونس رزانے گولی سات دن اور دو گولی دن میں ٹین بار جب وہ ہارو ٹین دن بات بار آئے",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 19\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"19 days\"},\n    {\"symptom\": \"weakness\", \"duration\": \"19 days\"}\n  ],\n  \"negatives\": [\n    \"vomiting\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Azomax\", \"strength\": \"7\", \"dose\": \"once daily\", \"frequency\": \"for 7 days\", \"duration\": \"7 days\", \"instructions\": \"take 2 pills in the morning\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [],\"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 19
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "19 days"
+      },
+      {
+        "symptom": "weakness",
+        "duration": "19 days"
+      }
+    ],
+    "negatives": [
+      "vomiting",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Azomax",
+        "strength": "7",
+        "dose": "once daily",
+        "frequency": "for 7 days",
+        "duration": "7 days",
+        "instructions": "take 2 pills in the morning"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 0,
+    "prompt_n": 494,
+    "prompt_ms": 166.748,
+    "prompt_per_token_ms": 0.33754655870445344,
+    "prompt_per_second": 2962.554273514525,
+    "predicted_n": 208,
+    "predicted_ms": 2705.353,
+    "predicted_per_token_ms": 13.069338164251208,
+    "predicted_per_second": 76.51496865658567
+  }
+}

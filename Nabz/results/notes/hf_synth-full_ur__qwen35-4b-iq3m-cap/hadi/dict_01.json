@@ -1,0 +1,79 @@
+{
+  "transcript": "Mareez mard, 28 saal. 8 din se test hai. Bukhar hai. Sar dast hai. Kamzori bhi nahi hai. Kaan dard nahi. Bhook na lagna bilkul nahi hai. Dast bhi nahi hai. Tavanic khali pait. HB 12. Azomax paanch ml rozana. Ventolin 7 din. Ranadol do goli din mein teen baar. jab bukhar ho. 3 din baad dobara aayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 28\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"8 days\"},\n    {\"symptom\": \"headache\", \"duration\": \"8 days\"}\n  ],\n  \"negatives\": [\n    \"weakness\",\n    \"ear pain\",\n    \"loss of appetite\",\n    \"diarrhea\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Tavanic\", \"strength\": \"empty stomach\", \"dose\": \"empty stomach\", \"frequency\": \"as needed for fever\", \"duration\": \"8 days\", \"instructions\": \"return in 3 days if fever persists\"},\n    {\"name\": \"Azomax\", \"strength\": \"5ml\", \"dose\": \"5ml\", \"frequency\": \"daily\", \"duration\": \"8 days\", \"instructions\": \"return in 3 days if fever persists\"},\n    {\"name\": \"Ventolin\", \"strength\": \"empty stomach\", \"dose\": \"empty stomach\", \"frequency\": \"as needed for fever\", \"duration\": \"8 days\", \"instructions\": \"return in 3 days if fever persists\"},\n    {\"name\": \"Ranadol\", \"strength\": \"empty stomach\", \"dose\": \"3 tablets\", \"frequency\": \"3 times a day\", \"duration\": \"8 days\", \"instructions\": \"return in 3 days if fever persists\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"return in 3 days\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 28
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "8 days"
+      },
+      {
+        "symptom": "headache",
+        "duration": "8 days"
+      }
+    ],
+    "negatives": [
+      "weakness",
+      "ear pain",
+      "loss of appetite",
+      "diarrhea"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Tavanic",
+        "strength": "empty stomach",
+        "dose": "empty stomach",
+        "frequency": "as needed for fever",
+        "duration": "8 days",
+        "instructions": "return in 3 days if fever persists"
+      },
+      {
+        "name": "Azomax",
+        "strength": "5ml",
+        "dose": "5ml",
+        "frequency": "daily",
+        "duration": "8 days",
+        "instructions": "return in 3 days if fever persists"
+      },
+      {
+        "name": "Ventolin",
+        "strength": "empty stomach",
+        "dose": "empty stomach",
+        "frequency": "as needed for fever",
+        "duration": "8 days",
+        "instructions": "return in 3 days if fever persists"
+      },
+      {
+        "name": "Ranadol",
+        "strength": "empty stomach",
+        "dose": "3 tablets",
+        "frequency": "3 times a day",
+        "duration": "8 days",
+        "instructions": "return in 3 days if fever persists"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "return in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 134,
+    "prompt_ms": 90.256,
+    "prompt_per_token_ms": 0.6735522388059701,
+    "prompt_per_second": 1484.6658393901791,
+    "predicted_n": 397,
+    "predicted_ms": 4765.513,
+    "predicted_per_token_ms": 12.034123737373736,
+    "predicted_per_second": 83.09703488375753
+  }
+}

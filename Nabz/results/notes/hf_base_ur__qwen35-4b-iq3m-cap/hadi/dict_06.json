@@ -1,0 +1,46 @@
+{
+  "transcript": "آتون تیس آل پیڑ کیوں پر جلن ہوتی ہے کھانے گبت زیادہ کندی یہ کھٹے دکھا ہر انڈے نے اولٹی نہیں وزن کم نہیں ہوا ریسک بھی سبہ خری پیڑ دو اف تیرات کو گیویس کون کے دوچہ مچھ ہے اور مچھ کم کریں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 23\n  },\n  \"complaints\": [\n    {\"symptom\": \"itching\", \"duration\": \"23 years\"},\n    {\"symptom\": \"burning sensation\", \"duration\": \"23 years\"}\n  ],\n  \"negatives\": [\n    \"no excessive eating\",\n    \"no weight loss\",\n    \"no vomiting\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"avoid eating sour fruits\",\n    \"avoid eating salty food\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 23
+    },
+    "complaints": [
+      {
+        "symptom": "itching",
+        "duration": "23 years"
+      },
+      {
+        "symptom": "burning sensation",
+        "duration": "23 years"
+      }
+    ],
+    "negatives": [
+      "no excessive eating",
+      "no weight loss",
+      "no vomiting"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "avoid eating sour fruits",
+      "avoid eating salty food"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 100,
+    "prompt_ms": 73.006,
+    "prompt_per_token_ms": 0.73006,
+    "prompt_per_second": 1369.7504314713858,
+    "predicted_n": 183,
+    "predicted_ms": 2234.305,
+    "predicted_per_token_ms": 12.276401098901099,
+    "predicted_per_second": 81.45709739717721
+  }
+}

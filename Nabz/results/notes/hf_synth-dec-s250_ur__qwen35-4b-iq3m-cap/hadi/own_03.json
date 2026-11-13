@@ -1,0 +1,54 @@
+{
+  "transcript": "Aurat, 45 saal. 6 saal hai. Kamar dard hai. Kaafi hai. Serc hai. BP 140 by 90. Valsartan hai. No ulti hai. Pairnadol jab zaroorat khali ho. Namak kam khali hai. BP ek puff se baad. Fird check karein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 45\n  },\n  \"complaints\": [\n    {\"symptom\": \"kamar dard\", \"duration\": \"6 saal\"}\n  ],\n  \"negatives\": [\n    \"ulti\"\n  ],\n  \"findings\": [\n    \"BP 140/90\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\n      \"name\": \"Valsartan\",\n      \"strength\": null,\n      \"dose\": null,\n      \"frequency\": null,\n      \"duration\": null,\n      \"instructions\": \"BP ek puff se baad\"\n    }\n  ],\n  \"drugs_to_avoid\": [\n    \"Pairnadol\"\n  ],\n  \"investigations_ordered\": [\n    \"Fird check\"\n  ],\n  \"advice\": [\n    \"Namak kam khali hai\"\n  ],\n  \"follow_up\": \"Fird check karein\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 45
+    },
+    "complaints": [
+      {
+        "symptom": "kamar dard",
+        "duration": "6 saal"
+      }
+    ],
+    "negatives": [
+      "ulti"
+    ],
+    "findings": [
+      "BP 140/90"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Valsartan",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "BP ek puff se baad"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Pairnadol"
+    ],
+    "investigations_ordered": [
+      "Fird check"
+    ],
+    "advice": [
+      "Namak kam khali hai"
+    ],
+    "follow_up": "Fird check karein"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 97,
+    "prompt_ms": 73.59,
+    "prompt_per_token_ms": 0.758659793814433,
+    "prompt_per_second": 1318.1138741676857,
+    "predicted_n": 248,
+    "predicted_ms": 3178.073,
+    "predicted_per_token_ms": 12.866692307692308,
+    "predicted_per_second": 77.72005237135836
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "transcript": "Khatoon, 26 saal. 2 din se peshab mein jalan hai. HB 12. HB 12. Bukhar nahi. Kamarival nahi. Plaquenil nahi hai. Sipro 500 din mein do baar, 3 din. Paani zyada piyein. Peshab ko. Tast karwa lein. 3 din mein farq na pare to dupar aana hai.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 26\n  },\n  \"complaints\": [\n    {\"symptom\": \"dysuria\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"fever\",\n    \"back pain\"\n  ],\n  \"findings\": [\n    \"Hb 12\"\n  ],\n  \"allergies\": [\n    \"Plaquenil\"\n  ],\n  \"medications\": [\n    {\"name\": \"Ciprofloxacin\", \"strength\": \"500\", \"dose\": \"twice daily\", \"frequency\": \"3 days\", \"duration\": \"3 days\", \"instructions\": \"drink plenty of water, void urine\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"Return if no improvement in 3 days\"\n  ],\n  \"follow_up\": \"3 days\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 26
+    },
+    "complaints": [
+      {
+        "symptom": "dysuria",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "fever",
+      "back pain"
+    ],
+    "findings": [
+      "Hb 12"
+    ],
+    "allergies": [
+      "Plaquenil"
+    ],
+    "medications": [
+      {
+        "name": "Ciprofloxacin",
+        "strength": "500",
+        "dose": "twice daily",
+        "frequency": "3 days",
+        "duration": "3 days",
+        "instructions": "drink plenty of water, void urine"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "Return if no improvement in 3 days"
+    ],
+    "follow_up": "3 days"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 114,
+    "prompt_ms": 79.593,
+    "prompt_per_token_ms": 0.6981842105263159,
+    "prompt_per_second": 1432.2867588858317,
+    "predicted_n": 237,
+    "predicted_ms": 3025.546,
+    "predicted_per_token_ms": 12.820110169491524,
+    "predicted_per_second": 78.00244980575407
+  }
+}

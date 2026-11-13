@@ -1,0 +1,58 @@
+{
+  "name": "synth-dec",
+  "base": "openai/whisper-base",
+  "lang": "ur",
+  "real": null,
+  "real_repeat": 20,
+  "train_encoder": false,
+  "steps": 2000,
+  "batch": 16,
+  "lr": 2e-05,
+  "seed": 13,
+  "save_at": [
+    250,
+    500
+  ],
+  "log": [
+    {
+      "step": 250,
+      "train_loss": 0.1174,
+      "val_loss": 0.0762
+    },
+    {
+      "step": 500,
+      "train_loss": 0.0406,
+      "val_loss": 0.0321
+    },
+    {
+      "step": 750,
+      "train_loss": 0.0587,
+      "val_loss": 0.0202
+    },
+    {
+      "step": 1000,
+      "train_loss": 0.0337,
+      "val_loss": 0.0168
+    },
+    {
+      "step": 1250,
+      "train_loss": 0.0097,
+      "val_loss": 0.0138
+    },
+    {
+      "step": 1500,
+      "train_loss": 0.0263,
+      "val_loss": 0.0127
+    },
+    {
+      "step": 1750,
+      "train_loss": 0.0219,
+      "val_loss": 0.0126
+    },
+    {
+      "step": 2000,
+      "train_loss": 0.0294,
+      "val_loss": 0.0124
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "synth-dec",
+  "base": "openai/whisper-base",
+  "lang": "ur",
+  "real": null,
+  "real_repeat": 20,
+  "train_encoder": false,
+  "steps": 2000,
+  "batch": 16,
+  "lr": 2e-05,
+  "seed": 13,
+  "save_at": [
+    250,
+    500
+  ],
+  "log": [
+    {
+      "step": 250,
+      "train_loss": 0.1174,
+      "val_loss": 0.0762
+    },
+    {
+      "step": 500,
+      "train_loss": 0.0406,
+      "val_loss": 0.0321
+    }
+  ]
+}

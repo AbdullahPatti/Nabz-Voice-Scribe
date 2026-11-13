@@ -1,0 +1,49 @@
+{
+  "transcript": "مرد پنطالی سالے ایک ہفتے سے خانسی پیلہ بلگہ مرحل کا بہار سانس نہیں پھولتا سینے کے دائی طرح پو آدہا رہی ہے اب مینڈن چیزو پڑچیز دین میں دو بار پہنچ دین خانسی کا صرف دو چمجھ دین میں تین بار سیڑٹ بند کر نہیں ہے چیسٹ ایک سٹیک کرو آلیں",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": null\n  },\n  \"complaints\": [\n    {\"symptom\": \"cough\", \"duration\": \"1 week\"},\n    {\"symptom\": \"yellow sputum\", \"duration\": \"1 week\"},\n    {\"symptom\": \"wheezing\", \"duration\": \"1 week\"},\n    {\"symptom\": \"chest pain\", \"duration\": \"1 week\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"chest physiotherapy\"\n  ],\n  \"follow_up\": \"none\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": null
+    },
+    "complaints": [
+      {
+        "symptom": "cough",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "yellow sputum",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "wheezing",
+        "duration": "1 week"
+      },
+      {
+        "symptom": "chest pain",
+        "duration": "1 week"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "chest physiotherapy"
+    ],
+    "follow_up": "none"
+  },
+  "timings": {
+    "cache_n": 328,
+    "prompt_n": 221,
+    "prompt_ms": 101.471,
+    "prompt_per_token_ms": 0.45914479638009054,
+    "prompt_per_second": 2177.962176385371,
+    "predicted_n": 187,
+    "predicted_ms": 2305.276,
+    "predicted_per_token_ms": 12.393956989247311,
+    "predicted_per_second": 80.68448203165262
+  }
+}

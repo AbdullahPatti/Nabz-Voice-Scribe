@@ -1,0 +1,54 @@
+{
+  "transcript": "Mareem, 35 saal. Trotor fever for 2 days. Khansi nahi. HB 9. Koi saans kamasla nahi hai. Panadol jab pi fever ho. Warms hot water 15 din. Metin baar garare karein. Velwa aath ghantec nahi ho, 7 din. Ramah wapas nahi.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"2 days\"}\n  ],\n  \"negatives\": [\n    \"cough\",\n    \"breathlessness\"\n  ],\n  \"findings\": [\n    \"blood_hemoglobin_9\"\n  ],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Panadol\", \"strength\": null, \"dose\": null, \"frequency\": null, \"duration\": null, \"instructions\": \"take when fever occurs\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [],\n  \"advice\": [\n    \"drink warm water\",\n    \"take Metin baar garare (likely Metin baar/garare) for 7 days\",\n    \"take Velwa for 7 days\",\n    \"avoid Ramah\"\n  ],\n  \"follow_up\": null\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "2 days"
+      }
+    ],
+    "negatives": [
+      "cough",
+      "breathlessness"
+    ],
+    "findings": [
+      "blood_hemoglobin_9"
+    ],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Panadol",
+        "strength": null,
+        "dose": null,
+        "frequency": null,
+        "duration": null,
+        "instructions": "take when fever occurs"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [],
+    "advice": [
+      "drink warm water",
+      "take Metin baar garare (likely Metin baar/garare) for 7 days",
+      "take Velwa for 7 days",
+      "avoid Ramah"
+    ],
+    "follow_up": null
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 102,
+    "prompt_ms": 79.398,
+    "prompt_per_token_ms": 0.7784117647058824,
+    "prompt_per_second": 1284.6671200785916,
+    "predicted_n": 245,
+    "predicted_ms": 3091.503,
+    "predicted_per_token_ms": 12.670094262295082,
+    "predicted_per_second": 78.92601106969653
+  }
+}

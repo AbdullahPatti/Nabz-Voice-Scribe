@@ -1,0 +1,67 @@
+{
+  "transcript": "Marendra, 35 saal. Zovirax 200 twice a day for 2 days. Khansi nahi hai. Koi saans kamar saani hai. Panadol jab bukhar ho. Warfarin 100 twice a day for 3 days. Malarone paanch ml din mein teen baar. Agar farq na dein. Lft karwa lein. Typhoid ka test karwa lein. Do hafte baad dikhayein.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"male\",\n    \"age_years\": 35\n  },\n  \"complaints\": [\n    {\"symptom\": \"chest tightness\", \"duration\": null}\n  ],\n  \"negatives\": [\n    \"cough\"\n  ],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Zovirax\", \"strength\": \"200\", \"dose\": \"twice a day\", \"frequency\": \"for 2 days\", \"duration\": null, \"instructions\": \"take if fever present\"},\n    {\"name\": \"Warfarin\", \"strength\": \"100\", \"dose\": \"twice a day\", \"frequency\": \"for 3 days\", \"duration\": null, \"instructions\": null},\n    {\"name\": \"Malarone\", \"strength\": \"5ml\", \"dose\": \"three times\", \"frequency\": \"daily\", \"duration\": null, \"instructions\": \"continue if no improvement\"}\n  ],\n  \"drugs_to_avoid\": [],\n  \"investigations_ordered\": [\n    \"LFT\",\n    \"Typhoid test\"\n  ],\n  \"advice\": [\n    \"Return in 2 weeks\"\n  ],\n  \"follow_up\": \"2 weeks\"\n}",
+  "note": {
+    "patient": {
+      "sex": "male",
+      "age_years": 35
+    },
+    "complaints": [
+      {
+        "symptom": "chest tightness",
+        "duration": null
+      }
+    ],
+    "negatives": [
+      "cough"
+    ],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Zovirax",
+        "strength": "200",
+        "dose": "twice a day",
+        "frequency": "for 2 days",
+        "duration": null,
+        "instructions": "take if fever present"
+      },
+      {
+        "name": "Warfarin",
+        "strength": "100",
+        "dose": "twice a day",
+        "frequency": "for 3 days",
+        "duration": null,
+        "instructions": null
+      },
+      {
+        "name": "Malarone",
+        "strength": "5ml",
+        "dose": "three times",
+        "frequency": "daily",
+        "duration": null,
+        "instructions": "continue if no improvement"
+      }
+    ],
+    "drugs_to_avoid": [],
+    "investigations_ordered": [
+      "LFT",
+      "Typhoid test"
+    ],
+    "advice": [
+      "Return in 2 weeks"
+    ],
+    "follow_up": "2 weeks"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 123,
+    "prompt_ms": 80.569,
+    "prompt_per_token_ms": 0.6550325203252033,
+    "prompt_per_second": 1526.6417604785959,
+    "predicted_n": 308,
+    "predicted_ms": 3797.106,
+    "predicted_per_token_ms": 12.368423452768731,
+    "predicted_per_second": 80.85104814034688
+  }
+}

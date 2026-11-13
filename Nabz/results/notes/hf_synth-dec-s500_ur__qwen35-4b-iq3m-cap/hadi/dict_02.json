@@ -1,0 +1,60 @@
+{
+  "transcript": "Khatoon, 34 saal. 3 din se bukhar hai. Jism par daad raat ko. Keppixtra dard hai. Platelets 95 hazaar hai. Kaafi se khoon nahi ho raha. Serc par daadol do goli din mein teen baar. Profen bilkul nahi leni. Disprin bhi nahi paani zyada piyein. Kal khoon ka test baad raat ko. 12 paanch ml raat ko.",
+  "raw": "{\n  \"patient\": {\n    \"sex\": \"female\",\n    \"age_years\": 34\n  },\n  \"complaints\": [\n    {\"symptom\": \"fever\", \"duration\": \"3 days\"},\n    {\"symptom\": \"rash\", \"duration\": \"night\"},\n    {\"symptom\": \"headache\", \"duration\": \"continuous\"}\n  ],\n  \"negatives\": [],\n  \"findings\": [],\n  \"allergies\": [],\n  \"medications\": [\n    {\"name\": \"Serc\", \"strength\": null, \"dose\": \"3 tablets\", \"frequency\": \"3 times daily\", \"duration\": null, \"instructions\": \"take\"}\n  ],\n  \"drugs_to_avoid\": [\n    \"Profen\",\n    \"Disprin\"\n  ],\n  \"investigations_ordered\": [\n    \"CBC (blood test)\",\n    \"CBC (blood test) at 12:00 AM\"\n  ],\n  \"advice\": [\n    \"drink plenty of water\"\n  ],\n  \"follow_up\": \"blood test tomorrow night\"\n}",
+  "note": {
+    "patient": {
+      "sex": "female",
+      "age_years": 34
+    },
+    "complaints": [
+      {
+        "symptom": "fever",
+        "duration": "3 days"
+      },
+      {
+        "symptom": "rash",
+        "duration": "night"
+      },
+      {
+        "symptom": "headache",
+        "duration": "continuous"
+      }
+    ],
+    "negatives": [],
+    "findings": [],
+    "allergies": [],
+    "medications": [
+      {
+        "name": "Serc",
+        "strength": null,
+        "dose": "3 tablets",
+        "frequency": "3 times daily",
+        "duration": null,
+        "instructions": "take"
+      }
+    ],
+    "drugs_to_avoid": [
+      "Profen",
+      "Disprin"
+    ],
+    "investigations_ordered": [
+      "CBC (blood test)",
+      "CBC (blood test) at 12:00 AM"
+    ],
+    "advice": [
+      "drink plenty of water"
+    ],
+    "follow_up": "blood test tomorrow night"
+  },
+  "timings": {
+    "cache_n": 231,
+    "prompt_n": 127,
+    "prompt_ms": 85.595,
+    "prompt_per_token_ms": 0.6739763779527559,
+    "prompt_per_second": 1483.7315263742041,
+    "predicted_n": 255,
+    "predicted_ms": 3247.392,
+    "predicted_per_token_ms": 12.785007874015747,
+    "predicted_per_second": 78.21661197662617
+  }
+}
