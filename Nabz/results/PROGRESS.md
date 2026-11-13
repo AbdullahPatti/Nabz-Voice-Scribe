@@ -11,7 +11,7 @@ At the start of every session: read this and continue from the first item that i
 | Step 1.1 Urdu note writers (plan.txt steps 4 to 6) | todo | |
 | Step 1.2 Phone-tier note writers, cap, dry, hints | todo | |
 | Step 1.3 PyTorch Whisper parity (hf base, hf small) | done (13 Nov 2026, after b66e87b) | done before 1.1 and 1.2 while the note-writer models downloaded (GPU was free). hf_base_ur and hf_small_ur, 39 clips each. |
-| Step 1.4 Lexicon biasing (Hadi, λ grid) | todo | |
+| Step 1.4 Lexicon biasing (Hadi, λ grid) | done (13 Nov 2026, after eed52d5) | Hadi only. Guarded λ 1, 2, 3 (run_asr_hf.py --bias λ --tag-suffix cg); unguarded λ 2, 4, 6, 8, 10 (rerun_bias_noguard.py, since asr_bias.py now always applies the guard). Not tuned. |
 | Step 1.5 Synthetic fine-tune (texts, audio, synth-dec, synth-full, Hadi transcripts) | todo | |
 | Step 1.6 End to end, checkpoint choice, test speakers | todo | |
 | Step 1.7 ASR confidence and base cross-check | todo | |
