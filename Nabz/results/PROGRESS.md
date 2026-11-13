@@ -16,7 +16,7 @@ At the start of every session: read this and continue from the first item that i
 | Step 1.6 End to end, checkpoint choice, test speakers | done (13 Nov 2026, after c816ef3) | Phone note writer (IQ3_M, capped) on all 6 checkpoints' Hadi transcripts (rerun_notes.py e2e-dev). Rule 1 (rerun_tables.py choose) picked synth-full-s250: Hadi med_recall 46% (stock base 12%), 0 avoid violations. Test speakers run once (rerun_notes.py e2e-test): med_recall 44% vs 10% for hf base. |
 | Step 1.7 ASR confidence and base cross-check | done (13 Nov 2026, after 47c6154) | asr_confidence.py on hf_synth-full-s250_ur (48 drugs written: 31 said, 17 invented); AUC min_p 0.57 dev / 0.65 test; base cross-check (rerun_tables.py crosscheck, results/crosscheck.csv) flags 7/7 and 10/10 invented drugs; end to end wrong unflagged 7 -> 0 on test. |
 | Step 1.8 Phone pair in whisper.cpp | done (13 Nov 2026, after b5edee1) | synth-full-s250 converted (convert-h5-to-ggml.py at d2c6f05) and quantized q8_0 to models/ft-synth-full-s250/ggml-model-q8_0.bin (78 MB; folder and config.json entry unchanged, same checkpoint as before). whisper.cpp b5454 -t 4 -l ur on 39 clips (avx2_ft-s250-q8_ur_t4), notes via rerun_notes.py phone-pair. Test: med_recall 50% vs 10% base-q8, wrong unflagged after cross-check 0; 1 avoid violation (flagged by drug_check). |
-| Step 2. Write up RUN_NOTES | todo | |
+| Step 2. Write up RUN_NOTES | done (13 Nov 2026, after 3f7846e) | RUN_NOTES.md: line under the first A4000 heading, Gaps fixed (3 speakers is a stated limitation), 8 'Rerun' sections with commands, tables and agreement with the earlier run. |
 | Step 3. Phone bundle | todo | |
 | Step 4. Push, release, "Finished" section | todo | |
 
