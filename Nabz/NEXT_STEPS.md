@@ -1,102 +1,111 @@
-# Nabz Scribe: what to do on the GPU PC
+# Nabz Scribe: redo the lost GPU work on the new PC
 
-Written 13 November 2026 on the Legion laptop. Claude Code on the PC: read all of this and `results/RUN_NOTES.md`,
-then carry it out in order. Work inside the `Nabz` folder. Stop only where a step says STOP.
+Written 13 November 2026 on the Legion laptop. Claude Code on the PC: read all of this, `results/RUN_NOTES.md` and
+`plan.txt`, then carry it out in order without asking, except where a step says STOP. Work inside the `Nabz` folder.
 
-## What changed
+## Situation
 
-The user has decided that recordings, reference transcripts, per-clip results and the phone model go on GitHub
-(the speakers agreed). As of this commit the repository tracks:
+All GPU work from 9 to 11 November was done on an RTX A4000 PC that is no longer reachable. Models, checkpoints,
+synthetic audio, the phone bundle and every per-clip transcript and note from those runs are gone. What survives:
 
-- `recordings/*.zip` (the original kit zips), `data/<speaker>/` (unpacked clips and `metadata.json`), `refs/`,
-  `results/asr/`, `results/notes/`
-- `models/ft-synth-full-s250/ggml-model-q8_0.bin` (once the PC adds it; 77 MB, under GitHub's 100 MB limit)
+- the code, and `results/RUN_NOTES.md` describing each experiment and its numbers
+- `results/a4000_snapshot/`: every summary table as it stood after the A4000 runs. **Never edit or regenerate it.**
+- from the laptop: the recordings (`recordings/*.zip`, `data/<speaker>/`), `refs/`, and the per-clip files of the
+  early runs (whisper.cpp base/small/turbo, the first Gemma/Qwen note runs)
 
-Still **not** pushed: `checkpoints/`, the Qwen GGUF, `phone_bundle/`, `data/synth/wav/`. They are over GitHub's
-100 MB file limit or re-creatable. See Step 4 for the checkpoint.
+**The user's decision: redo everything that was lost on this PC, and treat this run as the first and only one.**
+The numbers from this PC are the ones the paper will report. The A4000 numbers are kept only as a comparison.
+No new speakers will be recorded for now: the data is the 3 speakers, 39 scored clips.
 
-The laptop only had the older per-clip results (whisper.cpp base/small/turbo runs and the first note runs).
-The per-clip files of the A4000 runs were never pushed; if this PC is not the A4000 they are lost, and only their
-summary tables remain (see "protect the A4000 numbers" below).
+## Rules
 
-## Step 0. Pull, then see which case this is
+1. **Same protocol, decided before looking.** Hadi is the dev speaker; Merab and Nouman are test speakers. Choose
+   the checkpoint on Hadi by the rule in RUN_NOTES (end-to-end medicines in the note from the phone note writer,
+   safety first), then run the test speakers once with that choice. If this run picks a different checkpoint than
+   `synth-full-s250`, that is the result: report it, do not steer toward the old one.
+2. **Report what comes out.** Where a number differs from the snapshot by more than about 10 points, or a
+   conclusion changes, say so plainly in RUN_NOTES. Do not round in the old result's favour.
+3. **Same tags as before**, so tables line up with the snapshot. `results/a4000_snapshot/asr_runs.csv` and
+   `note_runs.csv` list every run that existed (tag, model, source): that is the list of runs to redo. A run is
+   "lost" if its folder is missing from `results/asr/` or `results/notes/`.
+4. **Clean the run logs first.** Remove the rows of lost runs from `results/asr_runs.csv` and `results/note_runs.csv`
+   (they stay in the snapshot), so old timings are not mixed with new ones. Keep the rows of runs whose per-clip
+   files exist.
+5. **One GPU job at a time.** The trainer caches about 5 GB of audio in RAM.
+6. Commands are in each script's docstring and in `plan.txt`. Where RUN_NOTES does not record an exact command,
+   reconstruct it from the description, and write the command you used into RUN_NOTES this time.
 
-`git pull` will now bring in files the PC may already have as untracked copies (`refs/`, `data/<speaker>/`,
-`results/asr/`, `results/notes/`). If git refuses because untracked files would be overwritten: copy those four
-folders to a backup folder outside the repo, move the colliding files out of the way, pull, then compare the
-backup with what was pulled. Copy back anything that exists only in the backup. If a file differs, keep the PC's
-version only for files under `results/`; for `refs/` STOP and show the user the difference.
+## Step 0. Machine and environment
 
-Then:
+    git pull
+    nvidia-smi        # note GPU, driver, CUDA version for RUN_NOTES
 
-    ls checkpoints/synth-full-s250  models/ft-synth-full-s250  phone_bundle/nabz  data/synth
-
-- **Case A, the files are there** (the A4000 PC, nothing wiped): skip to Step 3.
-- **Case B, they are missing:** do Steps 1 and 2. The user has said the PC is new, so expect this case. The clips
-  and references come with the pull. `data/manifest.csv` is already correct, so `prepare.py` does not need to run.
-
-### Case B: protect the A4000 numbers before scoring anything
-
-The per-clip transcripts and notes of the A4000 runs (`hf_*`, `ft-s250-q8`, the Urdu and phone-tier note writers)
-are gone with that PC. The only record is the summary tables: `results/*.csv`, `decision_table.md` and RUN_NOTES.
-The scorers (`score_asr.py`, `score_note.py`, `drug_check.py`, `negation_guard.py`, `report.py`) **rewrite those
-tables from whatever per-clip files are present**, so running them here would silently drop the A4000 rows.
-
-- `results/a4000_snapshot/` holds a copy of every table as of 13 Nov 2026. Never edit or regenerate it.
-- Give every new run a new tag so it cannot be confused with an A4000 row: `--tag-suffix r2` on `run_asr_hf.py`,
-  model name `ft-s250r2-q8` in `config.json`, `-r2` on note model tags.
-- After scoring, check each rewritten table against the snapshot. Rows that vanished because their per-clip files
-  no longer exist must be copied back from the snapshot, not left out. Say in RUN_NOTES which rows are the
-  13 Nov retrain (r2) and that the A4000 rows can no longer be regenerated.
-
-## Step 1 (Case B only). Retrain the fine-tuned Whisper base
-
-Environment: Python 3.12, then
+Python 3.12, then:
 
     python -m venv .venv            # activate it
     pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu126    # cu128 for RTX 50-series
     pip install -r requirements-research.txt
 
-Train (seeds are fixed at 13 in all three scripts; run one job at a time, the trainer caches ~5 GB of audio in RAM):
+Tools, pinned as before: llama.cpp **b11912** prebuilt CUDA build (`plan.txt` step 3), whisper.cpp **b5454**
+prebuilt `whisper-bin-x64` plus the whisper.cpp source at commit **d2c6f05** for `convert-h5-to-ggml.py` and
+`whisper-quantize`. Stock `ggml-base-q8_0.bin` and `ggml-small-q8_0.bin` go in `whisper.cpp/models/`
+(from `huggingface.co/ggerganov/whisper.cpp`). Set `HF_HUB_DISABLE_XET=1` if a Hugging Face download stalls.
 
-    python synth_dictation.py --n 6000 --out data/synth/texts.jsonl
-    python synth_audio.py --texts data/synth/texts.jsonl --out data/synth
-    python train_whisper.py --name synth-full --train-encoder --save-at 250 500
+STOP if there is no CUDA GPU, or less than 40 GB free disk.
 
-`data/synth/texts.jsonl` is tracked (generated on the laptop, seed 13). `git diff` after regenerating should show
-no change; if it does, say so in RUN_NOTES. The chosen checkpoint is `checkpoints/synth-full-s250`. The training
-command is reconstructed from RUN_NOTES (full fine-tune, default 2000-step schedule, checkpoint saved at step 250);
-the original command line was not recorded. The run can be stopped once `synth-full-s250` is saved.
+## Step 1. Redo the experiments, in the order of RUN_NOTES
 
-Check it before going on. Expected on Merab + Nouman (RUN_NOTES, "The phone pair in whisper.cpp"): sker about 24%,
-number_recall about 80%, neg_kept about 90%.
+Each item names the RUN_NOTES section to reproduce. Score after each (`score_asr.py`, `score_note.py`,
+`drug_check.py`, `negation_guard.py`, `report.py`) and compare with the snapshot.
 
-    python run_asr_hf.py --model checkpoints/synth-full-s250 --lang ur --tag-suffix r2
-    python run_asr_hf.py --model openai/whisper-base --lang ur --tag-suffix r2
-    python score_asr.py
+1. **"Urdu note writers on the A4000"**: follow `plan.txt` steps 4 to 6 (5 models, `ref` and `avx2_base-q8_ur_t4`).
+2. **"Phone-tier note writers, schema cap, negation guard and drug-name hints"**: Qwen3.5 0.8B, 2B, 4B (Q4_K_M),
+   4B IQ3_M and Alif 3B; plain, `-dry` and `-cap` variants; then the hints runs. GGUFs: `bartowski/Qwen_Qwen3.5-*-GGUF`
+   (check each repo and file name exists before downloading).
+3. **PyTorch Whisper parity**: `run_asr_hf.py` for `openai/whisper-base` and `openai/whisper-small`, `--lang ur`.
+4. **"Lexicon biasing"** (`asr_bias.py`, Hadi only, the λ grid in the table). It was a negative result; redo it so
+   the paper has per-clip evidence, but do not spend time tuning it.
+5. **"Whisper base fine-tuned on synthetic Roman-Urdu dictations"**:
 
-Differences under about 10 points are noise at this sample size. If sker on the test speakers is worse than plain
-base (32%), STOP and report: the retrain did not reproduce.
+       python synth_dictation.py --n 6000 --out data/synth/texts.jsonl     # tracked; git diff should show no change
+       python synth_audio.py --texts data/synth/texts.jsonl --out data/synth
+       python train_whisper.py --name synth-dec --save-at 250 500
+       python train_whisper.py --name synth-full --train-encoder --save-at 250 500
 
-## Step 2 (Case B only). Convert for the phone and rebuild the bundle
+   These two commands are reconstructed (default 2000-step schedule, checkpoints at 250 and 500); the A4000 runs
+   also had an interrupted second decoder-only run (`synth-dec-b`), which need not be repeated. Transcribe all
+   checkpoints on Hadi with `run_asr_hf.py`.
+6. **"End to end"**: phone note writer (Qwen3.5 4B IQ3_M, capped schema) on each checkpoint's Hadi transcripts;
+   choose the checkpoint (Rule 1); then the test speakers once.
+7. **"Catching drugs the fine-tuned ASR invents"**: `asr_confidence.py`, then the base cross-check.
+8. **"The phone pair in whisper.cpp"**: convert the chosen checkpoint, quantize q8_0 to
+   `models/ft-synth-full-s250/ggml-model-q8_0.bin` (rename the folder and the `config.json` entry if a different
+   checkpoint was chosen), run whisper.cpp `-t 4 -l ur`, and the end-to-end table with the base-q8 witness.
 
-1. Convert with whisper.cpp's `models/convert-h5-to-ggml.py` (repo commit d2c6f05; tokenizer files copied from
-   `openai/whisper-base`), then quantize with `whisper-quantize ... q8_0`. Result:
-   `models/ft-synth-full-s250/ggml-model-q8_0.bin`, about 77 MB (model `ft-s250-q8` in `config.json`).
-2. Run it with whisper.cpp b5454, `-t 4 -l ur` (as `ft-s250r2-q8`), plus stock `base-q8` as the witness, score, and
-   compare with the `whisper.cpp ft-s250-q8` row in RUN_NOTES.
-2b. End to end, to confirm the retrained pair still works: Qwen3.5 4B IQ3_M notes (capped schema) on the new
-   transcript with the base-q8 cross-check, as in RUN_NOTES "The phone pair in whisper.cpp". Expected on
-   Merab + Nouman: about 46% of medicines, 0 wrong medicines unflagged.
-3. Download the note writer: `hf download bartowski/Qwen_Qwen3.5-4B-GGUF Qwen_Qwen3.5-4B-IQ3_M.gguf --local-dir models`
-   (set `HF_HUB_DISABLE_XET=1` if the download stalls).
-4. Build `phone_bundle/nabz/` containing:
-   - `ggml-ft-s250-q8_0.bin` (the file from 1, renamed)
-   - `Qwen_Qwen3.5-4B-IQ3_M.gguf`
-   - `clips/` with three wavs from `data/`, one of them `merab-haroon/dict_05` (37.6 s, the worst case)
-   - `phone/termux_bench.sh`
+The snapshot's headline to compare against (Merab + Nouman, whisper.cpp pair): 46% of medicines in the note
+against 10% for stock base, 0 wrong medicines unflagged after the cross-check.
 
-## Step 3. Phone benchmark (the user does this; full steps in `phone/README.md`)
+STOP and report if the fine-tuned model is no better end to end than stock base on Hadi: the central result did
+not reproduce and the user must decide what to do.
+
+## Step 2. Write up
+
+In `results/RUN_NOTES.md`:
+
+- Under the first A4000 heading, add one line: the per-clip files of the 9 to 11 November A4000 runs were lost;
+  those sections are kept as the earlier run; the numbers of record are in the new sections below.
+- Add new sections, one per item above, in the same short factual style: machine, exact commands, tables, findings.
+  For each table say whether it agrees with the earlier run.
+- Fix the "Gaps" list: no further speakers are planned for now, so 3 speakers (all 18 to 24, one dev speaker) is a
+  stated limitation of the study, not a to-do.
+
+## Step 3. Phone bundle and phone benchmark
+
+Build `phone_bundle/nabz/`: the fine-tuned q8 model as `ggml-ft-s250-q8_0.bin`, `Qwen_Qwen3.5-4B-IQ3_M.gguf`,
+`clips/` with three wavs from `data/` (one of them `merab-haroon/dict_05`, 37.6 s, the worst case), and
+`phone/termux_bench.sh`. Write the three clip names into `phone/README.md` step 1.
+
+Then the user does the phone test (`phone/README.md`):
 
 1. Copy `phone_bundle/nabz/` to the phone's **Download** folder over USB.
 2. Install **Termux from F-Droid** (not the Play Store) and run:
@@ -106,32 +115,27 @@ base (32%), STOP and report: the retrain did not reproduce.
        bash ~/storage/downloads/nabz/termux_bench.sh
 
    Phone plugged in, screen on, other apps closed. 30 to 45 minutes, mostly compiling.
-3. Copy `Download/nabz/nabz-phone-results.txt` back into `results/phone/<phone-model>.txt` (numbers only).
-   Use a mid-range phone with 6 to 8 GB RAM, not a flagship; more than one phone is better.
-4. Add a short section to `results/RUN_NOTES.md`: ASR seconds per dictation (fine-tuned + base), note-writer
-   tokens per second, peak RAM, and whether each is within the 30 s budgets in `config.json`.
+3. Copy `Download/nabz/nabz-phone-results.txt` into `results/phone/<phone-model>.txt` and add a RUN_NOTES section:
+   ASR seconds per dictation (fine-tuned + base), note-writer tokens per second, peak RAM, and whether each is
+   within the 30 s budgets in `config.json`. A mid-range phone with 6 to 8 GB RAM, not a flagship.
 
 Do not wait for the phone test before Step 4.
 
-## Step 4. Push the new files
+## Step 4. Push
 
-    git add results/ models/ft-synth-full-s250/ggml-model-q8_0.bin data/synth/texts.jsonl data/synth/manifest.jsonl
+    git add results/ models/ft-synth-full-s250/ggml-model-q8_0.bin data/synth/manifest.jsonl phone/README.md
     git status        # check: no file over 100 MB
-    git commit -m "Retrained phone model (r2), its per-clip results and scores"
+    git commit        # one commit per experiment is better than one big one
     git push
 
-Also:
-
-- Write the names of the three clips in `phone_bundle/nabz/clips/` into `phone/README.md` step 1, so the bundle can
-  be rebuilt anywhere from the repo plus the Qwen download, and commit that.
-- The PyTorch checkpoint (`checkpoints/synth-full-s250`, about 290 MB) is too big for git. Zip it and attach it to
-  a GitHub release (`gh release create ft-s250 synth-full-s250.zip --notes "Whisper base, synthetic fine-tune, step 250"`).
-  If `gh` is not set up, tell the user to upload the zip by hand on the Releases page.
+Per-clip results are tracked now, so push as you go: nothing should again exist on one machine only. The PyTorch
+checkpoints (about 290 MB each) are too big for git: zip the chosen one and attach it to a GitHub release
+(`gh release create ft-s250 <zip> --notes "Whisper base, synthetic fine-tune"`), or tell the user to upload it by
+hand on the Releases page.
 
 ## After this
 
-- **Record more speakers** with the same recording kit: at least one over 24 and one Punjabi-dominant. Unpack with
-  `prepare.py`, then run the ASR and note runs on the new speakers only, as extra test data.
-- **Correct the own-words references** (`refs/*/own_*.txt` are drafts): listen, fix, rerun the scorers.
+- **Correct the own-words references** (`refs/*/own_*.txt` are drafts): the user listens and fixes them, then
+  rerun the scorers. Best done before the paper's final numbers.
 - **Replace `lexicon.txt`** (318-entry placeholder) with the DRAP export and recheck drug hints and the cross-check.
 - Then: the Android app around whisper.cpp + llama.cpp, with every medicine a one-tap confirm.
