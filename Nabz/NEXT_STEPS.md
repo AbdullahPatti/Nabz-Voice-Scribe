@@ -16,8 +16,8 @@ Still **not** pushed: `checkpoints/`, the Qwen GGUF, `phone_bundle/`, `data/synt
 100 MB file limit or re-creatable. See Step 4 for the checkpoint.
 
 The laptop only had the older per-clip results (whisper.cpp base/small/turbo runs and the first note runs).
-Everything from the A4000 runs (`results/asr/hf_*`, `ft-s250-q8`, the Urdu and phone-tier note runs,
-`negation_guard.csv`) exists only on the PC and is what this file asks you to push.
+The per-clip files of the A4000 runs were never pushed; if this PC is not the A4000 they are lost, and only their
+summary tables remain (see "protect the A4000 numbers" below).
 
 ## Step 0. Pull, then see which case this is
 
@@ -32,8 +32,22 @@ Then:
     ls checkpoints/synth-full-s250  models/ft-synth-full-s250  phone_bundle/nabz  data/synth
 
 - **Case A, the files are there** (the A4000 PC, nothing wiped): skip to Step 3.
-- **Case B, they are missing:** do Steps 1 and 2. The clips and references now come with the pull, so nothing has
-  to be copied by hand. `data/manifest.csv` is already correct, so `prepare.py` does not need to run.
+- **Case B, they are missing:** do Steps 1 and 2. The user has said the PC is new, so expect this case. The clips
+  and references come with the pull. `data/manifest.csv` is already correct, so `prepare.py` does not need to run.
+
+### Case B: protect the A4000 numbers before scoring anything
+
+The per-clip transcripts and notes of the A4000 runs (`hf_*`, `ft-s250-q8`, the Urdu and phone-tier note writers)
+are gone with that PC. The only record is the summary tables: `results/*.csv`, `decision_table.md` and RUN_NOTES.
+The scorers (`score_asr.py`, `score_note.py`, `drug_check.py`, `negation_guard.py`, `report.py`) **rewrite those
+tables from whatever per-clip files are present**, so running them here would silently drop the A4000 rows.
+
+- `results/a4000_snapshot/` holds a copy of every table as of 13 Nov 2026. Never edit or regenerate it.
+- Give every new run a new tag so it cannot be confused with an A4000 row: `--tag-suffix r2` on `run_asr_hf.py`,
+  model name `ft-s250r2-q8` in `config.json`, `-r2` on note model tags.
+- After scoring, check each rewritten table against the snapshot. Rows that vanished because their per-clip files
+  no longer exist must be copied back from the snapshot, not left out. Say in RUN_NOTES which rows are the
+  13 Nov retrain (r2) and that the A4000 rows can no longer be regenerated.
 
 ## Step 1 (Case B only). Retrain the fine-tuned Whisper base
 
@@ -57,8 +71,8 @@ the original command line was not recorded. The run can be stopped once `synth-f
 Check it before going on. Expected on Merab + Nouman (RUN_NOTES, "The phone pair in whisper.cpp"): sker about 24%,
 number_recall about 80%, neg_kept about 90%.
 
-    python run_asr_hf.py --model checkpoints/synth-full-s250 --lang ur
-    python run_asr_hf.py --model openai/whisper-base --lang ur
+    python run_asr_hf.py --model checkpoints/synth-full-s250 --lang ur --tag-suffix r2
+    python run_asr_hf.py --model openai/whisper-base --lang ur --tag-suffix r2
     python score_asr.py
 
 Differences under about 10 points are noise at this sample size. If sker on the test speakers is worse than plain
@@ -69,7 +83,11 @@ base (32%), STOP and report: the retrain did not reproduce.
 1. Convert with whisper.cpp's `models/convert-h5-to-ggml.py` (repo commit d2c6f05; tokenizer files copied from
    `openai/whisper-base`), then quantize with `whisper-quantize ... q8_0`. Result:
    `models/ft-synth-full-s250/ggml-model-q8_0.bin`, about 77 MB (model `ft-s250-q8` in `config.json`).
-2. Run it with whisper.cpp b5454, `-t 4 -l ur`, score, and compare with the `whisper.cpp ft-s250-q8` row in RUN_NOTES.
+2. Run it with whisper.cpp b5454, `-t 4 -l ur` (as `ft-s250r2-q8`), plus stock `base-q8` as the witness, score, and
+   compare with the `whisper.cpp ft-s250-q8` row in RUN_NOTES.
+2b. End to end, to confirm the retrained pair still works: Qwen3.5 4B IQ3_M notes (capped schema) on the new
+   transcript with the base-q8 cross-check, as in RUN_NOTES "The phone pair in whisper.cpp". Expected on
+   Merab + Nouman: about 46% of medicines, 0 wrong medicines unflagged.
 3. Download the note writer: `hf download bartowski/Qwen_Qwen3.5-4B-GGUF Qwen_Qwen3.5-4B-IQ3_M.gguf --local-dir models`
    (set `HF_HUB_DISABLE_XET=1` if the download stalls).
 4. Build `phone_bundle/nabz/` containing:
@@ -95,11 +113,11 @@ base (32%), STOP and report: the retrain did not reproduce.
 
 Do not wait for the phone test before Step 4.
 
-## Step 4. Push the PC-only files
+## Step 4. Push the new files
 
     git add results/ models/ft-synth-full-s250/ggml-model-q8_0.bin data/synth/texts.jsonl data/synth/manifest.jsonl
     git status        # check: no file over 100 MB
-    git commit -m "A4000 per-clip results and the fine-tuned phone model"
+    git commit -m "Retrained phone model (r2), its per-clip results and scores"
     git push
 
 Also:
