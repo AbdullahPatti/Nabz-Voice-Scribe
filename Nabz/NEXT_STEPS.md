@@ -8,15 +8,12 @@ then carry it out in order. Work inside the `Nabz` folder. Stop only where a ste
 The user has decided that recordings, reference transcripts, per-clip results and the phone model go on GitHub
 (the speakers agreed). As of this commit the repository tracks:
 
-- `data/<speaker>/*.wav` (the unpacked clips), `refs/`, `results/asr/`, `results/notes/`
+- `recordings/*.zip` (the original kit zips), `data/<speaker>/` (unpacked clips and `metadata.json`), `refs/`,
+  `results/asr/`, `results/notes/`
 - `models/ft-synth-full-s250/ggml-model-q8_0.bin` (once the PC adds it; 77 MB, under GitHub's 100 MB limit)
 
-Still **not** pushed, on purpose:
-
-- `recordings/*.zip` and `data/*/metadata.json`: one speaker typed a phone number into the device field.
-  Never add these.
-- `checkpoints/`, the Qwen GGUF, `phone_bundle/`, `data/synth/wav/`: over GitHub's 100 MB file limit or
-  re-creatable. See Step 4 for the checkpoint.
+Still **not** pushed: `checkpoints/`, the Qwen GGUF, `phone_bundle/`, `data/synth/wav/`. They are over GitHub's
+100 MB file limit or re-creatable. See Step 4 for the checkpoint.
 
 The laptop only had the older per-clip results (whisper.cpp base/small/turbo runs and the first note runs).
 Everything from the A4000 runs (`results/asr/hf_*`, `ft-s250-q8`, the Urdu and phone-tier note runs,
@@ -36,7 +33,7 @@ Then:
 
 - **Case A, the files are there** (the A4000 PC, nothing wiped): skip to Step 3.
 - **Case B, they are missing:** do Steps 1 and 2. The clips and references now come with the pull, so nothing has
-  to be copied by hand. `data/manifest.csv` is already correct; do not run `prepare.py` (there are no zips).
+  to be copied by hand. `data/manifest.csv` is already correct, so `prepare.py` does not need to run.
 
 ## Step 1 (Case B only). Retrain the fine-tuned Whisper base
 
@@ -101,7 +98,7 @@ Do not wait for the phone test before Step 4.
 ## Step 4. Push the PC-only files
 
     git add results/ models/ft-synth-full-s250/ggml-model-q8_0.bin data/synth/texts.jsonl data/synth/manifest.jsonl
-    git status        # check: no .zip, no metadata.json, no file over 100 MB
+    git status        # check: no file over 100 MB
     git commit -m "A4000 per-clip results and the fine-tuned phone model"
     git push
 

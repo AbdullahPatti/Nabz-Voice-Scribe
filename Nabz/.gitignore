@@ -1,9 +1,6 @@
-# Audio clips (data/<speaker>/*.wav), refs/ and per-clip results are tracked since 13 Nov 2026 (user's decision).
-# Still local only: the kit's metadata.json and the original zips (one holds a phone number), and big or
-# re-downloadable files.
-data/*/metadata.json
+# Recordings (zips, clips, metadata.json), refs/ and per-clip results are tracked since 13 Nov 2026 (user's decision).
+# Still local only: big or re-downloadable files.
 data/synth/wav/
-recordings/*.zip
 models/*
 !models/ft-synth-full-s250/
 models/ft-synth-full-s250/*
